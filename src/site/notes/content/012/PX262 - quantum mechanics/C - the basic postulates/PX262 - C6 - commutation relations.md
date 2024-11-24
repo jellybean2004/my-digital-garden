@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c6-commutation-relations/","created":"2024-10-28T11:11:03.059+00:00","updated":"2024-11-24T00:48:32.825+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c6-commutation-relations/","created":"2024-10-28T11:11:03.059+00:00","updated":"2024-11-24T01:05:52.671+00:00"}
 ---
 
 - in classical physics, the order of dynamical variables does not matter, as they commute
 - this is not the case in quantum mechanics
 - consider the position and momentum operators: 
-  $$\begin{align*}
+$$\begin{align*}
 	(\hat P_{x}\hat X - \hat X \hat P_{x}) \psi &= -i\hbar \frac{\partial}{\partial x}(x\psi) - x \left(-i\hbar \frac{\partial \psi}{\partial x}\right) \\
 	&= -i\hbar \left(\psi +x \frac{\partial \psi}{\partial x}\right) + i\hbar x\frac{\partial \psi}{\partial x} \\
 	&= -i\hbar \psi
 \end{align*}$$
 - it can be seen that the operation is independent of the wavefunction itself
 - the commutator can be written as: 
-  $$[\hat P_{x}, \hat X] = \hat P_{x}\hat X - \hat X \hat P_{x}= -i \hbar$$
+$$[\hat P_{x}, \hat X] = \hat P_{x}\hat X - \hat X \hat P_{x}= -i \hbar$$
 - extending it to 3D: 
   $$\begin{gather}
 	[\hat X_{i},\hat X_{j}] =[\hat P_{i}, \hat P_{j}] = 0 \\
