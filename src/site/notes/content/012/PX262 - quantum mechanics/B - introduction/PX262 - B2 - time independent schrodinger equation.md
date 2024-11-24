@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b2-time-independent-schrodinger-equation/","created":"2024-10-07T11:46:14.438+01:00","updated":"2024-11-24T00:51:56.770+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b2-time-independent-schrodinger-equation/","created":"2024-10-07T11:46:14.438+01:00","updated":"2024-11-24T01:50:33.207+00:00"}
 ---
 
 - for systems in which the potential is independent of time$:V(x,t)=V(x)$
@@ -12,7 +12,7 @@ $$\begin{align*}
 - $LHS$ depends only on time, and $RHS$ depends only on position
 - each side has to be constant
 - $LHS:$ 
-  $$\begin{align*}
+$$\begin{align*}
 	i\hbar \frac{dT}{dt} &= E\,T \\
 	\implies T(t) &= \exp\left(\frac{-iEt}{\hbar}\right)
 \end{align*}$$
