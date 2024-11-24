@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f4-separation-of-variables-in-spherical-coordinates/","created":"2024-11-12T11:03:27.703+00:00","updated":"2024-11-24T01:13:07.049+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f4-separation-of-variables-in-spherical-coordinates/","created":"2024-11-12T11:03:27.703+00:00","updated":"2024-11-24T01:14:09.336+00:00"}
 ---
 
 - considering a spherically symmetric potential: $V(x,y,z) = V(r)$, where $r$ is the distance from the centre of potential
-- the schrödinger equation in spherical coordinates: $$\begin{multlined}
+- the schrödinger equation in spherical coordinates: 
+$$\begin{multlined}
 	- \frac{\hbar^{2}}{2m} \bigg[\frac{1}{r^{2}} \frac{\partial }{\partial r}\left(r^{2}\frac{\partial \phi}{\partial r}\right) + \frac{1}{r^{2}\sin\theta} \frac{\partial }{\partial \theta}
 	\left(\sin\theta \frac{\partial \phi}{\partial \theta}\right) \\+ \frac{1}{r^{2}\sin^{2}\theta} \frac{\partial^{2} {\phi}}{\partial {\phi}^{2}} \bigg] + V\phi = E\phi \tag{1}
 	\end{multlined}$$
