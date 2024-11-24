@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e1-angular-momentum/","created":"2024-11-04T11:29:15.498+00:00","updated":"2024-11-24T01:03:21.853+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e1-angular-momentum/","created":"2024-11-04T11:29:15.498+00:00","updated":"2024-11-24T01:10:24.721+00:00"}
 ---
 
 - in classical physics, the angular momentum is defined as: 
@@ -7,26 +7,26 @@
 - therefore, using [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C2c - postulates 2 & 3\|postulate 3]], the angular momentum operator is defined as: 
   $$\hat L = \hat{\vec R} \times \hat{\vec P}$$
 - the components of angular momentum are: 
-  $$\begin{align*}
+$$\begin{align*}
 	\hat L_{x}&= \hat Y \hat P_{z}- \hat Z \hat P_{y} \\
 	\hat L_{y} &= \hat Z \hat P_{x} - \hat X \hat P_{z} \\
 	\hat L_{z}&= \hat X \hat P_{y}- \hat Y \hat P_{x}\\
 	\hat L^{2} &= \hat L_{x}^{2} + \hat L_{y}^{2}+ \hat L_{z}^{2} 
 \end{align*}$$
 - compatibility of the angular momentum operator with the position operator: 
-  $$\begin{gather*}
+$$\begin{gather*}
 	[\hat X, \hat L_{x}] = 0 & [\hat X, \hat L_{y}] = +i\hbar \hat Z & [\hat X, \hat L_{z}] = -i\hbar \hat Y \\
 	[\hat Y, \hat L_{x}] = -i\hbar \hat Z & [\hat Y, \hat L_{y}] = 0 & [\hat Y, \hat L_{z}] = +i\hbar \hat X \\
 	[\hat Z, \hat L_{x}] = + i \hbar \hat Y & [\hat Z, \hat L_{y}] = -i\hbar \hat Y & [\hat Z, \hat L_{z}] = 0 \\
 \end{gather*}$$
 - compatibility of the angular momentum operator with the momentum operator: 
-  $$\begin{gather*}
+$$\begin{gather*}
 	[\hat P_{x}, \hat L_{x}] = 0 & [\hat P_{x}, \hat L_{y}] = +i\hbar \hat P_{z} & [\hat P_{x}, \hat L_{z}] = -i\hbar \hat P_{y} \\
 	[\hat P_{y}, \hat L_{x}] = -i\hbar \hat P_{z} & [\hat P_{y}, \hat L_{y}] = 0 & [\hat P_{y}, \hat L_{z}] = +i\hbar \hat P_{x} \\
 	[\hat P_{z}, \hat L_{x}] = + i \hbar \hat P_{y} & [\hat P_{z}, \hat L_{y}] = -i\hbar \hat P_{x} & [\hat P_{z}, \hat L_{z}] = 0 \\
 \end{gather*}$$
 - compatibility between individual components of the angular momentum operator, and between the components and the square: 
-   $$\begin{align*}
+$$\begin{align*}
 	[\hat L_{x}, \hat L_{y}] &= i \hbar \hat L_{z}\\
 	[\hat L_{y}, \hat L_{z}] &= i\hbar \hat L_{x} \\
 	[\hat L_{z}, \hat L_{x}] &= i\hbar \hat L_{y}\\\\
