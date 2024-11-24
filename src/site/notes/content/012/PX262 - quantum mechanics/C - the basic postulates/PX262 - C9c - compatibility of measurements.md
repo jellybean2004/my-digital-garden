@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c9c-compatibility-of-measurements/","created":"2024-10-29T20:33:47.971+00:00","updated":"2024-11-24T00:50:31.892+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c9c-compatibility-of-measurements/","created":"2024-10-29T20:33:47.971+00:00","updated":"2024-11-24T15:23:21.476+00:00"}
 ---
 
 - take a case where $\phi_{1}$ and $\phi_{2}$ are degenerate eigenfunctions of an operator, $\hat Q$, with an eigenvalue, $q$
@@ -18,7 +18,7 @@ $$\hat R \phi' = A\hat R \phi_{1}+ B\hat R \phi_{2} = Aa\phi_{1}+ Ab\phi_{2}+ Bc
 - the eigenvalue equation: 
   $$\hat R \phi' = r\phi' = rA\phi_{1}+ rB\phi_{2}$$
 - comparing the coefficients: 
-  $$\begin{gather}
+$$\begin{gather}
 	(a-r)A + cB =0 \\
 	bA + (d-r)B =0
 \end{gather}$$
