@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"permalink":"/content/index/","created":"2024-10-01T18:27:10.371+01:00","updated":"2024-11-24T16:31:06.446+00:00"}
+---
+
+## hello world!
+welcome to my digital garden. this is a collection of my university notes.
+## years
+### [[content/011/011 year 1\|011 year 1]]
+coming soon...
+
+[[content/011/PX153 - mathematics for physicists/PX153 - 0 - mathematics for physicists\|PX153 - 0 - mathematics for physicists]]
+[[content/011/PX154 - physics foundations/PX154 - 0 - physics foundations\|PX154 - 0 - physics foundations]]
+[[content/011/PX155 - classical mechanics and special reltivity/PX155 - 0 - classical mechanics and special relativity\|PX155 - 0 - classical mechanics and special relativity]]
+[[content/011/PX156 - quantum phenomena/PX156 - 0 - quantum phenomena\|PX156 - 0 - quantum phenomena]]
+[[content/011/PX157 - electricity and magnetism/PX157 - 0 - electricity and magnetism 1\|PX157 - 0 - electricity and magnetism 1]]
+[[content/011/PX158 - astronomy/PX158 - 0 - astronomy\|PX158 - 0 - astronomy]]
+### [[content/012/012 year 2\|012 year 2]]
+[[content/012/PX262 - quantum mechanics/PX262 - 0 - quantum mechanics and its applications\|PX262 - 0 - quantum mechanics and its applications]]
+[[content/012/PX271 - physics skills/PX271 - 0 - physics skills\|PX271 - 0 - physics skills]]
+[[content/012/PX275 - mathematical methods/PX275 - 0 - mathematical methods\|PX275 - 0 - mathematical methods]]
+[[content/012/PX280 - environmental physics/PX280 - 0 - environmental physics\|PX280 - 0 - environmental physics]]
+[[content/012/PX282 - stars and the solar system/PX282 - 0 - stars and the solar system\|PX282 - 0 - stars and the solar system]]
+[[content/012/PX284 - statistical mechanics/PX284 - 0 - statistical mechanics\|PX284 - 0 - statistical mechanics]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/PX285 - 0 - hamiltonian mechanics\|PX285 - 0 - hamiltonian mechanics]]
