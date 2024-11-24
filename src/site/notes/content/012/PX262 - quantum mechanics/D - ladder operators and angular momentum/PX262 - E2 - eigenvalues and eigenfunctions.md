@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e2-eigenvalues-and-eigenfunctions/","created":"2024-11-05T11:07:21.185+00:00","updated":"2024-11-24T01:08:57.354+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e2-eigenvalues-and-eigenfunctions/","created":"2024-11-05T11:07:21.185+00:00","updated":"2024-11-24T01:10:01.902+00:00"}
 ---
 
 - using spherical coordinates: 
@@ -24,14 +24,14 @@ $$\begin{align*}\hat{\vec L} = - i\hbar \hat r \times \vec\nabla &= -\hbar \left
 	&= -\hbar^{2} \left[ \frac{1}{\sin\theta} \frac{\partial }{\partial \theta} \left(\sin\theta \frac{\partial}{\partial \theta} \right) + \frac{1}{\sin^{2}\theta} \frac{\partial^{2}}{\partial \phi^{2}}  \right]
 \end{align*}$$
 - to solve the eigenvalues equations: 
-  $$\begin{align*}
+$$\begin{align*}
 	\hat{\vec L}^{2} Y &= \lambda Y \\
 	\hat L_{z} Y &= \nu Y 
 \end{align*}$$
 - using separation of variables: 
   $$Y(\theta,\phi) = \Theta(\theta) \, \Phi(\phi)$$
 - taking the eigenvalue equation for $\hat L_{z}:$ 
-  $$\begin{align*}
+$$\begin{align*}
 	-\hbar \frac{\partial }{\partial \phi} \Theta(\theta)\,\Phi(\phi) &= \nu\,\Theta(\theta)\,\Phi(\phi) \\
 	-\hbar \frac{\partial \Phi(\phi)}{\partial \phi} &= \nu\,\Phi(\phi)
 \end{align*}$$
@@ -41,7 +41,7 @@ $$\begin{align*}\hat{\vec L} = - i\hbar \hat r \times \vec\nabla &= -\hbar \left
 - with $\phi$ being the angle, the answer should stay the same after a rotation by $2\pi$, ie: $\Phi(\phi+2\pi) = \Phi(\phi)$
 - therefore, it is required that $\frac{\nu}{\hbar}=m$, where $m$ is an integer
 - normalizing the function: 
-  $$\begin{align*}
+$$\begin{align*}
 	1 &= \int_{0}^{2\pi} \Phi^{*}\Phi\,d\phi \\
 	&= C^{2} \int_{0}^{2\pi} e^{im\phi} e^{-im\phi}\,d\phi \\
 	&= C^{2}2\pi \\
@@ -52,7 +52,7 @@ $$\begin{align*}\hat{\vec L} = - i\hbar \hat r \times \vec\nabla &= -\hbar \left
 	where the eigenvalues would be: $\nu = \hbar m$
 
 - with $\phi$-dependence fixed, looking at $\hat{\vec L}^{2}:$ 
-  $$\begin{align*}
+$$\begin{align*}
 	-\hbar^{2} \left[\frac{1}{\sin\theta} \frac{\partial }{\partial \theta} \left(\sin\theta \frac{\partial }{\partial \theta}\right) + \frac{1}{\sin^{2}\theta} \frac{\partial^{2} {}}{\partial {\phi}^{2}} \right] \Theta(\theta)\Phi(\phi) &= \lambda\Theta(\theta)\Phi(\phi) \\
 	-\hbar^{2} \left[\frac{1}{\sin\theta} \Phi(\phi) \frac{\partial }{\partial \theta} \left(\sin\theta \frac{\partial \Theta(\theta)}{\partial \theta}\right) + \frac{\Theta(\theta)}{\sin^{2}\theta} \frac{\partial^{2} {\Phi(\phi)}}{\partial {\phi}^{2}} \right] &= \lambda\Theta(\theta)\Phi(\phi) \\
 	-\hbar^{2} \left[\frac{1}{\sin\theta} \Phi(\phi) \frac{\partial }{\partial \theta} \left(\sin\theta \frac{\partial \Theta(\theta)}{\partial \theta}\right) + \frac{\Theta(\theta)}{\sin^{2}\theta} (-m^{2}\Phi(\phi)) \right] &= \lambda\Theta(\theta)\Phi(\phi) \\
@@ -66,7 +66,7 @@ $$\begin{align*}\hat{\vec L} = - i\hbar \hat r \times \vec\nabla &= -\hbar \left
   $$\lambda = \hbar^{2}l(l+1)$$
 	where, $l$ is a positive integer
 - the functions, ${} P(v)$, are well known polynomials, *legendre polynomials*: 
-  $$\begin{align*}
+$$\begin{align*}
 	P_{0}(v) &= 1 \\
 	P_{1}(v) &= v \\
 	P_{2}(v) &= \frac{1}{2}(3v^{2}-1) \\
@@ -87,7 +87,7 @@ $$\begin{align*}\hat{\vec L} = - i\hbar \hat r \times \vec\nabla &= -\hbar \left
 
 - these functions are orthogonal and form a complete set, so any general wavefunction can be written as a linear combination of $Y_{lm}(\theta,\phi)$ 
 - the eigenvalue equations are: 
-  $$\begin{align*}
+$$\begin{align*}
 	\hat L_{z} Y_{l,m}(\theta,\phi) &= \hbar m \, Y_{l,m}(\theta,\phi) \\
 	\hat {\vec L^{2}} Y_{lm}(\theta,\phi) &= \hbar^{2}l(l+1) \, Y_{lm}(\theta,\phi)
 \end{align*}$$
@@ -96,7 +96,7 @@ $$\begin{align*}\hat{\vec L} = - i\hbar \hat r \times \vec\nabla &= -\hbar \left
 - ![Pasted image 20241106212214.png](/img/user/pics/Pasted%20image%2020241106212214.png)
 - for two neighbouring states with the same $l$, $\Delta m = m_{1}-m_{2}$, is constant
 - another analogue of latter operators can be defined: 
-  $$\begin{align*}
+$$\begin{align*}
 	\hat L_{+} &= \hat L_{x} + i \hat L_{y} \\
 	\hat L_{-} &= \hat L_{x} - i \hat L_{y} 
 \end{align*}$$
