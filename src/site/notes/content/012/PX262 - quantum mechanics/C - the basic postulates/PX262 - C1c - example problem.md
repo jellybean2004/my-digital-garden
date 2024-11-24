@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c1c-example-problem/","created":"2024-10-21T16:41:27.668+01:00","updated":"2024-11-24T00:45:21.183+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c1c-example-problem/","created":"2024-10-21T16:41:27.668+01:00","updated":"2024-11-24T01:04:27.620+00:00"}
 ---
 
 - **consider a quantum harmonic oscillator in the ground state to calculate probability of finding the particle displaced beyond its classical limit**
 
 - working out the classical limit: 
-  $$\begin{gather}
+$$\begin{gather}
 \frac{1}{2}M\omega^{2} x_{max}^{2} = E_{0}= \frac{1}{2}\hbar \omega \\
 x_{max}= \sqrt{\frac{\hbar}{M\omega}} = x_{0}
 \end{gather}$$
