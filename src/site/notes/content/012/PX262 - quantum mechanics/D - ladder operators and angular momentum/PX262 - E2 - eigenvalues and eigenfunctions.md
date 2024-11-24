@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e2-eigenvalues-and-eigenfunctions/","created":"2024-11-05T11:07:21.185+00:00","updated":"2024-11-24T01:08:49.202+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e2-eigenvalues-and-eigenfunctions/","created":"2024-11-05T11:07:21.185+00:00","updated":"2024-11-24T01:08:57.354+00:00"}
 ---
 
 - using spherical coordinates: 
@@ -15,7 +15,7 @@ $$\begin{gather}
 	\hat \phi \times \hat r = \hat \theta
 \end{gather}$$
 - the angular momentum operator: 
-  $$\begin{align*}\hat{\vec L} = - i\hbar \hat r \times \vec\nabla &= -\hbar \left(\hat\phi \frac{\partial }{\partial \theta} - \frac{1}{\sin\theta} \hat\theta \frac{\partial }{\partial \phi}\right)\\
+$$\begin{align*}\hat{\vec L} = - i\hbar \hat r \times \vec\nabla &= -\hbar \left(\hat\phi \frac{\partial }{\partial \theta} - \frac{1}{\sin\theta} \hat\theta \frac{\partial }{\partial \phi}\right)\\
 \implies \hat L_{z} &= \hat z \cdot \hat{\vec L} = -i\hbar \frac{\partial }{\partial \phi}
 \end{align*}$$
 - the angular momentum squared operator: 
