@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e2-eigenvalues-and-eigenfunctions/","created":"2024-11-05T11:07:21.185+00:00","updated":"2024-11-24T01:02:50.353+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e2-eigenvalues-and-eigenfunctions/","created":"2024-11-05T11:07:21.185+00:00","updated":"2024-11-24T01:08:49.202+00:00"}
 ---
 
 - using spherical coordinates: 
-  $$\begin{gather}
+$$\begin{gather}
 	x = r\sin\theta\cos\phi \\
 	y = r\sin\theta\sin\phi \\
 	z = r\cos\theta
