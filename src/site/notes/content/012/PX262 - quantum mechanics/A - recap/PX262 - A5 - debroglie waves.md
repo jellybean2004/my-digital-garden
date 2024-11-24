@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a5-debroglie-waves/","created":"2024-10-07T11:15:38.290+01:00","updated":"2024-11-23T23:48:49.415+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a5-debroglie-waves/","noteIcon":"","created":"2024-10-07T11:15:38.290+01:00","updated":"2024-11-23T23:48:49.415+00:00"}
 ---
 
 

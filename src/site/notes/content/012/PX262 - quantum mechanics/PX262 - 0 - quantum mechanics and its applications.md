@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","tags":["gardenEntry"],"created":"2024-10-01T18:50:58.519+01:00","updated":"2024-11-23T23:47:11.312+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","tags":["gardenEntry"],"noteIcon":"","created":"2024-10-01T18:50:58.519+01:00","updated":"2024-11-23T23:47:11.312+00:00"}
 ---
 
 ### [[content/012/PX262 - quantum mechanics/A - recap/A - recap\|A - recap]]

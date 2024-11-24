@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a6-wave-particle-duality/","created":"2024-10-07T11:21:10.435+01:00","updated":"2024-11-23T23:48:52.064+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a6-wave-particle-duality/","noteIcon":"","created":"2024-10-07T11:21:10.435+01:00","updated":"2024-11-23T23:48:52.064+00:00"}
 ---
 
 

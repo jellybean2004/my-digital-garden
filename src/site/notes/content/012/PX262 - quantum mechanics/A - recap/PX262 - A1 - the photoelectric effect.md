@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a1-the-photoelectric-effect/","created":"2024-10-01T18:50:58.569+01:00","updated":"2024-11-23T23:47:41.033+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a1-the-photoelectric-effect/","noteIcon":"","created":"2024-10-01T18:50:58.569+01:00","updated":"2024-11-23T23:47:41.033+00:00"}
 ---
 
 

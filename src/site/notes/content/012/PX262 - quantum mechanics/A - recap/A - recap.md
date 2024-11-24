@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/a-recap/","created":"2024-10-01T18:50:58.543+01:00","updated":"2024-11-23T23:47:36.154+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/a-recap/","noteIcon":"","created":"2024-10-01T18:50:58.543+01:00","updated":"2024-11-23T23:47:36.154+00:00"}
 ---
 
 
