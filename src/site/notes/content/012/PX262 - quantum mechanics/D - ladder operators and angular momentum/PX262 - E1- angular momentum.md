@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e1-angular-momentum/","created":"2024-11-04T11:29:15.498+00:00","updated":"2024-11-24T00:59:08.424+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e1-angular-momentum/","created":"2024-11-04T11:29:15.498+00:00","updated":"2024-11-24T01:03:21.853+00:00"}
 ---
 
 - in classical physics, the angular momentum is defined as: 
@@ -10,7 +10,7 @@
   $$\begin{align*}
 	\hat L_{x}&= \hat Y \hat P_{z}- \hat Z \hat P_{y} \\
 	\hat L_{y} &= \hat Z \hat P_{x} - \hat X \hat P_{z} \\
-	\hat L_{z}&= \hat X \hat P_{y}- \hat Y \hat P_{x}\\\\
+	\hat L_{z}&= \hat X \hat P_{y}- \hat Y \hat P_{x}\\
 	\hat L^{2} &= \hat L_{x}^{2} + \hat L_{y}^{2}+ \hat L_{z}^{2} 
 \end{align*}$$
 - compatibility of the angular momentum operator with the position operator: 
