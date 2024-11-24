@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-10-03T12:06:07.040+01:00","updated":"2024-11-24T02:14:33.129+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-10-03T12:06:07.040+01:00","updated":"2024-11-24T02:18:07.284+00:00"}
 ---
 
 ## [[content/012/PX275 - mathematical methods/A - differentiation/A - differentiation\|A - differentiation]]
@@ -17,6 +17,7 @@
 [[content/012/PX275 - mathematical methods/A - differentiation/2 - advanced A3, A4 & A5/PX275 - A4c - the laplacian\|PX275 - A4c - the laplacian]]
 [[content/012/PX275 - mathematical methods/A - differentiation/2 - advanced A3, A4 & A5/PX275 - A5 - lagrange multipliers\|PX275 - A5 - lagrange multipliers]]
 [[content/012/PX275 - mathematical methods/A - differentiation/2 - advanced A3, A4 & A5/PX275 - A5b - definition using gradient\|PX275 - A5b - definition using gradient]]
+### B
 ### [[content/012/PX275 - mathematical methods/B - coordinate systems and integration/B1 - coordinate systems/B1 - coordinate systems\|B1 - coordinate systems]]
 [[content/012/PX275 - mathematical methods/B - coordinate systems and integration/B1 - coordinate systems/PX275 - B1a - cylindrical polar coordinates\|PX275 - B1a - cylindrical polar coordinates]]
 [[content/012/PX275 - mathematical methods/B - coordinate systems and integration/B1 - coordinate systems/PX275 - B1b - cylindrical polar basis vectors\|PX275 - B1b - cylindrical polar basis vectors]]
