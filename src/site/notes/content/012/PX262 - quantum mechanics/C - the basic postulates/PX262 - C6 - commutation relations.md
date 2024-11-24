@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c6-commutation-relations/","created":"2024-10-28T11:11:03.059+00:00","updated":"2024-11-24T01:05:52.671+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c6-commutation-relations/","created":"2024-10-28T11:11:03.059+00:00","updated":"2024-11-24T01:06:34.795+00:00"}
 ---
 
+$$\begin{align}
+P &= xc \\
+F &= ab
+\end{align}$$
 - in classical physics, the order of dynamical variables does not matter, as they commute
 - this is not the case in quantum mechanics
 - consider the position and momentum operators: 
