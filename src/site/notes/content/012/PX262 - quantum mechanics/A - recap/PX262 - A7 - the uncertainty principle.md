@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a7-the-uncertainty-principle/","noteIcon":"","created":"2024-10-07T11:23:44.331+01:00","updated":"2024-11-23T23:51:47.855+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a7-the-uncertainty-principle/","created":"2024-10-07T11:23:44.331+01:00","updated":"2024-11-23T23:51:47.855+00:00"}
 ---
 
 

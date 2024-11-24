@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c2b-momentum-and-position-operator/","noteIcon":"","created":"2024-10-22T14:04:58.725+01:00","updated":"2024-11-24T00:25:30.387+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c2b-momentum-and-position-operator/","created":"2024-10-22T14:04:58.725+01:00","updated":"2024-11-24T00:25:30.387+00:00"}
 ---
 
 ## momentum operator

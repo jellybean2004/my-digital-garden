@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a3-line-spectra/","noteIcon":"","created":"2024-10-01T18:50:58.632+01:00","updated":"2024-11-23T23:47:51.205+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a3-line-spectra/","created":"2024-10-01T18:50:58.632+01:00","updated":"2024-11-23T23:47:51.205+00:00"}
 ---
 
 - in the light emitted from gases, like hydrogen, the spectra are found to not be continuous, but consisting of specific wavelengths
