@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c8-postulate-5/","created":"2024-10-29T11:10:17.899+00:00","updated":"2024-11-24T00:49:28.620+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c8-postulate-5/","created":"2024-10-29T11:10:17.899+00:00","updated":"2024-11-24T01:42:30.817+00:00"}
 ---
 
 ## the time dependence of the wavefunction
 - time dependence is given by the schrödinger equation: 
-  $$\begin{gather}
+$$\begin{gather}
 	- \frac{\hbar^{2}}{2m} \vec\nabla^{2}\psi + V(\vec r , t) \psi = i\hbar \frac{\partial \psi}{\partial t} \\
 	H\psi = i\hbar \frac{\partial \psi}{\partial t}
 \end{gather}$$
