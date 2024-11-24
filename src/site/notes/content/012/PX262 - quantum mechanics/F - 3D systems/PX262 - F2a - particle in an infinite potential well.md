@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f2a-particle-in-an-infinite-potential-well/","created":"2024-11-11T11:17:19.146+00:00","updated":"2024-11-24T00:58:11.527+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f2a-particle-in-an-infinite-potential-well/","created":"2024-11-11T11:17:19.146+00:00","updated":"2024-11-24T01:12:36.164+00:00"}
 ---
 
 - consider a potential well in 3D: 
@@ -7,7 +7,7 @@
 - using separation of variables for the wavefunction: 
   $$\phi(\vec r) = X(x) Y(y) Z(z)$$
 - substituting into the time-independent schrödinger equation: 
-  $$\begin{align*}
+$$\begin{align*}
 	\frac{-\hbar^{2}}{2m} \left[YZ \frac{\partial^{2} {X}}{\partial {x}^{2}} + XZ \frac{\partial^{2} {Y}}{\partial {y}^{2}} + XY \frac{\partial^{2} {Z}}{\partial {z}^{2}}\right] &= E XYZ \\
 	\underbrace{\frac{-\hbar^{2}}{2m} \frac{1}{X} \frac{\partial^{2} {X}}{\partial {x}^{2}}}_\text{only dependent on x} + \underbrace{\frac{-\hbar^{2}}{2m}  \frac{1}{Y} \frac{\partial^{2} {Y}}{\partial {y}^{2}}}_\text{only dependent on y} + \underbrace{\frac{-\hbar^{2}}{2m}  \frac{1}{Z} \frac{\partial^{2} {Z}}{\partial {z}^{2}}}_\text{only dependent on z} &= E \\
 \end{align*}$$

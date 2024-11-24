@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f1-the-schroedinger-equation-in-3-d/","created":"2024-11-11T11:08:31.363+00:00","updated":"2024-11-24T00:57:52.702+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f1-the-schroedinger-equation-in-3-d/","created":"2024-11-11T11:08:31.363+00:00","updated":"2024-11-24T01:11:32.432+00:00"}
 ---
 
 ## time-dependent
@@ -13,7 +13,7 @@
 - using separation of variables in the wavefunction: 
   $$\psi (\vec r, t) = \mu (\vec r) T(t)$$
 - substituting it into equation $(1):$ 
-  $$\begin{gather*}
+$$\begin{gather*}
 	\mu(\vec r) i\hbar \frac{\partial T(t)}{\partial t} = T(t)\hat H \mu(\vec r) \\
 	\frac{i\hbar}{T(t)} \frac{\partial T(t)}{\partial t} = \frac{1}{\mu(\vec r)}\hat H \mu(\vec r) = E
 \end{gather*}$$
