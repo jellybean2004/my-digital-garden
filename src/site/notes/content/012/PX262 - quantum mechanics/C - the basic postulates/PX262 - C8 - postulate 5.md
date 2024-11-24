@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c8-postulate-5/","created":"2024-10-29T11:10:17.899+00:00","updated":"2024-11-24T01:42:30.817+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c8-postulate-5/","created":"2024-10-29T11:10:17.899+00:00","updated":"2024-11-24T01:44:09.366+00:00"}
 ---
 
 ## the time dependence of the wavefunction
@@ -18,7 +18,7 @@ $$i\hbar \sum\limits_{n}\frac{da_{n}(t)}{dt} \phi_{n}(\vec r) = \sum\limits_{n}a
 	where, $\phi_{n}$ are eigenfunctions of the hamiltonian operator
 $$\sum\limits_{n} \left( i\hbar \frac{da_{n}}{dt} - a_{n}E_{n} \right)\phi_{n} = 0$$
 - to hold in general for all cases: 
-  $$\begin{align*}
+$$\begin{align*}
 	i\hbar \frac{da_{n}}{dt} - a_{n}E_{n} &= 0 \\
 	i\hbar \frac{da_{n}}{dt} &= a_{n}E_{n} \\
 	a_{n}(t) &= a_{n}(0) \exp\left(-\frac{iE_{n}t}{\hbar}\right)
