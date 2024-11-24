@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a1-photoelectric-effect/","created":"2024-10-01T18:50:58.569+01:00","updated":"2024-11-24T00:38:22.045+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a1-photoelectric-effect/","created":"2024-10-01T18:50:58.569+01:00","updated":"2024-11-24T00:41:39.453+00:00"}
 ---
 
 
@@ -26,8 +26,7 @@ $$E = h\,\nu-\phi$$
 	- $1\,eV=1.602\times10^{-19}\,J$
 	- for a green photon, $E = 2.26\,eV$
 
-- also, the reduced planck's constant: 
-$$\hbar = \frac{h}{2\pi}=1.055\times10^{-34}\,Js^{-1}$$
+- also, the reduced planck's constant: $$\hbar = \frac{h}{2\pi}=1.055\times10^{-34}\,Js^{-1}$$
 - units:
 
 | energy   | $eV$   |
