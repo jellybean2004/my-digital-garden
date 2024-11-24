@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b6-1-d-harmonic-oscillator/","created":"2024-10-14T19:09:28.450+01:00","updated":"2024-11-24T01:01:20.484+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b6-1-d-harmonic-oscillator/","created":"2024-10-14T19:09:28.450+01:00","updated":"2024-11-24T01:46:08.512+00:00"}
 ---
 
 - in classical physics: 
@@ -7,7 +7,7 @@
 	where, $k$ is the spring constant, $x$ is the displacement from the equilibrium position
 - a particle with a mass, ${} m$, will be oscillating with an angular frequency, $\omega_{c} = \sqrt{\frac{k}{m}}$
 - the time independent schrodinger's equation: 
-  $$\begin{align*}
+$$\begin{align*}
 	- \frac{\hbar^{2}}{2m} \frac{d^{2}\phi(x)}{dx} + \frac{1}{2}m \omega_{c}^{2}x^{2}\phi(x) &= E\,\phi(x) \\
 	\frac{d^{2}\phi(y)}{dy^{2}} + (\alpha-y^{2})\phi(y) =0
 \end{align*}$$
