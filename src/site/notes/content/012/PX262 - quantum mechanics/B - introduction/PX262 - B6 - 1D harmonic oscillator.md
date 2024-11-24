@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b6-1-d-harmonic-oscillator/","created":"2024-10-14T19:09:28.450+01:00","updated":"2024-11-24T01:46:08.512+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b6-1-d-harmonic-oscillator/","created":"2024-10-14T19:09:28.450+01:00","updated":"2024-11-24T01:46:49.519+00:00"}
 ---
 
 - in classical physics: 
@@ -14,7 +14,7 @@ $$\begin{align*}
 	where, $y = \sqrt{\frac{M\omega_{c}}{\hbar}}x$, and $\alpha = \frac{2E}{\hbar\omega_{c}}$
 - looking at the asymptotic case, $|y| >> \alpha:$ $$\frac{d^{2}\phi}{dy^{2}} - y^{2}\phi = 0$$
 - try solution in form: 
-  $$\begin{gather*}
+$$\begin{gather*}
 	\phi = y^{n}e^{-\frac{y^{2}}{2}} \\\\
 	\implies \frac{d\phi}{dy} = ny^{n-1} e^{- \frac{y^{2}}{2}} - ye^{- \frac{y^{2}}{2}} \\
 	= \frac{n}{y}\phi(y) - y \phi(y)\\\\
@@ -33,14 +33,14 @@ $$\begin{align*}
   $$H(y) = \sum\limits_{p=0}^{\infty} a_{p}y^{p}$$
 	where, $a_p$ is  constant to be determined
 - differentiating $H:$ 
-  $$\begin{align*}
+$$\begin{align*}
 	H' &= \sum\limits_{p=1}^{\infty}a_{p}py^{p-1} \\\\
 	H'' &= \sum\limits_{p=1}^{\infty}a_{p}p(p-1)y^{p-2} \\
 	&= \sum\limits_{p=2}^{\infty}a_{p}p(p-1)y^{p-2} \\
 	&= \sum\limits_{p'=0}^{\infty} a_{p'+2}(p'+2 )(p'+1)y^{p'} \\
 \end{align*}$$
 - substituting into the differential equation: 
-  $$\begin{gather*}
+$$\begin{gather*}
 	\sum\limits_{p=0}^{\infty} [(p+1)(p+2) a_{p+2} - (2p+1-\alpha)]y_{p} =  0 \\
 	(p+1)(p+2) a_{p+2} - (2p+1-\alpha)a_{p} = 0 \\\\
 \frac{	a_{p+2}}{a_{p}} = \frac{2p+1-\alpha}{(p+1)(p+2)}
@@ -61,7 +61,7 @@ $$\begin{align*}
   $$E_{0}= \frac{1}{2}\hbar \omega_{c}$$
 - the energy levels are evenly spaced with the difference, $\hbar\omega_c$
 - the first few $H(y)$ are called *hermite polynomials*: 
-  $$\begin{gather}
+$$\begin{gather}
 		H_{0}=1 && H_{1}=2y \\ H_{2}=4y^{2}-2 && H_{3}=8y^{3}-12y
 \end{gather}$$
 - these are multiplied by $e^{-y^{2}}$ in full wavefunctions
