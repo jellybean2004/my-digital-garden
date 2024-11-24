@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c6-commutation-relations/","created":"2024-10-28T11:11:03.059+00:00","updated":"2024-11-24T01:06:34.795+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c6-commutation-relations/","created":"2024-10-28T11:11:03.059+00:00","updated":"2024-11-24T01:06:56.326+00:00"}
 ---
 
 $$\begin{align}
@@ -18,7 +18,7 @@ $$\begin{align*}
 - the commutator can be written as: 
 $$[\hat P_{x}, \hat X] = \hat P_{x}\hat X - \hat X \hat P_{x}= -i \hbar$$
 - extending it to 3D: 
-  $$\begin{gather}
+$$\begin{gather}
 	[\hat X_{i},\hat X_{j}] =[\hat P_{i}, \hat P_{j}] = 0 \\
 	[\hat P_{i},\hat X_{j}] = - [\hat X_{j}, \hat P_{i}] = -i\hbar \,\delta_{ij}
 \end{gather}$$
