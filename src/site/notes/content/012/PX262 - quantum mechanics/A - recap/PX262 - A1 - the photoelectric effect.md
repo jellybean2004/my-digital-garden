@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a1-the-photoelectric-effect/","noteIcon":"","created":"2024-10-01T18:50:58.569+01:00","updated":"2024-11-23T23:47:41.033+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a1-the-photoelectric-effect/","created":"2024-10-01T18:50:58.569+01:00","updated":"2024-11-24T00:38:22.045+00:00"}
 ---
 
 
@@ -7,7 +7,8 @@
 
 - the experimental observation that when light strikes a metal surface, electrons are emitted
 - the energy of the emitted electrons depends on the frequency of the incident light, but not on its intensity
-- the maximum energy: $$E = h\,\nu-\phi$$
+- the maximum energy: 
+$$E = h\,\nu-\phi$$
 	- where, 
 		$h=$ planck's constant
 		$\nu=$ frequency of incident light
@@ -25,7 +26,8 @@
 	- $1\,eV=1.602\times10^{-19}\,J$
 	- for a green photon, $E = 2.26\,eV$
 
-- also, the reduced planck's constant: $$\hbar = \frac{h}{2\pi}=1.055\times10^{-34}\,Js^{-1}$$
+- also, the reduced planck's constant: 
+$$\hbar = \frac{h}{2\pi}=1.055\times10^{-34}\,Js^{-1}$$
 - units:
 
 | energy   | $eV$   |
