@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e2-eigenvalues-and-eigenfunctions/","created":"2024-11-05T11:07:21.185+00:00","updated":"2024-11-24T01:00:38.270+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e2-eigenvalues-and-eigenfunctions/","created":"2024-11-05T11:07:21.185+00:00","updated":"2024-11-24T01:02:12.466+00:00"}
 ---
 
 - using spherical coordinates: 
@@ -8,9 +8,7 @@
 	y = r\sin\theta\sin\phi \\
 	z = r\cos\theta
 	\end{gather}$$
-	$$\begin{gather}
-	\vec\nabla = \hat r\frac{\partial }{\partial r} + \frac{1}{r}\hat \theta \frac{\partial}{\partial \theta} + \frac{1}{r\sin\theta} \hat \phi \frac{\partial }{\partial \phi}
-	\end{gather}$$
+$$\vec\nabla = \hat r\frac{\partial }{\partial r} + \frac{1}{r}\hat \theta \frac{\partial}{\partial \theta} + \frac{1}{r\sin\theta} \hat \phi \frac{\partial }{\partial \phi}$$
 	$$\begin{gather}
 	\hat r \times \hat r = 0 \\
 	\hat \theta \times \hat r = - \hat \phi \\
