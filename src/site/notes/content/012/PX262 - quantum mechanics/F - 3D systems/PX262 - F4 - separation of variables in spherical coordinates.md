@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f4-separation-of-variables-in-spherical-coordinates/","created":"2024-11-12T11:03:27.703+00:00","updated":"2024-11-24T01:15:34.236+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f4-separation-of-variables-in-spherical-coordinates/","created":"2024-11-12T11:03:27.703+00:00","updated":"2024-11-24T01:29:52.394+00:00"}
 ---
 
 - considering a spherically symmetric potential: $V(x,y,z) = V(r)$, where $r$ is the distance from the centre of potential
@@ -28,7 +28,8 @@ $$
 $$-\frac{\hbar^{2}}{2m} \left[ \frac{1}{\sin\theta} \frac{\partial }{\partial \theta} \left(\sin\theta \frac{\partial Y}{\partial \theta}\right) + \frac{1}{\sin^{2}\theta} \frac{\partial^{2} {Y}}{\partial {\phi}^{2}}\right] = \lambda Y$$
 - from [[content/012/PX262 - quantum mechanics/D - ladder operators and angular momentum/PX262 - E2 - eigenvalues and eigenfunctions\|here]], this is the same as the equation for the eigenvalues of the operator $\hat L^{2}:$ 
 $$\frac{1}{2m} \hat L^{2} Y = \lambda Y$$
-- the solutions are spherical harmonics: $Y_{lm} (\theta,\phi)$, and the eigenvalues are: $$\lambda = - \frac{\hbar^{2}}{2m} l(l+1)$$
+- the solutions are spherical harmonics: $Y_{lm} (\theta,\phi)$, and the eigenvalues are: 
+  $$\lambda = - \frac{\hbar^{2}}{2m} l(l+1)$$
 - for every system with a spherically symmetric potential, the angular part will be the same, and it will correspond to the angular momentum
 - any solution will be an eigenstate of $\hat L^{2}$ and $\hat L_{z}$ operators
 - substituting into equation $(2):$ 
