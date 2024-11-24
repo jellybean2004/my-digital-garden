@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c2b-momentum-and-position-operator/","created":"2024-10-22T14:04:58.725+01:00","updated":"2024-11-23T23:54:03.553+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c2b-momentum-and-position-operator/","noteIcon":"","created":"2024-10-22T14:04:58.725+01:00","updated":"2024-11-24T00:24:37.370+00:00"}
 ---
 
-
 ## momentum operator
-- the kinetic energy, classically given as $T = \frac{p^{2}}{2M}$, can we written as: $$T = \frac{1}{2M} \hat p^{2} = - \frac{\hbar^{2}}{2M}\vec\nabla^{2}$$
+- the kinetic energy, classically given as $T = \frac{p^{2}}{2M}$, can we written as:
+$$T = \frac{1}{2M} \hat p^{2} = - \frac{\hbar^{2}}{2M}\vec\nabla^{2}$$
 	where, $\hat p$ is the momentum operator
 - the momentum operator in vector form: $$\begin{gather}
 	\hat{\vec{p}} = -i\hbar \vec\nabla \\
