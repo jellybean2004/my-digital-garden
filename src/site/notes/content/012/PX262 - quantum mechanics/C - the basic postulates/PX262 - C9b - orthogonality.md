@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c9b-orthogonality/","created":"2024-10-29T20:32:58.062+00:00","updated":"2024-11-24T00:50:02.231+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c9b-orthogonality/","created":"2024-10-29T20:32:58.062+00:00","updated":"2024-11-24T01:53:16.061+00:00"}
 ---
 
 - by the fact that there are different eigenvalues, it was concluded that: 
@@ -24,7 +24,7 @@
   $$\phi_{2}' = s_{12}\phi_{1}- \phi_{2}$$
 	where $s_{12} = \int \phi_{1}^{*} \phi_{2}\,d\tau$
 - checking if the new function is orthogonal to $\phi_{1}:$ 
-  $$\begin{align*}
+$$\begin{align*}
 	\int \phi_{1}^{*} \phi_{2}' \,d\tau &= s_{12}\int \phi_{1}^{*}\phi_{1} \,d\tau- \int\phi_{1}^{*}\phi_{2}\,d\tau \\
 	&= s_{12}- s_{12} \\
 	&= 0 
