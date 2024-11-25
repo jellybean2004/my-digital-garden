@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-10-03T12:06:07.040+01:00","updated":"2024-11-24T02:18:07.284+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-11-25T19:05:58.312+00:00","updated":"2024-11-25T20:04:19.945+00:00"}
 ---
 
 ## [[content/012/PX275 - mathematical methods/A - differentiation/A - differentiation\|A - differentiation]]

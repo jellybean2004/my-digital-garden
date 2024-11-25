@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-d-the-first-law-of-thermodynamic/px-154-d5-summary-of-processes/","created":"2024-10-01T18:50:55.428+01:00","updated":"2024-11-24T19:20:35.927+00:00"}
+dg-publish: true
 ---
-
 ## isobaric process
 - constant pressure
 	$\Delta p =0$

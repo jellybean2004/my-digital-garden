@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/b-spectral-classification/px-282-b3-spectral-lines-and-classes/","created":"2024-10-17T18:53:50.155+01:00","updated":"2024-11-24T15:46:44.808+00:00"}
+dg-publish: true
 ---
-
 - from spectral lines, subdivisions are formed: $G0 \to G9\, (hot\to cold)$
 - the sun is a $G2$ star
 

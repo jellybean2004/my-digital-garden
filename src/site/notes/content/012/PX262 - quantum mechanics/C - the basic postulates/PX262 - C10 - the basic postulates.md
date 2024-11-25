@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c10-the-basic-postulates/","created":"2024-10-29T19:53:29.146+00:00","updated":"2024-11-24T00:50:34.148+00:00"}
+dg-publish: true
 ---
-
 ## postulate 1
 - for every dynamical system, there is a wavefunction that is a continuous, square-integrable, single-valued function of the parameters of the system and of time
 - from this wavefunction, all possible predictions about the physical properties of the system can be obtained

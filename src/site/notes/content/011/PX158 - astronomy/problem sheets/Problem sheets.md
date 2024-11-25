@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/problem-sheets/problem-sheets/","created":"2024-10-01T18:50:56.439+01:00","updated":"2024-11-24T19:05:31.763+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX158 - astronomy/problem sheets/PX158 - PS1\|PX158 - PS1]]
 [[content/011/PX158 - astronomy/problem sheets/PX158 - PS2\|PX158 - PS2]]
 [[content/011/PX158 - astronomy/problem sheets/PX158 - PS3\|PX158 - PS3]]

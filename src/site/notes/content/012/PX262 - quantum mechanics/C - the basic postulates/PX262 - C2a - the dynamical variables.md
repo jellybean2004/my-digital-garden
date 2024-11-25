@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c2a-the-dynamical-variables/","created":"2024-10-21T11:08:09.839+01:00","updated":"2024-11-25T11:15:26.786+00:00"}
+dg-publish: true
 ---
-
  - need to find out what is the suitable representation of dynamical variables of he QM system
 - dynamical variables: position, momentum, energy, etc
 - in classical physics, these are represented by algebraic variables: ${} x$, $p_x$, $E$, which can have all possible (continuous) values

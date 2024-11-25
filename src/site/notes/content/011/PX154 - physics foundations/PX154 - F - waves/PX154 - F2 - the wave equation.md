@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/px-154-f2-the-wave-equation/","created":"2024-10-01T18:50:55.156+01:00","updated":"2024-11-24T19:22:57.625+00:00"}
+dg-publish: true
 ---
-
 - a fundamental equation, ubiquitous in physics
 - the wave function: 
 $$u(x,t) = A\cos(kx-\omega t)$$
@@ -13,7 +12,8 @@ $$\begin{align*}
 	\frac{\partial^{2} u}{\partial t^{2}} &= -A\omega^{2}\cos(kx-\omega t) \\
 	\frac{\partial^{2} u}{\partial t^{2}} &= -\omega^{2} \, u(x,t) \; ...[1]
 \end{align*}$$
-- differentiating wrt ${} x$: $$\frac{\partial u}{\partial x} = -Ak\sin(kx-\omega t)$$
+- differentiating wrt ${} x$:
+$$\frac{\partial u}{\partial x} = -Ak\sin(kx-\omega t)$$
 - again: 
 $$\begin{align*}
 	\frac{\partial^{2} u}{\partial x^{2}} = -Ak^{2}\sin(kx-\omega t) \\

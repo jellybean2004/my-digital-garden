@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-i-light/px-154-i6-transmission-and-reflection-coefficients-for-light/","created":"2024-10-01T18:50:55.276+01:00","updated":"2024-11-24T19:27:12.230+00:00"}
+dg-publish: true
 ---
-
 - only normal incidence will be considered (ie: $\theta_{i}=0\degree$), and polarization neglected
 - for *[[content/011/PX154 - physics foundations/PX154 - H - waves at boundaries/PX154 - H2 - two strings joined together - transmission and reflection\|waves on joined strings]]* , the amplitudes: if $\mu_{1}<\mu_{2}$ , the reflected wave was inverted
 - here, intensities will be considered: [YF eqn 32.4] 

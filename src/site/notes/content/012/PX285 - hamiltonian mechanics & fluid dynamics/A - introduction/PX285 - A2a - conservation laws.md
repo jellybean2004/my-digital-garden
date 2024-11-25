@@ -1,16 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/a-introduction/px-285-a2a-conservation-laws/","created":"2024-10-03T14:19:43.279+01:00","updated":"2024-11-24T16:13:50.466+00:00"}
+dg-publish: true
 ---
-
 ## momentum
-$$\vec p = m\,\vec v$$
+$$
+\vec p = m\,\vec v
+$$
 - more generally, 
 $$\vec p 
 = \sum\limits_{i}m_{i}\,\vec v_{i} = \sum\limits_{i}\vec p_{i}$$
-$$\frac{d\vec{p}}{dt}=0$$
+$$
+\frac{d\vec{p}}{dt}=0
+$$
 ## angular momentum
 - the total angular momentum due to the rotation of a mass/masses about some axis is conserved
 - the angular momentum: 
-$$\vec L = \sum\limits_{i}m_{i}\,(\vec r_{i}\times\vec v_{i})$$
+$$
+\vec L = \sum\limits_{i}m_{i}\,(\vec r_{i}\times\vec v_{i})
+$$
 - velocity due to rotation about some axis: 
-$$\vec v = \vec \omega\times \vec r$$
+$$
+\vec v = \vec \omega\times \vec r
+$$

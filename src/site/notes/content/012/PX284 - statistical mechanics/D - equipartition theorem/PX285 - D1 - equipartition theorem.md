@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/d-equipartition-theorem/px-285-d1-equipartition-theorem/","created":"2024-11-21T15:10:57.596+00:00","updated":"2024-11-24T16:09:27.485+00:00"}
+dg-publish: true
 ---
-
 - suppose, $E(x) = \alpha x^{2}$, where $\alpha$ is a constant, in the **classical limit**, and $x \in [-\infty, + \infty]$
 - in this case, the boltzmann distribution is written as: 
 $$P(x) =  \frac{e^{-\beta \alpha x^{2}}}{\int_{-\infty}^{+\infty} e^{-\beta \alpha x^{2}}\,dx}$$

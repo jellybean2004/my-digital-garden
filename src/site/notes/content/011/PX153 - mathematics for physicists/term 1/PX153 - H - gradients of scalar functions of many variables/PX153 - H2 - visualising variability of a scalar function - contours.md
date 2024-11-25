@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-h-gradients-of-scalar-functions-of-many-variables/px-153-h2-visualising-variability-of-a-scalar-function-contours/","created":"2024-10-01T18:27:09.231+01:00","updated":"2024-11-25T15:48:36.976+00:00"}
+dg-publish: true
 ---
-
 - **contours** - eg think of height, $z$, as a function of position int he $x,y$ plane, ie: $z(x,y)$
 - contour lines mark out lines of constant height, ie: defined by $z(x,y) = k$ , where $k$ is a constant
 - we will show that the direction of greatest rate of change is perpendicular to the contour
@@ -50,4 +49,5 @@ $$\therefore\vec\nabla f \perp \vec t$$
 	- the gradient is given by: 
 	$$\vec\nabla f = (-2xe^{-(x^{2}+y^{2})})\hat{\vec i} + (-2ye^{-(x^{2}+y^{2})})\hat{\vec j}$$
 		- in circular polar coordinates, this is 
-		$$\vec\nabla f = -2e^{-r^{2}}\vec r$$
+	
+$$\vec\nabla f = -2e^{-r^{2}}\vec r$$

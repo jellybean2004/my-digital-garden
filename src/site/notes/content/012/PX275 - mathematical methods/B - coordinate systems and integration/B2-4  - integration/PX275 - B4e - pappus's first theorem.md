@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b4e-pappus-s-first-theorem/","created":"2024-10-24T12:49:20.927+01:00","updated":"2024-11-24T15:34:45.260+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241024124944.png](/img/user/pics/Pasted%20image%2020241024124944.png)
 - taking an element of the surface area, and revolving it around the $x$-axis: 
 $$dV = 2\pi\,y\,dA$$

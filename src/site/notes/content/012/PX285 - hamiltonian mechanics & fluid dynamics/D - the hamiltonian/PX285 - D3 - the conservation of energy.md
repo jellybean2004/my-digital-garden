@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/d-the-hamiltonian/px-285-d3-the-conservation-of-energy/","created":"2024-10-25T15:56:15.705+01:00","updated":"2024-11-24T16:19:40.652+00:00"}
+dg-publish: true
 ---
-
 - taking $L(x,\dot x)$, the hamiltonian is defined as: 
 $$H = T+V$$
 - $T+V$ for a system is usually defined as energy, $E$

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i5b-temperature-at-the-centre-of-stars/","created":"2024-10-01T18:50:58.020+01:00","updated":"2024-11-24T19:11:14.968+00:00"}
+dg-publish: true
 ---
-
 - using the [[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C1 - ideal gas equation of state\|ideal gas equation]]: 
 $$pV = nR_{g}T$$
 	where, $n=N/N_{A}$, $N=$ number of particles
@@ -13,7 +12,8 @@ $$\begin{align*}
 	\end{align*}$$
 	where, $\mu=$ mass per particle, $\rho = \frac{N\mu}{V}$
 - from [[content/011/PX158 - astronomy/PX158 - I - stars/PX158 - I5a - pressure at the centre of stars\|pressure at the centre of stars]], $p = \rho \frac{GM}{R}$: 
-$$k_{B}T = \frac{GM\mu}{R} $$
+$$k_{B}T = \frac{GM\mu}{R}
+$$
 	$k_{B}T \sim$ thermal energy
 	$\frac{GM_{s}\mu}{R_{s}} \sim$ gravitational energy
 { #0011c7}

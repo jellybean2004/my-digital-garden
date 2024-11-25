@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i7-other-coordinate-systems/","created":"2024-10-01T18:27:09.296+01:00","updated":"2024-11-25T16:29:23.707+00:00"}
+dg-publish: true
 ---
-
 ## spherical coordinates
 ![Pasted image 20240116121526.png](/img/user/pics/Pasted%20image%2020240116121526.png)
 - coordinate transformations: 
@@ -12,7 +11,9 @@ z &= r \cos\theta
 \end{align}$$
 - what is $dV$?
 	$dV = r^{2} \sin\theta \, d\theta \, d\phi \, dr$
- $$I = \iiint_{V} f(\vec r) \, dV = \iiint f(r, \theta, \phi)  r^{2} \sin\theta \, d\theta \, d\phi \, dr$$
+$$
+I = \iiint_{V} f(\vec r) \, dV = \iiint f(r, \theta, \phi)  r^{2} \sin\theta \, d\theta \, d\phi \, dr
+$$
  - eg: what is the volume of the sphere with radius, $a$?
 	 $$I = \int_{0}^{a} \int_{0}^{2\pi} \int_{0}^{\pi} [f(\vec r)=1]  r^{2} \sin\theta \, d\theta \, d\phi \, dr = \frac{4\pi}{3}a^{3}$$
 - *aside* : surface area of a sphere

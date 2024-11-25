@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b1-coordinate-systems/px-275-b1f-spherical-basis-vectors/","created":"2024-10-17T12:24:31.428+01:00","updated":"2024-11-24T15:32:19.176+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241017122458.png](/img/user/pics/Pasted%20image%2020241017122458.png)
 $$\vec r = r\sin\theta\cos\phi \, \hat i + r\sin\theta\sin\phi\,\hat j + r\cos\theta\,\hat k$$
 $$\begin{align*}

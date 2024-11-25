@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e3-translation-in-time/","created":"2024-11-01T11:38:20.947+00:00","updated":"2024-11-24T16:21:40.453+00:00"}
+dg-publish: true
 ---
-
 - taking a small translation in time, $t \to t + \delta t$
 - so, the lagrangian: $L \to L + \delta L$, with $\delta L = 0$ due to the time invariance of lagrangian
 - consider a general lagrangian: $L(q_{i},\dot q_{i})$, where $i = 1,\dots d$

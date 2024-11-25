@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/a-introduction/px-282-a3-luminosity-and-flux/","created":"2024-10-03T10:14:36.302+01:00","updated":"2024-11-24T15:43:32.180+00:00"}
+dg-publish: true
 ---
-
 - see [[content/011/PX158 - astronomy/PX158 - D - fluxes and magnitudes/PX158 - D1 - luminosity and flux\|PX158 - D1 - luminosity and flux]]
 
 - physical properties of a star:

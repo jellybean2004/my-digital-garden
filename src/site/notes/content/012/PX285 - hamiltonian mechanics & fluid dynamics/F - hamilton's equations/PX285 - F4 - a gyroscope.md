@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f4-a-gyroscope/","created":"2024-11-15T19:02:47.964+00:00","updated":"2024-11-24T16:25:19.223+00:00"}
+dg-publish: true
 ---
-
 - considering a spinning top that can rotate on a fixed point
 - it has three rotational degrees of freedom: $\theta$, $\alpha$, and $\phi$; but no translational degrees of freedom 
 ![Pasted image 20241115190518.png](/img/user/pics/Pasted%20image%2020241115190518.png)
@@ -17,7 +16,8 @@ $$T = \frac{1}{2}I\omega^{2}$$
 ### potential energy
 - suppose $l$ is the distance from the base to the centre of mass of the top, and $\theta$ is the angle with the normal
 ![Pasted image 20241115195808.png](/img/user/pics/Pasted%20image%2020241115195808.png)
-- the potential energy: $$V = mgl\cos\theta$$
+- the potential energy:
+$$V = mgl\cos\theta$$
 ### kinetic energy
 ![Pasted image 20241115200711.png](/img/user/pics/Pasted%20image%2020241115200711.png)
 - axes of rotation for top are represented by:

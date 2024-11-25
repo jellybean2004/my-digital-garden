@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a2-compton-scattering/","created":"2024-10-01T18:50:58.591+01:00","updated":"2024-11-23T23:47:48.446+00:00"}
+dg-publish: true
 ---
-
 
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - A - light/PX156 - A5 - the compton effect\| PX156 - quantum phenomena]]
 - in experiments with higher energy photons (x-rays), the photons scatter on electrons

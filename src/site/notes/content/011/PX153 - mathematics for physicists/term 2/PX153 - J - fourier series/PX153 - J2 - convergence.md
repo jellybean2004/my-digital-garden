@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j2-convergence/","created":"2024-10-01T18:27:09.327+01:00","updated":"2024-11-25T16:32:42.517+00:00"}
+dg-publish: true
 ---
-
 - let $L=\pi$ : 
 $$f_{N}(x) = \frac{a_{0}}{2} + \sum\limits_{n=1}^{\infty} (a_{n}\cos(nx) + b_{n}\sin(nx))$$ for $-\pi\leq x \leq\pi$
 ## minimum requirement (convergence in the mean)

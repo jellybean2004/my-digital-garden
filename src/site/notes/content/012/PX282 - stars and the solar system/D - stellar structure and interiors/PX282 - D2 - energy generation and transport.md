@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/d-stellar-structure-and-interiors/px-282-d2-energy-generation-and-transport/","created":"2024-11-05T10:41:31.049+00:00","updated":"2024-11-24T15:54:47.666+00:00"}
+dg-publish: true
 ---
-
 ## energy generation conservation
 - considering the energy generation rate per unit mass in the shell, $\epsilon [Js^{-1}kg^{-1}]$
 - the mass of the shell: $dM = 4\pi r^{2}\rho\,dr$

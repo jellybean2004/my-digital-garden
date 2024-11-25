@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-a-vectors/px-153-a2-cartesian-coordinates-and-vector-components/","created":"2024-10-01T18:27:09.022+01:00","updated":"2024-11-25T15:23:53.132+00:00"}
+dg-publish: true
 ---
-
 ## basis vectors
 
 ![Pasted image 20231003190709.png](/img/user/pics/Pasted%20image%2020231003190709.png)

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/c-vector-calculus/c-vector-calculus/","created":"2024-10-28T12:06:48.832+00:00","updated":"2024-11-24T02:19:51.787+00:00"}
+dg-publish: true
 ---
-
 ## vector operators
 [[content/012/PX275 - mathematical methods/C - vector calculus/PX275 - C1a - gradient or gra\|PX275 - C1a - gradient or gra]]
 [[content/012/PX275 - mathematical methods/C - vector calculus/PX275 - C1b - divergence or div\|PX275 - C1b - divergence or div]]

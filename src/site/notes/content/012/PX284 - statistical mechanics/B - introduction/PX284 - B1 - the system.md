@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/b-introduction/px-284-b1-the-system/","created":"2024-11-08T10:17:34.094+00:00","updated":"2024-11-24T16:05:26.186+00:00"}
+dg-publish: true
 ---
-
 - statistical mechanics is concerned with understanding and predicting the properties of a '*system*'
 - eg: a box of gas, ions in a solid, electrons in a star
 - there exists a '**reservoir**' with which systems can exchange energy or particles

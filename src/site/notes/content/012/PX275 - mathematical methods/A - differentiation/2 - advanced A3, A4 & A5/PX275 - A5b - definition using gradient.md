@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a5b-definition-using-gradient/","created":"2024-10-10T12:28:10.307+01:00","updated":"2024-11-24T15:30:37.450+00:00"}
+dg-publish: true
 ---
-
 $$\boxed{\vec\nabla f + \lambda \vec\nabla g =0}$$
 ## example
 $$\begin{gather}

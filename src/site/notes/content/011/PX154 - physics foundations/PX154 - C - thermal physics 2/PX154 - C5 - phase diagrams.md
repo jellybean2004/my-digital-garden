@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c5-phase-diagrams/","created":"2024-10-01T18:50:56.141+01:00","updated":"2024-11-24T19:17:23.097+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20231031184937.png](/img/user/pics/Pasted%20image%2020231031184937.png) [YF 18.6]
 - 3 phases separated by phase boundaries
 - at the *triple point*, where the phase boundaries meet, *all three phases coexist*

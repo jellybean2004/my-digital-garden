@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f3a-a-particle-in-1-d/","created":"2024-11-08T11:06:51.156+00:00","updated":"2024-11-24T16:22:55.153+00:00"}
+dg-publish: true
 ---
-
 - considering a particle moving freely in $d=1$ dimension
 - the hamiltonian: 
 $$H = T + V = \frac{1}{2m}p^{2} + V(x)$$

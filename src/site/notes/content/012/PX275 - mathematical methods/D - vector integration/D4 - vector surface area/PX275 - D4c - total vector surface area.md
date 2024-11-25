@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d4-vector-surface-area/px-275-d4c-total-vector-surface-area/","created":"2024-11-18T12:46:37.131+00:00","updated":"2024-11-24T15:40:37.044+00:00"}
+dg-publish: true
 ---
-
 - to evaluate the **vector area**: 
 $$\vec S = \iint d\vec s$$
 ![Pasted image 20241118124714.png](/img/user/pics/Pasted%20image%2020241118124714.png)

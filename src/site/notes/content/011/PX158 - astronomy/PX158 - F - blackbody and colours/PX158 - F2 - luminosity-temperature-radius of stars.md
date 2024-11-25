@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-f-blackbody-and-colours/px-158-f2-luminosity-temperature-radius-of-stars/","created":"2024-10-01T18:50:58.192+01:00","updated":"2024-11-24T19:09:08.346+00:00"}
+dg-publish: true
 ---
-
 - total power of a star: 
 $$L_{*} = 4\,\pi\,R_{*}^{2}\, \sigma\,T_{*}^{4}$$
 - the *'effective temperature'*, $T_{eff}$, is the mean temperature at the 'surface' of the star

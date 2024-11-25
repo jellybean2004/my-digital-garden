@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/px-154-f4-wave-groups-and-group-velocity/","created":"2024-10-01T18:50:55.119+01:00","updated":"2024-11-24T19:23:44.995+00:00"}
+dg-publish: true
 ---
-
- - from [[content/011/PX154 - physics foundations/PX154 - F - waves/PX154 - F3a - principle of superposition#^d12c0f\|PX154 - F3a - principle of superposition#^d12c0f]]: $$u_{total} = 2A\cos(kx-\omega t)\cos(\Delta kx -\Delta \omega t)$$
+ - from [[content/011/PX154 - physics foundations/PX154 - F - waves/PX154 - F3a - principle of superposition#^d12c0f\|PX154 - F3a - principle of superposition#^d12c0f]]:
+$$u_{total} = 2A\cos(kx-\omega t)\cos(\Delta kx -\Delta \omega t)$$
 	- where, 
 		$\cos(kx-\omega t)= \frac{\omega}{k} =$ wave speed, 
 		$\cos(\Delta kx -\Delta \omega t)= \frac{\Delta \omega}{\Delta k}=$ "*group velocity*"

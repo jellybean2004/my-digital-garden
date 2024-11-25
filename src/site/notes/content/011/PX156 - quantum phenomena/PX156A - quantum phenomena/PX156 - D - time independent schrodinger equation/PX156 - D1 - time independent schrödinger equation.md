@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-d-time-independent-schrodinger-equation/px-156-d1-time-independent-schroedinger-equation/","created":"2024-10-01T18:27:09.883+01:00","updated":"2024-11-24T18:57:30.124+00:00"}
+dg-publish: true
 ---
-
 - [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - C - quantum mechanics/PX156 - C1 - the schrodinger equation\|TDSE]]: 
 $$i\hbar \frac{\partial}{\partial t} \psi(x,t) = - \frac{\hbar^{2}}{2m} \frac{\partial^{2}}{\partial {x}^{2}}\psi(x,t) + V(x)\psi(x,t)$$
 - let $\psi(x,t) = \phi(x)\rho(t):$ 

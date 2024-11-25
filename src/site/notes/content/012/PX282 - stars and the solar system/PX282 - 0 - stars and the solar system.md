@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/px-282-0-stars-and-the-solar-system/","created":"2024-10-01T18:50:58.457+01:00","updated":"2024-11-24T16:02:25.264+00:00"}
+dg-publish: true
 ---
-
 ## lectures notes
 ### stars
 #### [[content/012/PX282 - stars and the solar system/A - introduction/A - introduction\|A - introduction]]

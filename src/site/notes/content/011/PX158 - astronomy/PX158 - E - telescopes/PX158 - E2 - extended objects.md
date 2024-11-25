@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-e-telescopes/px-158-e2-extended-objects/","created":"2024-10-01T18:50:58.151+01:00","updated":"2024-11-24T19:08:35.858+00:00"}
+dg-publish: true
 ---
-
 - includes galaxies, comets, planets
 - surface brightness $=$ flux per angle$^{2} =$ magnitude / arc-second$^{2}$
 - brightness in the telescope: 

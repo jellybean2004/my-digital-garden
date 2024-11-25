@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/c-vector-calculus/px-275-c2b-examples-of-using-the-laplacian/","created":"2024-10-31T13:16:38.303+00:00","updated":"2024-11-24T15:36:23.195+00:00"}
+dg-publish: true
 ---
-
 ## laplace's equation
 $$\nabla^{2}\phi =0$$
 where, $\phi$ is a scalar

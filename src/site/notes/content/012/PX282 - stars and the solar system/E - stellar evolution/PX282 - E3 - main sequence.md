@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/e-stellar-evolution/px-282-e3-main-sequence/","created":"2024-11-19T10:42:39.999+00:00","updated":"2024-11-24T16:02:09.544+00:00"}
+dg-publish: true
 ---
-
 - H-burning stars in PP chains
 - overtime, He builds up in the core
 - the average mass per particle in the core goes from $\mu_{H+} = \frac{1}{2}$ to $\mu_{He+}=\frac{4}{3}$

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b1-coordinate-systems/px-275-b1c-cylindrical-polar-representation/","created":"2024-10-15T15:33:47.664+01:00","updated":"2024-11-24T15:31:27.828+00:00"}
+dg-publish: true
 ---
-
 - consider a current-carrying wire, with the current, $I$, in the $+z$ direction
 - at a point, $P$, at a distance, $\rho$, away from the wire, the magnetic field strength is: $B = \frac{\mu_{0}I}{2\pi\rho}$
 - in cartesian system: 

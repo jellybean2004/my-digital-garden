@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/1-introduction-a1-and-a2/px-275-a2a-inexact-differentials/","created":"2024-10-03T12:30:55.846+01:00","updated":"2024-11-25T12:14:20.453+00:00"}
+dg-publish: true
 ---
-
 - consider the change in the internal energy of a system, ie: the first law of thermodynamics:
 ![Pasted image 20241027152700.png](/img/user/pics/Pasted%20image%2020241027152700.png)
 - *note:* d bar used for inexact differentials

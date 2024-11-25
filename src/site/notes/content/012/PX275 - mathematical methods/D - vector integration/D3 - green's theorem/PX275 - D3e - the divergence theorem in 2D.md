@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d3-green-s-theorem/px-275-d3e-the-divergence-theorem-in-2-d/","created":"2024-11-14T12:13:46.732+00:00","updated":"2024-11-24T15:39:28.204+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241114121449.png](/img/user/pics/Pasted%20image%2020241114121449.png)
 - $d\vec n$ is normal, and $d\vec r$ is tangent to the curve: 
 $$\begin{align*}

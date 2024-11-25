@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-g-feynmann-diagrams/px-156-g5-virtual-particles/","created":"2024-10-01T18:27:09.961+01:00","updated":"2024-11-24T19:01:36.757+00:00"}
+dg-publish: true
 ---
-
 - consider a $\mu$ decay: 
 $$\mu^{\pm} \to \bar\nu_{\mu}/\nu_{\mu} + e^{\pm} + \nu_{e}/\bar\nu_{e}$$
 ![Pasted image 20240507101242.png](/img/user/pics/Pasted%20image%2020240507101242.png)

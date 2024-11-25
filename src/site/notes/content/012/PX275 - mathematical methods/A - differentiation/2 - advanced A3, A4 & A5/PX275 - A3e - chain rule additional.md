@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a3e-chain-rule-additional/","created":"2024-10-04T17:27:29.227+01:00","updated":"2024-11-24T15:29:20.221+00:00"}
+dg-publish: true
 ---
-
 ## comments
 - more generally: 
 	- $x_{1},x_{2}, x_{3},\dots x_{i}$ are used rather than $x,y,t$

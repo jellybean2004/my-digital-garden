@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/a-probability/a-probability/","created":"2024-11-07T15:17:11.470+00:00","updated":"2024-11-24T16:02:56.444+00:00"}
+dg-publish: true
 ---
-
 [[content/012/PX284 - statistical mechanics/A - probability/PX283 - A1 - discrete probability distributions\|PX283 - A1 - discrete probability distributions]]
 [[content/012/PX284 - statistical mechanics/A - probability/PX284 - A2 - continuous probability distributions\|PX284 - A2 - continuous probability distributions]]
 [[content/012/PX284 - statistical mechanics/A - probability/PX284 - A3 - the bernoulli trial\|PX284 - A3 - the bernoulli trial]]

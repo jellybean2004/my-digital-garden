@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b2a-1-d-integrals-in-2-d-and-3-d/","created":"2024-10-21T12:08:38.738+01:00","updated":"2024-11-24T15:32:55.503+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241021124239.png](/img/user/pics/Pasted%20image%2020241021124239.png)
 - consider a path in the $x-y$ plane
 - the position can be written as a function of $s: x(s);y(s)$, such that $ds^{2} = dx^{2}+ dy^{2}$

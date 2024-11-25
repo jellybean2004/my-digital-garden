@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/1-introduction-a1-and-a2/px-275-a2c-maxwell-s-thermodynamic-relation/","created":"2024-10-03T15:41:17.464+01:00","updated":"2024-11-24T15:25:57.307+00:00"}
+dg-publish: true
 ---
-
 $$\begin{align} 
 	dU &= T\,dS-p\,dV \tag{1}\\
 	df &= \frac{\partial f}{\partial x}\,dx + \frac{\partial f}{\partial y}\,dy \tag{2} \\

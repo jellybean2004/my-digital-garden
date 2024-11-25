@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b1-coordinate-systems/px-275-b1d-time-derivatives/","created":"2024-10-15T15:37:49.159+01:00","updated":"2024-11-24T15:31:36.061+00:00"}
+dg-publish: true
 ---
-
 - in cartesians: $\vec r = r_{x}\hat i + r_{y}\hat j + r_{z}\hat k$
 - the velocity: 
 $$\begin{align*}

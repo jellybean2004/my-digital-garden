@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c2-14-stellar-atmospheres/px-282-c10b-line-broadening-from-bound-bound-absorption/","created":"2024-10-24T10:08:09.819+01:00","updated":"2024-11-24T15:51:16.914+00:00"}
+dg-publish: true
 ---
-
 ## bound-bound absorption
 - discrete wavelengths would be absorbed, so a $\delta$ function is expected in a $\kappa_{\lambda}-\lambda$ plot, but in reality, there is a '**broadening**' in the line: 
 $$\kappa_{\lambda}^{bb} \propto g_{m} N_{n} \psi(\lambda)$$

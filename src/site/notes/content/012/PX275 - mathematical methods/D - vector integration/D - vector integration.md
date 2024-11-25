@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d-vector-integration/","created":"2024-11-04T12:06:02.914+00:00","updated":"2024-11-24T02:20:00.485+00:00"}
+dg-publish: true
 ---
-
 [[content/012/PX275 - mathematical methods/D - vector integration/D1-2/PX275 - D1 - vector displacements\|PX275 - D1 - vector displacements]]
 [[content/012/PX275 - mathematical methods/D - vector integration/D1-2/PX275 - D2a - line integrals with fields\|PX275 - D2a - line integrals with fields]]
 [[content/012/PX275 - mathematical methods/D - vector integration/D1-2/PX275 - D2b - conservative vector fields\|PX275 - D2b - conservative vector fields]]

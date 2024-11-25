@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d3-green-s-theorem/px-275-d3b-proof-of-green-s-theorem/","created":"2024-11-11T12:20:05.996+00:00","updated":"2024-11-24T15:38:21.771+00:00"}
+dg-publish: true
 ---
-
 - **this is non examinable**
 - considering a rectangle with vertices $(x_{1}, y_{1})$, $(x_{2},y_{1})$, $(x_{2},y_{2})$, $(x_{1,}y_{2})$
 - taking a term from the theorem: 
@@ -12,7 +11,8 @@ $$\begin{align*}
 \end{align*}$$
 	- this gives the integrals of the top and the bottom sections
 - similarly: 
-$$\iint \frac{\partial Q}{\partial x} = \int_{y_{1}}^{y_{2}} Q(x_{2},y)\,dy + \int_{y_{2}}^{y_{1}} Q(x_{1},y)\,dy $$
+$$\iint \frac{\partial Q}{\partial x} = \int_{y_{1}}^{y_{2}} Q(x_{2},y)\,dy + \int_{y_{2}}^{y_{1}} Q(x_{1},y)\,dy
+$$
 	- this gives the integrals of the sides
 - combining the terms give the integral around the perimeter of the rectangle
 

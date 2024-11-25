@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/d-the-hamiltonian/px-285-d4-roller-coaster-revisited/","created":"2024-10-25T15:45:47.587+01:00","updated":"2024-11-24T16:21:07.219+00:00"}
+dg-publish: true
 ---
-
 - revisiting [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/PX285 - C5 - a roller-coaster\|the roller-coaster problem]]
 - the lagrangian: 
 $$L = \frac{1}{2}m\dot s ^{2}- mgh(s)$$

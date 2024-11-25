@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-d-the-first-law-of-thermodynamic/px-154-d3-work-and-the-p-v-diagram/","created":"2024-10-01T18:50:58.409+01:00","updated":"2024-11-24T19:19:11.784+00:00"}
+dg-publish: true
 ---
-
 [YF 19.2]
 ## a piston 
 ![Pasted image 20231102133620.png](/img/user/pics/Pasted%20image%2020231102133620.png)

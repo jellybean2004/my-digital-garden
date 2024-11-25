@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-a-light/px-156-a2-blackbody-radiation-and-laws/","created":"2024-10-01T18:27:09.827+01:00","updated":"2024-11-24T18:49:59.279+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX158 - astronomy/PX158 - F - blackbody and colours/F - black bodies and colours\|F - black bodies and colours]]
 ## blackbody
 - an *ideal blackbody* is an object that absorbs all the radiation that strikes it

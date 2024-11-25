@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j5-symmetric-and-antisymmetric-functions/","created":"2024-10-01T18:27:09.342+01:00","updated":"2024-11-25T16:35:45.649+00:00"}
+dg-publish: true
 ---
-
 - if $f(x) = f(-x): f(x)$ is symmetric. eg: $\cos{nx}$ 
 - if $f(x) = -f(-x): f(x)$ is antisymmetric. eg: $\sin{nx}$ 
 

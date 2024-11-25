@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j8-fourier-sine-and-cosine-series/","created":"2024-10-01T18:27:09.351+01:00","updated":"2024-11-25T16:39:31.980+00:00"}
+dg-publish: true
 ---
-
 - it is possible to use only sines or cosines:
 - cosine series: 
 $$f(x) = \frac{a_{0}}{2} + \sum\limits_{n=1}^{\infty}a_{n} \cos\left(\frac{n\pi x}{L}\right)$$ for $x \in [0,L)$

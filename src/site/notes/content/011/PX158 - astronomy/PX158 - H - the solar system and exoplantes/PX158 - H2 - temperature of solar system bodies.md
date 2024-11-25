@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-h-the-solar-system-and-exoplantes/px-158-h2-temperature-of-solar-system-bodies/","created":"2024-10-01T18:50:58.344+01:00","updated":"2024-11-24T19:10:17.018+00:00"}
+dg-publish: true
 ---
-
 - assuming thermal equilibrium and that the object is a spherical [[content/011/PX158 - astronomy/PX158 - F - blackbody and colours/PX158 - F1 - black body radiation\|blackbody]]: 
 $$\begin{align*}
 		P_{in} &= P_{out} \\
@@ -17,7 +16,8 @@ $$\begin{align*}
 - eg: what is the equilibrium temperature for the earth?
 		$L_{\odot}=3.8\times10^{26}\,W$
 		$d = 1\,AU = 1.5\times10^{11}\,m$
-		$$\therefore T_{eq,\,\oplus} = 280\,K$$
+	
+$$\therefore T_{eq,\,\oplus} = 280\,K$$
 - eg: what is the equilibrium temperature for venus?
 	- $d=0.7\,AU$
 	$$\therefore T_{eq,\, venus} \approx 330\,K$$

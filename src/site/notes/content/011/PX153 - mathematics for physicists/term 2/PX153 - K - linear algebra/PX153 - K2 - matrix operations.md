@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k2-matrix-operations/","created":"2024-10-01T18:27:09.409+01:00","updated":"2024-11-25T16:42:20.884+00:00"}
+dg-publish: true
 ---
-
 ## addition
 - let $A=(a_{ij})_{m\times n}$ and $B= (b_{ij})_{p\times q}$
 - $A=B$ if and only if: $(i)\; m=p,\;n=q$, and $(ii)\; a_{ij}= b_{ij} \; \forall \; i,j$
@@ -13,7 +12,8 @@ $$A+B = \begin{bmatrix}a_{11}+b_{11} & \dots & a_{1n}+b_{1n} \\
   \end{bmatrix}$$
 ## scalar multiplication
   - for a scalar, $\lambda$, and a matric, $A=(a_{ij})_{m\times n}:$ 
-  $$\lambda A = \begin{bmatrix}\lambda\,a_{11}  &  \dots & \lambda\,a_{1n} \\ 
+ 
+$$\lambda A = \begin{bmatrix}\lambda\,a_{11}  &  \dots & \lambda\,a_{1n} \\ 
     \vdots & \ddots & \vdots \\ 
     \lambda\,a_{m1} & \dots  & \lambda\,a_{mn}\end{bmatrix}$$
 ## multiplication
@@ -39,9 +39,12 @@ $$A_{n\times1}B_{1\times n} = \begin{bmatrix}a_{1}b_{1}  & \dots & a_{1}b_{n} \\
 
 ### examples
 - eg: $A = \begin{bmatrix} 1 & 2 \\-1 & 3 \end{bmatrix}_{2\times2}$, and $B = \begin{bmatrix} 5 & -3 \\ 0 & -2 \end{bmatrix}_{2\times2}$
-	  $$AB = \begin{bmatrix} 5+0 & -3-4 \\ -5+0 & 3-6 \end{bmatrix}  = \begin{bmatrix} 5 & -7 \\ -5 & -3\end{bmatrix}$$
-	  $$BA = \begin{bmatrix} 5+3 & 10-9 \\ 0+2 & 0-6\end{bmatrix} = \begin{bmatrix}8 & 1 \\ 2 & -6\end{bmatrix}$$
-	  $$[A,B] = \begin{bmatrix}-3 & -8 \\ -7 & 3 \end{bmatrix}$$
+	 
+$$AB = \begin{bmatrix} 5+0 & -3-4 \\ -5+0 & 3-6 \end{bmatrix}  = \begin{bmatrix} 5 & -7 \\ -5 & -3\end{bmatrix}$$
+	 
+$$BA = \begin{bmatrix} 5+3 & 10-9 \\ 0+2 & 0-6\end{bmatrix} = \begin{bmatrix}8 & 1 \\ 2 & -6\end{bmatrix}$$
+	 
+$$[A,B] = \begin{bmatrix}-3 & -8 \\ -7 & 3 \end{bmatrix}$$
 
 - eg: $C = \begin{bmatrix}2 & 1 & 4 \\ 0 & 3 & -1\end{bmatrix}_{2\times3}$, and $A = \begin{bmatrix}1 & 2 \\ -1 & 3\end{bmatrix}_{2\times2}$
 	$$AC = \begin{bmatrix}2 & 7 & 2 \\ -2 & 8 & -7\end{bmatrix}_{2\times3}$$

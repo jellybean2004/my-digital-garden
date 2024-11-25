@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/b-introduction/px-284-b3-the-assumptions/","created":"2024-11-08T10:46:49.972+00:00","updated":"2024-11-24T16:06:47.828+00:00"}
+dg-publish: true
 ---
-
 ### assumption 1
 - each one of the possible microstates of an isolated system in thermal equilibrium is equally likely to occur
 ### assumption 2

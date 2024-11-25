@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d1-2/px-275-d1-vector-displacements/","created":"2024-11-04T12:12:04.474+00:00","updated":"2024-11-24T15:36:31.104+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241104121358.png](/img/user/pics/Pasted%20image%2020241104121358.png)
 - consider the integral along a path, $s$, where: 
 $$s = \int_{A}^B ds$$

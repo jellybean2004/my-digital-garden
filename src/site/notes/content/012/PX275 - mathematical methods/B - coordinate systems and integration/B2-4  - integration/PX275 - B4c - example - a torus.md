@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b4c-example-a-torus/","created":"2024-10-24T12:30:03.198+01:00","updated":"2024-11-24T15:34:19.657+00:00"}
+dg-publish: true
 ---
-
 - taking a torus
 ![Pasted image 20241024123157.png](/img/user/pics/Pasted%20image%2020241024123157.png)
 - the centre of the line: $\bar y = a$, and the length of the line: $S = 2\pi\,r$

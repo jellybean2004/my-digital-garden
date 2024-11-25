@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c6b-a-particle-in-a-cartesian-plane/","created":"2024-10-24T17:58:55.761+01:00","updated":"2024-11-24T16:18:40.096+00:00"}
+dg-publish: true
 ---
-
 - consider a particle moving in a cartesian plane with a potential, $V(x,y)$
 - the lagrangian: 
 $$L = \frac{1}{2}mv^{2}- V(x,y)$$

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b4a-surface-of-revolution/","created":"2024-10-24T12:05:01.064+01:00","updated":"2024-11-24T15:33:59.597+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241024120627.png](/img/user/pics/Pasted%20image%2020241024120627.png)
 ## surface revolution
 ![Pasted image 20241024120827.png](/img/user/pics/Pasted%20image%2020241024120827.png)

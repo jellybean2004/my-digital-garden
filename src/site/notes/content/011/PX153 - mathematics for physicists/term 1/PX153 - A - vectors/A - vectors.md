@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-a-vectors/a-vectors/","created":"2024-10-01T18:27:09.011+01:00","updated":"2024-11-25T14:39:32.420+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX153 - mathematics for physicists/term 1/PX153 - A - vectors/PX153 - A1 - notation and geometrical representation\|PX153 - A1 - notation and geometrical representation]]
 [[content/011/PX153 - mathematics for physicists/term 1/PX153 - A - vectors/PX153 - A2 - cartesian coordinates and vector components\|PX153 - A2 - cartesian coordinates and vector components]]
 [[content/011/PX153 - mathematics for physicists/term 1/PX153 - A - vectors/PX153 - A3 - position, velocity and acceleration vectors\|PX153 - A3 - position, velocity and acceleration vectors]]

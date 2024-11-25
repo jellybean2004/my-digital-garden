@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i7c-chandrashekhar-limit/","created":"2024-10-01T18:50:58.435+01:00","updated":"2024-11-24T19:12:00.303+00:00"}
+dg-publish: true
 ---
-
 - degenerate objects have a maximum mass above which they collapse
 - the gravitational energy: 
 $$E_{G} \propto \frac{M}{R}$$

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/d-stellar-structure-and-interiors/px-282-d2b-radiation/","created":"2024-11-05T10:43:53.451+00:00","updated":"2024-11-24T15:55:06.310+00:00"}
+dg-publish: true
 ---
-
 $$P_{rad}= \frac{1}{3} aT^{4}$$
 - flux-pressure relation: 
 $$\begin{align*}

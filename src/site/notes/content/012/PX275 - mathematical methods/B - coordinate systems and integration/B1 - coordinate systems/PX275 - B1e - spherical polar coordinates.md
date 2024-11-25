@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b1-coordinate-systems/px-275-b1e-spherical-polar-coordinates/","created":"2024-10-17T12:05:46.392+01:00","updated":"2024-11-24T15:31:56.327+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241017121142.png](/img/user/pics/Pasted%20image%2020241017121142.png)
 - transformations: 
 $$\begin{gather*}

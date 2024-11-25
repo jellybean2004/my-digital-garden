@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-b-complex-numbers/b-complex-numbers/","created":"2024-10-01T18:27:09.068+01:00","updated":"2024-11-25T15:27:22.369+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX153 - mathematics for physicists/term 1/PX153 - B - complex numbers/PX153 - B1 - basic operations and the argand diagram\|PX153 - B1 - basic operations and the argand diagram]]
 [[content/011/PX153 - mathematics for physicists/term 1/PX153 - B - complex numbers/PX153 - B2 - polar representation\|PX153 - B2 - polar representation]]
 [[content/011/PX153 - mathematics for physicists/term 1/PX153 - B - complex numbers/PX153 - B3 - de moivre's theorem\|PX153 - B3 - de moivre's theorem]]

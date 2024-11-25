@@ -1,19 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-d-second-order-od-es/px-153-d2-solving-2nd-order-homogeneous-od-es/","created":"2024-10-01T18:27:09.143+01:00","updated":"2024-11-25T15:32:02.684+00:00"}
+dg-publish: true
 ---
-
 ## derivation
 - consider 
 $$\frac{d^{2}y}{dx^{2}}+ \frac{dy}{dx} + 2y = 0$$
 - we postulate the solution: 
 $$y=Ae^{\lambda x}$$
-		$$\lambda^{2}Ae^{\lambda x} + \lambda Ae^{\lambda x} + 2 Ae^{\lambda x} = 0$$ $$\lambda^{2}y + \lambda y + 2y = 0$$
+	
+$$\lambda^{2}Ae^{\lambda x} + \lambda Ae^{\lambda x} + 2 Ae^{\lambda x} = 0$$
+$$\lambda^{2}y + \lambda y + 2y = 0$$
 - looking for a solution across a range of y: 
 $$\implies \lambda ^{2}+\lambda+2=0$$
 	- this is the auxiliary equation, an algebraic equation that can be solved to find $\lambda$, which has 2 solutions: 
-		$$\lambda_{1}=- \frac{1}{2}(1+\sqrt 7 i)$$$$\lambda_{2}= - \frac{1}{2}(1-\sqrt 7 i)$$
+	
+$$\lambda_{1}=- \frac{1}{2}(1+\sqrt 7 i)$$$$\lambda_{2}= - \frac{1}{2}(1-\sqrt 7 i)$$
 - the general solution contains all possible solutions:
-		$$y(x)= e^{\lambda_{1}x}+e^{\lambda_{2}x}$$
+	
+$$y(x)= e^{\lambda_{1}x}+e^{\lambda_{2}x}$$
 - for a particular solution, we have to apply boundary conditions
 	- eg: if $y(x=0)=0$ and $\frac{dy}{dx}|_{x=0}=1$
 		$y(x)= Ce^{\lambda_{1}x}+De^{\lambda_{2}x}$
@@ -45,4 +48,5 @@ $$\implies \lambda ^{2}+\lambda+2=0$$
 	- find the auxiliary equation (quadratic in $\lambda$)
 	- if there are two distinct roots, GS: $y=Ae^{\lambda_{1}x} + Be^{\lambda_{2} x}$
 	- if there are repeated roots, GS: $y=Ae^{\lambda x} + Bxe^{\lambda x}$
-	- if $\lambda_{1}=z= u+iv, \; \lambda_{2}=z^{*}=u-iv$ : $$y = e^{ux}(A\cos vx + B \sin vx)$$
+	- if $\lambda_{1}=z= u+iv, \; \lambda_{2}=z^{*}=u-iv$ :
+$$y = e^{ux}(A\cos vx + B \sin vx)$$

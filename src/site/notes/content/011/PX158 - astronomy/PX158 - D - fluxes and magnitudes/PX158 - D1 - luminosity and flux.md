@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-d-fluxes-and-magnitudes/px-158-d1-luminosity-and-flux/","created":"2024-10-01T18:50:58.095+01:00","updated":"2024-11-24T19:08:01.941+00:00"}
+dg-publish: true
 ---
-
 ## luminosity
 - power of an object
 - units: watts ($W$)
@@ -13,9 +12,11 @@ $$f = \frac{L}{4\pi d^{2}}$$
 - eg: the flux of the sun from earth
 		$L_{\odot}= 3.83\times10^{26}\, W$
 		$d = 1 \, AU = 1.5\times10^{11}\,m$
-		$$\therefore f = \frac{L_{\odot}}{4\pi d^{2}} = 1350 \, Wm^{-2}$$
+	
+$$\therefore f = \frac{L_{\odot}}{4\pi d^{2}} = 1350 \, Wm^{-2}$$
 - eg: the flux from a sun-like star at $10 \, pc$
 		$L = L_\odot$
 		$d = 10 \, pc = 10 \times 3.05\times10^{16}\,m$
-		$$\therefore f \approx 3\times10^{-10}\,Wm^{-2}$$
+	
+$$\therefore f \approx 3\times10^{-10}\,Wm^{-2}$$
 		

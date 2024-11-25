@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-j-galaxies/px-158-j3-weighing-galaxies/","created":"2024-10-01T18:27:10.327+01:00","updated":"2024-11-24T19:12:45.875+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20240306225739.png](/img/user/pics/Pasted%20image%2020240306225739.png)
 ![Pasted image 20240306225721.png](/img/user/pics/Pasted%20image%2020240306225721.png)
 - the orbital velocities appear constant right out to the limit of observations

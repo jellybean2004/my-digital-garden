@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a5-lagrange-multipliers/","created":"2024-10-07T12:47:41.137+01:00","updated":"2024-11-24T15:30:06.988+00:00"}
+dg-publish: true
 ---
-
 -  typically, given a function, $f(x,y)$, a maxima or a minima can be found via the partial derivatives, ie: 
 $$\frac{\partial f}{\partial x}=0\,;\, \frac{\partial f}{\partial y}=0$$
 - or, it can be found in terms of the total derivative, ie: 
@@ -10,7 +9,8 @@ $$df = \frac{\partial f}{\partial x}dx + \frac{\partial f}{\partial y}dy$$
 - **note:** the constraint being exactly equal to a constant is critical for this method
 
 - at the max of $f(x,y)$ subject to the constraint, $\frac{\partial f}{\partial x}\neq0;\, \frac{\partial f}{\partial y}\neq0$, but because $g(x,y)=constant$, it can be said that $dg = \frac{\partial g}{\partial x}dx+ \frac{\partial g}{\partial y}dy=0$
-- without a formal proof, a statement for the minimum/maximum condition is: $$d(f+\lambda g)=0$$
+- without a formal proof, a statement for the minimum/maximum condition is:
+$$d(f+\lambda g)=0$$
 	where, $\lambda$ is an undetermined constant, called the *lagrange multiplier*
 - the total differential will be: 
 $$\begin{gather} 

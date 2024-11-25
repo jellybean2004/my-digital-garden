@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b-coordinate-systems-and-integration/","created":"2024-11-24T02:18:14.631+00:00","updated":"2024-11-24T02:19:27.969+00:00"}
+dg-publish: true
 ---
-
 ## [[content/012/PX275 - mathematical methods/B - coordinate systems and integration/B1 - coordinate systems/B1 - coordinate systems\|B1 - coordinate systems]]
 [[content/012/PX275 - mathematical methods/B - coordinate systems and integration/B1 - coordinate systems/PX275 - B1a - cylindrical polar coordinates\|PX275 - B1a - cylindrical polar coordinates]]
 [[content/012/PX275 - mathematical methods/B - coordinate systems and integration/B1 - coordinate systems/PX275 - B1b - cylindrical polar basis vectors\|PX275 - B1b - cylindrical polar basis vectors]]

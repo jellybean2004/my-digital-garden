@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c6c-two-particles-in-1-d/","created":"2024-10-24T18:10:56.742+01:00","updated":"2024-11-24T16:18:57.152+00:00"}
+dg-publish: true
 ---
-
 ## basic case
 - consider two particles with the same mass, $m$, in positions, $x_{1}$ and $x_{2}$, so $d=4$
 - the lagrangian: 

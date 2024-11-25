@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c2-p-v-diagrams/","created":"2024-10-01T18:50:56.019+01:00","updated":"2024-11-24T19:17:12.147+00:00"}
+dg-publish: true
 ---
-
 - from $pV=nRT$, let's hold $n$ and $T$ constant
 		$p\propto \frac{1}{V}$ - *isotherms* (a curve on a diagram joining points representing states of equal temperature)
 	- ![Pasted image 20231025073214.png](/img/user/pics/Pasted%20image%2020231025073214.png) 

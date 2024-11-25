@@ -1,22 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b1-variational-principles/","created":"2024-10-04T11:34:23.364+01:00","updated":"2024-11-25T11:16:56.493+00:00"}
+dg-publish: true
 ---
-
 - allows quantities such as path lengths, and functions to be extremized 
 ![Pasted image 20241010140701.png](/img/user/pics/Pasted%20image%2020241010140701.png)
 - a person taking different paths through strips of tarmac, beach and sea
 - the time: 
-$$\tau = \sum\limits \frac{\text{distances}}{\text{velocities}}$$
+$$
+\tau = \sum\limits \frac{\text{distances}}{\text{velocities}}
+$$
 ## varitional principles in physics:
 - **optics**: fermat's law, $l(x)$ is extremal
 - **waves**: destructive interference is small for paths that interfere constructively (ie: are at the same phase), such that their phase difference is minimized
 - **relativity:** trajectories in free space, in a gravitational field for general relativity, are those that extremize (maximize here) elapsed proper time: 
-$$\tau = \int_{t_{1}}^{t_{2}} \frac{dt}{\gamma} = \int dt\sqrt{1- \frac{v^{2}}{c^{2}}}$$
+$$
+\tau = \int_{t_{1}}^{t_{2}} \frac{dt}{\gamma} = \int dt\sqrt{1- \frac{v^{2}}{c^{2}}}
+$$
 	- classical paths in flat space minimize velocity
 	- straight line paths give lower velocities, and hence higher values of $\tau$
 - **newtonian mechanics:** trajectories extremize the action
 - **electromagnetism:** 
-$$L = \frac{1}{2} \int dV \left(\epsilon_{0}E^{2}- \frac{1}{\mu_{0}} B^{2}\right)$$
+$$
+L = \frac{1}{2} \int dV \left(\epsilon_{0}E^{2}- \frac{1}{\mu_{0}} B^{2}\right)
+$$
 - **path integrals:**
 	- **quantum mechanics:** (non-examinable) 
 	$$\psi(x,t) = \sum\limits_{paths} \exp\left(\frac{1}{\hbar}\int_{t_{0}}^{t_{1}} L\,dt\right)$$

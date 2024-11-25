@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/d-stellar-structure-and-interiors/px-282-d5-energy-sources-and-timescales/","created":"2024-11-12T10:35:55.880+00:00","updated":"2024-11-24T15:56:45.589+00:00"}
+dg-publish: true
 ---
-
 $$\text{timescale} = \frac{\text{quantity}}{\text{rate of change}}$$
 ## gravitational timescale
 - $\Omega$ is a dynamical time scale: 

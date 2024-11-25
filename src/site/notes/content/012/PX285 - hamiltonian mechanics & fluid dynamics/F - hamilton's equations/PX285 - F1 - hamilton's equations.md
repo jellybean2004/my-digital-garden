@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f1-hamilton-s-equations/","created":"2024-11-07T14:06:48.978+00:00","updated":"2024-11-24T16:22:39.215+00:00"}
+dg-publish: true
 ---
-
 considering variations in the lagrangian: 
 $$\begin{align*}
 	dL (q_{i}, \dot q_{i}) &= \sum\limits_{i} \frac{\partial L}{\partial \dot q_{i}} d\dot q_{i} + \sum\limits_{i}\frac{\partial L}{\partial q_{i}} dq_{i} \\

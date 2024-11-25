@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-h-aspects-of-the-forces/px-156-h3-the-weak-force/","created":"2024-10-01T18:27:09.971+01:00","updated":"2024-11-24T19:02:05.560+00:00"}
+dg-publish: true
 ---
-
 ### charged current (CC)
 - bosons: $W^{\pm}$
 	- rest mass: $0$

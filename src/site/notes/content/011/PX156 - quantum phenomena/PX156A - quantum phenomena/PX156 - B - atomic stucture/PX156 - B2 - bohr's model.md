@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-b-atomic-stucture/px-156-b2-bohr-s-model/","created":"2024-10-01T18:27:09.851+01:00","updated":"2024-11-24T18:53:02.747+00:00"}
+dg-publish: true
 ---
-
 - electrons orbit around the nucleus
 ## quantized angular momentum
 - orbiting electrons are standing waves, the orbits must be whole number multiples of the wavelength: 

@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-d-time-independent-schrodinger-equation/px-156-d4-classical-and-quantum-particle/","created":"2024-10-01T18:27:09.892+01:00","updated":"2024-11-24T18:58:24.588+00:00"}
+dg-publish: true
 ---
-
 - for a classical particle with energy, $E:$ 
-$$v = \sqrt{\frac{2E}{m}}$$
+$$
+v = \sqrt{\frac{2E}{m}}
+$$
 - if $E>V_{0}:$ 
-$$v = \sqrt{\frac{2(E-V_{0})}{m}}$$
+$$
+v = \sqrt{\frac{2(E-V_{0})}{m}}
+$$
 
 - for a quantum particle: 
 	- if $E>V_{0}: \lambda$ increases 

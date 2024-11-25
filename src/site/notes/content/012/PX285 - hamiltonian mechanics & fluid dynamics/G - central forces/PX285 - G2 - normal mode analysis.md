@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-central-forces/px-285-g2-normal-mode-analysis/","created":"2024-11-21T14:38:04.285+00:00","updated":"2024-11-24T16:27:27.933+00:00"}
+dg-publish: true
 ---
-
 - often, mechanical systems are intrinsically coupled, and the displacement degrees of freedom move 'together' in a mode that has a characteristic frequency
 ## particle attached to a spring
 - the lagrangian: 

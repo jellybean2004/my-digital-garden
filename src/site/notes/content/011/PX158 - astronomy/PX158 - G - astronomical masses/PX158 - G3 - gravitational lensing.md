@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-g-astronomical-masses/px-158-g3-gravitational-lensing/","created":"2024-10-01T18:50:58.067+01:00","updated":"2024-11-24T19:10:04.937+00:00"}
+dg-publish: true
 ---
-
 - general relativity predicts that light will bend in a gravitational field
 - the angle of deflection due to gravitational lensing, $\alpha$, by a mass, $M:$ 
 $$\alpha = \frac{4GM}{c^{2}r}$$ nimp

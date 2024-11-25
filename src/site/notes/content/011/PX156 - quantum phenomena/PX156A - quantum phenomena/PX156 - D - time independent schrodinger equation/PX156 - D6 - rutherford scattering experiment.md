@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-d-time-independent-schrodinger-equation/px-156-d6-rutherford-scattering-experiment/","created":"2024-10-01T18:27:09.897+01:00","updated":"2024-11-24T18:59:05.443+00:00"}
+dg-publish: true
 ---
-
 - $\alpha$ particle:  $^{4}He:$ very stable $:BE=28.3\,MeV \sim ^{12}C,\, ^{16}O$
 - $^{3}He:$ less stable $:BE=8\,MeV$
 

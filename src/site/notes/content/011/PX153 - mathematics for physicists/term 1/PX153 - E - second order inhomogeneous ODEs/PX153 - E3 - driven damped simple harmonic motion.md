@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-e-second-order-inhomogeneous-od-es/px-153-e3-driven-damped-simple-harmonic-motion/","created":"2024-10-01T18:27:09.166+01:00","updated":"2024-11-25T15:36:24.109+00:00"}
+dg-publish: true
 ---
-
 *[[content/011/PX155 - classical mechanics and special reltivity/classical mechanics/PX155 - D - simple harmonic motion/PX155 - D9 - driven damped simple harmonic motion\|PX155 - D9 - driven damped simple harmonic motion]]*
 - add a periodic driving force to our damped SHM. we'll write 
 $$f(x) = A_{0}e^{i\omega t}$$
@@ -21,5 +20,6 @@ $$\ddot x + 2\alpha\dot x + \omega_{0}^{2}x = A_{0}e^{i\omega t}$$
 			$arg(a) = \tan^{-1} \frac{Im(a)}{Re(a)}$
 			$arg(a) = \phi = \tan^{-1} (\frac{-2\alpha\omega}{\omega_{0}^{2}-\omega^{2}})$
 		- find maximum of $a$ and sketch 
-		$$G.S. : x(t) = e^{-\alpha t} (Ce^{i\omega't} + De^{-i\omega't}) + Ae^{i(\omega t + \phi)}$$
+	
+$$G.S. : x(t) = e^{-\alpha t} (Ce^{i\omega't} + De^{-i\omega't}) + Ae^{i(\omega t + \phi)}$$
 			- where, $A=\sqrt{\frac{A_{0}}{(\omega_{0}^{2}-\omega^{2})+2\alpha i \omega}}$ and $\phi = \tan^{-1} (\frac{-2\alpha\omega}{\omega_{0}^{2}-\omega^{2}})$

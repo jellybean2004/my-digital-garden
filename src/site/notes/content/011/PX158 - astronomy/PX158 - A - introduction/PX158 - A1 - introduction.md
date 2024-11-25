@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-a-introduction/px-158-a1-introduction/","created":"2024-10-01T18:50:56.619+01:00","updated":"2024-11-24T19:07:09.377+00:00"}
+dg-publish: true
 ---
-
 - SI units are used in astronomy, but there are also many unique units:
 	- $M_{\odot} \equiv$ mass of the sun $\approx 2\times10^{30} \, kg$
 		- '$\odot$' represents solar

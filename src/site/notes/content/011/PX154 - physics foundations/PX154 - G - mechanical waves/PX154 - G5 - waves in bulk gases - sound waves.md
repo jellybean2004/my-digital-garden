@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-g-mechanical-waves/px-154-g5-waves-in-bulk-gases-sound-waves/","created":"2024-10-01T18:50:54.910+01:00","updated":"2024-11-24T19:25:06.808+00:00"}
+dg-publish: true
 ---
-
 ## speed of sound
 - we have longitudinal waves
 - start with our usual plot of displacement, $u(x,t) = A\cos{(kx-\omega t)}$

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-h-gradients-of-scalar-functions-of-many-variables/px-153-h6-gradient-operator/","created":"2024-10-01T18:27:09.246+01:00","updated":"2024-11-25T15:52:54.754+00:00"}
+dg-publish: true
 ---
-
 - from [[content/011/PX153 - mathematics for physicists/term 1/PX153 - H - gradients of scalar functions of many variables/PX153 - H3 - gradients of functions of three variables\|PX153 - H3 - gradients of functions of three variables]]:  
 $$\vec\nabla f =\left( \hat{\vec e}_{x} \frac{\partial }{\partial x} + \hat{\vec e}_{y} \frac{\partial }{\partial y} \right)f$$
 - we have, 
-$$\hat{\vec e}_{x} = \cos\theta \;\hat{\vec e}_{r} - \sin\theta\; \hat{\vec e}_{\theta} \; , \; \hat{\vec e}_{y} = \sin\theta \;\hat{\vec e}_{r} + \cos\theta\; \hat{\vec e}_{\theta} $$
+$$\hat{\vec e}_{x} = \cos\theta \;\hat{\vec e}_{r} - \sin\theta\; \hat{\vec e}_{\theta} \; , \; \hat{\vec e}_{y} = \sin\theta \;\hat{\vec e}_{r} + \cos\theta\; \hat{\vec e}_{\theta}
+$$
 - to find: $\hat{\vec e}_{x}  \frac{\partial f}{\partial r}$ in terms of $r, \theta$:
 	- using chain rule: 
 	$$\frac{\partial f}{\partial x} =  \frac{\partial f}{\partial r}  \frac{\partial r}{\partial x} +  \frac{\partial f}{\partial \theta}  \frac{\partial \theta}{\partial x}$$

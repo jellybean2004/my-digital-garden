@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-g-functions-of-many-variables-calculus/px-153-g1-partital-differentiation/","created":"2024-10-01T18:27:09.206+01:00","updated":"2024-11-25T15:39:52.065+00:00"}
+dg-publish: true
 ---
-
 - we need to extend calculus to cover multivariate functions
 - the derivative of a function of one variable is defined by: 
 $$df\frac{x}{dx} = \lim_{\Delta x\to \infty} \frac{f(x+\Delta x)- f(x)}{\Delta x}$$

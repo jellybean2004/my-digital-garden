@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-g-feynmann-diagrams/e-feynmann-diagrams/","created":"2024-10-01T18:27:09.945+01:00","updated":"2024-11-24T19:01:02.145+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - G - feynmann diagrams/PX156 - G1 - introduction\|PX156 - G1 - introduction]]
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - G - feynmann diagrams/PX156 - G2 - interactions\|PX156 - G2 - interactions]]
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - G - feynmann diagrams/PX156 - G3 - basic rules\|PX156 - G3 - basic rules]]

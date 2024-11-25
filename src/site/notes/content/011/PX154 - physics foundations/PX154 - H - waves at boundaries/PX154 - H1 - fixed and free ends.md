@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-h-waves-at-boundaries/px-154-h1-fixed-and-free-ends/","created":"2024-10-01T18:50:55.769+01:00","updated":"2024-11-24T19:25:25.291+00:00"}
+dg-publish: true
 ---
-
 [YF 15.6]
 
 ## fixed end

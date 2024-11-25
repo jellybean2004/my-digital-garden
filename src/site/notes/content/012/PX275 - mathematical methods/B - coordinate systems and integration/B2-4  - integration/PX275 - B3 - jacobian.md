@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b3-jacobian/","created":"2024-10-21T12:22:46.943+01:00","updated":"2024-11-24T15:33:34.362+00:00"}
+dg-publish: true
 ---
-
 - the change of variables have been made geometrically, but this can be done in a more generalized way via a method using a construct called a *jacobian*
 - to transform from $(x,y,z) \to (u,v,w)$, the jacobian for this transformation is written as:
 $$J = \frac{\partial (x,y,z)}{\partial (u,v,w)}$$

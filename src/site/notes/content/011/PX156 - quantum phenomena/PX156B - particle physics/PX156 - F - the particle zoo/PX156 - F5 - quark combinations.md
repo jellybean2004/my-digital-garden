@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-f-the-particle-zoo/px-156-f5-quark-combinations/","created":"2024-10-01T18:27:09.938+01:00","updated":"2024-11-24T19:00:43.703+00:00"}
+dg-publish: true
 ---
-
 - all non-lepton particles are formed by combining quarks and anti-quarks
 - quarks are never found alone
 - the *principle of confinement* states that quarks always combine into larger compounds, which is a property of the strong force

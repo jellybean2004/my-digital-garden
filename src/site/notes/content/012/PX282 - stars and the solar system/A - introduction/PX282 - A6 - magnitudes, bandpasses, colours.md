@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/a-introduction/px-282-a6-magnitudes-bandpasses-colours/","created":"2024-10-03T10:43:09.378+01:00","updated":"2024-11-24T15:44:12.797+00:00"}
+dg-publish: true
 ---
-
 - see: [[content/011/PX158 - astronomy/PX158 - D - fluxes and magnitudes/PX158 - D2 - brightness and magnitudes\|PX158 - D2 - brightness and magnitudes]]
 ## magnitude
 - astronomy uses magnitude to measure the brightness

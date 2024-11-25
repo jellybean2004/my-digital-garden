@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/1-introduction-a1-and-a2/px-275-a1a-total-differentiation/","created":"2024-10-03T12:18:20.750+01:00","updated":"2024-11-25T12:14:12.171+00:00"}
+dg-publish: true
 ---
-
 - for a function, $f(x,y)$, the total differential can be written as: 
 $$\begin{align*}
 	df &= \left(\frac{\partial f}{\partial x}\right)dx + \left(\frac{\partial f}{\partial y}\right)dy \\

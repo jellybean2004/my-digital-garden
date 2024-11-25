@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/a-introduction/px-282-a8-solid-angle/","created":"2024-10-17T11:37:10.004+01:00","updated":"2024-11-24T15:45:56.458+00:00"}
+dg-publish: true
 ---
-
 - a solid angle gives the area of a 'spherical cap' on the surface
 - it is the 3D equivalent of an angle
 - units: steradians, radians

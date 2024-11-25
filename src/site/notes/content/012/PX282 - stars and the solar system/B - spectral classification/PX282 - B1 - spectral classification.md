@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/b-spectral-classification/px-282-b1-spectral-classification/","created":"2024-10-15T10:07:15.749+01:00","updated":"2024-11-24T15:46:29.400+00:00"}
+dg-publish: true
 ---
-
 - circa 1802, lines were noticed on the solar spectrum, which were labelled in 1814: $Na\,I$, $Ca\,II$, $H$, $K$
 - in 1859, kirchoff and bunsen found lines in the lab, arising from transitions of electrons between energy states
 

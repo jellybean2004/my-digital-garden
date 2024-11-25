@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-b-the-celestial-sphere/px-158-b2-maximum-altitude/","created":"2024-10-01T18:50:56.522+01:00","updated":"2024-11-24T19:07:28.972+00:00"}
+dg-publish: true
 ---
-
 ## alt/az grid
 - for a local observer
 - *altitude* is defined as:

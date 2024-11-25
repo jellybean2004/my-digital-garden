@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/c-vector-calculus/px-275-c1c-interpretation-of-div/","created":"2024-10-28T12:53:40.068+00:00","updated":"2024-11-25T12:32:00.910+00:00"}
+dg-publish: true
 ---
-
 - consider the electric field due to a charge
 ![Pasted image 20241028123835.png](/img/user/pics/Pasted%20image%2020241028123835.png)
 $$\vec E = \frac{Q}{4\pi\epsilon_{0} r^{2}} (\sin\theta\cos\phi \hat i + \sin\theta\sin\phi\hat j + \cos\theta\hat k) = \frac{Q}{4\pi\epsilon_{0}r^{2}} \hat e_{r}$$

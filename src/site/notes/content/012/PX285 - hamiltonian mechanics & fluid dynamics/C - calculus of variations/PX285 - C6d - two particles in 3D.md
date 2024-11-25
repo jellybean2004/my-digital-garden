@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c6d-two-particles-in-3-d/","created":"2024-10-24T18:29:04.094+01:00","updated":"2024-11-24T16:19:08.155+00:00"}
+dg-publish: true
 ---
-
 ## basic case
 - consider two particles with the same mass, $m$, in positions, $(x_{1},y_{1},z_{1})$ and ${} (x_{2},y_{2},z_{2}) {}$, so $d=6$
 - the lagrangian: 

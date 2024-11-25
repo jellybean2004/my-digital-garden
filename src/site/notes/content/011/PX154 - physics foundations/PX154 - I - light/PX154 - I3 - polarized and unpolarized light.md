@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-i-light/px-154-i3-polarized-and-unpolarized-light/","created":"2024-10-01T18:50:55.244+01:00","updated":"2024-11-24T19:26:48.604+00:00"}
+dg-publish: true
 ---
-
 - most sources produce unpolarized light
 	- contains a random mix of polarizations
 - polarized lights are produced by: LCD displays, by scattering (eg: sky + sunlight), by reflection (brewster's law), bi-refringent crystals, using a polarizing filter

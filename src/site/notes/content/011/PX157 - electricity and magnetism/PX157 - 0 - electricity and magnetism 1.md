@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-0-electricity-and-magnetism-1/","created":"2024-10-01T18:50:56.278+01:00","updated":"2024-11-24T16:31:38.330+00:00"}
+dg-publish: true
 ---
-
 ## lecture notes
 ### [[content/011/PX157 - electricity and magnetism/PX157 - A - coulomb's law/A - coulomb's law\|A - coulomb's law]]
 [[content/011/PX157 - electricity and magnetism/PX157 - A - coulomb's law/PX157 - A1 - introduction\|PX157 - A1 - introduction]]

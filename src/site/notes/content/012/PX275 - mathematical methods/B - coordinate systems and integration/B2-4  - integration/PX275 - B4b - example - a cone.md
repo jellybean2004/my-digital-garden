@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b4b-example-a-cone/","created":"2024-10-24T12:17:12.482+01:00","updated":"2024-11-24T15:34:14.652+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241024121733.png](/img/user/pics/Pasted%20image%2020241024121733.png)
 - taking a cone of radius, $1m$, and height, $3m$, by revolving the line, $y=\frac{x}{3}$, around the $x$-axis 
 $$\begin{align*}

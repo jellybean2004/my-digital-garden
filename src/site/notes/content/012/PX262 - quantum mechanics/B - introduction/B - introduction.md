@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/b-introduction/","created":"2024-10-07T11:32:11.975+01:00","updated":"2024-11-25T11:16:00.564+00:00"}
+dg-publish: true
 ---
-
 [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B1 - the schrödinger equation\|PX262 - B1 - the schrödinger equation]]
 [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B2 - time independent schrödinger equation\|PX262 - B2 - time independent schrödinger equation]]
 [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B3 - boundary conditions\|PX262 - B3 - boundary conditions]]

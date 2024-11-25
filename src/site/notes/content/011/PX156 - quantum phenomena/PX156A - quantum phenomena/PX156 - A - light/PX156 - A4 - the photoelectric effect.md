@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-a-light/px-156-a4-the-photoelectric-effect/","created":"2024-10-01T18:27:09.838+01:00","updated":"2024-11-24T18:51:46.756+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20240429224334.png](/img/user/pics/Pasted%20image%2020240429224334.png)
 - the emission of electrons from a metal surface due to incident electromagnetic radiation
 

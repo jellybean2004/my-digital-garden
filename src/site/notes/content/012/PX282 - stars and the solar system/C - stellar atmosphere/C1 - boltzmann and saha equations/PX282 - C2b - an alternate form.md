@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c1-boltzmann-and-saha-equations/px-282-c2b-an-alternate-form/","created":"2024-10-17T11:48:52.193+01:00","updated":"2024-11-24T15:47:57.290+00:00"}
+dg-publish: true
 ---
-
 - [[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1 - boltzmann and saha equations/PX282 - C2a - the boltzmann equation\|the boltzmann equation]] can be written in an alternate form to get $\frac{N_{A}}{N}$ 
 - $N$ is the total number of electrons: 
 $$N = \sum\limits_{m=1}^{\infty}N_{m}$$

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-f-the-particle-zoo/px-156-f3-leptons/","created":"2024-10-01T18:27:09.932+01:00","updated":"2024-11-24T19:00:38.233+00:00"}
+dg-publish: true
 ---
-
 ## properties
 ![Pasted image 20240427185037.png](/img/user/pics/Pasted%20image%2020240427185037.png)
 - leptons don't carry colour charge

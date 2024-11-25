@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-k-accelerators-and-detectors/px-156-k1-introduction/","created":"2024-10-01T18:27:10.021+01:00","updated":"2024-11-24T19:04:35.364+00:00"}
+dg-publish: true
 ---
-
 - all accelerators are riffs on a basic theme: *electrostatics* and *magneto dynamics*
 $$F = q\,\vec E + q\,\vec v \times \vec B$$
 - ${} q\vec E$ used for linear acceleration

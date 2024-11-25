@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-285-c3-the-canonical-ensemble/","created":"2024-11-15T10:23:54.009+00:00","updated":"2024-11-25T01:24:35.863+00:00"}
+dg-publish: true
 ---
-
 - considering a system with an energy, $E_{i}$, connected with an extremely large heat bath (reservoir) such that, $E_{bath} = E - E_{i}$, $\Omega_{bath}(E-E{i})$, and $T$
 - for the system, temperature $T$, number of particles $N$, and volume $V$ are fixed
 - assuming that the probability of the system in a particular state, $E_{i}$, is proportional to the number of microstates available to the bath in the state: 

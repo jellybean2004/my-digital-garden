@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-a-vectors/px-153-a4-vector-operations/","created":"2024-10-01T18:27:09.038+01:00","updated":"2024-11-25T15:24:24.319+00:00"}
+dg-publish: true
 ---
-
 ## addition and subtraction
 $$\vec u \pm \vec v = (u_x\pm v_x,\; u_y\pm v_y,\; u_z\pm v_z)$$
 - properties
@@ -43,7 +42,8 @@ $$\underline{\hat i}\cdot \underline{\hat i}=\underline{\hat j}\cdot \underline{
 ![Pasted image 20231004203051.png](/img/user/pics/Pasted%20image%2020231004203051.png)
 - $\vec v$ is a vector perpendicular to the plane of $\vec u$ and $\vec w$
 	- magnitude $uw\sin{\theta}$ 
-	- direction is set by the right-hand rule $$\vec v = uw\sin{\theta}\underline{\hat e}_v$$
+	- direction is set by the right-hand rule
+$$\vec v = uw\sin{\theta}\underline{\hat e}_v$$
 	- $\vec v$ is the same independent of the coordinate system, its component in a given basis changes
 - cases
 	- if $\vec u$ and $\vec w$ are parallel, $\theta = 0$ and $\vec u \times \vec w = 0$

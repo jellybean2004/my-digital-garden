@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a3a-the-chain-rule/","created":"2024-10-04T14:00:20.085+01:00","updated":"2024-11-24T15:26:13.836+00:00"}
+dg-publish: true
 ---
-
 - consider the elevation $h(x,y)$ at a point P(x,y)
 ![Pasted image 20241004170519.png](/img/user/pics/Pasted%20image%2020241004170519.png)
 - walk a distance, $s$, to get to the point, $P$

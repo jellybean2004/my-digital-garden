@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/px-153-0-mathematics-for-physicists/","created":"2024-10-01T18:50:56.633+01:00","updated":"2024-11-24T16:31:16.570+00:00"}
+dg-publish: true
 ---
-
 [moodle](https://moodle.warwick.ac.uk/course/view.php?id=61265)
 [[content/011/PX153 - mathematics for physicists/term 2/review before exam\|review before exam]]
 # lecture notes

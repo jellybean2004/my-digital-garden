@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/a-introduction/px-282-a2-hertzsprung-russel-diagrams/","created":"2024-10-03T10:06:54.683+01:00","updated":"2024-11-24T15:43:17.653+00:00"}
+dg-publish: true
 ---
-
 - see:
 	- [[content/011/PX158 - astronomy/PX158 - I - stars/PX158 - I1 - hertzprung-russell diagram\|PX158 - I1 - hertzprung-russell diagram]]
 	- [[content/011/PX158 - astronomy/PX158 - I - stars/PX158 - I3 - theoretician's H-R diagram\|PX158 - I3 - theoretician's H-R diagram]]

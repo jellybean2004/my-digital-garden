@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c2-14-stellar-atmospheres/px-282-c6-radiation-matter-interactions/","created":"2024-10-17T19:57:29.929+01:00","updated":"2024-11-24T15:50:23.496+00:00"}
+dg-publish: true
 ---
-
 - consider light with an intensity, $I_\lambda$ passing through a material of thickness, $dz$
 - the emergent light will have a new intensity, $I_{\lambda}'$
 ## absorption

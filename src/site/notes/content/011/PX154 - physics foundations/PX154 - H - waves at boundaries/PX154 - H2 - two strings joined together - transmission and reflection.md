@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-h-waves-at-boundaries/px-154-h2-two-strings-joined-together-transmission-and-reflection/","created":"2024-10-01T18:50:55.861+01:00","updated":"2024-11-24T19:25:46.861+00:00"}
+dg-publish: true
 ---
-
 ## introduction
 - string 1, and string 2 are joined at $x_{0}$
 - the join is *perfect*

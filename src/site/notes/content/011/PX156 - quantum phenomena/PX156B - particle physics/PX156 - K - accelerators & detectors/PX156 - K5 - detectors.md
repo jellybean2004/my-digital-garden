@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-k-accelerators-and-detectors/px-156-k5-detectors/","created":"2024-10-01T18:27:10.033+01:00","updated":"2024-11-24T19:05:04.471+00:00"}
+dg-publish: true
 ---
-
 - collider detectors are onion-like with different types of sub detectors with different types of subdetectors doing different things to 'reconstruct' particles coming from a collision
 ## tracker 
 - detects and tracks charged particles close to the interaction point

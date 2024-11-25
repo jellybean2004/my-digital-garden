@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-g-feynmann-diagrams/px-156-g2-interactions/","created":"2024-10-01T18:27:09.951+01:00","updated":"2024-11-24T19:01:13.948+00:00"}
+dg-publish: true
 ---
-
 ## scattering
 $$e^{-}(1) + e^{+}(2) \to e^{-}(3)+ e^{+}(4)$$
 - **process 1**: an $e^{-}$ emits a photon that is absorbed by an $e^{+}$ 

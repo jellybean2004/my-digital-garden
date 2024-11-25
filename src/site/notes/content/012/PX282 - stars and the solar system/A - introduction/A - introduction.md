@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/a-introduction/a-introduction/","created":"2024-10-03T10:00:44.420+01:00","updated":"2024-11-24T15:42:59.133+00:00"}
+dg-publish: true
 ---
-
 [[content/012/PX282 - stars and the solar system/A - introduction/PX282 - A0 - intro\|PX282 - A0 - intro]]
 [[content/012/PX282 - stars and the solar system/A - introduction/PX282 - A1 - a star\|PX282 - A1 - a star]]
 [[content/012/PX282 - stars and the solar system/A - introduction/PX282 - A2 - hertzsprung-russel diagrams\|PX282 - A2 - hertzsprung-russel diagrams]]

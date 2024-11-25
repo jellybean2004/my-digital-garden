@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e2-eigenvalues-and-eigenfunctions/","created":"2024-11-05T11:07:21.185+00:00","updated":"2024-11-24T01:12:11.601+00:00"}
+dg-publish: true
 ---
-
 - using spherical coordinates: 
 $$\begin{gather}
 	x = r\sin\theta\cos\phi \\
@@ -29,14 +28,16 @@ $$\begin{align*}
 	\hat L_{z} Y &= \nu Y 
 \end{align*}$$
 - using separation of variables: 
-  $$Y(\theta,\phi) = \Theta(\theta) \, \Phi(\phi)$$
+ 
+$$Y(\theta,\phi) = \Theta(\theta) \, \Phi(\phi)$$
 - taking the eigenvalue equation for $\hat L_{z}:$ 
 $$\begin{align*}
 	-\hbar \frac{\partial }{\partial \phi} \Theta(\theta)\,\Phi(\phi) &= \nu\,\Theta(\theta)\,\Phi(\phi) \\
 	-\hbar \frac{\partial \Phi(\phi)}{\partial \phi} &= \nu\,\Phi(\phi)
 \end{align*}$$
 - the general solution for this equation is: 
-  $$\Phi = C\exp\left(\frac{i\nu\phi}{\hbar}\right)$$
+ 
+$$\Phi = C\exp\left(\frac{i\nu\phi}{\hbar}\right)$$
 	where $C$ is the normalization constant
 - with $\phi$ being the angle, the answer should stay the same after a rotation by $2\pi$, ie: $\Phi(\phi+2\pi) = \Phi(\phi)$
 - therefore, it is required that $\frac{\nu}{\hbar}=m$, where $m$ is an integer
@@ -48,7 +49,8 @@ $$\begin{align*}
 	\therefore C &= \frac{1}{\sqrt{2\pi}}
 \end{align*}$$
 - therefore, the eigenfunctions have the form: 
-  $$\Phi = \frac{1}{\sqrt{2\pi}} e^{im\phi}$$
+ 
+$$\Phi = \frac{1}{\sqrt{2\pi}} e^{im\phi}$$
 	where the eigenvalues would be: $\nu = \hbar m$
 
 - with $\phi$-dependence fixed, looking at $\hat{\vec L}^{2}:$ 
@@ -59,11 +61,14 @@ $$\begin{align*}
 	-\hbar^{2}\sin\theta \frac{d}{d\theta}\left(\sin\theta \frac{d\Theta(\theta)}{d\theta}\right) + \hbar^{2}\Theta(\theta) m^{2} - \lambda \sin^{2}\theta \, \Theta(\theta) &= 0
 \end{align*}$$
 - substituting $v = \cos\theta:$
-  $$\frac{d}{d\theta}= -\sin\theta \frac{d}{dv} = - (1-v^{2})^{\frac{1}{2}} \frac{d}{dv}$$
+ 
+$$\frac{d}{d\theta}= -\sin\theta \frac{d}{dv} = - (1-v^{2})^{\frac{1}{2}} \frac{d}{dv}$$
 - $\Theta(\theta)$ can be rewritten as $P(v):$ 
-  $$\hbar^{2} \frac{d}{dv}\left[ (1-v^{2})^{\frac{1}{2}} \frac{dP(v)}{dv}\right] + \left[\lambda - \frac{\hbar^{2}m^{2}}{1-v^{2}}\right] = 0$$
+ 
+$$\hbar^{2} \frac{d}{dv}\left[ (1-v^{2})^{\frac{1}{2}} \frac{dP(v)}{dv}\right] + \left[\lambda - \frac{\hbar^{2}m^{2}}{1-v^{2}}\right] = 0$$
 - solving explicitly for $m=0$, looking at the solution in the form $P(v) = \sum\limits_{p=0}^{\infty} a_{p}v^{p}:$ 
-  $$\lambda = \hbar^{2}l(l+1)$$
+ 
+$$\lambda = \hbar^{2}l(l+1)$$
 	where, $l$ is a positive integer
 - the functions, ${} P(v)$, are well known polynomials, *legendre polynomials*: 
 $$\begin{align*}
@@ -76,13 +81,16 @@ $$\begin{align*}
 - functions for $m\neq0$ follow the same steps, but the maths is quite complicated, hence the details are skipped
 
 - the solutions in terms of $P(v)$, given by functions: 
-  $$P_{l}^{m } (v) = (1-v^{2})^{\frac{|m|}{2}} \frac{d^{|m|}P_{l}}{dv^{|m|}}$$
+ 
+$$P_{l}^{m } (v) = (1-v^{2})^{\frac{|m|}{2}} \frac{d^{|m|}P_{l}}{dv^{|m|}}$$
 - if $|m|>l$, the derivative will be zero, therefore making the solution zero, therefore the values of $m$ are restricted to $|m|\leq l$
 - the eigenfunctions of $\hat L^{2}$ and $\hat L_{z}$ are: 
-  $$Y_{l,m}(\theta,\phi) = (-1)^{m} \left[ \frac{2l+1}{4\pi} \frac{(l-|m|)!}{(l+|m|)!} \right]^{\frac{1}{2}} P_{l}^{|m|} (\cos\theta)\,\exp(im\phi)$$
+ 
+$$Y_{l,m}(\theta,\phi) = (-1)^{m} \left[ \frac{2l+1}{4\pi} \frac{(l-|m|)!}{(l+|m|)!} \right]^{\frac{1}{2}} P_{l}^{|m|} (\cos\theta)\,\exp(im\phi)$$
 - the functions, $Y_{l,m}(\theta,\phi)$, are called *spherical harmonics*
 - the factor in the brackets is the normalization factor such that: 
-  $$\int_{0}^{2\pi} \int_{0}^{\pi} |Y_{l,m}(\theta,\phi)|^{2} \,\sin\theta\,d\theta\,d\phi =1$$
+ 
+$$\int_{0}^{2\pi} \int_{0}^{\pi} |Y_{l,m}(\theta,\phi)|^{2} \,\sin\theta\,d\theta\,d\phi =1$$
 - $(-1)^{m}$ is purely a convention
 
 - these functions are orthogonal and form a complete set, so any general wavefunction can be written as a linear combination of $Y_{lm}(\theta,\phi)$ 
@@ -100,6 +108,7 @@ $$\begin{align*}
 	\hat L_{+} &= \hat L_{x} + i \hat L_{y} \\
 	\hat L_{-} &= \hat L_{x} - i \hat L_{y} 
 \end{align*}$$
-$$\hat L_{\pm} Y_{l,m}(\theta,\phi) = \sqrt{(l\mp m)(l\pm m+1 )} \hbar \, Y_{l,m+1 }(\theta,\phi) $$
+$$\hat L_{\pm} Y_{l,m}(\theta,\phi) = \sqrt{(l\mp m)(l\pm m+1 )} \hbar \, Y_{l,m+1 }(\theta,\phi)
+$$
 
 ![Pasted image 20241106211601.png](/img/user/pics/Pasted%20image%2020241106211601.png)

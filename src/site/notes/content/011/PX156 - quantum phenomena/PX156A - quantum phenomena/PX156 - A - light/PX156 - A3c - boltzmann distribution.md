@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-a-light/px-156-a3c-boltzmann-distribution/","created":"2024-10-01T18:27:09.836+01:00","updated":"2024-11-24T18:51:28.136+00:00"}
+dg-publish: true
 ---
-
 $$P(E) \sim \exp(-\beta E)$$
 	where, $\beta = \frac{1}{k_{B}T}$
 $$P(nhf) = \frac{\exp(-\beta\,nhf)}{\sum\limits_{n}^{\infty} \exp(-\beta\,nhf)}$$

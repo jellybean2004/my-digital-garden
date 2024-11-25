@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-j-particle-decays-and-relativistic-kinematics/px-156-j2-decay-channels/","created":"2024-10-01T18:27:10.005+01:00","updated":"2024-11-24T19:03:29.356+00:00"}
+dg-publish: true
 ---
-
 - particles can decay to different final states with different characteristic decay rates, $\Gamma_{i}$
 - each different final state is called a '*channel*'
 - each $\Gamma_{i}:$ 'partial decay rate'

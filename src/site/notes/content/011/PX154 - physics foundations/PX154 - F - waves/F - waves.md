@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/f-waves/","created":"2024-10-01T18:50:55.102+01:00","updated":"2024-11-24T19:22:08.422+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX154 - physics foundations/PX154 - F - waves/PX154 - F1a - concepts and definitions\|PX154 - F1a - concepts and definitions]]
 [[content/011/PX154 - physics foundations/PX154 - F - waves/PX154 - F1b - the wave function\|PX154 - F1b - the wave function]]
 [[content/011/PX154 - physics foundations/PX154 - F - waves/PX154 - F1c - propagation\|PX154 - F1c - propagation]]

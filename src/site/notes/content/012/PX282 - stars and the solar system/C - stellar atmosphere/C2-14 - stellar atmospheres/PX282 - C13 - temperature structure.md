@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c2-14-stellar-atmospheres/px-282-c13-temperature-structure/","created":"2024-10-31T10:29:53.217+00:00","updated":"2024-11-24T15:53:57.758+00:00"}
+dg-publish: true
 ---
-
 - the radiation pressure: 
 $$P_{rad}= \frac{4\pi}{3c}\langle{I}\rangle$$
 - this concept of $P_{rad}$ can be linked to the flux, $F$, to relate $T$ with $z$ and $\tau$

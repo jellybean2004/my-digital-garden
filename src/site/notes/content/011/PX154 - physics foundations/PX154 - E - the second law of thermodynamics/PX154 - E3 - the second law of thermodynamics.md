@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-e-the-second-law-of-thermodynamics/px-154-e3-the-second-law-of-thermodynamics/","created":"2024-10-01T18:50:55.616+01:00","updated":"2024-11-24T19:20:59.823+00:00"}
+dg-publish: true
 ---
-
 - this is a macroscopic law: obeyed by statistically significant number of particles
 - it is an empirical law that has never been observed to fail
 ## kelvine-planck

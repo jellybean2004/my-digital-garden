@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics/","created":"2024-10-03T14:04:26.295+01:00","updated":"2024-11-24T16:27:42.118+00:00"}
+dg-publish: true
 ---
-
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/A - introduction/A - introduction\|A - introduction]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/A - introduction/PX285 - A1 - newton's laws\|PX285 - A1 - newton's laws]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/A - introduction/PX285 - A2a - conservation laws\|PX285 - A2a - conservation laws]]

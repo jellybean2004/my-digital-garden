@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c2-14-stellar-atmospheres/px-282-c11b-understanding-the-radiative-transfer-equation/","created":"2024-10-29T10:36:11.202+00:00","updated":"2024-11-24T15:53:13.958+00:00"}
+dg-publish: true
 ---
-
 - the radiative transfer equation (RTE): 
 $$\frac{dI_{\lambda}}{d\tau_{\lambda}} = I_{\lambda}- S_{\lambda}$$
 ## local thermal equilibrium (LTE)

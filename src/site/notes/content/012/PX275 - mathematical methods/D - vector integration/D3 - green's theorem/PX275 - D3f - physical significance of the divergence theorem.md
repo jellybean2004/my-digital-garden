@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d3-green-s-theorem/px-275-d3f-physical-significance-of-the-divergence-theorem/","created":"2024-11-14T12:30:20.781+00:00","updated":"2024-11-24T15:39:38.717+00:00"}
+dg-publish: true
 ---
-
 ## example 1 
 ![Pasted image 20241114123030.png](/img/user/pics/Pasted%20image%2020241114123030.png)
 - looking at the velocity field of a flow of water, $\vec F$, which is uniform

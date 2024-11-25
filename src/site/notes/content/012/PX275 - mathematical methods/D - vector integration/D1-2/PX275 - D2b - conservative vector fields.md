@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d1-2/px-275-d2b-conservative-vector-fields/","created":"2024-11-04T12:43:41.889+00:00","updated":"2024-11-24T15:37:39.234+00:00"}
+dg-publish: true
 ---
-
 ## conditions
 - consider the integral: 
 $$I = \int \vec a \cdot d\vec r$$
@@ -27,14 +26,17 @@ $$\int_{A}^{B} \vec a \cdot d\vec r = \phi(B) - \phi(A)$$
 
  - considering $\vec G:$
 	 - for path $OAB:$ 
-	 $$\int_{OAB} \vec G \cdot d\vec r = \int_{x=0}^{x=1} x\,\hat i \cdot dx\, \hat i + \int_{y=0}^{y=1} x\,\hat i \cdot dy\, \hat j = \frac{1}{2}$$
+	
+$$\int_{OAB} \vec G \cdot d\vec r = \int_{x=0}^{x=1} x\,\hat i \cdot dx\, \hat i + \int_{y=0}^{y=1} x\,\hat i \cdot dy\, \hat j = \frac{1}{2}$$
 	 - for path $OB:$ 
-	 $$\int_{OB} \vec G \cdot d\vec r = \int_{OB} x\,\hat i \cdot (dx\,\hat i + dy\,\hat j) = \int_{x=0}^{x=1} x\,dx =\frac{1}{2}$$
+	
+$$\int_{OB} \vec G \cdot d\vec r = \int_{OB} x\,\hat i \cdot (dx\,\hat i + dy\,\hat j) = \int_{x=0}^{x=1} x\,dx =\frac{1}{2}$$
 - considering $\vec H:$
 	- for path $OAB:$ 
 	$$\int_{OAB} \vec H \cdot d\vec r = \int_{x=0}^{x=1} x\,\hat j \cdot dx\, \hat i + \int_{y=0,x=1}^{y=1} x\,\hat j \cdot dy\, \hat j = 1$$
 	 - for path $OB:$ 
-	 $$\int_{OB} \vec H \cdot d\vec r = \int_{OB} x\,\hat j \cdot (dx\,\hat i + dy\,\hat j) = \int_{y=0, x=y}^{y=1} x\,dy =\frac{1}{2}$$
+	
+$$\int_{OB} \vec H \cdot d\vec r = \int_{OB} x\,\hat j \cdot (dx\,\hat i + dy\,\hat j) = \int_{y=0, x=y}^{y=1} x\,dy =\frac{1}{2}$$
 - this is sufficient proof to show that $\vec H$ is non-conservative, but not to show that $\vec G$ is conservative as all paths need to be considered
 
 - $\vec G$ does not have curl, therefore it is conservative, and has no path-dependence

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c2-14-stellar-atmospheres/px-282-c5-definitions/","created":"2024-10-17T10:35:07.387+01:00","updated":"2024-11-24T15:50:05.423+00:00"}
+dg-publish: true
 ---
-
 - consider  ray of light, which has a specific intensity, $I_\lambda$ (specific because it is in a specific wavelength range, $\lambda\to\lambda+d\lambda$), at an angle, $\theta$, with the $z$-axis
 - $I_\lambda$ depends on the direction, the location, and the wavelength
 - the flux, $F$, is the energy rate in a direction per unit area

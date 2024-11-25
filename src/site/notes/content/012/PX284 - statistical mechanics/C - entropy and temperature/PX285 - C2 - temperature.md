@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-285-c2-temperature/","created":"2024-11-15T10:09:24.054+00:00","updated":"2024-11-24T16:08:49.258+00:00"}
+dg-publish: true
 ---
-
 - considering two systems that can exchange energy, and the combined system is isolated
 - **equilibrium** is reached when $\Omega_{tot}$ is maximized: 
 $$\begin{gather*}

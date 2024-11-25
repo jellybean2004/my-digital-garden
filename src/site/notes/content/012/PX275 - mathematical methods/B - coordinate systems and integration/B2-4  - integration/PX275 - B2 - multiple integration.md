@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b2-multiple-integration/","created":"2024-10-17T12:49:21.890+01:00","updated":"2024-11-24T15:32:48.536+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241017125026.png](/img/user/pics/Pasted%20image%2020241017125026.png)
 $$area = \int_{y_{1}}^{y_{2}} \int_{x_{1}}^{x_{2}} dA$$
 	where, $dA = dx\,dy$

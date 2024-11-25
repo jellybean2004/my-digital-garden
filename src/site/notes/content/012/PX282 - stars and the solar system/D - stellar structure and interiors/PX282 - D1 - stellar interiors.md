@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/d-stellar-structure-and-interiors/px-282-d1-stellar-interiors/","created":"2024-11-05T10:07:34.831+00:00","updated":"2024-11-24T15:54:46.910+00:00"}
+dg-publish: true
 ---
-
 - consider a spherically-symmetric star of a radius, $r$, and a mass, $M_{r}$, which has a spherical shell of a thickness, $dr$, and a mass, ${} dm {}$, with a density, $\rho(r)$
 - $L_r$ is the luminosity coming from inside the shell
 - the stellar structure equations: 

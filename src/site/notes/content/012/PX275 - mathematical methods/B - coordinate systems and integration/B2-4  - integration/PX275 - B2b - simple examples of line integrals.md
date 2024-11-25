@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b2b-simple-examples-of-line-integrals/","created":"2024-10-21T12:14:58.339+01:00","updated":"2024-11-24T15:33:10.072+00:00"}
+dg-publish: true
 ---
-
 ## length of a line
 ![Pasted image 20241021122320.png](/img/user/pics/Pasted%20image%2020241021122320.png)
 - a length, $s:$ 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b3a-hyperbolic-coordinates/","created":"2024-10-21T12:44:29.821+01:00","updated":"2024-11-24T15:33:46.414+00:00"}
+dg-publish: true
 ---
-
 - consider the thermodynamics of an ideal gas: $pV = nRT$
 ![Pasted image 20241021124456.png](/img/user/pics/Pasted%20image%2020241021124456.png)
 - whilst, it can be integrated over the area, $\Omega$, it would be better to find another region

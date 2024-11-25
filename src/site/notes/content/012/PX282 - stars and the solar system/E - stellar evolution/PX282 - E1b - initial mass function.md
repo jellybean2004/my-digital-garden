@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/e-stellar-evolution/px-282-e1b-initial-mass-function/","created":"2024-11-21T10:22:58.672+00:00","updated":"2024-11-24T16:01:01.893+00:00"}
+dg-publish: true
 ---
-
 - stars are born with the same mass distribution: 
 $$f(M)\,dM \propto M^{-\gamma} \, dM$$
 	where, $\gamma \approx 2.4$

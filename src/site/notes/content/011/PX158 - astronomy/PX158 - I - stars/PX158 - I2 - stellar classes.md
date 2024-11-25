@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i2-stellar-classes/","created":"2024-10-01T18:50:57.882+01:00","updated":"2024-11-24T19:10:48.322+00:00"}
+dg-publish: true
 ---
-
 ## main-sequence
 - star is fusing hydrogen in its core
 - covers the majority of a star's lifetime: $\sim Myr \to 100-1000\,Gyr$

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/a-introduction/px-282-a9-connection-to-luminousity/","created":"2024-10-10T10:13:51.892+01:00","updated":"2024-11-24T15:46:15.688+00:00"}
+dg-publish: true
 ---
-
 - luminosity is the total energy emitted: 
 $$\begin{align*}
 	L &= \int d\Omega \int_{star} dA \int_{0}^{\infty}B_{\lambda}\,d\lambda \\

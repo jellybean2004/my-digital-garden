@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b1-coordinate-systems/px-275-b1a-cylindrical-polar-coordinates/","created":"2024-10-15T14:49:17.221+01:00","updated":"2024-11-24T15:31:09.570+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241015145126.png](/img/user/pics/Pasted%20image%2020241015145126.png)
 at point ${} P:$ 
 $$\begin{gather}

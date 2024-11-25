@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/c-vector-calculus/px-275-c1e-examples-of-curl/","created":"2024-10-28T12:53:15.776+00:00","updated":"2024-11-24T15:35:27.203+00:00"}
+dg-publish: true
 ---
-
 ## 1
 - consider water flowing with a velocity, $\vec v$, in the $\hat i$ direction: $\vec v = x\hat i$
 - the curl: 

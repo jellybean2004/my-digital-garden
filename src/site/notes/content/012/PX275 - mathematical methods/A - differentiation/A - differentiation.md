@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/a-differentiation/","created":"2024-10-03T12:04:06.923+01:00","updated":"2024-11-24T02:14:38.579+00:00"}
+dg-publish: true
 ---
-
 [[content/012/PX275 - mathematical methods/A - differentiation/1 - introduction A1 & A2/PX275 - A1 - partial differentiation\|PX275 - A1 - partial differentiation]]
 [[content/012/PX275 - mathematical methods/A - differentiation/1 - introduction A1 & A2/PX275 - A1a - total differentiation\|PX275 - A1a - total differentiation]]
 [[content/012/PX275 - mathematical methods/A - differentiation/1 - introduction A1 & A2/PX275 - A2 - exact and inexact differentials\|PX275 - A2 - exact and inexact differentials]]

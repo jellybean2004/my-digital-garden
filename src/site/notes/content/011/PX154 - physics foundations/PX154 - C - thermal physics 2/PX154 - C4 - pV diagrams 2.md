@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c4-p-v-diagrams-2/","created":"2024-10-01T18:50:56.128+01:00","updated":"2024-11-24T19:17:19.574+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20231025074824.png](/img/user/pics/Pasted%20image%2020231025074824.png)
 ![Pasted image 20231031184808.png](/img/user/pics/Pasted%20image%2020231031184808.png) [YF fig 18.7]
 - at *high temperature, very similar results* from ideal gas and vdW equations

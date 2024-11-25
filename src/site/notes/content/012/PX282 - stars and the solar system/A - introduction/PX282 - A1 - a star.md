@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/a-introduction/px-282-a1-a-star/","created":"2024-10-03T10:02:22.503+01:00","updated":"2024-11-24T15:43:14.516+00:00"}
+dg-publish: true
 ---
-
 - a body bound by self-gravity
 - radiates energy from an internal source
 - massive enough for nuclear fusion of hydrogen atoms

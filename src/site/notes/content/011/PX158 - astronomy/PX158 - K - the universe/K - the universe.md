@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-k-the-universe/k-the-universe/","created":"2024-10-01T18:27:10.333+01:00","updated":"2024-11-24T19:12:54.281+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX158 - astronomy/PX158 - K - the universe/PX158 - K1 - hubble's law\|PX158 - K1 - hubble's law]]
 [[content/011/PX158 - astronomy/PX158 - K - the universe/PX158 - K2 - the age of the universe\|PX158 - K2 - the age of the universe]]
 [[content/011/PX158 - astronomy/PX158 - K - the universe/PX158 - K3 - cosmic microwave background\|PX158 - K3 - cosmic microwave background]]

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/e-stellar-evolution/px-285-e5-post-main-sequence-evolution/","created":"2024-11-21T10:33:13.328+00:00","updated":"2024-11-24T16:02:24.433+00:00"}
+dg-publish: true
 ---
-
 - a helium core and a hydrogen-burning shell
 - core exhausted hydrogen first as it has a higher temperature
 - the shell feeds the core with helium

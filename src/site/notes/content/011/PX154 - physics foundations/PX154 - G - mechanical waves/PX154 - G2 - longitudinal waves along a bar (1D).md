@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-g-mechanical-waves/px-154-g2-longitudinal-waves-along-a-bar-1-d/","created":"2024-10-01T18:50:54.959+01:00","updated":"2024-11-24T19:24:32.081+00:00"}
+dg-publish: true
 ---
-
 - when the end of a bar is hit, a compression is created within the bar that then will propagate along it
 - let's say the element $dx$ is compressed by an amount $d\sigma$ 
 	- [YF fig 11.14] stress/strain

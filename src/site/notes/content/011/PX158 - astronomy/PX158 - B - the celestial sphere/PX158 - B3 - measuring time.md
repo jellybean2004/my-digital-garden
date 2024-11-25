@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-b-the-celestial-sphere/px-158-b3-measuring-time/","created":"2024-10-01T18:50:56.547+01:00","updated":"2024-11-24T19:07:31.774+00:00"}
+dg-publish: true
 ---
-
 ## a day
 - ***sidereal day*** : a full rotation of the earth $\approx 23 \,h \; 56\,min$
 - ***solar day*** : time taken for the sun to return to the same part of the sky $\equiv 24 \,hours$ 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a4c-the-laplacian/","created":"2024-10-07T12:28:15.279+01:00","updated":"2024-11-25T11:16:45.694+00:00"}
+dg-publish: true
 ---
-
 ## cartesian coordinates
 - the laplacian or the grad-squared operator is given by: 
 $$\nabla^{2}f = \frac{\partial^{2} {f}}{\partial {x}^{2}} + \frac{\partial^{2} {f}}{\partial {y}^{2}} + \frac{\partial^{2}{f}}{\partial {z}^{2}}$$

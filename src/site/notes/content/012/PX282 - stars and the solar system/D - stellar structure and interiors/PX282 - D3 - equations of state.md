@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/d-stellar-structure-and-interiors/px-282-d3-equations-of-state/","created":"2024-11-07T10:09:04.362+00:00","updated":"2024-11-24T15:55:59.645+00:00"}
+dg-publish: true
 ---
-
 - relate pressure, density, and temperature 
 - recap: 
 $$\begin{align*}
@@ -12,9 +11,13 @@ $$\begin{align*}
 \end{align*}$$
 ## the standard equation of state
 - [[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C1 - ideal gas equation of state\|the ideal gas law]]: 
-$$P = nk_{B}T \tag{1}$$
+$$
+P = nk_{B}T \tag{1}
+$$
 - in terms of mass density: 
-$$P = \frac{\rho}{\mu m_{H}} k_{B}T \tag{1.1}$$
+$$
+P = \frac{\rho}{\mu m_{H}} k_{B}T \tag{1.1}
+$$
 	where, $\mu=$ the average mass per particle, and $m_{H}=$ mass of hydrogen
 
 - in the sun, the mass fractions of hydrogen, $X_{\odot} \simeq 0.7$, helium, $Y_{\odot} \simeq 0.28$, and everything else ('*metals*'), $Z_{\odot} \simeq 0.02$
@@ -24,26 +27,38 @@ $$P = \frac{\rho}{\mu m_{H}} k_{B}T \tag{1.1}$$
 	- overall: $\mu_{\odot} \simeq 0.6$
 
 ## the equation of state for radiation
-$$P = \frac{1}{3}aT^{4} \tag{2}$$
+$$
+P = \frac{1}{3}aT^{4} \tag{2}
+$$
 where, $a = \frac{4\sigma}{c}$
 ## the equation of state for a degenerate gas
 - for an ideal gas, $T\to0$ as $P\to0$
 - consequently, the average particle speed, and hence the average momentum also tend to zero
 - from [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A7 - the uncertainty principle\|the uncertainty principle]]: 
-$$\Delta x \Delta p \simeq \hbar$$
+$$
+\Delta x \Delta p \simeq \hbar
+$$
 - so, as $\Delta p \to 0, \; \Delta x \to \infty$, which is impossible
 - hence, there is a minimum $\Delta p$
 - this is very relevant for neutron stars and white dwarfs
 
 - a gas is *degenerate* when the average thermal energy is less than the *fermi energy*:
-$$\frac{3}{2} k_{B}T  < \epsilon_{p} \propto \rho^{\frac{2}{3}}$$
+$$
+\frac{3}{2} k_{B}T  < \epsilon_{p} \propto \rho^{\frac{2}{3}}
+$$
 - this translates to: 
-$$T\rho^{\frac{2}{3}} < 1261 \, Km^{2}kg^{- \frac{2}{3}}$$
+$$
+T\rho^{\frac{2}{3}} < 1261 \, Km^{2}kg^{- \frac{2}{3}}
+$$
 - the lower $T\rho^\frac{2}{3}$, the more degenerate the gas
 - the degeneracy pressure for non-relativistic electrons: 
-$$P \propto n_{e}^{\frac{5}{3}} $$
+$$
+P \propto n_{e}^{\frac{5}{3}}
+$$
 - for relativistic electrons, $v_{e} \to c:$ 
-$$P \propto n_{e}^\frac{4}{3}$$
+$$
+P \propto n_{e}^\frac{4}{3}
+$$
 - for the sun: $T\rho^{\frac{2}{3}}= 5300 >1251$
 	$P_{degen\,\odot} = 2.4\times10^{15}\,Nm^{-2}$
 	$P_{ideal\,\odot} = nk_{B}T = 1.4\times10^{16}\,Nm^{-2}$

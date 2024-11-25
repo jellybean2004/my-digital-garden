@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c2-14-stellar-atmospheres/px-282-c7-mean-free-path/","created":"2024-10-22T19:21:39.517+01:00","updated":"2024-11-24T15:50:37.419+00:00"}
+dg-publish: true
 ---
-
 - from the absorption equation: 
 $$\boxed{\frac{I_{\lambda}}{I_{\lambda0}} = \exp\left(-\int_{0}^{z} \kappa_{\lambda} \rho\,dz\right)}$$
 - using this to define the **mean free path** for a photon, which is the characteristic distance a photon travels, ie: $\frac{I}{I_{0}} = e^{-1}:$ 

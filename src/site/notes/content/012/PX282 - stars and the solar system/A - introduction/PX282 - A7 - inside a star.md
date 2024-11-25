@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/a-introduction/px-282-a7-inside-a-star/","created":"2024-10-08T10:23:26.009+01:00","updated":"2024-11-24T15:44:48.774+00:00"}
+dg-publish: true
 ---
-
 - photons are released from nuclear-energy production, which do not get out easily
 - these photons are absorbed by material progressively further from the core in a random 'walk'
 - energy is transferred by photons, convection, atom collisions, magnetic field

@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-d-time-independent-schrodinger-equation/px-156-d7-alpha-decay-of-nuclei/","created":"2024-10-01T18:27:09.899+01:00","updated":"2024-11-24T18:59:32.388+00:00"}
+dg-publish: true
 ---
-
 ## geiger-nuttall law
-$$\ln \lambda = - C_{1} \frac{Z-2}{\sqrt{E}}+ C_{2}$$
+$$
+\ln \lambda = - C_{1} \frac{Z-2}{\sqrt{E}}+ C_{2}
+$$
 	$\lambda=$ decay constant
 	$Z =$ atomic number
 	$E=$ energy of the emitted $\alpha$ particle
@@ -27,16 +28,22 @@ $$\begin{align*}
 - atomic number of nucleus$:Z$
 - charges $:Q_{1}=2^{+},\; Q_{2} = (Z-2)^{+}$
 - potential energy: 
-$$V(r) = \frac{2(Z-2)e^{2}}{4\pi \epsilon_{0}r}$$
+$$
+V(r) = \frac{2(Z-2)e^{2}}{4\pi \epsilon_{0}r}
+$$
 - if the particle escapes: 
-$$E_{K} = V(r) = \frac{2(Z-2)e^{2}}{4\pi \epsilon_{0}d}$$
+$$
+E_{K} = V(r) = \frac{2(Z-2)e^{2}}{4\pi \epsilon_{0}d}
+$$
 	where, $d=$ width of barrier
 $$\begin{gather}
 	d = \frac{(Z-2)e^{2}}{2\pi\epsilon_{0}E_{K}} \\
 	T \sim \exp\left(- \frac{(Z-2)e^{2}\sqrt{2m(V-E_{K})}}{\pi\epsilon_{0}E_{K}\hbar}\right)
 \end{gather}$$
 - for $V>>E_{K}:$ 
-$$T \sim \exp\left(- \frac{A(Z-2)}{E_{K}}\right)$$
+$$
+T \sim \exp\left(- \frac{A(Z-2)}{E_{K}}\right)
+$$
 	where, $A=$ collection of constants
 
  - in reality, there are a range of kinetic energies, so to account for that, an integral must be taken: 

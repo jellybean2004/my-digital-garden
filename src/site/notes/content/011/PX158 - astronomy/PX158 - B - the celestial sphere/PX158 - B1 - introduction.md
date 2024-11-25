@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-b-the-celestial-sphere/px-158-b1-introduction/","created":"2024-10-01T18:50:56.488+01:00","updated":"2024-11-24T19:07:19.561+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20240116091602.png](/img/user/pics/Pasted%20image%2020240116091602.png)
 - the *"celestial sphere"* is a way of mapping the *position* and *movement* of stars, sun, moon, planets, etc
 - a reference grid similar to latitude and longitude on earth is used

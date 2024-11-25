@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d4-vector-surface-area/px-275-d4b-the-vector-surface-area-and-element/","created":"2024-11-18T12:18:59.926+00:00","updated":"2024-11-24T15:40:20.052+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241118122016.png](/img/user/pics/Pasted%20image%2020241118122016.png)
 - suppose $d\vec s$ is the element of the vector surface area, $\vec S$, such that: 
-$$d\vec s = \hat n \, dA$$
+$$
+d\vec s = \hat n \, dA
+$$
 	where, $\hat n$ is the normal unit vector, and $dA$ is the scalar area element
 -  the total flux is: 
-$$\text{total flux} = \iint_{A }\vec F \cdot d\vec s = \iint_{A} \vec F \cdot \hat n \, dA$$
+$$
+\text{total flux} = \iint_{A }\vec F \cdot d\vec s = \iint_{A} \vec F \cdot \hat n \, dA
+$$
 - sometimes $\hat n \, dA = d\vec A$
 ## cartesian flat surface
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-e-the-second-law-of-thermodynamics/px-154-e2-heat-engine-cycles-and-the-p-v-diagram/","created":"2024-10-01T18:50:55.705+01:00","updated":"2024-11-24T19:20:59.126+00:00"}
+dg-publish: true
 ---
-
 ## cyclic processes
 ![Pasted image 20231107143515.png](/img/user/pics/Pasted%20image%2020231107143515.png)
 - from $A \to X$, engine does work:

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i6a-stellar-evolution/","created":"2024-10-01T18:50:57.748+01:00","updated":"2024-11-24T19:11:19.451+00:00"}
+dg-publish: true
 ---
-
 - all thermally supported stars must have a finite lifetime since they lose heat. they must be using up 'fuel'
 - *all stars must die*
 $$t = \frac{E}{L_{s}}$$

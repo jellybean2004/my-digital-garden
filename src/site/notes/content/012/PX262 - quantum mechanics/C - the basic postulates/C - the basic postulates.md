@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/c-the-basic-postulates/","created":"2024-10-15T11:17:24.239+01:00","updated":"2024-11-24T00:44:53.454+00:00"}
+dg-publish: true
 ---
-
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C1a - the wavefunction\|PX262 - C1a - the wavefunction]]
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C1b - postulate 1\|PX262 - C1b - postulate 1]]
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C1c - example problem\|PX262 - C1c - example problem]]

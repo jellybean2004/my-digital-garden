@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-0-physics-foundations/","created":"2024-10-01T18:50:54.812+01:00","updated":"2024-11-24T16:31:25.564+00:00"}
+dg-publish: true
 ---
-
 [moodle](https://moodle.warwick.ac.uk/course/view.php?id=61266)
 [University Physics textbook](https://plus.pearson.com/courses/warwick71800/products/154533/pages/0?locale=)
 ## weekly stuff:

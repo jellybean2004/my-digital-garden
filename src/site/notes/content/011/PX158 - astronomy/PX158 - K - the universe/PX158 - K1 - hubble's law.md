@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-k-the-universe/px-158-k1-hubble-s-law/","created":"2024-10-01T18:27:10.333+01:00","updated":"2024-11-24T19:13:05.307+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20240311112638.png](/img/user/pics/Pasted%20image%2020240311112638.png)
 - in $1929$, Hubble found that the radial velocity of galaxies increased with distance
 - these velocities are almost always red shifts, ie: galaxies are moving away

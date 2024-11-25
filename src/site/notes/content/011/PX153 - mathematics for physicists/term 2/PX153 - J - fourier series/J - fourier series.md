@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/j-fourier-series/","created":"2024-10-01T18:27:09.314+01:00","updated":"2024-11-25T16:32:13.330+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX153 - mathematics for physicists/term 2/PX153 - J - fourier series/PX153 - J1 - introduction\|PX153 - J1 - introduction]]
 [[content/011/PX153 - mathematics for physicists/term 2/PX153 - J - fourier series/PX153 - J2 - convergence\|PX153 - J2 - convergence]]
 [[content/011/PX153 - mathematics for physicists/term 2/PX153 - J - fourier series/PX153 - J3 - proofs and derivations\|PX153 - J3 - proofs and derivations]]

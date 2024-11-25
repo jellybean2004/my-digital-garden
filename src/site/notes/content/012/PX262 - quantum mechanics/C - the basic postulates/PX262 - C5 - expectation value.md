@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c5-expectation-value/","created":"2024-10-22T15:27:46.684+01:00","updated":"2024-11-25T00:36:57.263+00:00"}
+dg-publish: true
 ---
-
 -  when measurements of a dynamical variable represented by the operator, $\hat Q$, are repeated on identical copies of a system, the average value obtained is called the expectation value
 - the prediction for the expectation value is: 
 $$\begin{align*}
@@ -13,4 +12,5 @@ $$\begin{align*}
 	\therefore \langle{\hat Q}\rangle &= \sum\limits_{n}|a_{n}|^{2} q_{n}
 \end{align*}$$
 - the standard deviation can be defined as: 
-  $$\sqrt{\delta Q} = \sqrt{\langle{\hat Q^{2}}\rangle - \langle{\hat Q}\rangle^{2}}$$
+ 
+$$\sqrt{\delta Q} = \sqrt{\langle{\hat Q^{2}}\rangle - \langle{\hat Q}\rangle^{2}}$$

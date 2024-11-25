@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-g-mechanical-waves/g-mechanical-waves/","created":"2024-10-01T18:50:54.936+01:00","updated":"2024-11-24T19:23:48.181+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX154 - physics foundations/PX154 - G - mechanical waves/PX154 - G1a - waves on a taut string\|PX154 - G1a - waves on a taut string]]
 [[content/011/PX154 - physics foundations/PX154 - G - mechanical waves/PX154 - G1b - transfer of power by the wave\|PX154 - G1b - transfer of power by the wave]]
 [[content/011/PX154 - physics foundations/PX154 - G - mechanical waves/PX154 - G2 - longitudinal waves along a bar (1D)\|PX154 - G2 - longitudinal waves along a bar (1D)]]

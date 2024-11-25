@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-0-quantum-phenomena/","created":"2024-10-01T18:50:56.671+01:00","updated":"2024-11-24T18:57:15.297+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-0-quantum-phenomena/","created":"2024-10-01T18:50:56.671+01:00","updated":"2024-11-25T19:26:16.197+00:00"}
 ---
 
 ## quantum phenomena

@@ -1,14 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-d-the-first-law-of-thermodynamic/px-154-d4e-adiabat/","created":"2024-10-01T18:50:55.368+01:00","updated":"2024-11-24T19:20:17.914+00:00"}
+dg-publish: true
 ---
-
 ## adiabatic expansion of an ideal gas
 ![Pasted image 20240225141502.png](/img/user/pics/Pasted%20image%2020240225141502.png)
-$$Q=0$$
-$$dU = -dW = -pdV$$
-$$nC_{V}dT = \frac{-nRT}{V}dV$$
+$$
+Q=0
+$$
+$$
+dU = -dW = -pdV
+$$
+$$
+nC_{V}dT = \frac{-nRT}{V}dV
+$$
 - rearrange: 
-$$\frac{dT}{T}= - \frac{R}{C_{V}} \frac{dV}{V}$$
+$$
+\frac{dT}{T}= - \frac{R}{C_{V}} \frac{dV}{V}
+$$
 	- note: for $\frac{R}{C_{V}}= \frac{C_{P}-C_{V}}{C_{V}} = \gamma -1$
 		$\frac{dT}{T} = - (\gamma - 1) \frac{dV}{V}$
 		$\frac{dT}{T} + (\gamma - 1) \frac{dV}{V} = 0$

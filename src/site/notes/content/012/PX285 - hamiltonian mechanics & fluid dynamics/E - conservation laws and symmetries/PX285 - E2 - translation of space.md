@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e2-translation-of-space/","created":"2024-11-01T11:38:51.245+00:00","updated":"2024-11-24T16:21:33.693+00:00"}
+dg-publish: true
 ---
-
 - space is homogenous if the motion of a particle is independent of its absolute position in space, ie: the lagrangian, $L(\vec r , \vec v) = L(q_{1},\dots, \dot q_{1},\dots)$, is unchanged under an arbitrary translation
 - under a small translation of $\vec r \to \vec r + \delta r$: 
-$$L(\vec r , \vec v) \to L(\vec r + \vec{\delta r}, \vec v)  = L(x + \delta x, y + \delta y, z+\delta z, \vec v) $$
+$$L(\vec r , \vec v) \to L(\vec r + \vec{\delta r}, \vec v)  = L(x + \delta x, y + \delta y, z+\delta z, \vec v)
+$$
 - using the taylor expansion: 
 $$L(\vec r + \vec{\delta r}, \vec v)  = L(\vec r, \vec v) + \frac{\partial L}{\partial x}\delta x + \frac{\partial L}{\partial y}\delta y + \frac{\partial L}{\partial z}\delta z$$
 $$\delta L = \frac{\partial L}{\partial x}\delta x + \frac{\partial L}{\partial y}\delta y + \frac{\partial L}{\partial z}\delta z = \vec\nabla L \cdot \vec{\delta r}$$

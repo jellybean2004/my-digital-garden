@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/a-introduction/px-282-a4-parallax-and-parsecs/","created":"2024-10-03T10:24:21.149+01:00","updated":"2024-11-24T15:43:44.380+00:00"}
+dg-publish: true
 ---
-
 ## parallax
 - see [[content/011/PX158 - astronomy/PX158 - C - angles and parallax/PX158 - C1 - parallax\|PX158 - C1 - parallax]]
 

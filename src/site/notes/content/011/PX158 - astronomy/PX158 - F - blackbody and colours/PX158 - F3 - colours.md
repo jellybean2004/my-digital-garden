@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-f-blackbody-and-colours/px-158-f3-colours/","created":"2024-10-01T18:50:58.224+01:00","updated":"2024-11-24T19:09:18.964+00:00"}
+dg-publish: true
 ---
-
 ## johnson-cousins system
 ![Pasted image 20240428183625.png](/img/user/pics/Pasted%20image%2020240428183625.png)
 - $U:$ ultraviolet

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-reltivity/px-155-0-classical-mechanics-and-special-relativity/","created":"2024-10-01T18:50:56.696+01:00","updated":"2024-11-24T16:31:29.209+00:00"}
+dg-publish: true
 ---
-
 [moodle](https://moodle.warwick.ac.uk/course/view.php?id=61267)
 [University Physics textbook](https://plus.pearson.com/courses/warwick71800/products/154533/pages/0?locale=)
 [special relativity book](https://archive.org/details/special-relativity)

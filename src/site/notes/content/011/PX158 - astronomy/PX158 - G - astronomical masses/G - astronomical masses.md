@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-g-astronomical-masses/g-astronomical-masses/","created":"2024-10-01T18:50:58.081+01:00","updated":"2024-11-24T19:09:24.845+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX158 - astronomy/PX158 - G - astronomical masses/PX158 - G1 - two masses in a mutual circular orbit\|PX158 - G1 - two masses in a mutual circular orbit]]
 [[content/011/PX158 - astronomy/PX158 - G - astronomical masses/PX158 - G2 - spectroscopic binaries\|PX158 - G2 - spectroscopic binaries]]
 [[content/011/PX158 - astronomy/PX158 - G - astronomical masses/PX158 - G3 - gravitational lensing\|PX158 - G3 - gravitational lensing]]

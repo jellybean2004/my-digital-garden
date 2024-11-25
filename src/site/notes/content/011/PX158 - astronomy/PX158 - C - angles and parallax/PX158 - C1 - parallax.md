@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-c-angles-and-parallax/px-158-c1-parallax/","created":"2024-10-01T18:50:56.563+01:00","updated":"2024-11-24T19:07:50.722+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20240117124815.png](/img/user/pics/Pasted%20image%2020240117124815.png)
 - an object with spatial extent, ${} l$, at a distance, $d$
 	$\tan\alpha = \frac{l}{d}$ , $\alpha$ in radians

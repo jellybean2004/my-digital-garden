@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-f-the-particle-zoo/px-156-f4-quarks/","created":"2024-10-01T18:27:09.934+01:00","updated":"2024-11-24T19:00:39.700+00:00"}
+dg-publish: true
 ---
-
 ## properties
 ![Pasted image 20240429140925.png](/img/user/pics/Pasted%20image%2020240429140925.png)
 - make up all matter

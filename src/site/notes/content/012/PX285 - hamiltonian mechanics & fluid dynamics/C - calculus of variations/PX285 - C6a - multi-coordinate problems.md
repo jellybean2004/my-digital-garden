@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c6a-multi-coordinate-problems/","created":"2024-10-18T11:33:46.924+01:00","updated":"2024-11-24T16:18:28.637+00:00"}
+dg-publish: true
 ---
-
 - for problems with more than one coordinate, $d>1$, $T$ and $V$ can be written down in terms of the positions and velocities of these coordinates
 - hence, the lagrangian can be determined and trajectories that minimize $A$ can be identified
 - denote the coordinates using $q$ - eg: $q_{1},q_{2},\dots q_{d} \implies v_{i} =\dot q_{i}$
@@ -20,7 +19,8 @@ $$\begin{gather*}
 	\approx L(q_{1}, \dots q_{d}, \dot q_{1},\dots \dot q_{d}) + \sum\limits_{i=1}^{d} \frac{\partial L}{\partial q_{i}} a_{i} + \sum\limits_{i=1}^{d} \frac{\partial L}{\partial \dot q_{i}} \dot a_{i} + \dots
 \end{gather*}$$
 - the action: 
-$$A \to A + \delta A = A + \sum\limits_{i=1}^{d} \int_{t_{0}}^{t_{1}} \left[\frac{\partial L}{\partial q_{i}} a_{i} +\frac{\partial L}{\partial \dot q_{i}} \dot a_{i}\right]\,dt $$
+$$A \to A + \delta A = A + \sum\limits_{i=1}^{d} \int_{t_{0}}^{t_{1}} \left[\frac{\partial L}{\partial q_{i}} a_{i} +\frac{\partial L}{\partial \dot q_{i}} \dot a_{i}\right]\,dt
+$$
 - using integration parts on all terms: 
 $$\int_{t_{0}}^{t_{1}} \dot a_{i}\frac{\partial L}{\partial \dot q_{i}}\,dt = \left[\frac{\partial L}{\partial q_{i}a_{i}}\right]_{t_{0}}^{t_{1}} - \int_{t_{0}}^{t_{1}} a_{i} \frac{d}{dt} \frac{\partial L}{\partial \dot q_{i}}\,dt$$
 	- $a_{i}(t_{0}) = a_{i}(t_{1}) =0\,\forall i \implies$ first term will be zero: 

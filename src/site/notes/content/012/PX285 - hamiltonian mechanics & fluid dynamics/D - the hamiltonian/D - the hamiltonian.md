@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/d-the-hamiltonian/d-the-hamiltonian/","created":"2024-10-25T15:31:23.291+01:00","updated":"2024-11-24T16:19:17.357+00:00"}
+dg-publish: true
 ---
-
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/D - the hamiltonian/PX285 - D1 - the hamiltonian\|PX285 - D1 - the hamiltonian]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/D - the hamiltonian/PX285 - D2 - a constant of the motion\|PX285 - D2 - a constant of the motion]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/D - the hamiltonian/PX285 - D3 - the conservation of energy\|PX285 - D3 - the conservation of energy]]

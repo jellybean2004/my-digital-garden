@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/c-vector-calculus/px-275-c1g-interpretation-of-curl/","created":"2024-10-31T12:25:15.982+00:00","updated":"2024-11-24T15:35:48.413+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241031122818.png](/img/user/pics/Pasted%20image%2020241031122818.png)
 - assuming that angular momentum is conserved
 		$L = mvr$

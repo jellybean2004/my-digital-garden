@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-b-thermal-physics/px-154-b2-thermal-expansion/","created":"2024-10-01T18:50:55.956+01:00","updated":"2024-11-24T19:16:33.440+00:00"}
+dg-publish: true
 ---
-
 
 ![Pasted image 20231010182739.png](/img/user/pics/Pasted%20image%2020231010182739.png)
 ## thermometer
@@ -33,7 +32,9 @@
 		![Pasted image 20231011101515.png](/img/user/pics/Pasted%20image%2020231011101515.png)
 ## volume expansion coefficient
 - in the same manner as in [[content/011/PX154 - physics foundations/PX154 - B - thermal physics/PX154 - B1 - heat and temperature#linear expansion coefficient\|linear expansion coefficient]], we can define the volume expansion coefficient: 
-$$\beta = \frac{1}{V_0}\frac{\Delta V}{\Delta T}$$
+$$
+\beta = \frac{1}{V_0}\frac{\Delta V}{\Delta T}
+$$
 	$$\Delta V = \beta V_{0}\Delta T$$
 	- eg: [YF table 1.2] 
 		![Pasted image 20231011102215.png](/img/user/pics/Pasted%20image%2020231011102215.png)

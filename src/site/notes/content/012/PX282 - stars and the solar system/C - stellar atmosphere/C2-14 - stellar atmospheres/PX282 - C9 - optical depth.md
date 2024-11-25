@@ -1,13 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c2-14-stellar-atmospheres/px-282-c9-optical-depth/","created":"2024-10-22T19:43:53.051+01:00","updated":"2024-11-24T15:50:45.040+00:00"}
+dg-publish: true
 ---
-
 - the **optical depth**, $d\tau$, is defined by: 
-$$d\tau_{\lambda}= \kappa_{\lambda} \rho\,dz$$
+$$
+d\tau_{\lambda}= \kappa_{\lambda} \rho\,dz
+$$
 - taking the integral: 
-$$\tau_{\lambda} = \int_{0}^{z} \kappa_{\lambda} \rho\,dz $$
+$$
+\tau_{\lambda} = \int_{0}^{z} \kappa_{\lambda} \rho\,dz
+$$
 - from the absorption equation: 
-$$\frac{I}{I_{o}}= e^{-\tau_{\lambda}}$$
+$$
+\frac{I}{I_{o}}= e^{-\tau_{\lambda}}
+$$
 - for $\tau = 0,$ there is no absorption, and $\tau$ increases in a more absorbing material
 
 - in stars, and observations, the optical depth is **a measure of how far into a material can be seen**

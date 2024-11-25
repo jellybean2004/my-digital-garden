@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/px-154-f3b-beats/","created":"2024-10-01T18:50:55.084+01:00","updated":"2024-11-24T19:23:21.549+00:00"}
+dg-publish: true
 ---
-
 - **TLDR:**
 	- two waves of the same amplitude with frequencies, $f_{1}$ and $f_{2}$, such that $\Delta f=|f_{1}-f_{2}|$ is small
 	- resultant amplitude varies with time, oscillating between constructive and destructive interference $\implies$ beat

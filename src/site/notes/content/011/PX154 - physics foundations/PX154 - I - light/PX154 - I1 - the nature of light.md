@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-i-light/px-154-i1-the-nature-of-light/","created":"2024-10-01T18:50:55.294+01:00","updated":"2024-11-24T19:26:24.118+00:00"}
+dg-publish: true
 ---
-
 - light is an EM wave, it can propagate through vacuum
 - maxwell developed equations to describe electronic and magnetic fields. he realized these equations could be solved in the absence if any charges or magnets
 - in a vacuum, two equations can be obtained: 
-$$\frac{\partial^{2}E }{\partial x^{2}} = \epsilon_{0}\mu_{0} \frac{\partial^{2} E}{\partial t^{2}}$$ $$\frac{\partial^{2}B }{\partial x^{2}} = \epsilon_{0}\mu_{0} \frac{\partial^{2} B}{\partial t^{2}}$$
+$$\frac{\partial^{2}E }{\partial x^{2}} = \epsilon_{0}\mu_{0} \frac{\partial^{2} E}{\partial t^{2}}$$
+$$\frac{\partial^{2}B }{\partial x^{2}} = \epsilon_{0}\mu_{0} \frac{\partial^{2} B}{\partial t^{2}}$$
 		where, $\epsilon_{0}=$ permittivity of free space, and $\mu_{0}=$ permeability of free space
 	- wave equations!
 	- we have, the wave speed: 

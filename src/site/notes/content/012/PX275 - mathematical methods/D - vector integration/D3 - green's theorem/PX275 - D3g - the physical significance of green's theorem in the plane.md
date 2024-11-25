@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d3-green-s-theorem/px-275-d3g-the-physical-significance-of-green-s-theorem-in-the-plane/","created":"2024-11-14T13:39:11.430+00:00","updated":"2024-11-24T15:39:59.666+00:00"}
+dg-publish: true
 ---
-
 - [[content/012/PX275 - mathematical methods/D - vector integration/D3 - green's theorem/PX275 - D3a - green's theorem in the plane\|green's theorem in the plane]]: 
 $$\oint \vec F \cdot d \vec r =  \iint_{R} (\vec\nabla \times \vec F) \cdot d\vec A = \iint_{R} (\vec\nabla \times \vec F)_{z}dA$$
 - considering a field, $\vec F$, describing the laminar flow of water

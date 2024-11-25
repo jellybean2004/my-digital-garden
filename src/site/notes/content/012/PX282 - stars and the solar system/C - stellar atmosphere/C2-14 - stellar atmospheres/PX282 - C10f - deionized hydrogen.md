@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c2-14-stellar-atmospheres/px-282-c10f-deionized-hydrogen/","created":"2024-10-29T10:06:55.530+00:00","updated":"2024-11-24T15:52:28.596+00:00"}
+dg-publish: true
 ---
-
 - a hydrogen with an extra electron, H$^{-}$, is barely stable, with an ionization energy of $\chi_{i} = 0.75\,eV$
 - this is makes it very easy to ionize, and a key source of continuum opacity
 - using [[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1 - boltzmann and saha equations/PX282 - C3 - the saha equation\|the saha equation]] to test the numbers: 

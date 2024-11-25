@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i7b-neutron-stars/","created":"2024-10-01T18:50:57.906+01:00","updated":"2024-11-24T19:11:50.379+00:00"}
+dg-publish: true
 ---
-
 - the [[content/011/PX158 - astronomy/PX158 - I - stars/PX158 - I7c - chandrashekhar limit\|chandrashekhar limit]] for a white dwarf is $\sim 1.4\,M_{\odot}$
 - electrons are fused with the nuclei of atoms, only neutrons are packed together
 - $R_{NS}\approx 10\,km$, $M_{NS} \approx 1.4\,M_{\odot}$, and $\rho_{NS}=10^{18}\,kgm^{-3}$, $g = 2\times10^{12}\,ms^{-2}$

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d3-green-s-theorem/px-275-d3c-application-of-green-s-theorem/","created":"2024-11-11T12:47:20.845+00:00","updated":"2024-11-24T15:39:02.334+00:00"}
+dg-publish: true
 ---
-
 - choosing $P$ and $Q$ such that:
 $$\frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y} = 1$$
 - the $RHS$ of [[content/012/PX275 - mathematical methods/D - vector integration/D3 - green's theorem/PX275 - D3a - green's theorem in the plane\|green's theorem]]: 

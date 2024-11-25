@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c5-a-roller-coaster/","created":"2024-10-17T17:40:49.512+01:00","updated":"2024-11-24T16:17:55.851+00:00"}
+dg-publish: true
 ---
-
 - the arc-length coordinate, $s$, is used to describe the motion of a roller coaster, which represented the distance moved along the track from an arbitrary starting point
 - the height of the track at any point, $s$, is given by $h(s)$
 - the lagrangian is: 
