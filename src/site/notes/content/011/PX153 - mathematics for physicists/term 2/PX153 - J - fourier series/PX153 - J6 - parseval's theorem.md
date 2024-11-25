@@ -1,7 +1,8 @@
 ---
 dg-publish: true
 ---
-- if $f(x) = \frac{a_{0}}{2} + \sum\limits_{n=1}^{\infty}\left(a_{n}\cos(nx) +b_{n} \sin(nx) \right)$, then, $$\frac{1}{\pi} \int_{-\pi}^{\pi} (f(x))^{2}\,dx = \frac{a_{0}^{2}}{2} + \sum\limits_{n=1}^{\infty} (a_{n}^{2}+ b_{n}^{2})$$
+- if $f(x) = \frac{a_{0}}{2} + \sum\limits_{n=1}^{\infty}\left(a_{n}\cos(nx) +b_{n} \sin(nx) \right)$, then,
+$$\frac{1}{\pi} \int_{-\pi}^{\pi} (f(x))^{2}\,dx = \frac{a_{0}^{2}}{2} + \sum\limits_{n=1}^{\infty} (a_{n}^{2}+ b_{n}^{2})$$
 - application in physics: physical waves
 - if the energy of a wave is the square of the wave function,  the sum of $a_{n}^{2}$, $b_{n}^{2}$, $\frac{a_{0}^{2}}{2}$ is the sum of the energy of individual vibration modes.
 $$\begin{align*}

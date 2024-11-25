@@ -6,9 +6,7 @@ dg-publish: true
 - human eye pupil, $d\approx5\,mm$
 - giant squid pupil, $d\approx 90\,mm$
 - difference in light gathering power: 
-$$
-\Delta = \frac{\pi r_{squid}^{2}}{\pi r_{human}^{2}} \approx 18^{2} = 324
-$$
+$$\Delta = \frac{\pi r_{squid}^{2}}{\pi r_{human}^{2}} \approx 18^{2} = 324$$
 ## types of telescopes
 ### refracting telescope
 ![Pasted image 20240124123106.png](/img/user/pics/Pasted%20image%2020240124123106.png)
@@ -23,6 +21,4 @@ $$
 ## cameras
 ![Pasted image 20240124125327.png](/img/user/pics/Pasted%20image%2020240124125327.png)
 - using small angle approximation: 
-$$
-\alpha= \frac{l}{f}
-$$
+$$\alpha= \frac{l}{f}$$

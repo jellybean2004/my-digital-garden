@@ -26,9 +26,7 @@ dg-publish: true
 ## transit method
 ![Pasted image 20240219114807.png](/img/user/pics/Pasted%20image%2020240219114807.png)
 - depth of the transit: 
-$$
-\delta = \left(\frac{R_{p}}{R_{s}}\right)^{2}
-$$
+$$\delta = \left(\frac{R_{p}}{R_{s}}\right)^{2}$$
 - for jupiter: $\delta_{jupiter} \approx 0.01 \approx 1\%$
 - *WASP* project found $100+$ 'hot jupiters' using transit method
 - planets must be close to $i=90\degree$
@@ -48,9 +46,7 @@ $$\begin{gather*}
 ## micro-lensing
 ![Pasted image 20240221121218.png](/img/user/pics/Pasted%20image%2020240221121218.png)
 - [[content/011/PX158 - astronomy/PX158 - G - astronomical masses/PX158 - G3 - gravitational lensing\|gravitational lensing]]: 
-$$
-\theta_{E} = \sqrt{\frac{4GM}{Dc^{2}}}
-$$
+$$\theta_{E} = \sqrt{\frac{4GM}{Dc^{2}}}$$
 	where, $\theta_{E}=$ einstein radius, $D=$ source-lens, lens-earth distance
 - $D\sim 1000\,pc$, $M=0.5\,M_\odot$, $\theta_{E}\sim 1-2\,AU$
 - extra lensing due to exoplanet causes a spike in flux-time plot ($\sim 1\,day$)
@@ -58,9 +54,7 @@ $$
 ![Pasted image 20240221122511.png](/img/user/pics/Pasted%20image%2020240221122511.png)
 ## astrometry
 - a star will move in a circular orbit due to an exoplanet - parallax observed: 
-$$
-\alpha\,[''] = \frac{r_{s}\,[AU]}{d\,[pc]}
-$$
+$$\alpha\,[''] = \frac{r_{s}\,[AU]}{d\,[pc]}$$
 - eg: $\alpha = 0.01\,\frac{AU}{10\,pc} = 0.001^{''}$
 - gaia can detect planets this way, but needs to way for ~full period, ie: $\sim12\,yr$ for a jupiter type planet
 ## direct imaging

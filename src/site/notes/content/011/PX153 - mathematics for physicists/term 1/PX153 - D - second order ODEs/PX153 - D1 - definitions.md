@@ -2,9 +2,7 @@
 dg-publish: true
 ---
 - a linear ODE can be written  in the form: 
-$$
-a_{n}(x) \frac{d^{n}y}{dx^{n}}+ a_{n-1}(x)\frac{d^{n-1}y}{dx^{n-1}}+...a_{1} \frac{dy}{dx}+ a_{0}(x)y = f(x)
-$$
+$$a_{n}(x) \frac{d^{n}y}{dx^{n}}+ a_{n-1}(x)\frac{d^{n-1}y}{dx^{n-1}}+...a_{1} \frac{dy}{dx}+ a_{0}(x)y = f(x)$$
 	- dependent variable and its derivatives are only present to first order (no $y^2$, etc)
 	- no non-linear functions of the dependent variable (no sin(y), etc)
 	- no products of the dependent variable and its derivatives (no $y\frac{dy}{dx}$, etc)

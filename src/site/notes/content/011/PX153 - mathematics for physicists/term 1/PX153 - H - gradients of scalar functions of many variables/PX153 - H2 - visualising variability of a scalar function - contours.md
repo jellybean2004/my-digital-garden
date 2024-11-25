@@ -10,15 +10,11 @@ dg-publish: true
 	$\Delta n = AB$ , and $\Delta r = AC$
 	$\Delta n = \Delta r \cos\theta$
 - for infinitesimally small changes: 
-$$
-\frac{\partial f}{\partial r} =  \frac{\partial f}{\partial n}  \frac{\partial n}{\partial r} = \cos\theta  \frac{\partial f}{\partial n}
-$$
+$$\frac{\partial f}{\partial r} =  \frac{\partial f}{\partial n}  \frac{\partial n}{\partial r} = \cos\theta  \frac{\partial f}{\partial n}$$
 - the change in $f$, $\Delta f$, between $A$ and $B$ is the same as between $A$ and $C$. so, the rate is determined just by the length
 - thus, the directional derivative, given by $\vec\nabla f =  \frac{\partial f}{\partial n} \hat n$ , gives the highest change of $f$ and is always perpendicular to the contour of constant $f$. this gives a geometrical definition of $\vec \nabla f$
 - we would show shortly that this is equivalent to our previous definition: 
-$$
-\vec \nabla f = \left( \hat{i} \frac{\partial}{\partial x} + \hat{j} \frac{\partial }{\partial y} \right) f
-$$
+$$\vec \nabla f = \left( \hat{i} \frac{\partial}{\partial x} + \hat{j} \frac{\partial }{\partial y} \right) f$$
 
 - eg: for $f(x,y)$, find $\vec\nabla f$, evaluate the gradient at $(\frac{1}{2} , \frac{1}{2})$ , and hence find the direction of the fastest change in $f$ at that point
 	- for gradient: 
@@ -37,20 +33,14 @@ $$
 - we now show that $\vec\nabla f = ( \frac{\partial }{\partial x}\hat{\vec i} + r \hat{\vec j}  \frac{\partial }{\partial y})f$ is perpendicular to the tangent of the contour line of $f$, consistent with our geometrical definition
 - let $f(x,y)=\kappa$ define a contour, which is parameterized by $q$, ie: all points on this contour are given by $\vec r(q) = [x(q),y(q)]$
 - varying $q$ takes us aroufd this contour, on which the function assumes an arbitrary constant value $\kappa$, thus: 
-$$
-\frac{df}{dq}=0
-$$
+$$\frac{df}{dq}=0$$
 	- this derivative can be rewritten as:  
 	$$df =  \frac{\partial f}{\partial x} dx + \frac{\partial f}{\partial y} dy \implies \frac{df}{dq} =  \frac{\partial f}{\partial x} \frac{dx}{dq} + \frac{\partial f}{\partial y} \frac{dy}{dq}$$
 	- can write this as a scalar product: 
 	$$\frac{df}{dq}=  (\frac{\partial f}{\partial x},\frac{\partial f}{\partial y})\cdot ( \frac{dx}{dq}, \frac{dy}{dq})$$
 - the vector $\vec t = ( \frac{dx}{dq}, \frac{dy}{dq})= \frac{d}{dq}\vec r$ is the direction of the tangent to the contour: 
-$$
-\frac{df}{dq} = \vec\nabla f\cdot t = 0
-$$
-$$
-\therefore\vec\nabla f \perp \vec t
-$$
+$$\frac{df}{dq} = \vec\nabla f\cdot t = 0$$
+$$\therefore\vec\nabla f \perp \vec t$$
 
 - eg: what are the shapes of the contour lines of the function, $f(x,y) = e^{-(x^{2}+y^{2})}$? find the general expression for the gradient
 	- contour lines are defined by $f(x,y)=\kappa = e^{-(x^{2}+y^{2})}$
@@ -59,4 +49,5 @@ $$
 	- the gradient is given by: 
 	$$\vec\nabla f = (-2xe^{-(x^{2}+y^{2})})\hat{\vec i} + (-2ye^{-(x^{2}+y^{2})})\hat{\vec j}$$
 		- in circular polar coordinates, this is 
-		$$\vec\nabla f = -2e^{-r^{2}}\vec r$$
+	
+$$\vec\nabla f = -2e^{-r^{2}}\vec r$$

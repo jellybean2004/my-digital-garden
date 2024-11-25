@@ -14,14 +14,8 @@ $$\begin{align*}
 \end{align*}$$
 ### returning to centroids
 - centroid in y of the function/curve that is being revolved: 
-$$
-2\pi\,\bar y = \frac{2\pi\int y\,ds}{\int ds}
-$$
-$$
-2\pi\,\bar y = \frac{A}{S}
-$$
+$$2\pi\,\bar y = \frac{2\pi\int y\,ds}{\int ds}$$
+$$2\pi\,\bar y = \frac{A}{S}$$
 	where, $A$ is surface area of the rotation, and $S$ is the length of the original curve
 - pappus's second theorem: 
-$$
-A = 2\pi\,\bar y\,S
-$$
+$$A = 2\pi\,\bar y\,S$$

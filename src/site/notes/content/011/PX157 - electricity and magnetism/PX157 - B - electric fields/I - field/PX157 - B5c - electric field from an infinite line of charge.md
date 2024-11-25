@@ -1,9 +1,7 @@
 ---
 dg-publish: true
 ---
-$$
-\lambda = \frac{\Delta Q}{\Delta L} \to constant
-$$
+$$\lambda = \frac{\Delta Q}{\Delta L} \to constant$$
 ![Pasted image 20240117160026.png](/img/user/pics/Pasted%20image%2020240117160026.png)
 - **step 1: symmetry**
 	- $\vec E$ points radially outwards in a cylindrical sense (away from the axis), ie: $\vec E = E \, \hat R$
@@ -25,7 +23,10 @@ $$
 			$\vec E = E \,\hat R$ 
 			$d\vec S = dS \, \hat R$
 			$\vec E \cdot d\vec S = -E \, dS \, \hat R \, \hat R = E \, dS$
-		$$\therefore \;\oiint \vec E \cdot d\vec S = \iint_{curved}E \, dS = E \, 2\pi R L$$
-- **step 3:** $$Q_{encl.}=\lambda L$$
-- **step 4:** $$E \, 2\pi RL = \lambda \frac{L}{\epsilon_{0}} \implies \vec E = \frac{\lambda}{2\pi\epsilon_{0}R}\hat R$$
+	
+$$\therefore \;\oiint \vec E \cdot d\vec S = \iint_{curved}E \, dS = E \, 2\pi R L$$
+- **step 3:**
+$$Q_{encl.}=\lambda L$$
+- **step 4:**
+$$E \, 2\pi RL = \lambda \frac{L}{\epsilon_{0}} \implies \vec E = \frac{\lambda}{2\pi\epsilon_{0}R}\hat R$$
 

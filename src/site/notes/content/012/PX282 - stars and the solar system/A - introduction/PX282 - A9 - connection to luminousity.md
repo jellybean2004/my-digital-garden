@@ -18,9 +18,7 @@ $$\begin{align*}
 \end{align*}$$
 - this is the luminosity-radius-temperature relation of a star
 - the flux: 
-$$
-f = \sigma T_{eff}^{4}
-$$
+$$f = \sigma T_{eff}^{4}$$
 - **notes:**
 	- $T^{4}$ makes errors inflate rapidly
 	- real spectra are not perfect blackbodies

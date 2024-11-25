@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-i-light/px-154-i4-propagation-of-light/","created":"2024-10-01T18:50:55.313+01:00","updated":"2024-11-24T19:26:53.566+00:00"}
+dg-publish: true
 ---
-
 ##  waves, wave fronts, and rays
 ![Pasted image 20231207110556.png](/img/user/pics/Pasted%20image%2020231207110556.png)
 -  *rays*: show the direction of propagation at $90\degree$ to the wavefronts

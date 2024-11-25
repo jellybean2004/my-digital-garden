@@ -13,9 +13,7 @@ dg-publish: true
 - core contracts from increased mass and the envelope expands, so gravitational potential energy is being dumped into the envelope
 - the temperatures of the core and the shell are increasing
 - it is known that: 
-$$
-L = 4\pi R^{2}\sigma T_{eff}^{4}
-$$
+$$L = 4\pi R^{2}\sigma T_{eff}^{4}$$
 - $L$ is set by fusion
 - $R$ is increasing
 - $T_{eff}$ is decreasing

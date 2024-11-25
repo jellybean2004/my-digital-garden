@@ -23,9 +23,7 @@ $$\begin{align*}
 - $a_{ij}$ and $b_{i}$ are all known coefficients
 - let, $A - (a_{ij})_{m\times n}$ , $\vec x = (x_{j})_{n}$ , $\vec b = (b_{i})_{m}$
 
-$$
-A\,\vec x = \vec b
-$$
+$$A\,\vec x = \vec b$$
 - usually, $m=n$, but sometimes, $m\neq n$, so solution may be unique, incomplete, or non-existent
 
 - eg: 
@@ -57,9 +55,7 @@ x_{1}+ \frac{1}{5}x_{3}&= \frac{2}{5} \\
 x_{2}+ \frac{7}{5}x_{3}&= \frac{1}{5}
 \end{align*}$$
 	- setting $x_{3}=\lambda$, solution set: 
-$$
-\begin{bmatrix}x_{1} \\ x_{2}\\ x_{3}\end{bmatrix} = \begin{bmatrix} \frac{2}{5}- \frac{1}{5}\lambda \\ \frac{1}{5}- \frac{7}{5}\lambda \\ \lambda \end{bmatrix}
-$$
+$$\begin{bmatrix}x_{1} \\ x_{2}\\ x_{3}\end{bmatrix} = \begin{bmatrix} \frac{2}{5}- \frac{1}{5}\lambda \\ \frac{1}{5}- \frac{7}{5}\lambda \\ \lambda \end{bmatrix}$$
 
 - eg: 
 $$\begin{align*}
@@ -89,9 +85,7 @@ $$\begin{bmatrix}1 & -2 & 1 & | & 1 \\
  $$\begin{bmatrix}1 & 0 & \frac{3}{5} & | & \frac{3}{5} \\
 	0 & 1 & -\frac{1}{5} & | & - \frac{1}{5}
  \end{bmatrix}$$
-$$
-\begin{bmatrix}x_1 \\ x_2 \\ x_3\end{bmatrix} = \begin{bmatrix}\frac{3}{5}(1-\lambda) \\ \frac{1}{5}(\lambda-1) \\ \lambda\end{bmatrix}
-$$
+$$\begin{bmatrix}x_1 \\ x_2 \\ x_3\end{bmatrix} = \begin{bmatrix}\frac{3}{5}(1-\lambda) \\ \frac{1}{5}(\lambda-1) \\ \lambda\end{bmatrix}$$
 - for 2D: 
 $$\begin{align*}
 	\alpha x_{1} + \beta x_{2} &= a & L_{1} \\ 

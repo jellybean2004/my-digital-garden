@@ -2,48 +2,28 @@
 dg-publish: true
 ---
 - photons carry momentum: 
-$$
-E_{\gamma} = pc
-$$
+$$E_{\gamma} = pc$$
 - hence, they exert a pressure
 
 - consider a bean of photons, with a momentum, $p_{\gamma}$, hitting a surface at an angle, $\theta$, and get reflected with a momentum, $p_{\gamma}'$
 - the change in the $z$-component of the momentum: 
-$$
-\Delta p_{z} = p_{z}' - p_{z} = \frac{E\cos\theta}{c} - \frac{-E\cos\theta}{c} = \frac{2E\cos\theta}{c}
-$$
+$$\Delta p_{z} = p_{z}' - p_{z} = \frac{E\cos\theta}{c} - \frac{-E\cos\theta}{c} = \frac{2E\cos\theta}{c}$$
 - the energy: 
-$$
-E = I\cos\theta\,dt\,dA\,d\Omega
-$$
+$$E = I\cos\theta\,dt\,dA\,d\Omega$$
 - therefore, a small change in momentum can be given by:
-$$
-dp = \frac{2}{c} I\,dt\,dA\, \cos^{2}\theta\,d\Omega
-$$
+$$dp = \frac{2}{c} I\,dt\,dA\, \cos^{2}\theta\,d\Omega$$
 - force, $F=\frac{dp}{dt}$, leads to: 
-$$
-P = \frac{dp}{dt\,dA}
-$$
+$$P = \frac{dp}{dt\,dA}$$
 - the radiation pressure is given by: 
-$$
-P_{rad}= \int_{H} \frac{2}{c}I\cos^{2}\theta \,d\Omega
-$$
+$$P_{rad}= \int_{H} \frac{2}{c}I\cos^{2}\theta \,d\Omega$$
 	- where, the integral is over a hemisphere ($H$)
 
 - in a gas, there is no surface to reflect, so the integral will be over the entire sphere ($S$), and the factor of $2$ will be removed: 
-$$
-P_{rad}= \frac{1}{c} \int_{S} I\cos^{2}\theta\,d\Omega = \frac{I}{c}\int_{0}^{2\pi} d\phi \int_{0}^{\pi}d\theta \cos^{2}\theta \sin\theta
-$$
-$$
-P_{rad}= \frac{4\pi}{3c} I = \frac{4\pi}{3c} \langle{I}\rangle
-$$
+$$P_{rad}= \frac{1}{c} \int_{S} I\cos^{2}\theta\,d\Omega = \frac{I}{c}\int_{0}^{2\pi} d\phi \int_{0}^{\pi}d\theta \cos^{2}\theta \sin\theta$$
+$$P_{rad}= \frac{4\pi}{3c} I = \frac{4\pi}{3c} \langle{I}\rangle$$
 - for a blackbody: 
-$$
-I = \frac{\sigma T^{4}}{\pi}
-$$
-$$
-P_{rad,\,bb} = \frac{4\sigma}{3c} T^{4} = \frac{1}{3}aT^{4}
-$$
+$$I = \frac{\sigma T^{4}}{\pi}$$
+$$P_{rad,\,bb} = \frac{4\sigma}{3c} T^{4} = \frac{1}{3}aT^{4}$$
 	where, $a = \frac{4\sigma}{c} = 7.57\times10^{-16}\,Jm^{-3}K^{-4}$
 
 - eg: 

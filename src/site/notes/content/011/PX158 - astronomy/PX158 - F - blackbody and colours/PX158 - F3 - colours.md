@@ -11,13 +11,9 @@ dg-publish: true
 ## difference in magnitudes
 ![Pasted image 20240205113518.png](/img/user/pics/Pasted%20image%2020240205113518.png)
 - from *[[content/011/PX158 - astronomy/PX158 - D - fluxes and magnitudes/PX158 - D2 - brightness and magnitudes#^6c110f\|here]]*: 
-$$
-m_{B} - m_{R} = -2.5 \log \left(\frac{f_{B}}{f_{R}}\right)
-$$
+$$m_{B} - m_{R} = -2.5 \log \left(\frac{f_{B}}{f_{R}}\right)$$
 - this system is calibrated using vega such that: 
-$$
-(m_{B}-m_{R})_{vega} = 0
-$$
+$$(m_{B}-m_{R})_{vega} = 0$$
 	- a number greater than 0 means a temperature less than that of vega
 	- most stars will have colour $>0$ as vega is a hot star
 

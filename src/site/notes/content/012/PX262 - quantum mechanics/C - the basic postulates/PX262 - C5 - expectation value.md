@@ -12,6 +12,5 @@ $$\begin{align*}
 	\therefore \langle{\hat Q}\rangle &= \sum\limits_{n}|a_{n}|^{2} q_{n}
 \end{align*}$$
 - the standard deviation can be defined as: 
-$$
-\sqrt{\delta Q} = \sqrt{\langle{\hat Q^{2}}\rangle - \langle{\hat Q}\rangle^{2}}
-$$
+ 
+$$\sqrt{\delta Q} = \sqrt{\langle{\hat Q^{2}}\rangle - \langle{\hat Q}\rangle^{2}}$$

@@ -16,7 +16,8 @@ $$\begin{align*}
 - eg: what is the equilibrium temperature for the earth?
 		$L_{\odot}=3.8\times10^{26}\,W$
 		$d = 1\,AU = 1.5\times10^{11}\,m$
-		$$\therefore T_{eq,\,\oplus} = 280\,K$$
+	
+$$\therefore T_{eq,\,\oplus} = 280\,K$$
 - eg: what is the equilibrium temperature for venus?
 	- $d=0.7\,AU$
 	$$\therefore T_{eq,\, venus} \approx 330\,K$$

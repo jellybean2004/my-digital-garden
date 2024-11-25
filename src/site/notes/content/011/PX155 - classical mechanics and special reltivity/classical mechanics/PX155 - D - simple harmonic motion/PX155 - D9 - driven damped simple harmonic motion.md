@@ -17,12 +17,14 @@ dg-publish: true
 - recall $a=|a|e^{i\phi}$ in modulus argument form
 		$z = |a|e^{i(\omega t+\phi)}$
 	- with $x= \mathbb Re (z) = |a|\cos(\omega t+\phi)$
-- equate two forms of $a$: $$\frac{F/m}{(\omega_{0}^{2}-\omega^{2}) + i \omega \gamma}= |a|e^{i\phi}$$
+- equate two forms of $a$:
+$$\frac{F/m}{(\omega_{0}^{2}-\omega^{2}) + i \omega \gamma}= |a|e^{i\phi}$$
 - B2: ${} |a| = \frac{F/m}{\sqrt{(\omega_{0}^{2}-\omega^{2})^{2} - (\omega \gamma)^{2}}} {}$ , $\tan\phi = \frac{-\gamma\omega}{\omega_{0}^{2}-\omega^{2}}$
 -
 - comparison: consider a *static* load ($W=0$)
 		$|a|_{0} = \frac{F_0/m}{\omega_{0}^{2}} = \frac{F_{0}}{k}$
-	- $|a|_0$ is an extension of spring under static load: $$\frac{|a|}{|a|_{0}}= \frac{\omega_{0}^{2}}{\sqrt{(\omega_0^2-\omega^{2})+(\gamma\omega)^{2}}}$$
+	- $|a|_0$ is an extension of spring under static load:
+$$\frac{|a|}{|a|_{0}}= \frac{\omega_{0}^{2}}{\sqrt{(\omega_0^2-\omega^{2})+(\gamma\omega)^{2}}}$$
 	- for small $\omega_{0}-\omega$ and small $\gamma$, we can have $\frac{|a|}{|a|_{0}}>1$, so, large amplitude and static load
 - key features: 
 	- amplitude of the response varies with $\omega$ and peaks close to $\omega_{0} \implies$ *resonance*

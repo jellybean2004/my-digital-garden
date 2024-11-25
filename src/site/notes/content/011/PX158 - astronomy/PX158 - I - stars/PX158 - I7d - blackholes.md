@@ -14,9 +14,7 @@ $$\begin{align*}
 \end{align*}$$
 	$M=$ mass of planet/star, $R=$ its radius
 - for light: 
-$$
-R = \frac{2GM}{c^{2}}=3\left(\frac{M}{M_{\odot}}\right)\,km
-$$
+$$R = \frac{2GM}{c^{2}}=3\left(\frac{M}{M_{\odot}}\right)\,km$$
 	- $R$ is the *schwarzschild radius*
 	- for the sun, $R_{schw.}=6\,km$; for the earth, $R_{schw.}=6\,cm$
 
@@ -29,7 +27,5 @@ $$
 - accretion discs are very luminous
 - accretion discs are stable to $\sim \frac{6GM}{c^{2}} = 3R_{schw.}$
 - energy released by matter falling into a blackhole: 
-$$
-E_{grav.}= \frac{GMm}{R} = \frac{1}{6}mc^{2}
-$$
+$$E_{grav.}= \frac{GMm}{R} = \frac{1}{6}mc^{2}$$
 - efficiency	$\approx17\%$ (*cf*: $H$-fusion $\sim 0.7\%$)

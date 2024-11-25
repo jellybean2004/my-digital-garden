@@ -1,9 +1,11 @@
 ---
 dg-publish: true
 ---
-- the boltzmann equation gives how many electrons are in each state: $$\frac{N_{B}}{N_{A}} = \frac{g_{B}}{g_{A}}\exp\left(- \frac{E_{B}-E_{A}}{k_{B}T}\right)$$
+- the boltzmann equation gives how many electrons are in each state:
+$$\frac{N_{B}}{N_{A}} = \frac{g_{B}}{g_{A}}\exp\left(- \frac{E_{B}-E_{A}}{k_{B}T}\right)$$
 ## derivation
-- from statistical mechanics, the probability that an electron is in state 1 , requiring an energy, $E_{1}$, over state 2, with an energy, $E_{2}$, for $E_{1}>E_{2}$, is given by: $$\frac{P_{1}}{P_{2}} = \frac{e^{-\frac{E_{1}}{k_{B}T}}}{e^{-\frac{E_{2}}{k_{B}T}}} = \exp\left({- \frac{E_{1}-E_{2}}{k_{B}T}}\right)$$
+- from statistical mechanics, the probability that an electron is in state 1 , requiring an energy, $E_{1}$, over state 2, with an energy, $E_{2}$, for $E_{1}>E_{2}$, is given by:
+$$\frac{P_{1}}{P_{2}} = \frac{e^{-\frac{E_{1}}{k_{B}T}}}{e^{-\frac{E_{2}}{k_{B}T}}} = \exp\left({- \frac{E_{1}-E_{2}}{k_{B}T}}\right)$$
 - if the temperature is low, $k_{B}T\to 0 \implies \frac{P_{1}}{P_{2}}\to0:$ the electrons go to the lowest state
 - if the temperature is high, $k_{B}T\to\infty \implies \frac{P_{1}}{P_{2}}\to1 :$ with infinite energy, all states are equally accessible
 - these are quantum states, defined by:
@@ -29,12 +31,8 @@ dg-publish: true
 - all possible states need to be included
 - this gets done using '*statistical weights*', $g$, such that $g_{A}$ is the  number of states with the energy, $E_{A}$
 - $\frac{P_{1}}{P_{2}}$ is for a given energy, not a given state, so accounting for states, the probability ratio becomes: 
-$$
-\frac{P_{1}}{P_{2}} = \frac{g_{1}}{g_{2}}\exp\left(- \frac{E_{1}-E_{2}}{k_{B}T}\right)
-$$
+$$\frac{P_{1}}{P_{2}} = \frac{g_{1}}{g_{2}}\exp\left(- \frac{E_{1}-E_{2}}{k_{B}T}\right)$$
 - a stellar atmosphere has a large number of atoms, $N$
 - the probability ratio is equivalent to the number ratios of atoms in each state, therefore, **the boltzmann equation** is obtained: 
-$$
-\boxed{\frac{N_{B}}{N_{A}} = \frac{g_{B}}{g_{A}}\exp\left(- \frac{E_{B}-E_{A}}{k_{B}T}\right)}
-$$
+$$\boxed{\frac{N_{B}}{N_{A}} = \frac{g_{B}}{g_{A}}\exp\left(- \frac{E_{B}-E_{A}}{k_{B}T}\right)}$$
 - considering the atoms of a single element in a specified state of ionization with number of electrons, $N_x$, at an energy level, $E_x$

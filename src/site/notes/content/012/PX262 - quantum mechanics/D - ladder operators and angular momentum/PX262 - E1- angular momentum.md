@@ -2,13 +2,11 @@
 dg-publish: true
 ---
 - in classical physics, the angular momentum is defined as: 
-$$
-\vec L = \vec r \times \vec p
-$$
+ 
+$$\vec L = \vec r \times \vec p$$
 - therefore, using [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C2c - postulates 2 & 3\|postulate 3]], the angular momentum operator is defined as: 
-$$
-\hat L = \hat{\vec R} \times \hat{\vec P}
-$$
+ 
+$$\hat L = \hat{\vec R} \times \hat{\vec P}$$
 - the components of angular momentum are: 
 $$\begin{align*}
 	\hat L_{x}&= \hat Y \hat P_{z}- \hat Z \hat P_{y} \\

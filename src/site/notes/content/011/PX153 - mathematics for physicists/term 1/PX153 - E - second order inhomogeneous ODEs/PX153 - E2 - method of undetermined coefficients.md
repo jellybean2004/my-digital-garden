@@ -16,15 +16,20 @@ dg-publish: true
 	- eg: find the general solution to: 
 	$$y''-y'-6y = e^{3x}$$
 		- complementary function from before
-		$$y_{c}(x) = Ce^{3x}+De^{2x}$$
+	
+$$y_{c}(x) = Ce^{3x}+De^{2x}$$
 		- trial function for $e^{3x}$ will not work
 		- instead, we try $y_{p}(x) = \alpha x e^{3x}$
-		$$y_{p}' = \alpha e^{3x}+3\alpha xe^{3x}$$
-		$$y_{p}'' = 6 \alpha e^{3x}+ 9\alpha xe^{3x}$$
-		$$(6 \alpha e^{3x}+ 9\alpha xe^{3x})-(\alpha e^{3x}+ 3\alpha xe^{3x})-6\alpha x e^{3x}=e^{3x}$$
+	
+$$y_{p}' = \alpha e^{3x}+3\alpha xe^{3x}$$
+	
+$$y_{p}'' = 6 \alpha e^{3x}+ 9\alpha xe^{3x}$$
+	
+$$(6 \alpha e^{3x}+ 9\alpha xe^{3x})-(\alpha e^{3x}+ 3\alpha xe^{3x})-6\alpha x e^{3x}=e^{3x}$$
 		- terms in $xe^{3x}: 9\alpha-3\alpha-6\alpha = 0$
 		- terms in $x^{0}e^{3x}: 6\alpha-\alpha = 1 \implies \alpha = \frac{1}{5}$
-		$$\therefore G.S. : y(x) = y_{c}+ y_{p} = Ce^{3x}+De^{2x} + \frac{1}{5} e^{3x}$$
+	
+$$\therefore G.S. : y(x) = y_{c}+ y_{p} = Ce^{3x}+De^{2x} + \frac{1}{5} e^{3x}$$
 - if $f(x)$ contains a *sum of functions*, then our trial function will also be the sum of the functions
 	- eg: for $ay''+by'+cy = 3\sin(2x) +1+x^{2}$
 		- try: $\alpha \sin(2x) +\beta\cos(2x)+(\gamma+\delta x + \epsilon x^{2})$
@@ -35,7 +40,8 @@ dg-publish: true
 		- first, solve complementary equation:
 			- auxiliary equation: $l^{2}-2l = 0$
 				$l_{1}=0, \; l_{2}=2$
-			$$y_{c}= A+Be^{2x}$$
+		
+$$y_{c}= A+Be^{2x}$$
 		- particular solution: $y_{p}(x) = C \cos(x)+D\sin(x)+Ex$
 			- sub into ODE: $-C\cos(x)-D\sin(x)+2C\sin(x)-2D\cos(x)-2E = -5\cos(x)-2$
 			- constant term: $-2E = -2 \implies E=1$
@@ -43,4 +49,5 @@ dg-publish: true
 			- $\sin(x)$ term: $-D+2C=0 \implies D=2C$ 
 				$\therefore C=1, \; D=2$
 			- hence, 
-			$$\therefore G.S.: y(x) = A + Be^{2x} + \cos(x) + 2\sin(x) + x$$
+		
+$$\therefore G.S.: y(x) = A + Be^{2x} + \cos(x) + 2\sin(x) + x$$

@@ -17,9 +17,7 @@ dg-publish: true
 
 ![Pasted image 20231127183625.png](/img/user/pics/Pasted%20image%2020231127183625.png)
 - for sound, we find: 
-$$
-f' = f \left( \frac{v+u_{0}}{v+u_{s}} \right)
-$$
+$$f' = f \left( \frac{v+u_{0}}{v+u_{s}} \right)$$
 		where, $f'=$ observed frequency, $f=$ source frequency, $u_{0}=$ velocity of observer, $u_{s}=$ velocity of source
 
 - always be careful about signs:
@@ -27,7 +25,5 @@ $$
 	- $f'<f$: moving away
 
 - compare with EM waves: 
-$$
-f' = f\sqrt{\frac{c-v}{c+v}}
-$$
+$$f' = f\sqrt{\frac{c-v}{c+v}}$$
 		where, $c=$ speed of light, $v=$ the relative speed of source and observer

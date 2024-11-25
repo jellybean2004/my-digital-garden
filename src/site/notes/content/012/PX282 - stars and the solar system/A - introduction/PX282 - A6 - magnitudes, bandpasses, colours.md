@@ -9,14 +9,10 @@ dg-publish: true
 ## apparent magnitude
 - it is the magnitude as seen from a distance, $d$
 - for two stars with apparent magnitudes, $m_{1}$ and $m_{2}$, and fluxes, $f_{1}$ and $f_{2}:$ 
-$$
-m_{1}- m_{2} = -2.5 \log\left(\frac{f_{1}}{f_{2}}\right) \tag{1}
-$$
+$$m_{1}- m_{2} = -2.5 \log\left(\frac{f_{1}}{f_{2}}\right) \tag{1}$$
 - the scale needs a zero-point, which is taken to be vega, $m_{vega}=0 \,\forall\,\lambda$ 
 - therefore, the apparent magnitude for any star is: 
-$$
-m_{*} = -2.5\log\left(\frac{f_{*}}{f_{vega}}\right)
-$$
+$$m_{*} = -2.5\log\left(\frac{f_{*}}{f_{vega}}\right)$$
 - this scale makes numbers easy to work with, eg: 
 	- sirius, $m = -1.4$
 	- sun, $m_\odot=-2.7$
@@ -26,17 +22,13 @@ $$
 - $\sim5\,magnitudess \approx 100\times brightness$
 
 - flux and magnitude are so far **bolometric***, ie. measured across all wavelengths, or formally: 
-$$
-f = \int_{0}^{\infty} f_{\lambda}\,d\lambda
-$$
+$$f = \int_{0}^{\infty} f_{\lambda}\,d\lambda$$
 	where, $f_\lambda$ is the flux density $[Js^{-1}m^{-2}nm^{-1}]$
 
 - in practice,  all wavelengths cannot be measured
 - $\lambda-$ranges are selected using filters
 - a filter has a transmission function, $T_A:$ 
-$$
-\bar f_{A} = \frac{\int_{0}^{\infty} T_{\lambda}f_{\lambda}\,d\lambda}{\int_{0}^{\infty} T_{\lambda}\,d\lambda}
-$$
+$$\bar f_{A} = \frac{\int_{0}^{\infty} T_{\lambda}f_{\lambda}\,d\lambda}{\int_{0}^{\infty} T_{\lambda}\,d\lambda}$$
 - eg:
 	- $90\%$ at $\lambda$
 

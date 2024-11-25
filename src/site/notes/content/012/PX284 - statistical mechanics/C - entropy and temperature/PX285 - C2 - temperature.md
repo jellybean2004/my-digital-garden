@@ -13,19 +13,13 @@ $$\begin{gather*}
 \frac{	d\ln\Omega_{1}}{dE_{1}} = \frac{d\ln\Omega_{2}}{dE_{2}}
 \end{gather*}$$
 - statistically defining the temperature using the expression: 
-$$
-\frac{1}{k_{B}T} = \frac{d\ln\Omega}{dE}
-$$
+$$\frac{1}{k_{B}T} = \frac{d\ln\Omega}{dE}$$
 - it is found that $T_{1} = T_{2}$ at equilibrium
 
 - in **thermodynamics**, for an isolated system, [[content/011/PX154 - physics foundations/PX154 - D - the first law of thermodynamic/PX154 - D2 - the first law\|the first law]] states: 
-$$
-dU = T\,dS - p\,dV \implies \frac{1}{T} = \left(\frac{\partial S}{\partial V}\right)_{V}
-$$
+$$dU = T\,dS - p\,dV \implies \frac{1}{T} = \left(\frac{\partial S}{\partial V}\right)_{V}$$
 - in **statistical mechanics**, for an isolated system: 
-$$
-\frac{1}{T} = \frac{d}{dE} (k_{B}\ln\Omega) = \frac{dS}{dE}
-$$
+$$\frac{1}{T} = \frac{d}{dE} (k_{B}\ln\Omega) = \frac{dS}{dE}$$
 
 - **note:** 
 	- $k_{B}T$ has the same units as energy

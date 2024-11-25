@@ -14,23 +14,15 @@ dg-publish: true
 ### model system
 - the [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B6 - 1D harmonic oscillator\|simple harmonic oscillator]]
 - **potential energy:** 
-$$
-V = \frac{1}{2} m\omega^{2}x^{2}
-$$
+$$V = \frac{1}{2} m\omega^{2}x^{2}$$
 - **solution:** 
-$$
-E_{n} = \left(n+ \frac{1}{2}\right)\hbar \omega
-$$
+$$E_{n} = \left(n+ \frac{1}{2}\right)\hbar \omega$$
 
 - $\boxed{2}$ indicates a system in state, $n=2$
 - there can be $N>1$ simple harmonic oscillators
 - consider $N=4:$ 
-$$
-\begin{matrix}\boxed{1} & \boxed{2} & \boxed{0} & \boxed{3}\end{matrix}
-$$
+$$\begin{matrix}\boxed{1} & \boxed{2} & \boxed{0} & \boxed{3}\end{matrix}$$
 - the energy of the system: 
-$$
-E = (1+2+0+3)\hbar\omega + \frac{4\hbar\omega}{2}
-$$
+$$E = (1+2+0+3)\hbar\omega + \frac{4\hbar\omega}{2}$$
 - the last term is fixed at $\frac{N\hbar\omega}{2}$, which is called the **zero-point energy (ZPE)**, the energy of the ground state
 - **ZPE** is an important result of quantum mechanics that may sometimes be ignored for convenience

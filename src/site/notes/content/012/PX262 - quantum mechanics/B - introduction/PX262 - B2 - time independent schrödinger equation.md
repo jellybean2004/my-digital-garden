@@ -17,16 +17,13 @@ $$\begin{align*}
 \end{align*}$$
 	- universal time dependence in systems where potential is time independent
 - $RHS:$ 
-$$
-- \frac{\hbar^{2}}{2M} \frac{d^{2}\phi}{dx^{2}} + V\phi = E\phi
-$$
+ 
+$$- \frac{\hbar^{2}}{2M} \frac{d^{2}\phi}{dx^{2}} + V\phi = E\phi$$
 	- this is the time independent schrödinger equation
 - for a free particle, ${} V(x)=0:$ 
-$$
-\phi(x) = A\exp(ikx)
-$$
+ 
+$$\phi(x) = A\exp(ikx)$$
 	where, $k=\sqrt{\frac{2ME}{\hbar^2}}$
 - full wave function: 
-$$
-\psi(x,t) = A\exp[-(kx-\omega t)]
-$$
+ 
+$$\psi(x,t) = A\exp[-(kx-\omega t)]$$

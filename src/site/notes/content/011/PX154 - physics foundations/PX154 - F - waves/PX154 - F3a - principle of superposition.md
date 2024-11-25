@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/px-154-f3a-principle-of-superposition/","created":"2024-10-01T18:50:55.175+01:00","updated":"2024-11-24T19:23:15.482+00:00"}
+dg-publish: true
 ---
-
 - to add waves together
 	- eg: diffraction experiment with a laser + diffraction grating
 - to add waves of  different frequencies
@@ -24,7 +23,8 @@ $$u_{3}(x,t) = A\cos(kx-\omega t + \pi) \equiv -A\cos(kx-\omega t)$$
 		$u_{1}(x,t) = A \cos(kx-\omega t+ \phi_{1})$
 		$u_{2}(x,t) = A \cos(kx-\omega t+ \phi_{2})$
 	- let both have the same amplitude, $A$
-		- helpful identity: $$\cos A + \cos B = 2\cos(\frac{A+B}{2})\cos(\frac{A-B}{2}) \;...[3]$$
+		- helpful identity:
+$$\cos A + \cos B = 2\cos(\frac{A+B}{2})\cos(\frac{A-B}{2}) \;...[3]$$
 	- adding the waves: 
 	$$u_{1}+u_{2} = 2A \cos(kx-\omega t + \frac{\phi_{1}+\phi_{2}}{2})\cos(\frac{\phi_{1}-\phi_{2}}{2})$$
 		- first $\cos$ is equation of a wave

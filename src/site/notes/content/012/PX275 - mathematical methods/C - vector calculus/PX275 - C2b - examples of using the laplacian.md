@@ -2,27 +2,19 @@
 dg-publish: true
 ---
 ## laplace's equation
-$$
-\nabla^{2}\phi =0
-$$
+$$\nabla^{2}\phi =0$$
 where, $\phi$ is a scalar
 - heat transfer in a steady state
 ## poisson's equation
-$$
-\nabla^{2}\phi = k
-$$
+$$\nabla^{2}\phi = k$$
 where, $\phi$ is a scalar, and $k$ is a constant
 - potential field from a charge/mass
 - wave equation: 
-$$
-\nabla^{2}\phi = \frac{1}{c^{2}} \frac{\partial^{2} {\phi}}{\partial {t}^{2}}
-$$
+$$\nabla^{2}\phi = \frac{1}{c^{2}} \frac{\partial^{2} {\phi}}{\partial {t}^{2}}$$
 	where, $\phi$ is a scalar, and $c=$ phase speed
 - it can be rearranged and written as $\square \phi =0:$ **d'alembert's equation** with applications in electrodynamics
 ### on vectors
-$$
-\nabla^{2}\vec E = \frac{1}{c^{2}} \frac{\partial^{2} {E}}{\partial {t}^{2}}
-$$
+$$\nabla^{2}\vec E = \frac{1}{c^{2}} \frac{\partial^{2} {E}}{\partial {t}^{2}}$$
 - in cartesians (only): 
 $$\begin{align*}
 	\nabla^{2} \vec E &= (\nabla^{2}E_{x})\,\hat i + (\nabla^{2}E_{y})\,\hat j + (\nabla^{2}E_{z})\,\hat k \\\\

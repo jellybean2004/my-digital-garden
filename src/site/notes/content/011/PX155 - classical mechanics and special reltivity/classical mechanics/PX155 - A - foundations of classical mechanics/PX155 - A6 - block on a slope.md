@@ -11,7 +11,10 @@ dg-publish: true
 - here,
 		$N - W \cos{\theta} = 0$
 		$F_{s}-W\sin{\theta}=0$
-- hence, for no slippage: $$(F_s=W\sin{\theta})\leq (\mu _sN=\mu _sW\cos{\theta})$$
-- dividing by $\cos{\theta}$: $$\tan{\theta}\leq \mu _s$$
-- $F_s$ has a max value of $\mu _s N$, so, it will reach $\theta _c$ at which block slips: $$\tan{\theta _{c}}=\mu _s$$
+- hence, for no slippage:
+$$(F_s=W\sin{\theta})\leq (\mu _sN=\mu _sW\cos{\theta})$$
+- dividing by $\cos{\theta}$:
+$$\tan{\theta}\leq \mu _s$$
+- $F_s$ has a max value of $\mu _s N$, so, it will reach $\theta _c$ at which block slips:
+$$\tan{\theta _{c}}=\mu _s$$
 	- easy way to measure $\mu _s$

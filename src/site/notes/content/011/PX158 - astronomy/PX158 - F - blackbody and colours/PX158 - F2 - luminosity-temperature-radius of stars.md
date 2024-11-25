@@ -2,9 +2,7 @@
 dg-publish: true
 ---
 - total power of a star: 
-$$
-L_{*} = 4\,\pi\,R_{*}^{2}\, \sigma\,T_{*}^{4}
-$$
+$$L_{*} = 4\,\pi\,R_{*}^{2}\, \sigma\,T_{*}^{4}$$
 - the *'effective temperature'*, $T_{eff}$, is the mean temperature at the 'surface' of the star
 	- 'surface': when a star becomes optically thin, ie: photosphere
 

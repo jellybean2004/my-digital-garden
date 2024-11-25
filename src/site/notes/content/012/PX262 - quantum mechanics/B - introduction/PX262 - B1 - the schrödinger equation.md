@@ -2,18 +2,19 @@
 dg-publish: true
 ---
 - a fundamental equation in QM to describe the system and the state in which it is, the schrödinger equation: 
-$$
-i\hbar \frac{\partial \psi(x,t)}{\partial t} = - \frac{\hbar^{2}}{2M} \frac{\partial^{2} \psi(x,t)}{\partial x^{2}}+V(x,t)\psi(x,t)
-$$
+ 
+$$i\hbar \frac{\partial \psi(x,t)}{\partial t} = - \frac{\hbar^{2}}{2M} \frac{\partial^{2} \psi(x,t)}{\partial x^{2}}+V(x,t)\psi(x,t)$$
 	where, 
 		$M=$ mass of the particle
 		$V(x,t)=$ the potential in which it is moving
 		$\psi(x,t) =$ the wavefunction which encodes all information about the state of the particle 
 - there is a correspondence between classical energy an schodinger equation
 	- in classical mechanics: 
-	  $$E = \frac{p^{2}}{2M} +V$$
+	 
+$$E = \frac{p^{2}}{2M} +V$$
 	- swapping $p, V, E$ with operators: 
-	  $$\begin{align*}
+	 
+$$\begin{align*}
 		E\to i\hbar\frac{\partial }{\partial t} \\
 		\vec p \to -i\hbar \vec\nabla
 	\end{align*}$$
@@ -23,11 +24,12 @@ $$
 - in QM, it can be complect, and does not directly give the displacement
 - the QM wavefunction is connected to the probability of finding a particle at some position
 - in some interval, between $x$ and $x+dx$, at a time, $t$, the probability of finding the particle is given by the *bohr postulates*: 
-$$
-P(x,t)\,dx = |\psi(x,t)|^{2}
-$$
+ 
+$$P(x,t)\,dx = |\psi(x,t)|^{2}$$
 - the wavefunction has to be *normalized*, ie: the probability of finding the particle in the system is fixed: 
-  $$\begin{gather*}
+ 
+$$\begin{gather*}
 	\int_{-\infty}^{+\infty} P(x,t)\,dx = 1 \\
 	\implies \int_{-\infty}^{+\infty} |\psi(x,t)|^{2}\,dx = \int_{-\infty}^{+\infty} \psi^{*}\psi\,dx=1
-\end{gather*} $$
+\end{gather*}
+$$

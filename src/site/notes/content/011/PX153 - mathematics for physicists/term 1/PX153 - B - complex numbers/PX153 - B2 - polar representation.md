@@ -7,20 +7,14 @@ dg-publish: true
 	$$x=r\cos{\theta}, y=rsin\theta$$
 	$$z=r\cos{\theta}+ir\sin{\theta}$$
 ## euler's formula
-$$
-z = re^{i\theta}=r\cos{\theta}+ir\sin{\theta}
-$$
+$$z = re^{i\theta}=r\cos{\theta}+ir\sin{\theta}$$
+{ #775224}
+
 - multiplication:
-$$
-z_1z_2=r_1r_2e^{i(\theta_1+\theta_2)}
-$$
-$$
-zz^*=re^{i\theta}re^{-i\theta}=r^2
-$$
+$$z_1z_2=r_1r_2e^{i(\theta_1+\theta_2)}$$
+$$zz^*=re^{i\theta}re^{-i\theta}=r^2$$
 - division:
-$$
-\frac{z_1}{z_{2}}=\frac{r_1}{r_2}e^{i(\theta_1-\theta_2)}
-$$
+$$\frac{z_1}{z_{2}}=\frac{r_1}{r_2}e^{i(\theta_1-\theta_2)}$$
 ## important corollaries
 - $\cos{\theta}= \frac{1}{2}(e^{i\theta}+e^{-i\theta})$
 		$e^{i\theta}+e^{-i\theta}=(\cos{\theta}+i\sin{\theta})+(\cos{\theta}-i\sin{\theta})$
@@ -30,7 +24,5 @@ $$
 - $x=\sqrt[3]{1}$ has roots $1, \omega, \omega^2$
 	- solve $x^3-1$ for values of $\omega$
 - if $z=(r,\theta)$: 
-$$
-z^{-1}=(-r,-\theta)
-$$
+$$z^{-1}=(-r,-\theta)$$
 - note: added during tutorial

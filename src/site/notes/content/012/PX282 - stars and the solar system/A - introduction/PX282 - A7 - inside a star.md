@@ -6,9 +6,7 @@ dg-publish: true
 - energy is transferred by photons, convection, atom collisions, magnetic field
 - the photons seen arise from near the 'surface', from material in thermal equilibrium
 - emission from a gas in thermal equilibrium can be approximated by [[content/011/PX158 - astronomy/PX158 - F - blackbody and colours/PX158 - F1 - black body radiation\|black body radiation]], which follows planck's law: 
-$$
-B_\lambda(T) = \frac{2hc^{2}}{\lambda^{5}}\left(\frac{1}{\exp(\frac{hc}{\lambda kT})}-1\right)
-$$
+$$B_\lambda(T) = \frac{2hc^{2}}{\lambda^{5}}\left(\frac{1}{\exp(\frac{hc}{\lambda kT})}-1\right)$$
 ![Pasted image 20241017180433.png](/img/user/pics/Pasted%20image%2020241017180433.png)
 - **key observations:**
 	- hotter objects have a higher peak, ie. they give off more energy
@@ -20,6 +18,4 @@ $$
 	$$\lambda_{max} T = 2.898\times10^{-3}Km$$
 	- as $T\uparrow$, $\lambda\downarrow$
 - consider the units of $B_{\lambda}:$ 
-$$
-[B_{\lambda}] = \underbrace{Js^{-1}}_{energy\,rate} \times \underbrace{m^{-2}}_{per\,unit\,area} \times \underbrace{nm^{-1}}_{per\,unit\,\lambda} \times \underbrace{st^{-1}}_{per\,steradian}
-$$
+$$[B_{\lambda}] = \underbrace{Js^{-1}}_{energy\,rate} \times \underbrace{m^{-2}}_{per\,unit\,area} \times \underbrace{nm^{-1}}_{per\,unit\,\lambda} \times \underbrace{st^{-1}}_{per\,steradian}$$

@@ -2,30 +2,25 @@
 dg-publish: true
 ---
 - the solution the schrödinger equations for a single electron in coulomb potential is: 
-$$
-\phi_{nlm} = R_{nl}(r) \,Y_{lm}(\theta,\varphi)
-$$
+ 
+$$\phi_{nlm} = R_{nl}(r) \,Y_{lm}(\theta,\varphi)$$
 - three quantum numbers are needed to label the states:
 	- the main quantum number: $n\in \mathbb{Z}>0$
 	- the orbital quantum number: $l \in \mathbb{Z} \geq 0$
 	- the magnetic quantum number: $m \in [-l,l]$
 - the energies if individual eigenstates: 
-$$
-E_{1} = - \frac{me^{4}}{2(4\pi\epsilon_{0})^{2}\hbar^{2}} = - \frac{me^{4}c^{2}}{2(4\pi\epsilon_{0})^{2}\hbar^{2}c^{2}}
-$$
+ 
+$$E_{1} = - \frac{me^{4}}{2(4\pi\epsilon_{0})^{2}\hbar^{2}} = - \frac{me^{4}c^{2}}{2(4\pi\epsilon_{0})^{2}\hbar^{2}c^{2}}$$
 - defining the fine structure constant:
-$$
-\alpha = \frac{e^{2}}{4\pi\epsilon_{0}\hbar c^{2}} = \frac{1}{137}
-$$
+ 
+$$\alpha = \frac{e^{2}}{4\pi\epsilon_{0}\hbar c^{2}} = \frac{1}{137}$$
 - the energy level becomes: 
-$$
-E_{1} = - \frac{mc^{2}\alpha^{2}}{2} = -13.6\,eV
-$$
+ 
+$$E_{1} = - \frac{mc^{2}\alpha^{2}}{2} = -13.6\,eV$$
 - **note:** the energy is negative as the electron is bound inside the atom
 - the energies for other states: 
-$$
-E_{n} = E_{1} \frac{1}{n^{2}}
-$$
+ 
+$$E_{n} = E_{1} \frac{1}{n^{2}}$$
 - states get closer in energy as $n$ increases, but they will always stay negative
 - for atoms other than hydrogen the energy scales by $Z^{2}$
 - to determine the  number of states: 
@@ -43,7 +38,6 @@ $$
 	- the angular part are described by the spherical harmonics: $Y_{lm}(\theta,\varphi)$
 	- the radial parts are described by the laguerre polynomials: $R_{nl}(r) = F_{nl}(\rho) \exp(- \frac{\rho}{2})$
 - the probability of finding the particle: 
-$$
-P(r) = \int_{0}^{2\pi}\int_{0}^{\pi} \phi^{2}_{nlm} r^{2}\sin\theta\,d\theta\,d\varphi
-$$
+ 
+$$P(r) = \int_{0}^{2\pi}\int_{0}^{\pi} \phi^{2}_{nlm} r^{2}\sin\theta\,d\theta\,d\varphi$$
 - this can be solved numerically

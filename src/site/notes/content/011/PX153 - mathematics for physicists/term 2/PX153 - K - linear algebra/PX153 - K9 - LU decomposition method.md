@@ -8,9 +8,7 @@ $$\begin{align*}
 	&= \begin{bmatrix} U_{11} && U_{12} & U_{13} \\ L_{21}U_{11} && L_{21}U_{12}+U_{22} & L_{21}U_{13}+U_{23} \\ L_{31}U_{11} && L_{31}U_{12}+L_{32}U_{22} & L_{31}U_{13}+L_{32}U_{23}+U_{33} \end{bmatrix}
 \end{align*}$$
 - $9$ equations to solve for $a_{ij}$, and then, 
-$$
-\det A = \det L \cdot \det U = U_{11}\times U_{22} \times U_{33}
-$$
+$$\det A = \det L \cdot \det U = U_{11}\times U_{22} \times U_{33}$$
 - usually the fastest method to find the determinant, $|A|$, and the solution vector, $\vec x$, for simultaneous equations
 - $O(n\times n)$ operations
 
@@ -23,12 +21,8 @@ $$
 		$L_{21}U_{13}+U_{23}=-2 \implies U_{23}= -\frac{7}{2}$
 		$L_{31}U_{12}+L_{32}U_{22} = 3 \implies L_{32}=- \frac{3}{4}$
 		$L_{31}U_{13}+L_{32}U_{23}+U_{33} = 2 \implies U_{33}=- \frac{11}{8}$
-$$
-A = \begin{bmatrix}1 & 0 & 0 \\ \frac{1}{2} & 1 & 0 \\ - \frac{3}{2} & - \frac{9}{4} & 1\end{bmatrix} \begin{bmatrix}2 & 4 & 3 \\ 0 & -4 & - \frac{7}{3} \\ 0 & 0 & - \frac{11}{8}\end{bmatrix}
-$$
-$$
-\det A = (1)\times \left(2\times (-4) \times \left(- \frac{11}{8}\right)\right)= -11
-$$
+$$A = \begin{bmatrix}1 & 0 & 0 \\ \frac{1}{2} & 1 & 0 \\ - \frac{3}{2} & - \frac{9}{4} & 1\end{bmatrix} \begin{bmatrix}2 & 4 & 3 \\ 0 & -4 & - \frac{7}{3} \\ 0 & 0 & - \frac{11}{8}\end{bmatrix}$$
+$$\det A = (1)\times \left(2\times (-4) \times \left(- \frac{11}{8}\right)\right)= -11$$
 $$\begin{gather*}
 	A\vec x = \vec b \\
 	LU\vec x = \vec b \\

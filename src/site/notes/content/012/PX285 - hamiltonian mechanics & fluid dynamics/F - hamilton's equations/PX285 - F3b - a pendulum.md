@@ -13,26 +13,18 @@ $$\begin{align*}
 \end{align*}$$
 - **note:** here, $p \neq mv$ because this is the angular momentum
 - the definition of $H$ from first principles: 
-$$
-H = - L + p \dot\theta = - L + ml^{2}\dot\theta^{2}
-$$
+$$H = - L + p \dot\theta = - L + ml^{2}\dot\theta^{2}$$
 - substituting for $L:$ 
-$$
-H = \frac{1}{2}ml^{2} \dot\theta^{2} - mgl\cos\theta
-$$
+$$H = \frac{1}{2}ml^{2} \dot\theta^{2} - mgl\cos\theta$$
 - substituting using $(1):$ 
-$$
-H(\theta, p) = \frac{1}{2}ml^{2}\left(\frac{p}{ml^{2}}\right)^{2} - mgl\cos\theta = \frac{p^{2}}{2ml^{2}} - mgl\cos\theta
-$$
+$$H(\theta, p) = \frac{1}{2}ml^{2}\left(\frac{p}{ml^{2}}\right)^{2} - mgl\cos\theta = \frac{p^{2}}{2ml^{2}} - mgl\cos\theta$$
 - using hamilton's equations: 
 $$\begin{align*}
 	\dot\theta &= \frac{p}{ml^{2}}\tag{2} \\
 	\dot p &= -mgl\sin\theta \tag{3}
 \end{align*}$$
 - if $\theta<<1:$ 
-$$
-\dot p \approx -mgl\theta
-$$
+$$\dot p \approx -mgl\theta$$ 
 - on phase plane: 
 $$\begin{align*}
 	d\theta &= \frac{p}{ml^{2}} \,dt \\
@@ -40,63 +32,39 @@ $$\begin{align*}
 \end{align*}$$
 
 - deriving the equations of motion: 
-$$
-\ddot\theta = \frac{\dot{p}}{ml^{2}} = \frac{-mgl}{ml^{2}} \sin\theta = - \omega^{2}\sin\theta
-$$
+$$\ddot\theta = \frac{\dot{p}}{ml^{2}} = \frac{-mgl}{ml^{2}} \sin\theta = - \omega^{2}\sin\theta$$
 	where, $\omega = \sqrt{\frac{g}{l}}$
 - for $\theta<<1:$ 
-$$
-\ddot \theta \approx - \omega^{2}\theta
-$$
+$$\ddot \theta \approx - \omega^{2}\theta$$
 - this is SHM with solutions: 
-$$
-\theta = A\cos(\omega t + \phi) = A\cos\psi
-$$
-$$
-\implies p = ml^{2}\dot\theta = - Aml^{2} \omega \sin(\omega t + \phi)
-$$
+$$\theta = A\cos(\omega t + \phi) = A\cos\psi$$
+$$\implies p = ml^{2}\dot\theta = - Aml^{2} \omega \sin(\omega t + \phi)$$
 - defining $\tilde p$ as: 
-$$
-\tilde p = \frac{p}{ml^{2}\omega} = -A\sin\psi
-$$
+$$\tilde p = \frac{p}{ml^{2}\omega} = -A\sin\psi$$
 ![Pasted image 20241114200847.png](/img/user/pics/Pasted%20image%2020241114200847.png)
 - a circular trajectory on the $\tilde p - \theta$ plane with clockwise rotation
 - an elliptical trajectory on the $p-\theta$ plane
 - the slope: 
-$$
-\frac{dp}{d\theta} = \frac{dp}{dt} \frac{dt}{d\theta} = \frac{\dot p}{\dot\theta} = - \frac{mgl\sin\theta}{\frac{p}{ml^{2}}} = \frac{m^{2}l^{3}g\sin\theta}{p}
-$$
+$$\frac{dp}{d\theta} = \frac{dp}{dt} \frac{dt}{d\theta} = \frac{\dot p}{\dot\theta} = - \frac{mgl\sin\theta}{\frac{p}{ml^{2}}} = \frac{m^{2}l^{3}g\sin\theta}{p}$$
 - the slope is negative
 - if pendulum oscillates back and forth: $E<E^{*} = 2mgl$, $-\theta_{max} < \theta < \theta_{max}$, $\theta_{max}<\pi$
 - if $\theta = \pm \theta_{max}: p=0$
 ![Pasted image 20241114201640.png](/img/user/pics/Pasted%20image%2020241114201640.png)
 - if ${} E>E^{*} = 2mgl: {}$ no restriction on $\theta$, $\theta=\pm\pi : p>0:$ 
-$$
-\frac{dp}{dt}\propto \frac{\sin\theta}{p} \to 0
-$$
+$$\frac{dp}{dt}\propto \frac{\sin\theta}{p} \to 0$$
 ![Pasted image 20241114201915.png](/img/user/pics/Pasted%20image%2020241114201915.png)
 - if $E=E^{*}$, the pendulum can come to rest at $\theta=\pm\pi$
 - let, $\theta = \pi - \epsilon:$ 
-$$
-\dot\theta = -\dot\epsilon = \frac{p}{ml^{2}}
-$$
+$$\dot\theta = -\dot\epsilon = \frac{p}{ml^{2}}$$
 - in the late stages, $\epsilon<<1:$ 
-$$
-\dot p = -mgl\epsilon
-$$
-$$
-\ddot \epsilon = - \frac{1}{ml^{2}}\dot p = \frac{mgl}{ml^{2}}\epsilon = \omega^{2}\epsilon
-$$
+$$\dot p = -mgl\epsilon$$
+$$\ddot \epsilon = - \frac{1}{ml^{2}}\dot p = \frac{mgl}{ml^{2}}\epsilon = \omega^{2}\epsilon$$
 - note: this is **not** SHM as there is a $'+'$, not $'-'$
 - the solution: 
-$$
-\epsilon = A e^{\omega t} + B e^{-\omega t}
-$$
+$$\epsilon = A e^{\omega t} + B e^{-\omega t}$$
 - the first term is diverging from upright, while the second is converging to it
 - here,  $\epsilon$ is getting smaller: 
-$$
-\epsilon = Be^{-\omega t}
-$$
+$$\epsilon = Be^{-\omega t}$$
 ![Pasted image 20241114202555.png](/img/user/pics/Pasted%20image%2020241114202555.png)
 - seeking a expression for $\frac{dp}{d\theta}:$ 
 $$\begin{align*}

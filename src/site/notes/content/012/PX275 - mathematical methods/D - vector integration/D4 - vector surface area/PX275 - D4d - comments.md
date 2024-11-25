@@ -6,6 +6,5 @@ dg-publish: true
 - a closed curve and an open surface have been considered
 - if there is a closed surface (eg: a hemisphere with a base)
 - the total vector surface area: 
-$$
-\vec S_{2,top} = \vec S_{2,bottom}
+$$\vec S_{2,top} = \vec S_{2,bottom}
 $$

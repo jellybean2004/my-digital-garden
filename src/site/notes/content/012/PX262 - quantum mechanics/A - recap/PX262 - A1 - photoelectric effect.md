@@ -7,9 +7,7 @@ dg-publish: true
 - the experimental observation that when light strikes a metal surface, electrons are emitted
 - the energy of the emitted electrons depends on the frequency of the incident light, but not on its intensity
 - the maximum energy: 
-$$
-E = h\,\nu-\phi
-$$
+$$E = h\,\nu-\phi$$
 	- where, 
 		$h=$ planck's constant
 		$\nu=$ frequency of incident light
@@ -28,9 +26,8 @@ $$
 	- for a green photon, $E = 2.26\,eV$
 
 - also, the reduced planck's constant: 
-$$
-\hbar = \frac{h}{2\pi}=1.055\times10^{-34}\,Js^{-1}
-$$
+ 
+$$\hbar = \frac{h}{2\pi}=1.055\times10^{-34}\,Js^{-1}$$
 - units:
 
 | energy   | $eV$   |

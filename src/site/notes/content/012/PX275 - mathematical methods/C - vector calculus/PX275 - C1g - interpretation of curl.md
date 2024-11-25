@@ -8,14 +8,10 @@ dg-publish: true
 		$L = m|\omega|r^{2}$
 	$|\omega| \propto \frac{1}{r^{2}}$ and $v \propto \frac{1}{r}$
 - the velocity: 
-$$
-\vec v = \frac{k}{\rho} \, \hat e_\phi
-$$
+$$\vec v = \frac{k}{\rho} \, \hat e_\phi$$
 	where, $k$ is a constant
 - the curl: 
-$$
-\vec\nabla \times \vec v = \frac{1}{\rho} \left|\begin{matrix}\hat e_\rho & \rho\hat e_{\phi} & \hat e_{z} \\ \frac{\partial }{\partial \rho} & \frac{\partial }{\partial \phi} & \frac{\partial }{\partial z} \\ 0 & \rho\frac{k}{\rho} & 0 \end{matrix} \right| = 0
-$$
+$$\vec\nabla \times \vec v = \frac{1}{\rho} \left|\begin{matrix}\hat e_\rho & \rho\hat e_{\phi} & \hat e_{z} \\ \frac{\partial }{\partial \rho} & \frac{\partial }{\partial \phi} & \frac{\partial }{\partial z} \\ 0 & \rho\frac{k}{\rho} & 0 \end{matrix} \right| = 0$$
 - previously, something spinning was thought of as having a curl
 - but here, it is the curl of a velocity field, ie: the potential for that field to 'curl' something around
 

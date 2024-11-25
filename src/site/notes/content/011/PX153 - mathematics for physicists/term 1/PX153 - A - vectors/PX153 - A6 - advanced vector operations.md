@@ -36,12 +36,8 @@ $$
 	- order of vectors doesn't matter, just take the absolute value of the scalar triple product
 ## vector triple product
 - defined as $\vec u \times (\vec v \times \vec w)$ :
-$$
-\vec u \times (\vec v \times \vec w)\neq (\vec u \times \vec v) \times \vec w)
-$$
-$$
-\vec u \times (\vec v \times \vec w) = (\vec u\cdot \vec w)\vec v - (\vec u .\vec v)\vec w
-$$
+$$\vec u \times (\vec v \times \vec w)\neq (\vec u \times \vec v) \times \vec w)$$
+$$\vec u \times (\vec v \times \vec w) = (\vec u\cdot \vec w)\vec v - (\vec u .\vec v)\vec w$$
 - $\vec v \times \vec w$ gives a vector perpendicular to the plane $\vec v$, $\vec w$ 
 	- if you work through the components, the above result can be proved. 
 	- eg: if angular velocity $\vec \omega$

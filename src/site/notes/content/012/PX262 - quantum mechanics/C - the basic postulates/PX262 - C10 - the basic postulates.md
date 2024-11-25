@@ -13,8 +13,6 @@ dg-publish: true
 - the other operators bear the same functional form as in classical physics
 ## postulate 4
 - when a measurement of a dynamical variable represented by an operator, $\hat Q$, is carried out on a system with a wavefunction, $\psi = \sum_{n}a_{n}\phi_n$,  were $\phi_n$ is an eigenfunction of the operator, then the probability to obtain the result $q_m$ will be $|a_{m|^2}$
-$$
-a_{n} = \int \phi_{n}^{*} \psi \,d\tau
-$$
+$$a_{n} = \int \phi_{n}^{*} \psi \,d\tau$$
 ## postulate 5 
 - between measurements, the development of the wavefunction is governed by the schrödinger equation 

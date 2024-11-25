@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c9-heat-capacity-of-the-ideal-gas/","created":"2024-10-01T18:50:56.233+01:00","updated":"2024-11-24T19:18:39.735+00:00"}
+dg-publish: true
 ---
-
 [YF 18.6]
 ## relating heat capacity
 - need to relate the *[[content/011/PX154 - physics foundations/PX154 - B - thermal physics/PX154 - B3 - heat capacity\|heat capacity]]* of our gas to its motion (the motion of its molecules)

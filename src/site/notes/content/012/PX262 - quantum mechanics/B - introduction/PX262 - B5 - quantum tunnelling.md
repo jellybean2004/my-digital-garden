@@ -3,9 +3,8 @@ dg-publish: true
 ---
 ![Pasted image 20241109112731.png](/img/user/pics/Pasted%20image%2020241109112731.png)
 - considering a particle travelling from $x= -\infty$, with an energy, $E$, that encounters a potential barrier: 
-$$
-V= \begin{cases} V_{0}& for\,x\in[0,b] \\ 0 & elsewhere \end{cases}
-$$
+ 
+$$V= \begin{cases} V_{0}& for\,x\in[0,b] \\ 0 & elsewhere \end{cases}$$
 - when $E<V_{0}$, in quantum mechanics, particle may get through
 - considering the wavefunctions in the regions:
 $$\begin{align*}
@@ -20,7 +19,6 @@ $$\begin{gather*}
 	\phi_{I}'(a) = \phi_{II}'(a) & \phi_{II}'(b) = \phi_{III}'(b) \\
 \end{gather*}$$
 - using these conditions, the probability of the particle passing through the barrier is: 
-$$
-T = \frac{|F|^{2}}{|A|^{2}} = \frac{16E(V_{0}-E)}{V_{o}^{2}}e^{-2\kappa b}
-$$
+ 
+$$T = \frac{|F|^{2}}{|A|^{2}} = \frac{16E(V_{0}-E)}{V_{o}^{2}}e^{-2\kappa b}$$
 - phenomena like $\alpha-$decay, nuclear fission can be explained only using quantum tunnelling

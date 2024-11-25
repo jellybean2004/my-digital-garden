@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-d1c-lenz-s-law/","created":"2024-11-25T19:05:57.867+00:00","updated":"2024-11-25T20:02:48.930+00:00"}
 ---
+
 - the effect of an induced emf is such that it opposes the changing flux which produced it
 - can be derived from [[content/011/PX157 - electricity and magnetism/PX157 - D - induction/PX157 - D1a - faraday's law\|faraday's law]], from the sign convention that determined the direction of the induced emf
 

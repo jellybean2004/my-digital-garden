@@ -11,13 +11,9 @@ dg-publish: true
 - objects reach the maximum altitude as they cross the meridian
 ![Pasted image 20240115115529.png](/img/user/pics/Pasted%20image%2020240115115529.png)
 $\delta=Dec$ , $\phi =$ latitude of the observer
-$$
-maximum \; altitude = 90\degree - (\phi-\delta)
-$$
+$$maximum \; altitude = 90\degree - (\phi-\delta)$$
 	for $\delta < \phi$
-$$
-maximum \; altitude = 90\degree + (\phi-\delta)
-$$
+$$maximum \; altitude = 90\degree + (\phi-\delta)$$
 	for $\delta > \phi$
 	
 - eg: what is the maximum altitude for the sun at the winter solstice from coventry?

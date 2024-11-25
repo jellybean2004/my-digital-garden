@@ -2,9 +2,7 @@
 dg-publish: true
 ---
 ![Pasted image 20240117152740.png](/img/user/pics/Pasted%20image%2020240117152740.png)
-$$
-\rho = \frac{Q}{V} = \frac{Q}{\frac{4}{3}\pi a^{3}}
-$$
+$$\rho = \frac{Q}{V} = \frac{Q}{\frac{4}{3}\pi a^{3}}$$
 - **step 1: symmetry**
 	- $\vec E$ points radially outwards if $Q>0$ , ie: $\vec E = E \, \hat r$
 	- $|\vec E|$ is constant on a sphere centred on the charged sphere, ie: $E(r)$

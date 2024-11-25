@@ -2,9 +2,7 @@
 dg-publish: true
 ---
 ## scattering
-$$
-e^{-}(1) + e^{+}(2) \to e^{-}(3)+ e^{+}(4)
-$$
+$$e^{-}(1) + e^{+}(2) \to e^{-}(3)+ e^{+}(4)$$
 - **process 1**: an $e^{-}$ emits a photon that is absorbed by an $e^{+}$ 
 ![Pasted image 20240501101612.png](/img/user/pics/Pasted%20image%2020240501101612.png)
 

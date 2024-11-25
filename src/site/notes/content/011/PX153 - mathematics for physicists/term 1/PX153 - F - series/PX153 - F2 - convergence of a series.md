@@ -2,9 +2,7 @@
 dg-publish: true
 ---
 - in general, a series is just a sum of terms: 
-$$
-S = a_{1} + a_{2} + a_{3} + ... = \sum\limits_{n=1}^{N}a_{n}
-$$
+$$S = a_{1} + a_{2} + a_{3} + ... = \sum\limits_{n=1}^{N}a_{n}$$
 ## convergence
 - some infinite series converge to a finite value, and some diverge
 - eg:
@@ -13,9 +11,7 @@ $$
 - a series with $N$ terms, $S_{N} = \sum\limits_{n=1}^{N}a_{n}$, is convergent if $\lim_{N\to\infty}S_{N}$ exists and is finite
 	- else, it is divergent
 - sometimes we can determine whether a series will converge by algebraic manipulation: 
-$$
-S_{N} = \sum\limits_{a=0}^{N} x^{n}
-$$
+$$S_{N} = \sum\limits_{a=0}^{N} x^{n}$$
 	- multiply both sides by $x$: 
 	$$xS_{N} = \sum\limits_{n=1}^{N+1} x^{n} = S_{N} - 1 + x^{N+1}$$
 	$$(x-1)S_{N} = x^{N+1} - 1$$

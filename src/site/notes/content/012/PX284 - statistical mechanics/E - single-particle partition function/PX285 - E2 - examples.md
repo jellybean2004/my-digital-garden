@@ -16,35 +16,23 @@ $$\begin{align*}
 	\implies \ln Z &= \ln\left[2\cosh\left(\beta \frac{\Delta}{2}\right)\right]
 \end{align*}$$
 - the internal energy: 
-$$
-U = - \frac{d\ln{Z}}{d\beta} = - \frac{\Delta}{2} \frac{2\sinh\left(\beta \frac{\Delta}{2}\right)}{2\cosh \left(\beta \frac{\Delta}{2}\right)} = - \frac{\Delta}{2} \tanh\left(\beta \frac{\Delta}{2}\right)
-$$
+$$U = - \frac{d\ln{Z}}{d\beta} = - \frac{\Delta}{2} \frac{2\sinh\left(\beta \frac{\Delta}{2}\right)}{2\cosh \left(\beta \frac{\Delta}{2}\right)} = - \frac{\Delta}{2} \tanh\left(\beta \frac{\Delta}{2}\right)$$
 
 - at very low temperatures, $\left(\beta \frac{\Delta}{2}\right)$ is very large $\implies U \to - \frac{\Delta}{2}$
 - at very high temperatures, $\left(\beta \frac{\Delta}{2}\right)$ is very small $\implies U \to 0$
 - also, 
-$$
-F = - k_{B}T \ln Z = - k_{B}T \ln \left(2\cosh\left(\beta \frac{\Delta}{2}\right)\right)
-$$
+$$F = - k_{B}T \ln Z = - k_{B}T \ln \left(2\cosh\left(\beta \frac{\Delta}{2}\right)\right)$$
 - the internal energy again: 
-$$
-S = \frac{U-F}{T} = - \frac{\Delta}{2T} \tanh\left(\beta \frac{\Delta}{2}\right) + k_{B}T\ln\left[2\cosh\left(\beta \frac{\Delta}{2}\right)\right]
-$$
+$$S = \frac{U-F}{T} = - \frac{\Delta}{2T} \tanh\left(\beta \frac{\Delta}{2}\right) + k_{B}T\ln\left[2\cosh\left(\beta \frac{\Delta}{2}\right)\right]$$
 - so, at very low temperatures, $\left(\beta \frac{\Delta}{2}\right)$ is large: 
-$$
-\ln\left(2\cosh\left(\beta \frac{\Delta}{2}\right)\right) = \ln\bigg[\exp\left(\beta \frac{\Delta}{2}\right) + \underbrace{\exp\left(-\beta \frac{\Delta}{2}\right)}_{tiny} \bigg] \to \left(\beta \frac{\Delta}{2}\right)
-$$
-$$
-\therefore S = -\frac{\Delta}{2T} + k_{B} \beta \frac{\Delta}{2} = 0
-$$
+$$\ln\left(2\cosh\left(\beta \frac{\Delta}{2}\right)\right) = \ln\bigg[\exp\left(\beta \frac{\Delta}{2}\right) + \underbrace{\exp\left(-\beta \frac{\Delta}{2}\right)}_{tiny} \bigg] \to \left(\beta \frac{\Delta}{2}\right)$$
+$$\therefore S = -\frac{\Delta}{2T} + k_{B} \beta \frac{\Delta}{2} = 0$$
 - this agrees with the third law of thermodynamics
 
 - at very high temperatures, $\left(\beta \frac{\Delta}{2}\right)$ is very small: $S \to k_{B} \ln 2$
 
 - finally, 
-$$
-C_{V} = \left(\frac{\partial U}{\partial T}\right)_{V} = k_{B}\left(\beta \frac{\Delta}{2}\right)^{2} \text{sech}^{2}\left(\beta \frac{\Delta}{2}\right)
-$$
+$$C_{V} = \left(\frac{\partial U}{\partial T}\right)_{V} = k_{B}\left(\beta \frac{\Delta}{2}\right)^{2} \text{sech}^{2}\left(\beta \frac{\Delta}{2}\right)$$
 - this has a peak at approximately $\frac{k_{B}T}{\Delta} \sim 0.42$
 - this peak is called the **schottky anomaly**
 

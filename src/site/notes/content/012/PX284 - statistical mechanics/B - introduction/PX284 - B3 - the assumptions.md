@@ -14,8 +14,6 @@ dg-publish: true
 ### example
 - 2 SHOs with $E = 2\hbar \omega$ (ignore ZPE)
 - the expected value of $E^{(1)}:$ 
-$$
-\langle{E^{(1)}}\rangle = \sum\limits_{i}E_{i}^{(1)}p_{i} = \frac{1}{\Omega} \sum\limits_{i}E_{i}^{(1)}  = \frac{1}{6}(2 + 1 + 1 + 0 + 0 + 0)\hbar \omega = \frac{2}{3} \hbar \omega
-$$
+$$\langle{E^{(1)}}\rangle = \sum\limits_{i}E_{i}^{(1)}p_{i} = \frac{1}{\Omega} \sum\limits_{i}E_{i}^{(1)}  = \frac{1}{6}(2 + 1 + 1 + 0 + 0 + 0)\hbar \omega = \frac{2}{3} \hbar \omega$$
 	where, $p_{i}$ is the probability of that microstate occurring
 	

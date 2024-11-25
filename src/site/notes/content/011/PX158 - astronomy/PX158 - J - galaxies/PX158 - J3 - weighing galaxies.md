@@ -14,9 +14,7 @@ $$\begin{align*}
 	- $v_{\odot}=230\,kms^{-1}$, $R_{\odot}=8\,kpc$
 	$$M_{MW} \approx 10^{11}M_{\odot}$$
 - stars at the edge of the galaxy show similar velocities, giving 
-$$
-M_{MW}\approx 10^{12}\,M_{\odot}
-$$
+$$M_{MW}\approx 10^{12}\,M_{\odot}$$
 - this is far in excess of all *baryonic matter*
 
 - there lies a *supermassive blackhole* (*SMBH*) in the centre of most galaxies

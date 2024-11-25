@@ -13,6 +13,4 @@ $$\begin{align*}
 - the outcome: $\rho_{2} > \rho_{a} :$ stable, bubble falls back
 - if the opposite happens, ie: $\rho_{2}<\rho_{a}:$ unstable, bubble keeps rising
 - *the schwarzschild criterion* for stability: 
-$$
-\left| \frac{d\ln T}{d\ln P} \right|_{ad} > \left| \frac{d\ln T}{d\ln P} \right|_{rad}
-$$
+$$\left| \frac{d\ln T}{d\ln P} \right|_{ad} > \left| \frac{d\ln T}{d\ln P} \right|_{rad}$$

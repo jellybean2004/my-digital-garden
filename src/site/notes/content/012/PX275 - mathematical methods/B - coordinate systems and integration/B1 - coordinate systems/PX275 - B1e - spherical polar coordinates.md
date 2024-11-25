@@ -17,10 +17,6 @@ $$\begin{gather*}
 ## surface and volume elements
 ![Pasted image 20241017121423.png](/img/user/pics/Pasted%20image%2020241017121423.png)
 - the surface element: 
-$$
-dS = d\phi \cdot r d\theta= r^{2}\sin\theta\,d\phi\,d\theta
-$$
+$$dS = d\phi \cdot r d\theta= r^{2}\sin\theta\,d\phi\,d\theta$$
 - the volume element: 
-$$
-dV = r^{2}\sin\theta\,d\phi\,d\theta\,dr
-$$
+$$dV = r^{2}\sin\theta\,d\phi\,d\theta\,dr$$

@@ -12,24 +12,16 @@ dg-publish: true
 - the solenoid has radius, $a$, and the current flows in the positive $\phi$-direction
 
 - by symmetry, $|\vec B|$ is a function of $R$ alone
-$$
-\vec B (R) = B_{R}(R)\,\hat R+ B_{\phi}(R)\,\hat\phi + B_{z}(R)\,\hat z
-$$
+$$\vec B (R) = B_{R}(R)\,\hat R+ B_{\phi}(R)\,\hat\phi + B_{z}(R)\,\hat z$$
 
 - **step 1:**
 	![Pasted image 20240221100852.png](/img/user/pics/Pasted%20image%2020240221100852.png)
 	- applying [[content/011/PX157 - electricity and magnetism/PX157 - C - magnetic fields/PX157 - C4a - ampere's law\|ampere's law]] to path $C:$
-$$
-\oint_{C}\vec B \cdot d\vec l = \mu_{0}I_{encl.}
-$$
+$$\oint_{C}\vec B \cdot d\vec l = \mu_{0}I_{encl.}$$ 
 	- $d\vec l = dl\,\hat \phi \implies \vec B \cdot d\vec l = B_{\phi}dl:$
-$$
-\oint_{C}\vec B\cdot d\vec l = \oint_{C}B_{\phi}\,dl = B_{\phi}2\pi R
-$$
+$$\oint_{C}\vec B\cdot d\vec l = \oint_{C}B_{\phi}\,dl = B_{\phi}2\pi R$$
 	- $I_{encl.}=0$, no current passing though the cross-section:
-$$
-B_{\phi} 2\pi R = 0\implies B_{\phi}=0
-$$
+$$B_{\phi} 2\pi R = 0\implies B_{\phi}=0$$
 - **step 2:** solenoidal condition
 	![Pasted image 20240221100910.png](/img/user/pics/Pasted%20image%2020240221100910.png)
 	$$\newcommand{\oiint}{\subset\!\supset \!\!\!\!\!\!\!\!\!\!\iint}
@@ -49,9 +41,7 @@ $$\begin{align*}
 		\oint_{C} \vec B\cdot d\vec l &= B_{z}(R_{1})L - B_{z}(R_{2})L = \mu_{0}I_{encl.}
 	\end{align*}$$
 	- outside the solenoid, $I_{encl.}=0:$
-$$
-B_{z}(R_{1}) = B_{z}(R_{2})
-$$
+$$B_{z}(R_{1}) = B_{z}(R_{2})$$
 	- $B_{z}$ is constant outside
 	- taking $R_{2}\to \infty: B_{z}(R_{2}\to \infty) =0$ 
 	- $B_{z}=0$ outside
@@ -59,9 +49,7 @@ $$
 - **step 4:**
 	![Pasted image 20240221100940.png](/img/user/pics/Pasted%20image%2020240221100940.png)
 	- choosing a rectangular path in a plane of constant $\phi$, in and out of the solenoid and applying [[content/011/PX157 - electricity and magnetism/PX157 - C - magnetic fields/PX157 - C4a - ampere's law\|ampere's law]]:
-$$
-\oint_{c}\vec B\cdot d\vec l = B_{z}(R_{1})L - B_{z}(R_{2})L
-$$
+$$\oint_{c}\vec B\cdot d\vec l = B_{z}(R_{1})L - B_{z}(R_{2})L$$
 	- since $R_{2}>a$ (outside) $: B_{z}(R_{2})=0:$
 $$\begin{align*}
 			\oint_{C} \vec B \cdot d\vec l = B_{z}(R_{1})L &= \mu_{0}NI = \mu_{0}nLI \\

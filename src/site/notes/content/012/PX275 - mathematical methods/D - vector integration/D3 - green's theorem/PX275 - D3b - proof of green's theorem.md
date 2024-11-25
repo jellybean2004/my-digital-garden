@@ -11,23 +11,14 @@ $$\begin{align*}
 \end{align*}$$
 	- this gives the integrals of the top and the bottom sections
 - similarly: 
-$$
-\iint \frac{\partial Q}{\partial x} = \int_{y_{1}}^{y_{2}} Q(x_{2},y)\,dy + \int_{y_{2}}^{y_{1}} Q(x_{1},y)\,dy
+$$\iint \frac{\partial Q}{\partial x} = \int_{y_{1}}^{y_{2}} Q(x_{2},y)\,dy + \int_{y_{2}}^{y_{1}} Q(x_{1},y)\,dy
 $$
 	- this gives the integrals of the sides
 - combining the terms give the integral around the perimeter of the rectangle
 
 - for a field $\vec F$ in the $x-y$ plane: 
-$$
-\vec\nabla \times \vec F = \left(\frac{\partial F_y}{\partial x} + \frac{\partial F_x}{\partial y}\right) \hat k
-$$
-$$
-\iint \vec\nabla \times \vec F \cdot d\vec A = \oint \vec F \cdot d\vec r
-$$
+$$\vec\nabla \times \vec F = \left(\frac{\partial F_y}{\partial x} + \frac{\partial F_x}{\partial y}\right) \hat k$$
+$$\iint \vec\nabla \times \vec F \cdot d\vec A = \oint \vec F \cdot d\vec r$$
 - eg: 
-$$
-\vec\nabla\times \vec E = - \frac{\partial B}{\partial t}
-$$
-$$
-\iint \vec\nabla\times \vec E \cdot d\vec A = \oint_{loop} \vec E \cdot d\vec l - \int \frac{\partial B}{\partial t}\cdot d\vec A
-$$
+$$\vec\nabla\times \vec E = - \frac{\partial B}{\partial t}$$
+$$\iint \vec\nabla\times \vec E \cdot d\vec A = \oint_{loop} \vec E \cdot d\vec l - \int \frac{\partial B}{\partial t}\cdot d\vec A$$

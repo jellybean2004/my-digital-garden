@@ -3,9 +3,7 @@ dg-publish: true
 ---
 - we need to extend calculus to cover multivariate functions
 - the derivative of a function of one variable is defined by: 
-$$
-df\frac{x}{dx} = \lim_{\Delta x\to \infty} \frac{f(x+\Delta x)- f(x)}{\Delta x}
-$$
+$$df\frac{x}{dx} = \lim_{\Delta x\to \infty} \frac{f(x+\Delta x)- f(x)}{\Delta x}$$
 - for a function of two variables, we define the partial derivative: 
 $$\frac{\partial
 f(x,y)}{\partial x} = \lim_{\Delta x \to \infty} \frac{f(x+\Delta x, y)- f(x,y)}{\Delta x} = (\frac{\partial f(x,y)}{\partial x})_y$$
@@ -15,9 +13,7 @@ $$\frac{\partial
 f(x,y)}{\partial y} = \lim_{\Delta y \to \infty} \frac{f(x, y+\Delta y)- f(x,y)}{\Delta y} = (\frac{\partial f(x,y)}{\partial y})_x$$
 - we don't always specify what is held constant, but it is important that you're always clear about what is held constant
 - for multiple variables, $x_i$: 
-$$
-\frac{\partial}{\partial x_{i}}f(x_{1},...x_{i},...x_{N}) = \lim_{\Delta x_{i}\to\infty} \frac{f(x_{1},...x_{i}+ \Delta x_{i},...x_{N})-fx_{1},...x_{i},...x_{N}}{\Delta x_{i}}
-$$
+$$\frac{\partial}{\partial x_{i}}f(x_{1},...x_{i},...x_{N}) = \lim_{\Delta x_{i}\to\infty} \frac{f(x_{1},...x_{i}+ \Delta x_{i},...x_{N})-fx_{1},...x_{i},...x_{N}}{\Delta x_{i}}$$
 - eg: $f(x,y)=e^{xy^{2}} + \frac{y}{2}$
 	- $f_{x} = y^{2}e^xy^{2}$ and $f_{y} = 2yxe^{xy^{2}} + \frac{1}{2}$
 - eg: $f(x,y) = e^{x}\cos y +6x +3$
@@ -25,9 +21,7 @@ $$
 
 - similarly, we can define higher order derivatives
 - eg: 
-$$
-\frac{\partial}{\partial x \partial y}f(x,y) = \frac{\partial}{\partial x}\left(\frac{\partial f}{\partial y}\right)= \lim_{\Delta\to\infty} \frac{\frac{\partial f}{\partial y}(x-\Delta x,y)-\frac{\partial f}{\partial y}(x,y)}{\partial y\partial x}
-$$
+$$\frac{\partial}{\partial x \partial y}f(x,y) = \frac{\partial}{\partial x}\left(\frac{\partial f}{\partial y}\right)= \lim_{\Delta\to\infty} \frac{\frac{\partial f}{\partial y}(x-\Delta x,y)-\frac{\partial f}{\partial y}(x,y)}{\partial y\partial x}$$
 
 - eg: to find all first and second order derivatives of:
 	$$f(x,y) = x^{3}y^{2}+ye^{x}+6y^{3}+1$$

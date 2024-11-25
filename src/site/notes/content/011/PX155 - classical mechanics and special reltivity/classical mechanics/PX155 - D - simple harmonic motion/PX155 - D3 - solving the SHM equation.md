@@ -6,12 +6,14 @@ dg-publish: true
 		$\ddot x = -A\lambda ^{2}\cos{x} = -\lambda ^{2}x$
 			if $\lambda = \omega$, we have a solution
 		similarly, $x=B\sin{\omega t}$ is a solution
-	- general solution: $$x=A\cos{\omega t}+B\sin{\omega t}$$
+	- general solution:
+$$x=A\cos{\omega t}+B\sin{\omega t}$$
 		- $\omega t$ plays the role of an angle in trig functions, so, $\omega$ *acts* like an *angular velocity*
 			- argument $\theta = \omega t \implies \omega = \frac{\theta}{t} = angular \;velocity$
 		- solutions repeat every $\omega t=2\pi$ because $\cos(\omega t +2\pi)=\cos(\omega t)$, and $\sin{(\omega t +2\pi)}=\sin{(\omega t)}$
 			- $T= \frac{1}{f} = \frac{2\pi}{\omega}$
-	- alternate form of the solution: $$x=A' \cos(\omega t+\phi)$$
+	- alternate form of the solution:
+$$x=A' \cos(\omega t+\phi)$$
 				$A'=$ amplitude
 				$\phi =$ phase angle
 		- comes from:

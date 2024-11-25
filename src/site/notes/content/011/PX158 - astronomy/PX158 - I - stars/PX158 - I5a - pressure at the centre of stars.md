@@ -3,9 +3,7 @@ dg-publish: true
 ---
 - most stars are in *hydrostatic equilibrium* (the pressure supports the fluid above it)
 - for a constant gravity, $g$, and density, $\rho$, at a depth, $h:$ 
-$$
-p = \rho gh
-$$
+$$p = \rho gh$$
 - for a star:
 		$h=R_{s}$
 		$g= \frac{GM_{s}}{R_{s}^{2}}$ (surface gravity, assumed to be constant)

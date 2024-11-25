@@ -11,9 +11,7 @@ $$\begin{align*}
 \end{align*}$$
 - it can be seen that the operation is independent of the wavefunction itself
 - the commutator can be written as: 
-$$
-[\hat P_{x}, \hat X] = \hat P_{x}\hat X - \hat X \hat P_{x}= -i \hbar
-$$
+$$[\hat P_{x}, \hat X] = \hat P_{x}\hat X - \hat X \hat P_{x}= -i \hbar$$
 - extending it to 3D: 
 $$\begin{gather}
 	[\hat X_{i},\hat X_{j}] =[\hat P_{i}, \hat P_{j}] = 0 \\

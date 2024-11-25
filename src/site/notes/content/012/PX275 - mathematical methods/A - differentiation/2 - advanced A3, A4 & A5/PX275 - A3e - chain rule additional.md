@@ -7,13 +7,9 @@ dg-publish: true
 	- $u_{1}, u_{2}, u_{3},\dots u_{j}$ are used rather than $\rho,\theta\,\phi$
 	- for functions, $f,g$, just $f$ is used
 - a more compact notation: 
-$$
-\frac{\partial f}{\partial u_{j}} = \sum\limits_{i} \frac{\partial f}{\partial x_{i}} \frac{\partial x_{i}}{\partial u_{j}}
-$$
+$$\frac{\partial f}{\partial u_{j}} = \sum\limits_{i} \frac{\partial f}{\partial x_{i}} \frac{\partial x_{i}}{\partial u_{j}}$$
 - in operator form: 
-$$
-\frac{\partial }{\partial u_{j}} = \sum\limits_{i}\frac{\partial x_{i}}{\partial u_{j}} \frac{\partial }{\partial x_{i}}
-$$
+$$\frac{\partial }{\partial u_{j}} = \sum\limits_{i}\frac{\partial x_{i}}{\partial u_{j}} \frac{\partial }{\partial x_{i}}$$
 ## warning
 $$\begin{gather}
 x=\rho\cos\theta \\
@@ -24,13 +20,9 @@ x=\rho\cos\theta \\
 \frac{\partial \rho}{\partial x} =\cos\theta
 \end{gather}$$
 - expected: 
-$$
-\frac{\partial x}{\partial \rho} = \left(\frac{\partial \rho}{\partial x}\right)^{-1}
-$$
+$$\frac{\partial x}{\partial \rho} = \left(\frac{\partial \rho}{\partial x}\right)^{-1}$$
 - the reason: 
-$$
-\left(\frac{\partial x}{\partial \rho}\right)_{\theta} \text{and } \left(\frac{\partial \rho}{\partial x}\right)_{y}
-$$
+$$\left(\frac{\partial x}{\partial \rho}\right)_{\theta} \text{and } \left(\frac{\partial \rho}{\partial x}\right)_{y}$$ 
 	- different variables are being held constant
 
 ### what does '*holding variables constant*' mean?

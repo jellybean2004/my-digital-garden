@@ -5,15 +5,9 @@ dg-publish: true
 - revolving the plane around the $x$-axis to obtain a solid, cylindrical volume
 - taking the area element, $dA$, and revolving it by an angle, $d\theta$, around the $x$-axis
 - the volume element: 
-$$
-dV = dA \,y\,d\theta = y\,d\theta\,dx\,dy
-$$
-$$
-V = \int_{x=x_{1}}^{x_{2}} \int_{\theta=0}^{2\pi} d\theta \int_{y=0}^{f(x)}y\,dy\,dx = 2\pi \int_{x_{1}}^{x_{2}} \frac{(f(x))^{2}}{2}\,dx
-$$
-$$
-\therefore V = \pi \int_{x_{1}}^{x_{2}}(f(x))^{2}\,dx
-$$
+$$dV = dA \,y\,d\theta = y\,d\theta\,dx\,dy$$
+$$ V = \int_{x=x_{1}}^{x_{2}} \int_{\theta=0}^{2\pi} d\theta \int_{y=0}^{f(x)}y\,dy\,dx = 2\pi \int_{x_{1}}^{x_{2}} \frac{(f(x))^{2}}{2}\,dx$$
+$$ \therefore V = \pi \int_{x_{1}}^{x_{2}}(f(x))^{2}\,dx$$
 ## example
 - taking the cone again
 ![Pasted image 20241024124418.png](/img/user/pics/Pasted%20image%2020241024124418.png)

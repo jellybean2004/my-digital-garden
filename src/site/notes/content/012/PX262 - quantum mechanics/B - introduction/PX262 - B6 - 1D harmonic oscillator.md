@@ -2,9 +2,8 @@
 dg-publish: true
 ---
 - in classical physics: 
-$$
-V(x) = \frac{1}{2}kx^{2}
-$$
+ 
+$$V(x) = \frac{1}{2}kx^{2}$$
 	where, $k$ is the spring constant, $x$ is the displacement from the equilibrium position
 - a particle with a mass, ${} m$, will be oscillating with an angular frequency, $\omega_{c} = \sqrt{\frac{k}{m}}$
 - the time independent schrödinger equation: 
@@ -14,9 +13,7 @@ $$\begin{align*}
 \end{align*}$$
 	where, $y = \sqrt{\frac{M\omega_{c}}{\hbar}}x$, and $\alpha = \frac{2E}{\hbar\omega_{c}}$
 - looking at the asymptotic case, $|y| >> \alpha:$ 
-$$
-\frac{d^{2}\phi}{dy^{2}} - y^{2}\phi = 0
-$$
+$$\frac{d^{2}\phi}{dy^{2}} - y^{2}\phi = 0$$
 - try solution in form: 
 $$\begin{gather*}
 	\phi = y^{n}e^{-\frac{y^{2}}{2}} \\\\
@@ -26,23 +23,18 @@ $$\begin{gather*}
 	= \frac{n(n-1)}{y^{2}}\phi(y) - (2n+1)\phi(y) + y^{2}\phi(y)
 \end{gather*}$$
 - if $y$ is very large: 
-$$
-\frac{d^{2}\phi(y)}{dy^{2}} \approx y^{2}\phi(y)
-$$
+$$\frac{d^{2}\phi(y)}{dy^{2}} \approx y^{2}\phi(y)$$
 	- also, $\phi\approx 0$ due to the $e^\frac{-y^{2}}{2}$ term
 - for small values of $y:$ 
-$$
-\phi(y) = H(y)e^{- \frac{y^{2}}{2}}
-$$
+ 
+$$\phi(y) = H(y)e^{- \frac{y^{2}}{2}}$$
 	where, $H(y)$ is a function that needs to be determined
 - substituting $H$ in the TISE: 
-$$
-H'' - 2yH' + (\alpha-1)H=0
-$$
+ 
+$$H'' - 2yH' + (\alpha-1)H=0$$
 - any well behaved wavefunctions in quantum mechanics can be written as a power series: 
-$$
-H(y) = \sum\limits_{p=0}^{\infty} a_{p}y^{p}
-$$
+ 
+$$H(y) = \sum\limits_{p=0}^{\infty} a_{p}y^{p}$$
 	where, $a_p$ is  constant to be determined
 - differentiating $H:$ 
 $$\begin{align*}
@@ -59,24 +51,21 @@ $$\begin{gather*}
 
 \end{gather*}$$
 - $H$ will tend to $e^{y^{2}}$, which diverges as $y\to\infty:$ 
-$$
-\implies \phi(y) = e^{\frac{-y^{2}}{2}}e^{y^{2}}= e^{\frac{y^{2}}{2}}
-$$
+ 
+$$\implies \phi(y) = e^{\frac{-y^{2}}{2}}e^{y^{2}}= e^{\frac{y^{2}}{2}}$$
 - this cannot describe a valid wavefunction as the integral would be infinite
 - the number of contributing terms need to be restricted by stopping the sum at some point
 - this can be done by making all constants, $a_{p} = 0$ for $p>n$
 - setting the numerator, $2n + 1 - \alpha =0 \implies \alpha = 2n+1$
 - substituting the value of $\alpha$ gives the allowed energies: 
-$$
-E_{n}= \left(n + \frac{1}{2}\right)\hbar\omega_c
-$$
+ 
+$$E_{n}= \left(n + \frac{1}{2}\right)\hbar\omega_c$$
 - the condition $\alpha =2n+1$ removed even/odd terms, but not both
 - first two states: $a_{1}=0, n\in even$; $a_{0}=0,n\in odd$
 
 - the lowest state has $n=0$, and its energy is called the zero-point energy: 
-$$
-E_{0}= \frac{1}{2}\hbar \omega_{c}
-$$
+ 
+$$E_{0}= \frac{1}{2}\hbar \omega_{c}$$
 - the energy levels are evenly spaced with the difference, $\hbar\omega_c$
 - the first few $H(y)$ are called *hermite polynomials*: 
 $$\begin{gather}

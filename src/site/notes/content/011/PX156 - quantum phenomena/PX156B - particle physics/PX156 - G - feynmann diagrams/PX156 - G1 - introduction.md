@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-g-feynmann-diagrams/px-156-g1-introduction/","created":"2024-10-01T18:27:09.949+01:00","updated":"2024-11-24T19:01:10.616+00:00"}
+dg-publish: true
 ---
-
 - the probability of a process to occur in particle physics is frequently difficult to calculate
 - feynmann diagrams were designed to make the calculation easier
 - each element is associated with a particular mathematical term
