@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","created":"2024-10-01T18:50:58.519+01:00","updated":"2024-11-24T02:17:40.015+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","created":"2024-10-01T18:50:58.519+01:00","updated":"2024-11-25T11:16:00.627+00:00"}
 ---
 
 ### [[content/012/PX262 - quantum mechanics/A - recap/A - recap\|A - recap]]
@@ -11,8 +11,8 @@
 [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A6 - wave-particle duality\|PX262 - A6 - wave-particle duality]]
 [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A7 - the uncertainty principle\|PX262 - A7 - the uncertainty principle]]
 ### [[content/012/PX262 - quantum mechanics/B - introduction/B - introduction\|B - introduction]]
-[[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B1 - the schrodinger's equation\|PX262 - B1 - the schrodinger's equation]]
-[[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B2 - time independent schrodinger equation\|PX262 - B2 - time independent schrodinger equation]]
+[[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B1 - the schrödinger equation\|PX262 - B1 - the schrödinger equation]]
+[[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B2 - time independent schrödinger equation\|PX262 - B2 - time independent schrödinger equation]]
 [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B3 - boundary conditions\|PX262 - B3 - boundary conditions]]
 [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B4 - particle in an infinite square well\|PX262 - B4 - particle in an infinite square well]]
 [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B5 - quantum tunnelling\|PX262 - B5 - quantum tunnelling]]

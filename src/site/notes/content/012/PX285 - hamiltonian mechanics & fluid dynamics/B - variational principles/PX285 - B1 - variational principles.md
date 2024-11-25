@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b1-variational-principles/","created":"2024-10-04T11:34:23.364+01:00","updated":"2024-11-24T16:15:42.435+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b1-variational-principles/","created":"2024-10-04T11:34:23.364+01:00","updated":"2024-11-25T11:16:56.493+00:00"}
 ---
 
 - allows quantities such as path lengths, and functions to be extremized 
@@ -20,7 +20,7 @@ $$L = \frac{1}{2} \int dV \left(\epsilon_{0}E^{2}- \frac{1}{\mu_{0}} B^{2}\right
 - **path integrals:**
 	- **quantum mechanics:** (non-examinable) 
 	$$\psi(x,t) = \sum\limits_{paths} \exp\left(\frac{1}{\hbar}\int_{t_{0}}^{t_{1}} L\,dt\right)$$
-	- equivalent to finding the solutions of schrodinger's equation
+	- equivalent to finding the solutions of schrödinger's equation
 	- $\exp(i\phi)$ is a quantum mechanical phase, with phase angle 
 	$$\phi = \frac{1}{\hbar} A = \frac{1}{\hbar} \int_{t_{0}}^{t_{1}} L\,dt$$
 	- paths, $x(t)$, that minimize the action are paths for which the quantum mechanical phase is nearly the same for nearby paths $\implies$ constructive interference

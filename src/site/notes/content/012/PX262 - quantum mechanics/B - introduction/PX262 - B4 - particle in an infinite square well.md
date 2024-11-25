@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b4-particle-in-an-infinite-square-well/","created":"2024-10-08T11:14:35.520+01:00","updated":"2024-11-24T00:52:23.765+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b4-particle-in-an-infinite-square-well/","created":"2024-10-08T11:14:35.520+01:00","updated":"2024-11-25T11:17:18.476+00:00"}
 ---
 
 - considering an infinite square potential well: 
@@ -28,7 +28,7 @@ $$\begin{gather*}
 	\end{cases}$$
 	- the index in the labels give the state of the system
 
-- substituting into the schrodinger's equation: 
+- substituting into the schrödinger equation: 
   $$\begin{gather*}
 \vdots \\
 E_{n}= \frac{\hbar^{2}\pi^{2}}{8ma^{2}}n^{2}

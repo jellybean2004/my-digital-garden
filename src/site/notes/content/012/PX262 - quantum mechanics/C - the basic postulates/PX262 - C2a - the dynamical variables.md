@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c2a-the-dynamical-variables/","created":"2024-10-21T11:08:09.839+01:00","updated":"2024-11-24T00:45:29.311+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c2a-the-dynamical-variables/","created":"2024-10-21T11:08:09.839+01:00","updated":"2024-11-25T11:15:26.786+00:00"}
 ---
 
  - need to find out what is the suitable representation of dynamical variables of he QM system
@@ -8,8 +8,8 @@
 - in QM, only some values are allowed, which needs to work together with the wavefunction to obtain information, so, something new, and different from classical physics is needed
 
 ## operators
-- from [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B2 - time independent schrodinger equation\|time independent schrodinger equation]]: 
-  $$\begin{gather*}
+- from [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B2 - time independent schrödinger equation\|time independent schrödinger equation]]: 
+$$\begin{gather*}
 	\left[- \frac{\hbar^{2}}{2M} \vec\nabla^{2}+ V(\vec r)\right]\mu  = E\mu \\
 	\hat H \mu = E \mu
 \end{gather*}$$

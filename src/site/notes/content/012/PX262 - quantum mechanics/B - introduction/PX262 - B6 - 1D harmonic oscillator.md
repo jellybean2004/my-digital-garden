@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b6-1-d-harmonic-oscillator/","created":"2024-10-14T19:09:28.450+01:00","updated":"2024-11-25T00:54:46.996+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b6-1-d-harmonic-oscillator/","created":"2024-10-14T19:09:28.450+01:00","updated":"2024-11-25T11:17:06.546+00:00"}
 ---
 
 - in classical physics: 
   $$V(x) = \frac{1}{2}kx^{2}$$
 	where, $k$ is the spring constant, $x$ is the displacement from the equilibrium position
 - a particle with a mass, ${} m$, will be oscillating with an angular frequency, $\omega_{c} = \sqrt{\frac{k}{m}}$
-- the time independent schrodinger's equation: 
+- the time independent schrödinger equation: 
 $$\begin{align*}
 	- \frac{\hbar^{2}}{2m} \frac{d^{2}\phi(x)}{dx} + \frac{1}{2}m \omega_{c}^{2}x^{2}\phi(x) &= E\,\phi(x) \\
 	\frac{d^{2}\phi(y)}{dy^{2}} + (\alpha-y^{2})\phi(y) =0
