@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c3-a-real-gas-equation-of-state/","created":"2024-10-01T18:50:56.061+01:00","updated":"2024-11-24T19:17:16.277+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c3-a-real-gas-equation-of-state/","created":"2024-10-01T18:50:56.061+01:00","updated":"2024-11-25T01:12:02.059+00:00"}
 ---
 
 - *[[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C1 - ideal gas equation of state#ideal gas law\|ideal gas equation]]* does not predict liquification
@@ -25,6 +25,7 @@
 			$\frac{n^{2}}{V^{2}}= density^2$
 		- further reading [grant+phillips : elements of physics]
 ## van der waal's equation of state
-$$(p+ \frac{an^{2}}{V^{2}})(V-nb)=nRT$$ [YF eqn 18.7]
+
+$$\left(p+ \frac{an^{2}}{V^{2}}\right)(V-nb)=nRT$$ [YF eqn 18.7]
 - at high volumes/low densities, it is well approximate by the *[[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C1 - ideal gas equation of state#ideal gas law\|ideal gas law]]*
  
