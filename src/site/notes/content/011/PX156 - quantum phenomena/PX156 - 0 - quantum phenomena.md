@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-0-quantum-phenomena/","created":"2024-10-01T18:50:56.671+01:00","updated":"2024-11-24T16:31:33.857+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-0-quantum-phenomena/","created":"2024-10-01T18:50:56.671+01:00","updated":"2024-11-24T18:57:15.297+00:00"}
 ---
 
 ## quantum phenomena
@@ -24,8 +24,8 @@
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - C - quantum mechanics/PX156 - C4 - gaussian distribution\|PX156 - C4 - gaussian distribution]]
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - C - quantum mechanics/PX156 - C5 - top-hat distribution\|PX156 - C5 - top-hat distribution]]
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - C - quantum mechanics/PX156 - C6 - the uncertainty principle\|PX156 - C6 - the uncertainty principle]]
-### [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - D - time independent schrodinger equation/D - time independent schrodinger equation\|D - time independent schrodinger equation]]
-[[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - D - time independent schrodinger equation/PX156 - D1 - time independent schrodinger equation\|PX156 - D1 - time independent schrodinger equation]]
+### [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - D - time independent schrodinger equation/D - time independent schrödinger equation\|D - time independent schrödinger equation]]
+[[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - D - time independent schrodinger equation/PX156 - D1 - time independent schrödinger equation\|PX156 - D1 - time independent schrödinger equation]]
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - D - time independent schrodinger equation/PX156 - D2 - infinite potential well\|PX156 - D2 - infinite potential well]]
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - D - time independent schrodinger equation/PX156 - D3 - finite potential well\|PX156 - D3 - finite potential well]]
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - D - time independent schrodinger equation/PX156 - D4 - classical and quantum particle\|PX156 - D4 - classical and quantum particle]]
