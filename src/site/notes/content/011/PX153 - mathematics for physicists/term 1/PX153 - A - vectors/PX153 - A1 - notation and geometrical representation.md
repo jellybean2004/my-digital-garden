@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-a-vectors/px-153-a1-notation-and-geometrical-representation/","created":"2024-10-01T18:27:09.012+01:00","updated":"2024-11-25T15:23:11.094+00:00"}
+dg-publish: true
 ---
-
 ## scalar
 - a scalar quantity is defined by its magnitude
 - independent of coordinate system
@@ -15,9 +14,11 @@
 - magnitude is given by : 
 $$ v = |\vec{v}| = \sqrt{v_x^2+v_y^2+v_z^2}$$
 - direction is often described by a unit vector (underlined with a hat on top) 
-$$ \underline{\hat{v}} = \frac{\vec{v}}{|\vec{v}|} $$
+$$ \underline{\hat{v}} = \frac{\vec{v}}{|\vec{v}|}
+$$
 - any vector can be written as: 
-$$ \vec{v} = v \; \underline{\hat{v}}  $$
+$$ \vec{v} = v \; \underline{\hat{v}} 
+$$
 ## vector fields
 - describes a vector that varies continuously in space
 - eg: wind - has a magnitude (speed) and a direction that vary continuously with position

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-k-accelerators-and-detectors/px-156-k3-cyclotron/","created":"2024-10-01T18:27:10.026+01:00","updated":"2024-11-24T19:04:47.673+00:00"}
+dg-publish: true
 ---
-
 - to accelerate heavy things (eg: protons, ions) in not much space
 - essentially a rolled up [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - K - accelerators & detectors/PX156 - K2 - linear accelerator\|linear accelerator]]
 

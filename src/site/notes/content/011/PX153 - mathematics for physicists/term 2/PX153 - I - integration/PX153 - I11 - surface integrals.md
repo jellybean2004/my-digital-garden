@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i11-surface-integrals/","created":"2024-10-01T18:27:09.280+01:00","updated":"2024-11-25T16:32:07.218+00:00"}
+dg-publish: true
 ---
-
 $$\iint_{S} \phi\,dS \; or \; \iint_{S} \vec a \cdot d\vec S \; or \; \iint_{S} \vec a \times d\vec S \; or \; \iint_{S} a\, d\vec S$$
 - $d\vec S$ is a surface element that represents $dS\,\hat n$, where $dS$ is an infinitesimal area, and $\hat n$ is the normal to the surface element (3D vector with a magnitude of 1)
 

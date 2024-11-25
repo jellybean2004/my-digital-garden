@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-e-the-second-law-of-thermodynamics/px-154-e4-the-carnot-cycle/","created":"2024-10-01T18:50:55.638+01:00","updated":"2024-11-24T19:21:15.961+00:00"}
+dg-publish: true
 ---
-
 ## introduction
 - introduced by sadi carnot in 1834 as an ideal model of a reversible heat engine cycle
 - it's theoretical and it can be shown that it's the most efficient heat engine cycle

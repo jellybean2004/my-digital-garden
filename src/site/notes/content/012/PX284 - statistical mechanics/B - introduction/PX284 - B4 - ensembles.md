@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/b-introduction/px-284-b4-ensembles/","created":"2024-11-14T15:15:17.441+00:00","updated":"2024-11-24T16:06:50.000+00:00"}
+dg-publish: true
 ---
-
 - a collection of copies of the system representing all different possible microstates
 ## the microcanonical ensemble
 - it describes an **isolated** system with **fixed energy**

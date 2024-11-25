@@ -7,7 +7,9 @@ dg-publish: true
 - **step 1: symmetry**
 	- $\vec B = B_{\phi}(R)\,\hat\phi$
 - **step 2: path**
-$$\oint_{C} \vec B\cdot d\vec l = 2\pi R\, B_{\phi}$$
+$$
+\oint_{C} \vec B\cdot d\vec l = 2\pi R\, B_{\phi}
+$$
 - **step 3: enclosed current**
 	- if $R>a: I_{encl.}= I$
 	- if $R<a: I_{encl.} = J\pi R^{2} = I\left(\frac{R}{a}\right)^{2}$

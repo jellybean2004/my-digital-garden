@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-c-quantum-mechanics/px-156-c3-wave-packets/","created":"2024-10-01T18:27:09.868+01:00","updated":"2024-11-24T18:55:06.897+00:00"}
+dg-publish: true
 ---
-
 ## idea
 - consider two plane waves:
 	$\psi_{1}= A\exp (ikx-i\omega(-k)t)$
@@ -36,7 +35,8 @@
 	- $\omega_{0}' = \frac{\hbar k_{0}}{m} = \frac{p_{0}}{m}$
 
 	$$\int_{-\infty}^{+\infty} |\psi|^{2}\,dx = \int_{-\infty}^{+\infty} A^{2}\,dx = \infty \neq 1 \;unless\; A\equiv 0$$
-	- consider a box of size $\pm L:$ $$\int_{-L}^{+L} A^{2}\,dx = 2LA^{2}= 1 \implies A= \frac{1}{\sqrt{2L}}$$
+	- consider a box of size $\pm L:$
+$$\int_{-L}^{+L} A^{2}\,dx = 2LA^{2}= 1 \implies A= \frac{1}{\sqrt{2L}}$$
 ## a particle as a wave packet
 - super position of many plane waves with wave numbers grouped around an average value, $k_{0}:$ 
 $$\psi = \int dk\, a(k)\exp(ikx-i\omega(k)t)$$

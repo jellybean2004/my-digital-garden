@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-e-second-order-inhomogeneous-od-es/e-second-order-inhomogeneous-od-es/","created":"2024-10-01T18:27:09.156+01:00","updated":"2024-11-25T15:32:15.127+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX153 - mathematics for physicists/term 1/PX153 - E - second order inhomogeneous ODEs/PX153 - E1 - recap and introduction\|PX153 - E1 - recap and introduction]]
 [[content/011/PX153 - mathematics for physicists/term 1/PX153 - E - second order inhomogeneous ODEs/PX153 - E2 - method of undetermined coefficients\|PX153 - E2 - method of undetermined coefficients]]
 [[content/011/PX153 - mathematics for physicists/term 1/PX153 - E - second order inhomogeneous ODEs/PX153 - E3 - driven damped simple harmonic motion\|PX153 - E3 - driven damped simple harmonic motion]]

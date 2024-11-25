@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-a-vectors/px-153-a6-advanced-vector-operations/","created":"2024-10-01T18:27:09.045+01:00","updated":"2024-11-25T15:25:51.911+00:00"}
+dg-publish: true
 ---
-
 ## scalar triple product
 - defined by $[\vec u, \;\vec v, \;\vec w]\equiv\vec u\cdot(\vec v \times \vec w)$
 	- the result is a scalar

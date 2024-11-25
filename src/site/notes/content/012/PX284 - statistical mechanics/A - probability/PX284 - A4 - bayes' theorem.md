@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/a-probability/px-284-a4-bayes-theorem/","created":"2024-11-07T15:44:36.311+00:00","updated":"2024-11-24T16:05:06.467+00:00"}
+dg-publish: true
 ---
-
 ## conditional probability
 - the probability of $A$ happening given that $B$ has happened is written as: $P(A \mid B)$
 ## joint probability: 

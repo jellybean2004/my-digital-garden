@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-h-waves-at-boundaries/h-waves-at-boundaries/","created":"2024-10-01T18:50:55.818+01:00","updated":"2024-11-24T19:25:19.694+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX154 - physics foundations/PX154 - H - waves at boundaries/PX154 - H1 - fixed and free ends\|PX154 - H1 - fixed and free ends]]
 [[content/011/PX154 - physics foundations/PX154 - H - waves at boundaries/PX154 - H2 - two strings joined together - transmission and reflection\|PX154 - H2 - two strings joined together - transmission and reflection]]
 [[content/011/PX154 - physics foundations/PX154 - H - waves at boundaries/PX154 - H3 - standing waves and normal modes\|PX154 - H3 - standing waves and normal modes]]

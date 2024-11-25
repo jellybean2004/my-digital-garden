@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/e-stellar-evolution/e-stellar-evolution/","created":"2024-11-19T10:09:31.887+00:00","updated":"2024-11-24T16:00:25.506+00:00"}
+dg-publish: true
 ---
-
 [[content/012/PX282 - stars and the solar system/E - stellar evolution/PX282 - E1a - star formation\|PX282 - E1a - star formation]]
 [[content/012/PX282 - stars and the solar system/E - stellar evolution/PX282 - E1b - initial mass function\|PX282 - E1b - initial mass function]]
 [[content/012/PX282 - stars and the solar system/E - stellar evolution/PX282 - E2 - protostar\|PX282 - E2 - protostar]]

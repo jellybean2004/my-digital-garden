@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-b-thermal-physics/px-154-b4-heat-transfer-mechanisms/","created":"2024-10-01T18:50:55.978+01:00","updated":"2024-11-24T19:17:01.434+00:00"}
+dg-publish: true
 ---
-
 [YF 17.6]
 ## conduction
 - important one for solids, occurs in liquids too

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k4-row-reduced-echelon-form-gaussian-elimination/","created":"2024-10-01T18:27:09.415+01:00","updated":"2024-11-25T16:44:51.643+00:00"}
+dg-publish: true
 ---
-
 $$\begin{align*}
 	x_{1}+ 2x_{1} &= 3 & L_{1} \\
 	x_{1}+ x_{2} &= 7 & L_{2} 

@@ -14,4 +14,6 @@ $$\begin{align*}
 		L_{eq} &= L_{1}+L_{2}
 	\end{align*}$$
 - if both inductors have the same $L,N,\mu:$
-$$L_{eq}= \frac{\mu N^{2}A_{1}}{l}+ \frac{\mu N^{2}A_{2}}{l} = \frac{\mu N^{2}}{l} (A_{1}+A_{2})$$
+$$
+L_{eq}= \frac{\mu N^{2}A_{1}}{l}+ \frac{\mu N^{2}A_{2}}{l} = \frac{\mu N^{2}}{l} (A_{1}+A_{2})
+$$

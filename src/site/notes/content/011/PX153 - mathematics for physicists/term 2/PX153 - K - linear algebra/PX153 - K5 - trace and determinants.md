@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k5-trace-and-determinants/","created":"2024-10-01T18:27:09.417+01:00","updated":"2024-11-25T16:47:33.629+00:00"}
+dg-publish: true
 ---
-
  - only for square matrices
 - some properties of a matrix can be characterized by a single number
 ## trace
@@ -44,4 +43,5 @@ $$\begin{align*}
 	&= \det \begin{bmatrix}e_{1} & e_{2} & e_{3} \\ f_{1} & f_{2} & f_{3} \\ g_{1} & g_{2} & g_{3}\end{bmatrix}
 \end{align*}$$
 - this gives the volume of the parallelepiped, the base area, $|\vec f\times \vec g|$, times height, $|\vec e|\cos\theta$: 
-$$\vec e \cdot (\vec f\cdot \vec g) = |\vec f\times \vec g| |\vec e|\cos\theta $$
+$$\vec e \cdot (\vec f\cdot \vec g) = |\vec f\times \vec g| |\vec e|\cos\theta
+$$

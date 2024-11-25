@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-a-dimensional-analysis/px-154-a3-applying-dimensional-analysis/","created":"2024-10-01T18:50:55.547+01:00","updated":"2024-11-24T19:16:11.530+00:00"}
+dg-publish: true
 ---
-
 - two more concepts required:
 	- dimensionless groups
 	- fundamental independent quantities

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-b-thermal-physics/px-154-b1-heat-and-temperature/","created":"2024-10-01T18:50:55.906+01:00","updated":"2024-11-24T19:16:21.155+00:00"}
+dg-publish: true
 ---
-
 [YF17]
 ## temperature 
 - a physical property related to the kinetic energy of the atoms, molecules and/or electrons of the system under study

@@ -2,8 +2,12 @@
 dg-publish: true
 ---
 
-$$P=VI = L \frac{dI}{dt}I = \frac{1}{2}L \frac{dI^{2}}{dt}$$
-$$E = \int_{0}^{t_{f}} P\,dt = \frac{1}{2}L (I^{2}(t_{f})-I^{2}(0))$$
+$$
+P=VI = L \frac{dI}{dt}I = \frac{1}{2}L \frac{dI^{2}}{dt}
+$$
+$$
+E = \int_{0}^{t_{f}} P\,dt = \frac{1}{2}L (I^{2}(t_{f})-I^{2}(0))
+$$
 - assuming $I(0)=0$, ie: ramping up the current
 - in general, energy input/store:
 $$\begin{align*}

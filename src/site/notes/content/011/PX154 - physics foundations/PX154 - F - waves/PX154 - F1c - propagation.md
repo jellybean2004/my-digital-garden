@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/px-154-f1c-propagation/","created":"2024-10-01T18:50:55.065+01:00","updated":"2024-11-24T19:22:26.904+00:00"}
+dg-publish: true
 ---
-
 ## the wave speed
 ![Pasted image 20231115100641.png](/img/user/pics/Pasted%20image%2020231115100641.png)
 - in time, $T$, a wave peak moves a distance, $\lambda$

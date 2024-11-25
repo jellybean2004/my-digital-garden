@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i6-volume-integrals/","created":"2024-10-01T18:27:09.296+01:00","updated":"2024-11-25T16:28:23.061+00:00"}
+dg-publish: true
 ---
-
 - so far, cartesian coordinates have been used. a more general 2D integral: 
 $$A = \iint_{R}f(\vec r).dA$$
 	where, $\vec r = (x,y,z)$

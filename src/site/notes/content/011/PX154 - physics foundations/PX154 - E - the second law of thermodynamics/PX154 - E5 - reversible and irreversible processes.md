@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-e-the-second-law-of-thermodynamics/px-154-e5-reversible-and-irreversible-processes/","created":"2024-10-01T18:50:55.661+01:00","updated":"2024-11-24T19:21:16.623+00:00"}
+dg-publish: true
 ---
-
 ## heat transfers
 - consider a heat engine placed next to a cold engine
 ![Pasted image 20231107140851.png](/img/user/pics/Pasted%20image%2020231107140851.png)

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-g-mechanical-waves/px-154-g1b-transfer-of-power-by-the-wave/","created":"2024-10-01T18:50:54.836+01:00","updated":"2024-11-24T19:24:24.468+00:00"}
+dg-publish: true
 ---
-
 [YF 15.5]
 - we know that waves transfer energy
 - more useful to consider the power transfer, ie: rate of energy transfer
@@ -14,7 +13,8 @@
 	$$f_{P} = 2\omega$$ 
 	- let's simplify this. take $v= \frac{\omega}{k}$ and $v^{2} = \frac{T}{\mu}$: 
 	$$\implies k=\omega \sqrt{\frac{\mu}{T}}$$
-		$$\therefore P(x,t) = \omega^{2} A^{2} \sqrt{\mu T}\sin ^{2}(kx-\omega t)$$
+	
+$$\therefore P(x,t) = \omega^{2} A^{2} \sqrt{\mu T}\sin ^{2}(kx-\omega t)$$
 			where, $z = \sqrt{\mu T}$, often called '*impedance*'
 	- the average power transmitted over a wave cycle: 
 	$$P_{av} = \frac{1}{2}\omega^{2} A^{2} z$$

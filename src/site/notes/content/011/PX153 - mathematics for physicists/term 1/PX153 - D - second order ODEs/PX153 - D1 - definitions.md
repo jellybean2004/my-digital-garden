@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-d-second-order-od-es/px-153-d1-definitions/","created":"2024-10-01T18:27:09.143+01:00","updated":"2024-11-25T15:31:34.974+00:00"}
+dg-publish: true
 ---
-
 - a linear ODE can be written  in the form: 
 $$a_{n}(x) \frac{d^{n}y}{dx^{n}}+ a_{n-1}(x)\frac{d^{n-1}y}{dx^{n-1}}+...a_{1} \frac{dy}{dx}+ a_{0}(x)y = f(x)$$
 	- dependent variable and its derivatives are only present to first order (no $y^2$, etc)

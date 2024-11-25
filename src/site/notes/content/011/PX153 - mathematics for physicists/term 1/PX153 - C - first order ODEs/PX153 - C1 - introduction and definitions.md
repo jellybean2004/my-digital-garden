@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-c-first-order-od-es/px-153-c1-introduction-and-definitions/","created":"2024-10-01T18:27:09.103+01:00","updated":"2024-11-25T15:30:21.985+00:00"}
+dg-publish: true
 ---
-
 ## ordinary differential equation (ODE)
 ### definition
 - contains *only ordinary derivatives*, no partial derivatives

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i4-non-rectangular-domain-of-integration/","created":"2024-10-01T18:27:09.290+01:00","updated":"2024-11-25T16:27:57.063+00:00"}
+dg-publish: true
 ---
-
 - so far, the integration domain has been rectangular, but if the integration region isn't rectangular, then the following approach must be taken
 ![Pasted image 20240110184011.png](/img/user/pics/Pasted%20image%2020240110184011.png)
 - domain, $R$, is given by $y_{1}(x) \leq y \leq y_{2}(x)$ for all $a \leq x \leq b$

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-k-accelerators-and-detectors/px-156-k2-linear-accelerator/","created":"2024-10-01T18:27:10.023+01:00","updated":"2024-11-24T19:04:37.046+00:00"}
+dg-publish: true
 ---
-
 - AKA ***LINACs**
 - accelerates particles in a single direction
 - no magnetic field needed

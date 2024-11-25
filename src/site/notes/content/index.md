@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/content/index/","tags":["gardenEntry"],"created":"2024-10-01T18:27:10.371+01:00","updated":"2024-11-25T01:41:23.125+00:00"}
+dg-home: true
+dg-publish: true
 ---
-
 ## hello world!
 
 - welcome to my digital garden. this is a collection of my university notes.
@@ -19,7 +19,7 @@
 [[content/011/PX154 - physics foundations/PX154 - 0 - physics foundations\|PX154 - 0 - physics foundations]]
 [[content/011/PX155 - classical mechanics and special reltivity/PX155 - 0 - classical mechanics and special relativity\|PX155 - 0 - classical mechanics and special relativity]]
 [[content/011/PX156 - quantum phenomena/PX156 - 0 - quantum phenomena\|PX156 - 0 - quantum phenomena]]
-[[content/011/PX157 - electricity and magnetism/PX157 - 0 - electricity and magnetism 1\|PX157 - 0 - electricity and magnetism 1]]
+[[content/011/PX157 - electricity and magnetism/PX157 - 0 - electricity and magnetism\|PX157 - 0 - electricity and magnetism]]
 [[content/011/PX158 - astronomy/PX158 - 0 - astronomy\|PX158 - 0 - astronomy]]
 ### [[content/012/012 year 2\|012 year 2]]
 [[content/012/PX262 - quantum mechanics/PX262 - 0 - quantum mechanics and its applications\|PX262 - 0 - quantum mechanics and its applications]]

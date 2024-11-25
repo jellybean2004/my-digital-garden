@@ -3,7 +3,9 @@ dg-publish: true
 ---
 ## resistivity
 - ohm's law:
-$$\vec E = \rho\,\vec J$$
+$$
+\vec E = \rho\,\vec J
+$$
 	where, $\rho=$ electrical resistivity
 { #9e9b04}
 
@@ -31,7 +33,9 @@ $$\begin{align*}
 \end{align*}$$
 - the equivalent resistance is: $R_{eq} = R_{1}+ R_{2}$
 - if both resistors have the same $\rho$ and $A:$
-$$R_{eq}= \frac{\rho}{A}(L_{1}+L_{2})$$
+$$
+R_{eq}= \frac{\rho}{A}(L_{1}+L_{2})
+$$
 ### resistors in parallel
 
 ![Pasted image 20240207102309.png](/img/user/pics/Pasted%20image%2020240207102309.png)
@@ -41,11 +45,17 @@ $$\begin{align*}
 		I_{2}&= \frac{V}{R_{2}}
 	\end{align*}$$
 - total current:
-$$I = I_{1}+I_{2} = V\left(\frac{1}{R_{1}} +\frac{1}{R_{2}}\right)$$
+$$
+I = I_{1}+I_{2} = V\left(\frac{1}{R_{1}} +\frac{1}{R_{2}}\right)
+$$
 - the equivalent resistance is: $\frac{1}{R_{eq}} = \frac{1}{R_{1}} + \frac{1}{R_{2}}$
 - if both resistors have the same $\rho$ and $L:$
-$$\frac{1}{R_{eq}}= \frac{1}{\rho L} (A_{1}+A_{2})$$
+$$
+\frac{1}{R_{eq}}= \frac{1}{\rho L} (A_{1}+A_{2})
+$$
 - if both resistors are the same:
 	- in series: $R_{eq}= 2R \implies I = \frac{V}{2R}$
 	- in parallel:
-$$\frac{1}{R_{eq}}= \frac{2}{R}\implies \frac{2V}{R}$$
+$$
+\frac{1}{R_{eq}}= \frac{2}{R}\implies \frac{2V}{R}
+$$

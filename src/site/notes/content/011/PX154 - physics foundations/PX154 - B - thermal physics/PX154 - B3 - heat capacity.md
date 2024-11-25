@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-b-thermal-physics/px-154-b3-heat-capacity/","created":"2024-10-01T18:50:55.929+01:00","updated":"2024-11-24T19:16:39.998+00:00"}
+dg-publish: true
 ---
-
 [YF 17.4]
 - we can have heat flow, $Q$ into or out of a system which will increase or decrease its temperature
 	- if $Q$ is:

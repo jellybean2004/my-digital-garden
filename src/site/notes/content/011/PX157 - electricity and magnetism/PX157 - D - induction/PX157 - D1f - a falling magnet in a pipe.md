@@ -43,7 +43,9 @@ $$\begin{align*}
 \end{align*}$$
 - $I_{M}B_{iz}\,\hat R=0:$ forces in the radial direction cancels out 
 - because $B_{iR}<0:$
-$$\vec F_{i}= I_{M}|B_{iR}|\,\hat z$$
+$$
+\vec F_{i}= I_{M}|B_{iR}|\,\hat z
+$$
 - the magnet feels an additional force pushing it upwards, acting as a frictional force whose strength is dependent on the resistivity of the material, and is proportional to the magnet's velocity
 
 ![Pasted image 20240229171506.png](/img/user/pics/Pasted%20image%2020240229171506.png)

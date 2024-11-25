@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c7-maxwell-boltzmann-distribution/","created":"2024-10-01T18:50:56.197+01:00","updated":"2024-11-24T19:18:13.700+00:00"}
+dg-publish: true
 ---
-
 ## molecular speeds and energy
  - the molecules in a gas  have different speeds, and we define a distribution function [YF eqn 18.32] 
  $$f(v) = 4 \pi \left(\frac{m}{2\pi k_{B}T}\right)^{\frac{3}{2}}v^2\exp{\left(\frac{-mv^{2}}{2k_{B}T}\right)}$$

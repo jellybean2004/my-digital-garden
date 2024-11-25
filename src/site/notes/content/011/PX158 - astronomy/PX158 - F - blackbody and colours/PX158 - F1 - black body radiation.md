@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-f-blackbody-and-colours/px-158-f1-black-body-radiation/","created":"2024-10-01T18:50:58.178+01:00","updated":"2024-11-25T01:23:06.679+00:00"}
+dg-publish: true
 ---
-
 ## planck's law
 - all bodies emit thermal radiation
 - a black body absorbs perfectly at all wavelengths

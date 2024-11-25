@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c2-14-stellar-atmospheres/px-282-c10e-line-broadening-due-to-scattering/","created":"2024-10-24T10:48:47.638+01:00","updated":"2024-11-24T15:51:35.796+00:00"}
+dg-publish: true
 ---
-
 ## rayliegh scattering
 - generally, on atoms for low energy photons 
 - it is elastic, ie: $E_{\gamma}$ is constant

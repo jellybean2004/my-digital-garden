@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f3b-a-pendulum/","created":"2024-11-08T11:07:09.590+00:00","updated":"2024-11-24T16:25:01.797+00:00"}
+dg-publish: true
 ---
-
 - considering a simple pendulum of length, $l$, and $\theta$ is the angle between the pendulum and the equilibrium position at a given time
 - writing down the lagrangian, $L$, and using it to calculate the hamiltonian, $H$ and identifying the momentum: 
 $$\begin{align*}

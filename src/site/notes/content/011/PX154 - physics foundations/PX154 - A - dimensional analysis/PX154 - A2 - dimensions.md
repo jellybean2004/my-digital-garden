@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-a-dimensional-analysis/px-154-a2-dimensions/","created":"2024-10-01T18:50:55.481+01:00","updated":"2024-11-24T19:15:50.317+00:00"}
+dg-publish: true
 ---
-
 *we use dimensions to mean quantities from the [SI system](https://www.npl.co.uk/si-units)* 
 ## quantities
 
@@ -106,7 +105,8 @@ $$constant = \Pi = Q_1^\alpha Q_2^\beta Q_3^\gamma Q_4^\delta$$
 				$\implies \beta = \frac{-1}{2}$
 				$\implies [\pi] = T^1 L^\frac{-1}{2}{(LT^{-2})}^\frac{1}{2} M^0$
 				$\therefore\pi = Tg^{\frac{1}{2}}l^{\frac{-1}{2}} = T \sqrt{\frac{g}{l}}$
-			$$[\Pi] = T^\alpha L^\beta {(LT^{-2})}^\gamma M^\delta$$
+		
+$$[\Pi] = T^\alpha L^\beta {(LT^{-2})}^\gamma M^\delta$$
 				- $T$: $0 = \alpha - 2\gamma$
 				- $L$: $0 = \beta + \gamma$
 				- $M$: $0 = \delta$

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-g-mechanical-waves/px-154-g6-the-doppler-effect/","created":"2024-10-01T18:50:54.887+01:00","updated":"2024-11-24T19:25:14.836+00:00"}
+dg-publish: true
 ---
-
 [YF 16.8]
 [YF 37.6]
 [[content/011/PX155 - classical mechanics and special reltivity/special relativity/PX155 - H - the lorentz transformations/PX155 - H4 - relativistic doppler effect - seeing vs observing\|PX155 - H4 - relativistic doppler effect - seeing vs observing]]

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/c-thermal-physics-2/","created":"2024-10-01T18:50:56.000+01:00","updated":"2024-11-24T19:17:06.474+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C1 - ideal gas equation of state\|PX154 - C1 - ideal gas equation of state]]
 [[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C2 - pV diagrams\|PX154 - C2 - pV diagrams]]
 [[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C3 - a real gas equation of state\|PX154 - C3 - a real gas equation of state]]

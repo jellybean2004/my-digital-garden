@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-j-particle-decays-and-relativistic-kinematics/j-particle-decays-and-relativistic-kinematics/","created":"2024-10-01T18:27:09.996+01:00","updated":"2024-11-24T19:02:48.749+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - J -  particle decays & relativistic kinematics/PX156 - J1 - decays\|PX156 - J1 - decays]]
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - J -  particle decays & relativistic kinematics/PX156 - J2 - decay channels\|PX156 - J2 - decay channels]]
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - J -  particle decays & relativistic kinematics/PX156 - J3 - relativistic invariants\|PX156 - J3 - relativistic invariants]]

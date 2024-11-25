@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-i-symmetries/px-156-i1-symmetries/","created":"2024-10-01T18:27:09.983+01:00","updated":"2024-11-24T19:02:10.661+00:00"}
+dg-publish: true
 ---
-
 - particle physics is the physics of symmetries
 - a *symmetry* is an operation on a system which leaves the system, the physics and/or the maths describing the system unchanged
 - the maths governing symmetries like this is *group theory*

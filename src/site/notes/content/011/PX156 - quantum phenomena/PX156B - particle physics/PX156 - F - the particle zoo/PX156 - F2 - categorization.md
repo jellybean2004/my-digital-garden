@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-f-the-particle-zoo/px-156-f2-categorization/","created":"2024-10-01T18:27:09.929+01:00","updated":"2024-11-24T19:00:27.025+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20240427183636.png](/img/user/pics/Pasted%20image%2020240427183636.png)
 
 - according to spins, fermion and bosons are distinguished

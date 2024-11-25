@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-e-introduction/px-156-e4-units/","created":"2024-10-01T18:27:09.917+01:00","updated":"2024-11-24T19:00:03.019+00:00"}
+dg-publish: true
 ---
-
 - [[content/011/PX155 - classical mechanics and special reltivity/special relativity/PX155 - I - relativistic momentum mass and energy/I - relativistic momentum, mass, and energy\|energy-momentum equation for relativistic particles]]: 
 $$E^{2}= (pc)^{2} + (mc^{2})^{2}$$
 	- where,

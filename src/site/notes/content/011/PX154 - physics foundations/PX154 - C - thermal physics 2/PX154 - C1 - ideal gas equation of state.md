@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c1-ideal-gas-equation-of-state/","created":"2024-10-01T18:50:56.041+01:00","updated":"2024-11-24T19:17:05.140+00:00"}
+dg-publish: true
 ---
-
 ## ideal gas law
 $$pV=nRT$$
 	$p=$ pressure

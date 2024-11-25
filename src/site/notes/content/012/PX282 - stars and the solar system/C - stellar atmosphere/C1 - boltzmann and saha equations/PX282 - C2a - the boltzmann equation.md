@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c1-boltzmann-and-saha-equations/px-282-c2a-the-boltzmann-equation/","created":"2024-10-17T11:48:14.534+01:00","updated":"2024-11-24T15:47:22.270+00:00"}
+dg-publish: true
 ---
-
-- the boltzmann equation gives how many electrons are in each state: $$\frac{N_{B}}{N_{A}} = \frac{g_{B}}{g_{A}}\exp\left(- \frac{E_{B}-E_{A}}{k_{B}T}\right)$$
+- the boltzmann equation gives how many electrons are in each state:
+$$\frac{N_{B}}{N_{A}} = \frac{g_{B}}{g_{A}}\exp\left(- \frac{E_{B}-E_{A}}{k_{B}T}\right)$$
 ## derivation
-- from statistical mechanics, the probability that an electron is in state 1 , requiring an energy, $E_{1}$, over state 2, with an energy, $E_{2}$, for $E_{1}>E_{2}$, is given by: $$\frac{P_{1}}{P_{2}} = \frac{e^{-\frac{E_{1}}{k_{B}T}}}{e^{-\frac{E_{2}}{k_{B}T}}} = \exp\left({- \frac{E_{1}-E_{2}}{k_{B}T}}\right)$$
+- from statistical mechanics, the probability that an electron is in state 1 , requiring an energy, $E_{1}$, over state 2, with an energy, $E_{2}$, for $E_{1}>E_{2}$, is given by:
+$$\frac{P_{1}}{P_{2}} = \frac{e^{-\frac{E_{1}}{k_{B}T}}}{e^{-\frac{E_{2}}{k_{B}T}}} = \exp\left({- \frac{E_{1}-E_{2}}{k_{B}T}}\right)$$
 - if the temperature is low, $k_{B}T\to 0 \implies \frac{P_{1}}{P_{2}}\to0:$ the electrons go to the lowest state
 - if the temperature is high, $k_{B}T\to\infty \implies \frac{P_{1}}{P_{2}}\to1 :$ with infinite energy, all states are equally accessible
 - these are quantum states, defined by:

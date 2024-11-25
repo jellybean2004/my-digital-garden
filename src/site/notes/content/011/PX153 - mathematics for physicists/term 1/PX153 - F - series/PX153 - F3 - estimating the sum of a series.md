@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-f-series/px-153-f3-estimating-the-sum-of-a-series/","created":"2024-10-01T18:27:09.194+01:00","updated":"2024-11-25T15:38:57.408+00:00"}
+dg-publish: true
 ---
-
 - consider the series $S= \sum\limits_{n-1}^{\infty} a_{n}$ where $a_{n}>0$
 - suppose that $n>N$, we can write $a_{n}=f(n)$, where $n = N+1, N+2, ...$
 

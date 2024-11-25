@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/d-stellar-structure-and-interiors/px-282-d4-energy-in-stars/","created":"2024-11-12T10:06:45.746+00:00","updated":"2024-11-24T15:56:27.424+00:00"}
+dg-publish: true
 ---
-
 - virial theorem relates thermal $(U)$ and gravitational potential $(\Omega):$ 
 $$\Omega = -2U$$
 { #b7947e}
@@ -9,7 +8,8 @@ $$\Omega = -2U$$
 - considering a shell of thickness, $dr$, at a radius, $r:$ 
 $$d\Omega_{shell} = - \frac{GM_{r}dm_{shell}}{r}$$
 - from previous notes: 
-$$dm_{shell} = 4 \pi r^{2} \rho \,dr $$
+$$dm_{shell} = 4 \pi r^{2} \rho \,dr
+$$
 $$\begin{align*}
 	\int_{V} d\Omega_{shell} &= - \int_{0}^{R} 4\pi r^{2} \rho \frac{GM_{r}}{r}\,dr \\
 	\int_{V} \Omega\,dV &= -4\pi \int_{0}^{R} GM_{r}\rho r\,dr \tag{1}
@@ -36,7 +36,8 @@ $$U = \frac{3}{2}nk_{B}T  = \frac{3}{2}P$$
 - therefore the virial theorem is obtained: 
 $$\therefore \Omega = -2U$$
 - the total energy of a star: 
-$$E = \Omega+U $$
+$$E = \Omega+U
+$$
 - with the virial theorem: 
 $$E = -U = \frac{\Omega}{2}$$
 - $U$ cannot be negative $\implies E<0:$ star is gravitationally bound

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/d-stellar-structure-and-interiors/px-282-d2c-convection/","created":"2024-11-05T10:44:02.367+00:00","updated":"2024-11-24T15:55:17.479+00:00"}
+dg-publish: true
 ---
-
 - happens from the physical movement of materials
 $$\begin{align*}
 	\text{material: } \rho_{1}, T_{1} \to \rho_{a},T_{a} \\

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-central-forces/px-285-g1-central-forces/","created":"2024-11-14T14:08:36.686+00:00","updated":"2024-11-24T16:27:04.286+00:00"}
+dg-publish: true
 ---
-
 - determining the trajectory of a particle approaching the sun
 ## determining the lagrangian
 - considering the position vector of the particle in polar coordinates: 
@@ -35,7 +34,8 @@ $$\begin{align*}
 \frac{d}{dt}(m\dot r) &= mr\dot\theta^{2} - \frac{\partial V}{\partial r} \\
 m\ddot r &= \frac{p_{\theta}^{2}}{mr^{3}} - \frac{\partial V}{\partial r} = -\frac{\partial V_{eff}}{\partial r} \tag{6}\\
 \end{align*}$$
-- the effective potential: $$V_{eff} = V + \frac{1}{2} \frac{p_{\theta}^{2}}{mr^{2}}$$
+- the effective potential:
+$$V_{eff} = V + \frac{1}{2} \frac{p_{\theta}^{2}}{mr^{2}}$$
 - $(6)$ can be solved for $r(t)$
 - considering the energy: 
 $$\begin{align*}

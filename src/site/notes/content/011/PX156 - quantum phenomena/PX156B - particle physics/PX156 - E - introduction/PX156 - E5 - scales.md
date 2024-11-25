@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-e-introduction/px-156-e5-scales/","created":"2024-10-01T18:27:09.920+01:00","updated":"2024-11-24T19:00:15.527+00:00"}
+dg-publish: true
 ---
-
 - **why are high energy colliders used to study the physics of small particles?**
 - *classical optics*: in order to image something on a given length scale, a probe of the same scale needs to be used
 - ie: to resolve very small scales, very small wavelengths are needed

@@ -17,9 +17,13 @@ $$\begin{align*}
 	&= \frac{p\cos\theta}{2\pi\epsilon_{0}} \left(\frac{1}{r_{p}^{2}} - \frac{1}{r_{b}^{2}}\right)
 \end{align*}$$
 - define $V(r_{b}\to\infty) = 0:$
-$$V_{a} = \frac{p\cos\theta}{2\pi\epsilon_{0}r_{p}^2}$$
+$$
+V_{a} = \frac{p\cos\theta}{2\pi\epsilon_{0}r_{p}^2}
+$$
 - true for any value of $r_{p}:$
-$$\therefore V(r) = \frac{p\cos\theta}{2\pi\epsilon_{0}r^{2}}= V_{a} = \frac{\vec p\cdot \hat r}{2\pi\epsilon_{0}r^2}$$
+$$
+\therefore V(r) = \frac{p\cos\theta}{2\pi\epsilon_{0}r^{2}}= V_{a} = \frac{\vec p\cdot \hat r}{2\pi\epsilon_{0}r^2}
+$$
 - eg: electric field that is discontinuous between $R = R_{1}\to R_{2}$
 	- can only choose one point where $V=0$
 	$$V_{a}-V_{b} = \int_{R_{a}}^{R_{b}} \vec E\cdot d\vec l = \int_{R_{a}}^{R_{2}} \vec E\cdot d\vec l + \int_{R_{2}}^{R_{1}} \vec E\cdot d\vec l + \int_{R_{1}}^{R_{b}} \vec E\cdot d\vec l$$

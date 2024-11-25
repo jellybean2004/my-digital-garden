@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/a-introduction/px-285-a1-newton-s-laws/","created":"2024-10-03T14:08:25.151+01:00","updated":"2024-11-24T16:13:30.260+00:00"}
+dg-publish: true
 ---
-
 ## first law 
 - a body stays in a state of constant motion unless acted upon by an external force
 $$\vec v = constant \,(\vec F=0)$$

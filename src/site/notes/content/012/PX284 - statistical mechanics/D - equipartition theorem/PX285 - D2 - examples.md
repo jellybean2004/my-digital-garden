@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/d-equipartition-theorem/px-285-d2-examples/","created":"2024-11-21T15:24:15.727+00:00","updated":"2024-11-24T16:09:57.244+00:00"}
+dg-publish: true
 ---
-
 ## translational motion of a monatomic gas
 - considering a helium atom with three degrees of freedom: 
 $$E = \frac{1}{2}m v_{x}^{2} + \frac{1}{2}m v_{y}^{2} + \frac{1}{2}m v_{z}^{2}$$
@@ -21,7 +20,8 @@ $$\begin{gather*}
 where, $\mu = \frac{m_{1}m_{2}}{m_{1}+m_{2}}$
 ## lattice vibrations
 - a 3D arrangement of masses and springs
-- for a cubic lattice, there are 3 springs per ion: $$\langle{E}\rangle = 3 k_{B}T$$
+- for a cubic lattice, there are 3 springs per ion:
+$$\langle{E}\rangle = 3 k_{B}T$$
 - $C_{V} = 3k_{B}$ per atom or $2N_{A}k_{B}$ per mole
 ## diatomic molecules
 - translational motion: 

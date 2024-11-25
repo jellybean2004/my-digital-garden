@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k10-special-matrices/","created":"2024-10-01T18:27:09.383+01:00","updated":"2024-11-25T16:53:29.265+00:00"}
+dg-publish: true
 ---
-
 ## symmetric and anti-symmetric matrices
 - if $A^{T}=A: A$ is a *symmetric matrix*
 - if $A^{T}=-A:A$ is an *anti-symmetric matrix*

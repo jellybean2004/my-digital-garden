@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c8-collisions-between-molecules/","created":"2024-10-01T18:50:56.098+01:00","updated":"2024-11-24T19:18:21.243+00:00"}
+dg-publish: true
 ---
-
 near the end of [YF 18.3]
 ![Pasted image 20231024143347.png](/img/user/pics/Pasted%20image%2020231024143347.png) 
 - the average time between collisions is defined as: 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-k-the-universe/px-158-k5-density-of-the-universe/","created":"2024-10-01T18:27:10.349+01:00","updated":"2024-11-24T19:13:31.321+00:00"}
+dg-publish: true
 ---
-
 - assuming that the universe is close to a *critical density* ($\rho_{c}$): 
 $$\begin{align*}
 	\frac{1}{2}mv_{c}^{2} &= \frac{GMm}{R} \\

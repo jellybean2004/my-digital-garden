@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-e-second-order-inhomogeneous-od-es/px-153-e4-method-of-variation-of-parameters/","created":"2024-10-01T18:27:09.166+01:00","updated":"2024-11-25T15:37:00.502+00:00"}
+dg-publish: true
 ---
-
 - a more general method for finding the particular integral
 - consider a 2nd order inhomogeneous ODE: 
 $$ay''+by'+cy = f(x)$$

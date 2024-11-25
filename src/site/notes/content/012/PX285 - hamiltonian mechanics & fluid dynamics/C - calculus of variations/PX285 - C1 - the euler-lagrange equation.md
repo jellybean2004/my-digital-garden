@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c1-the-euler-lagrange-equation/","created":"2024-10-11T11:22:57.499+01:00","updated":"2024-11-24T16:17:08.240+00:00"}
+dg-publish: true
 ---
-
 - *calculus of variations* is a technique to find the function that extremizes the integral provided that the end points are fixed
 - taking a path, $x(t)$, and varying it as: 
 $$\begin{gather}

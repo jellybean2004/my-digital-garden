@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c1-boltzmann-and-saha-equations/px-282-c4-the-boltzmann-saha-equation/","created":"2024-10-17T11:49:41.068+01:00","updated":"2024-11-24T15:49:12.505+00:00"}
+dg-publish: true
 ---
-
 - ${} \frac{N_2}{N_{total}}$ is needed, where, $N_{total}= N_{I}+ N_{II}$ ($N$ in each ionization state), and $N_{I}=N_{1}+N_{2}$
 - the fraction of electrons in $n=2:$
 $$\begin{align*}

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c2-14-stellar-atmospheres/px-282-c12-radiation-pressure/","created":"2024-10-31T10:07:35.598+00:00","updated":"2024-11-24T15:53:33.292+00:00"}
+dg-publish: true
 ---
-
 - photons carry momentum: 
 $$E_{\gamma} = pc$$
 - hence, they exert a pressure

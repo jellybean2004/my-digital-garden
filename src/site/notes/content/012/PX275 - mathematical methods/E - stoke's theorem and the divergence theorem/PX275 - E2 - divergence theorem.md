@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e2-divergence-theorem/","created":"2024-11-21T12:40:53.927+00:00","updated":"2024-11-25T12:40:39.181+00:00"}
+dg-publish: true
 ---
-
 - in 2D previously: 
 $$\underbrace{\oint_{C}\vec F \cdot d\vec r}_\text{flux flowing out of a loop} = \underbrace{\iint_R \vec\nabla \times \vec F \,dA}_{\text{divergence integrated over area }R}$$
 - in 3D, **the divergence theorem**: 

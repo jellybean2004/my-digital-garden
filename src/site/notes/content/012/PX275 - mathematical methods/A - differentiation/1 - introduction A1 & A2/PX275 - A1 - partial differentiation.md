@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/1-introduction-a1-and-a2/px-275-a1-partial-differentiation/","created":"2024-10-03T12:08:11.585+01:00","updated":"2024-11-24T15:23:39.713+00:00"}
+dg-publish: true
 ---
-
 - for a function, $f(x,y)$, partial differentials can be defined as $\left(\frac{\partial f}{\partial x}\right)_{y}$; $\left(\frac{\partial f}{\partial y}\right)_{x}$
 $$\begin{align*} 
 	\frac{\partial }{\partial x} \left(\frac{\partial f}{\partial x}\right) &= \frac{\partial ^{2}f}{\partial x^{2}} \\
 	\frac{\partial }{\partial y} \left(\frac{\partial f}{\partial y}\right) &= \frac{\partial ^{2}f}{\partial y^{2}}
-\end{align*}$$ $$\frac{\partial ^{2}f}{\partial x\partial y} = \frac{\partial ^{2}f}{\partial y\partial x}$$
+\end{align*}$$
+$$\frac{\partial ^{2}f}{\partial x\partial y} = \frac{\partial ^{2}f}{\partial y\partial x}$$
 
 $$\frac{\partial ^{2}f}{\partial x\partial y} = \frac{\partial ^{2}f}{\partial y\partial x}$$
 - the above property is always true for "well-behaved functions" routinely encountered in physics

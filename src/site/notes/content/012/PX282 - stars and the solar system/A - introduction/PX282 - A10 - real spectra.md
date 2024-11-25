@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/a-introduction/px-282-a10-real-spectra/","created":"2024-10-17T11:35:35.017+01:00","updated":"2024-11-24T15:46:18.850+00:00"}
+dg-publish: true
 ---
-
 - real spectra do not align perfectly with blackbody curves
 ![Pasted image 20241017113745.png](/img/user/pics/Pasted%20image%2020241017113745.png)
 ## key features

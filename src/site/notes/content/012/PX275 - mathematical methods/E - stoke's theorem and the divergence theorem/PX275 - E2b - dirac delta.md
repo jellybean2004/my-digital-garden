@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e2b-dirac-delta/","created":"2024-11-25T12:41:02.537+00:00","updated":"2024-11-25T14:39:18.464+00:00"}
+dg-publish: true
 ---
-
 - considering a sphere
 ![Pasted image 20241121124446.png](/img/user/pics/Pasted%20image%2020241121124446.png)
 - for a point charge, $Q$, at the origin, a distance, $r$, from $Q$, the electric field is given by: 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-d-time-independent-schrodinger-equation/px-156-d5-the-finite-potential-barrier/","created":"2024-10-01T18:27:09.894+01:00","updated":"2024-11-24T18:59:02.079+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20240311185330.png](/img/user/pics/Pasted%20image%2020240311185330.png)
 - in regions $1$ and $3$, the corresponding [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - D - time independent schrodinger equation/PX156 - D1 - time independent schrödinger equation\|TISEs]] are: 
 $$\begin{align*}

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k9-lu-decomposition-method/","created":"2024-10-01T18:27:09.430+01:00","updated":"2024-11-25T16:50:00.285+00:00"}
+dg-publish: true
 ---
-
 - $A=LU$, where $L$ and $U$ are lower and upper triangular matrices
 - eg: in $3\times3$ case, 
 $$\begin{align*}

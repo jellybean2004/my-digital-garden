@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c1-boltzmann-and-saha-equations/px-282-c1-the-physics-of-line-strength/","created":"2024-10-15T10:36:43.234+01:00","updated":"2024-11-24T15:47:06.316+00:00"}
+dg-publish: true
 ---
-
 - the two main factors controlling line strength are:
 	- **excitation:** thermal energy excites electrons to higher energy states
 	- **ionization:** electrons gain enough energy to escape the nuclear well

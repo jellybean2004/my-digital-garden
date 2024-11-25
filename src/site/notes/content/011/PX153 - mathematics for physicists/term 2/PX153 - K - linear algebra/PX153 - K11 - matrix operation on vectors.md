@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k11-matrix-operation-on-vectors/","created":"2024-10-01T18:27:09.385+01:00","updated":"2024-11-25T19:11:12.942+00:00"}
+dg-publish: true
 ---
-
 
 the representation $A\vec x = \vec b$ describes a mapping of the vector space, $\vec x$, to the vector space, $\vec b$, by the matrix, ${} \vec A$
 - these spaces may or may not have the same dimensions
@@ -11,7 +10,8 @@ the representation $A\vec x = \vec b$ describes a mapping of the vector space, $
 - if there is a change in the coordinate system for the vectors, matrix $A$ will have different elements for the same transformation, but matrix $A$ will have the same *eigenvector*, *eigenvalue*, and *determinant*
 ## examples of mapping
 ### rotation in 2D
-- consider the effect of rotation about the $z$-axis: $$\hat x = \begin{bmatrix}1 \\ 0\end{bmatrix} \to \begin{bmatrix}\cos\theta \\ \sin\theta\end{bmatrix},\; \hat y = \begin{bmatrix}0 \\ 1\end{bmatrix} \to \begin{bmatrix}-\sin\theta \\ \cos\theta\end{bmatrix}$$
+- consider the effect of rotation about the $z$-axis:
+$$\hat x = \begin{bmatrix}1 \\ 0\end{bmatrix} \to \begin{bmatrix}\cos\theta \\ \sin\theta\end{bmatrix},\; \hat y = \begin{bmatrix}0 \\ 1\end{bmatrix} \to \begin{bmatrix}-\sin\theta \\ \cos\theta\end{bmatrix}$$
 $$\vec r' = x \begin{bmatrix}\cos\theta \\ \sin\theta\end{bmatrix} + y \begin{bmatrix}-\sin\theta \\ \cos\theta\end{bmatrix} = \begin{bmatrix}\cos\theta  & -\sin\theta \\ \sin\theta & \cos\theta\end{bmatrix} \begin{bmatrix}x \\ y\end{bmatrix}$$
 - matrix $R(\theta)_{2D}$ describes rotation by $\theta$ about the $z$-axis in the anti-clockwise direction as viewed from above
 ### rotation in 3D about z-axis (anti-clockwise)
@@ -24,10 +24,12 @@ $$\vec r' = R(\theta_{x})\,\vec r = \begin{bmatrix} 1 & 0 & 0 \\ 0 & \cos\theta_
 	- $R(\theta_{x}), R(\theta_{y}), R(\theta_{z})$ can represent any arbitrary rotation in 3D
 	- $\det R(\theta_{x}), \det R(\theta_{y}), \det R(\theta_{x}) =1$
 ### stretching/shrinking of vectors
-- 2D: $$\vec r' = \begin{bmatrix}x' \\ y'\end{bmatrix} = \begin{bmatrix}\alpha & 0 \\ 0 & \alpha\end{bmatrix} \begin{bmatrix}x \\ y\end{bmatrix}= \begin{bmatrix}\alpha x \\ \alpha y \end{bmatrix}$$
+- 2D:
+$$\vec r' = \begin{bmatrix}x' \\ y'\end{bmatrix} = \begin{bmatrix}\alpha & 0 \\ 0 & \alpha\end{bmatrix} \begin{bmatrix}x \\ y\end{bmatrix}= \begin{bmatrix}\alpha x \\ \alpha y \end{bmatrix}$$
 	- $\det A = \alpha^{2}$
 ### inversion
-- $\vec r \to \vec r' = -\vec r:$ $$\begin{bmatrix}x' \\ y'\end{bmatrix} = \begin{bmatrix}-1 & 0 \\ 0 & -1\end{bmatrix} \begin{bmatrix}x \\ y\end{bmatrix} = \begin{bmatrix}-x \\ -y\end{bmatrix}$$
+- $\vec r \to \vec r' = -\vec r:$
+$$\begin{bmatrix}x' \\ y'\end{bmatrix} = \begin{bmatrix}-1 & 0 \\ 0 & -1\end{bmatrix} \begin{bmatrix}x \\ y\end{bmatrix} = \begin{bmatrix}-x \\ -y\end{bmatrix}$$
 	- $\det A =1$
 - the role of a determinant of a matrix is to give the magnification factor for the mapping of $A$ applied to a vector space
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-d-time-independent-schrodinger-equation/px-156-d2-infinite-potential-well/","created":"2024-10-01T18:27:09.884+01:00","updated":"2024-11-24T18:57:52.881+00:00"}
+dg-publish: true
 ---
-
  ![Pasted image 20240305183804.png](/img/user/pics/Pasted%20image%2020240305183804.png)
 $$V(x) = \begin{cases}
 \infty & for & x<0,\; x>L \\

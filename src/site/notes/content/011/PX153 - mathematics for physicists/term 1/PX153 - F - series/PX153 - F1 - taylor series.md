@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-f-series/px-153-f1-taylor-series/","created":"2024-10-01T18:27:09.181+01:00","updated":"2024-11-25T15:38:24.518+00:00"}
+dg-publish: true
 ---
-
 - taylor's theorem gives a way of expressing functions as a power series
 - it uses the derivatives of a function to approximate its value around a point
 $$\frac{df}{dx}|_{x=a}\simeq \frac{f(a+\Delta x)-f(a)}{\Delta x}$$
@@ -20,7 +19,8 @@ $$f(x)\simeq f(a) + \sum\limits_{n=1}^{\infty}\frac{1}{n!} f^{n'}|_{x=a}(x-a)^{n
 - if $a=0$, this is the *maclaurin expansion*
 
 - eg: find the firs 3 non-zero terms of the taylor expansion of $f(x)=\sin x$ about $x=0$ (ie: maclaurin expansion)
-		$$f(x) = \sin x \simeq \sin 0 + \sum\limits_{n=1}^{\infty}\frac{1}{n!} f^{n'}|_{x=a}(x)^{n}$$
+	
+$$f(x) = \sin x \simeq \sin 0 + \sum\limits_{n=1}^{\infty}\frac{1}{n!} f^{n'}|_{x=a}(x)^{n}$$
 			$f(0) = \sin 0 = 0$
 			$f'(0) = \cos(0) = 1$
 			$f''(0)= -\sin(0) = 0$
@@ -34,13 +34,15 @@ $$f(x)\simeq f(a) + \sum\limits_{n=1}^{\infty}\frac{1}{n!} f^{n'}|_{x=a}(x-a)^{n
 
 - eg: estimate the value of $\cos 62\degree$ by expanding $\cos x$ around $60\degree$
 	- switch to radians: $60\degree = \frac{\pi}{3}$, $62\degree - 60\degree = 2\degree = \frac{\pi}{90}$
-		$$\cos\left(\frac{\pi}{3} + \frac{\pi}{90}\right) \simeq \cos (\frac{\pi}{3}) + \sum\limits_{n=1}^{\infty}\frac{1}{n!} f^{n'}|_{\frac{\pi}{3}}(\frac{\pi}{90})^{n}$$
+	
+$$\cos\left(\frac{\pi}{3} + \frac{\pi}{90}\right) \simeq \cos (\frac{\pi}{3}) + \sum\limits_{n=1}^{\infty}\frac{1}{n!} f^{n'}|_{\frac{\pi}{3}}(\frac{\pi}{90})^{n}$$
 		$\cos(\frac{\pi}{3})=\frac{1}{2}$
 		$f'(\frac{\pi}{3}) = \frac{-\sqrt{3}}{2}$
 		$f''(\frac{\pi}{3}) = \frac{-1}{2}$
 		$f'''(\frac{\pi}{3}) = \frac{\sqrt{3}}{2}$
 	$$\cos62\degree \simeq \frac{1}{2}- \frac{\sqrt{3}}{2}\left(\frac{\pi}{90}\right)- \frac{1}{2!} \frac{1}{2} (\frac{\pi}{90})^{2}+...$$
-		$$\cos 62\degree \simeq  0.5-0.302-00003+... \simeq 0.4695$$
+	
+$$\cos 62\degree \simeq  0.5-0.302-00003+... \simeq 0.4695$$
 		(accurate to 4 sf)
 
 - a useful trick is the relationship the derivative/integral of the taylor series is equal to the derivative/integral of the function

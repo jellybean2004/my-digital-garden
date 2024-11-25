@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-285-c1-entropy/","created":"2024-11-14T15:30:40.885+00:00","updated":"2024-11-24T16:09:03.401+00:00"}
+dg-publish: true
 ---
-
 ## the boltzmann entropy formula
 - the entropy associated with a macrostate of an isolated system in an equilibrium is given by the **boltzmann entropy formula**: 
 $$\boxed{S = k_{B} \ln\Omega}$$

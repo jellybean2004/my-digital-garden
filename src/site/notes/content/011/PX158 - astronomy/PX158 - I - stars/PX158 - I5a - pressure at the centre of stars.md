@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i5a-pressure-at-the-centre-of-stars/","created":"2024-10-01T18:50:57.973+01:00","updated":"2024-11-24T19:10:59.459+00:00"}
+dg-publish: true
 ---
-
 - most stars are in *hydrostatic equilibrium* (the pressure supports the fluid above it)
 - for a constant gravity, $g$, and density, $\rho$, at a depth, $h:$ 
 $$p = \rho gh$$

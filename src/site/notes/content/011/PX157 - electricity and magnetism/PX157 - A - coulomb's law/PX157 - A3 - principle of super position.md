@@ -2,7 +2,9 @@
 dg-publish: true
 ---
 - total force, $\vec F_{0}$, on charge, $q_{0}$ :
-$$\vec F_{0} = \sum\limits_{i=1}^{N} \vec F_{i0} = \frac{q_{0}}{4\pi\epsilon_{0}} \sum\limits_{i=0}^{N} q_{i} \frac{\vec r_{0} - \vec r_{i}}{|\vec r_{0} - \vec r_{i}|^{3}}$$
+$$
+\vec F_{0} = \sum\limits_{i=1}^{N} \vec F_{i0} = \frac{q_{0}}{4\pi\epsilon_{0}} \sum\limits_{i=0}^{N} q_{i} \frac{\vec r_{0} - \vec r_{i}}{|\vec r_{0} - \vec r_{i}|^{3}}
+$$
 - eg: ![Pasted image 20240110093525.png](/img/user/pics/Pasted%20image%2020240110093525.png)
 	$q_{1}=q_{2}=q$
 	$\vec r_{1}= d \hat y$ and $\vec r_{2} = -d \hat y$

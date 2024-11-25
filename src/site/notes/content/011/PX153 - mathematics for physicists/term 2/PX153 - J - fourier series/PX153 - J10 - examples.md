@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j10-examples/","created":"2024-10-01T18:27:09.323+01:00","updated":"2024-11-25T16:41:01.962+00:00"}
+dg-publish: true
 ---
-
 ## Q1
 - *find the fourier series for $f(x)=x; \; x\in [0,2); \; f(x+2)=f(x)$*
 - discontinuous at $x=0$
@@ -69,15 +68,16 @@ n=1,5,9,... &: \cos\left(\frac{\pi}{2}\right)=0 & b_{n}=- \frac{2}{n\pi} \\
 n=2,6,10,... &: \cos\pi=0 & b_{n}=- \frac{4}{n\pi} \\
 n=3,7,11,... &: \cos\left(\frac{3\pi}{2}\right)=0 & b_{n}=- \frac{2}{n\pi} \\
 n=4,8,12,... &: \cos(2\pi)=0 & b_{n}=0 \\
-\end{align*}$${ #4d1500}
-
+\end{align*}$$
+^4d1500
 ## Q4
 $f(x) = x$ in $[-\pi,\pi)$
 - **sketch**: 
 	![Pasted image 20240205141021.png](/img/user/pics/Pasted%20image%2020240205141021.png)
 - **convergence**: point-wise (disconitinous at $x=-\pi$)
 - **symmetries**: anti-symmetric, ie: $a_{0}=0$, $a_{n}=0$
-- **coefficients and series**: $$\begin{align*}
+- **coefficients and series**:
+$$\begin{align*}
 	b_{n} &= \int_{-\pi}^{\pi} x\sin(nx)\,dx \\
 	&= \frac{1}{\pi} \left[- \frac{\cos(nx)}{n}x\right]_{-\pi}^{\pi} - \frac{1}{\pi} \int_{-\pi}^{\pi}- \frac{\cos(nx)}{n}dx \\
 	&= \frac{1}{\pi} \left(- \frac{\pi}{n} (-1)^{n} - \frac{\pi}{n}(-1)^{n} \right) \\&= \frac{2}{n} (-1)^{n+1}

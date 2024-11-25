@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c4-simple-pendulum/","created":"2024-10-17T17:30:56.260+01:00","updated":"2024-11-24T16:17:41.205+00:00"}
+dg-publish: true
 ---
-
 - consider a simple pendulum bearing a mass, $m$, at the end of a string of length, $l$, inclined at an angle, $\theta$, to the vertical
 - the kinetic energy: 
 $$T = \frac{1}{2}I\dot \theta^{2}= \frac{1}{2}ml^{2}\dot\theta^{2}$$

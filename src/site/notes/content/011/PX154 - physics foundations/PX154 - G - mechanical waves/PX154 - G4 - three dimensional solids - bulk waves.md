@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-g-mechanical-waves/px-154-g4-three-dimensional-solids-bulk-waves/","created":"2024-10-01T18:50:55.011+01:00","updated":"2024-11-24T19:24:43.014+00:00"}
+dg-publish: true
 ---
-
 - in solids, we need to consider both compressional (longitudinal) waves, and shear (transverse) waves
 - now, we use the bulk modulus: $-V \frac{\partial p}{\partial V}$, where $V= volume$, $p = pressure$ [YF fig 11.17]
 - we can consider two wave speed: 

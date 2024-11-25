@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-d-the-first-law-of-thermodynamic/px-154-d4e-adiabat/","created":"2024-10-01T18:50:55.368+01:00","updated":"2024-11-24T19:20:17.914+00:00"}
+dg-publish: true
 ---
-
 ## adiabatic expansion of an ideal gas
 ![Pasted image 20240225141502.png](/img/user/pics/Pasted%20image%2020240225141502.png)
 $$Q=0$$
@@ -27,7 +26,8 @@ $$\frac{dT}{T}= - \frac{R}{C_{V}} \frac{dV}{V}$$
 - take $dW=dU$
 		$W = - \int nC_{V}dT$  , here, ($C_{V}=\frac{1}{n} \frac{dU}{dT}$)
 			$= -n C_{V}(T_{2}-T_{1})$ 
-		$$\therefore W = -n C_{V} \Delta T$$
+	
+$$\therefore W = -n C_{V} \Delta T$$
 	- can also be written as: 
 	$$W= - \frac{1}{\gamma-1}(p_{2}V_{2}-p_{1}V_{1})$$
 - note: ![Pasted image 20231102162532.png](/img/user/pics/Pasted%20image%2020231102162532.png)

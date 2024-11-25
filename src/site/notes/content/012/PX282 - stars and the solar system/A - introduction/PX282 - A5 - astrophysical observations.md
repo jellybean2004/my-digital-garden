@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/a-introduction/px-282-a5-astrophysical-observations/","created":"2024-10-03T10:33:39.500+01:00","updated":"2024-11-24T15:43:47.975+00:00"}
+dg-publish: true
 ---
-
 ## EM-radiation 
 - historically, just em-radiation from stars were observed
 - different wavelengths, $\lambda$, convey different information

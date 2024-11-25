@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/i-integration/","created":"2024-10-01T18:27:09.263+01:00","updated":"2024-11-25T16:25:45.959+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX153 - mathematics for physicists/term 2/PX153 - I - integration/PX153 - I1 - introduction\|PX153 - I1 - introduction]]
 [[content/011/PX153 - mathematics for physicists/term 2/PX153 - I - integration/PX153 - I2 - multiple integrals\|PX153 - I2 - multiple integrals]]
 [[content/011/PX153 - mathematics for physicists/term 2/PX153 - I - integration/PX153 - I3 - domain of integration\|PX153 - I3 - domain of integration]]

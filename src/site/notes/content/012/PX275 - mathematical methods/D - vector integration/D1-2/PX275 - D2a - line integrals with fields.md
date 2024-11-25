@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d1-2/px-275-d2a-line-integrals-with-fields/","created":"2024-11-04T12:16:21.714+00:00","updated":"2024-11-24T15:36:33.370+00:00"}
+dg-publish: true
 ---
-
 - normally, in physics, line integral needs to be performed with some field present
 - eg: integral of a spatially varying force along a path to give the change in energy
 ## for a scalar field

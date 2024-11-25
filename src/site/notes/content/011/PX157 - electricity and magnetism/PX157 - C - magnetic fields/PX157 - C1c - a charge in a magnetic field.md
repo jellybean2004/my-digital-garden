@@ -4,7 +4,9 @@ dg-publish: true
 ## the motion of a charge in a magnetic field
 - a charge, $q$, in a uniform magnetic field, $\vec B$
 - splitting the velocity vector of the charge, $\vec v$, into two components:
-$$\vec v (t) = \vec v_{\parallel} + \vec v_{\perp}$$
+$$
+\vec v (t) = \vec v_{\parallel} + \vec v_{\perp}
+$$
 - $\vec v_{\parallel} \times \vec B = 0$ and $\vec v_{\perp}\cdot \vec B =0$
 $$\begin{align*}
 	\vec F &= q\vec v \times \vec B \\ 
@@ -37,6 +39,10 @@ $$\begin{align*}
 - therefore, a magnetic field (constant in time and space) does no work
 
 - alternatively,
-$$W = \int q(\vec v \times \vec B) \cdot d\vec l$$
+$$
+W = \int q(\vec v \times \vec B) \cdot d\vec l
+$$
 - $d\vec l$ is along the path, but ${} \vec v$ is also along the path:
-$$\vec v = \frac{d \vec l}{dt} \implies \vec v \parallel d\vec l \implies W=0$$
+$$
+\vec v = \frac{d \vec l}{dt} \implies \vec v \parallel d\vec l \implies W=0
+$$

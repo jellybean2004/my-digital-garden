@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c6-kinetic-molecular-model-of-the-ideal-gas/","created":"2024-10-01T18:50:56.155+01:00","updated":"2024-11-24T19:17:56.918+00:00"}
+dg-publish: true
 ---
-
 - links the *[[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C1 - ideal gas equation of state#^b45b14\|ideal gas equation]]* to the motion of the gas molecules
 ## derivation
 - how collisions of the molecule lead to pressure

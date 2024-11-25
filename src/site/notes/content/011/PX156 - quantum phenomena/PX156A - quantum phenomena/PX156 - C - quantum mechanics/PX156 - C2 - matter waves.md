@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-c-quantum-mechanics/px-156-c2-matter-waves/","created":"2024-10-01T18:27:09.865+01:00","updated":"2024-11-24T18:54:55.823+00:00"}
+dg-publish: true
 ---
-
 - *[[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - A - light/PX156 - A3b - planck's function\|planck]]*: 
 $$E = hf = \hbar \omega$$
 - *[[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - B - atomic stucture/PX156 - B3 - de broglie hypothesis\|de broglie]]*: 
@@ -33,5 +32,6 @@ $$|\psi|^{2}= \psi\psi^{*} = A\exp(i(kx-\omega t)) \cdot A\exp(-i(kx-\omega t)) 
 	- $\psi_{1}$ and $\psi_{2}$ are the solutions of the *TDSE*: 
 	$$- \frac{\hbar^{2}}{2m} \frac{\partial^{2} {\psi_{1}}}{\partial {x}^{2}} = i\hbar \frac{\partial \psi_{1}}{\partial t}\;,\; and\; - \frac{\hbar^{2}}{2m} \frac{\partial^{2} {\psi_{2}}}{\partial {x}^{2}} = i\hbar \frac{\partial \psi_{2}}{\partial t}$$
 	- then, any linear combination of $\psi_{1}$ and $\psi_{2}$ is also a solution: 
-	$$\psi = \alpha\psi_{1}+\beta\psi_{2}$$ $$- \frac{\hbar^{2}}{2m} \frac{\partial^{2}}{\partial {x}^{2}}(\alpha\psi_{1}+\beta\psi_{2}) = i\hbar \frac{\partial}{\partial t}(\alpha\psi_{1}+\beta\psi_{2})$$
+	$$\psi = \alpha\psi_{1}+\beta\psi_{2}$$
+$$- \frac{\hbar^{2}}{2m} \frac{\partial^{2}}{\partial {x}^{2}}(\alpha\psi_{1}+\beta\psi_{2}) = i\hbar \frac{\partial}{\partial t}(\alpha\psi_{1}+\beta\psi_{2})$$
 		- $\alpha$ and $\beta$ are constants

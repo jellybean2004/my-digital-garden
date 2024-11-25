@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/a-introduction/px-282-a0-intro/","created":"2024-10-01T18:50:58.495+01:00","updated":"2024-11-24T15:43:12.322+00:00"}
+dg-publish: true
 ---
-
 ## hydrostatic equilibrium
 - a key aspects of stars and planets
 - balance between gravity and pressure gradient

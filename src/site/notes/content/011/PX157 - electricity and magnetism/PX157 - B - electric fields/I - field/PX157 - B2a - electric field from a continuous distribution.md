@@ -7,7 +7,9 @@ dg-publish: true
 - vector sum all contributions: $\vec E(\vec r) = \int d\vec E$
 ## linear charge density, $\lambda$
 ![Pasted image 20240115121159.png](/img/user/pics/Pasted%20image%2020240115121159.png)
-$$\lambda = \frac{dq}{dl}$$
+$$
+\lambda = \frac{dq}{dl}
+$$
 $$\begin{align} 
 d \vec E &= \frac{dq}{4\pi\epsilon_{0}} \frac{\vec r - \vec r'}{|\vec r - \vec r'|^{3}} \\
 &= \frac{\lambda dl}{4\pi\epsilon_{0}} \frac{\vec r - \vec r'}{|\vec r - \vec r'|^{3}} \\
@@ -15,14 +17,18 @@ d \vec E &= \frac{dq}{4\pi\epsilon_{0}} \frac{\vec r - \vec r'}{|\vec r - \vec r
 \end{align}$$
 ## surface charge density, $\sigma$
 ![Pasted image 20240115121216.png](/img/user/pics/Pasted%20image%2020240115121216.png)
-$$\sigma = \frac{dq}{dS}$$
+$$
+\sigma = \frac{dq}{dS}
+$$
 $$\begin{align} 
 d \vec E &= \frac{\sigma dS}{4\pi\epsilon_{0}} \frac{\vec r - \vec r'}{|\vec r - \vec r'|^{3}} \\
 \vec E &= \frac{1}{4\pi\epsilon_{0}} \iint \sigma.dS \; \frac{\vec r - \vec r'}{|\vec r - \vec r'|^{3}}
 \end{align}$$
 ## volume charge density, $\rho$
 ![Pasted image 20240115121235.png](/img/user/pics/Pasted%20image%2020240115121235.png) 
-$$\rho = \frac{dq}{d\tau}$$
+$$
+\rho = \frac{dq}{d\tau}
+$$
 $$\begin{align} 
 d \vec E &= \frac{\rho d\tau}{4\pi\epsilon_{0}} \frac{\vec r - \vec r'}{|\vec r - \vec r'|^{3}} \\
 \vec E &= \frac{1}{4\pi\epsilon_{0}} \iiint \rho.d\tau \; \frac{\vec r - \vec r'}{|\vec r - \vec r'|^{3}}

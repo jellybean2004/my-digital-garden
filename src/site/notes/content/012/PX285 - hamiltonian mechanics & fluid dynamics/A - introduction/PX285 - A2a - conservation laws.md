@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/a-introduction/px-285-a2a-conservation-laws/","created":"2024-10-03T14:19:43.279+01:00","updated":"2024-11-24T16:13:50.466+00:00"}
+dg-publish: true
 ---
-
 ## momentum
 $$\vec p = m\,\vec v$$
 - more generally, 

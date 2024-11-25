@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/f-3-d-systems/","created":"2024-11-11T11:07:44.852+00:00","updated":"2024-11-24T00:57:34.478+00:00"}
+dg-publish: true
 ---
-
 [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F1 - the schrödinger equation in 3D\|PX262 - F1 - the schrödinger equation in 3D]]
 [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F2a - particle in an infinite potential well\|PX262 - F2a - particle in an infinite potential well]]
 [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F2b - degeneracy\|PX262 - F2b - degeneracy]]

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c2-14-stellar-atmospheres/px-282-c11a-the-radiative-transfer-equation/","created":"2024-10-29T10:23:27.040+00:00","updated":"2024-11-24T15:52:57.159+00:00"}
+dg-publish: true
 ---
-
 $$dI_{\lambda} = - \kappa_{\lambda}\rho I_{\lambda}\,dz + \epsilon_{\lambda}\rho \,dz$$
 	where, $\kappa_{\lambda}= \kappa_{b-b} + \kappa_{b-f} + \kappa_{f-f} + \kappa_{H^{-}} + \kappa_{e-s}$
 $$\frac{dI_{\lambda}}{\rho\kappa_{\lambda}\,dz} = -I_{\lambda} + \frac{\epsilon_{\lambda}}{\kappa_{\lambda}} = - I_{\lambda}+ S_\lambda$$

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k1-terminology-of-matrices/","created":"2024-10-01T18:27:09.375+01:00","updated":"2024-11-25T16:41:40.502+00:00"}
+dg-publish: true
 ---
-
 ## introduction
 - a matrix is a rectangular array of numbers
 - if there are $m$ rows and $n$ columns, the matrix has a size of $m\times n:$ 
@@ -13,7 +12,8 @@ $$A_{m\times n} = \begin{pmatrix}
   \end{pmatrix}$$
   - $a_{ij}$ represents the element in the $i^{th}$ row and $j^{th}$ column
   - often written as: 
-  $$A = (a_{ij})_{m\times n}$$
+ 
+$$A = (a_{ij})_{m\times n}$$
 -  if a matrix has shape, $m\times 1$, it is a *column vector*: 
 $$A= \begin{pmatrix}a_{1} \\ a_{2}  \\ \vdots \\ a_{m}\end{pmatrix}$$
 - if a matrix has shape, $1\times n$, it is a *row vector*: 

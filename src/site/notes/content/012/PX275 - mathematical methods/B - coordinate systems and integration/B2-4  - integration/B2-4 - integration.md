@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/b2-4-integration/","created":"2024-10-27T17:23:55.747+00:00","updated":"2024-11-24T02:19:47.095+00:00"}
+dg-publish: true
 ---
-
 ## integration
 [[content/012/PX275 - mathematical methods/B - coordinate systems and integration/B2-4  - integration/PX275 - B2 - multiple integration\|PX275 - B2 - multiple integration]]
 [[content/012/PX275 - mathematical methods/B - coordinate systems and integration/B2-4  - integration/PX275 - B2a - 1D integrals in 2D and 3D\|PX275 - B2a - 1D integrals in 2D and 3D]]

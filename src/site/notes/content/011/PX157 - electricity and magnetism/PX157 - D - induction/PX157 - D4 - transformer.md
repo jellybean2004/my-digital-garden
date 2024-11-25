@@ -14,4 +14,6 @@ $$\begin{align*}
 - for $N_{S}<N_{P} \implies \epsilon_{S}<\epsilon_{P}:$ **step-down transformer** 
 
 - from conservation of energy: $P=IV$ is conserved:
-$$I_{S}\epsilon_{S}= I_{P}\epsilon_{P} \implies N_{S}I_{S} = N_{P}I_{P}$$
+$$
+I_{S}\epsilon_{S}= I_{P}\epsilon_{P} \implies N_{S}I_{S} = N_{P}I_{P}
+$$

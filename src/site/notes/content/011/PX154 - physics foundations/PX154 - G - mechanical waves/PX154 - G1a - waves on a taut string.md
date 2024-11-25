@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-g-mechanical-waves/px-154-g1a-waves-on-a-taut-string/","created":"2024-10-01T18:50:55.030+01:00","updated":"2024-11-24T19:24:10.388+00:00"}
+dg-publish: true
 ---
-
 [YF 15.4 "second method"]
  ![Pasted image 20231125154446.png](/img/user/pics/Pasted%20image%2020231125154446.png)
 - string with a mass per unit length, $\mu$
@@ -26,7 +25,8 @@
 	- at $x+\Delta x$: 
 	$$F_{2y} = F_{2x} \tan \theta_{2}$$
 		- writing in terms of the gradient: 
-		$$F_{2y} = F_{2x} \left(\frac{dy}{dx}\right)_{x+dx}$$
+	
+$$F_{2y} = F_{2x} \left(\frac{dy}{dx}\right)_{x+dx}$$
 	- net force acting upwards: 
 	$$F_{y} = F_{2y}-F_{1y}$$
 		- if $F_{y}\neq0$, then there will be an acceleration along the y-direction, since $F=ma$, where $a = \frac{d^{2}y}{dx^{2}}$
@@ -35,12 +35,14 @@
 	$$F_{y} = \mu \Delta x \frac{d^{2}y}{dx^{2}} = F_{2y}-F_{1y}$$
 	- remember $F_{1x}=F_{2x}=T$: 
 	$$\mu \Delta x \frac{d^{2}y}{dx^{2}} = T\left(\left(\frac{dy}{dx}\right)_{x+\Delta x}- \left(\frac{dy}{dx}\right)_{x}\right)$$
-			$$\mu \frac{\partial^{2}y}{\partial t^{2}} = \frac{T\left(\left(\frac{\partial y}{\partial x}\right)_{x+\Delta x}- \left(\frac{\partial y}{\partial x}\right)_{x}\right)}{\Delta x}$$
+		
+$$\mu \frac{\partial^{2}y}{\partial t^{2}} = \frac{T\left(\left(\frac{\partial y}{\partial x}\right)_{x+\Delta x}- \left(\frac{\partial y}{\partial x}\right)_{x}\right)}{\Delta x}$$
 	- let $\Delta x\to 0$: 
 	$$\frac{\partial^{2}y}{\partial t^{2}} = \frac{T}{\mu} \frac{\partial^{2}y}{\partial x^{2}}$$
 		- this is a wave equation
 		- comparing with *[[content/011/PX154 - physics foundations/PX154 - F - waves/PX154 - F2 - the wave equation#^c8f14b\|the wave equation]]*, we see 
-		$$v = \sqrt{\frac{T}{\mu}}$$
+	
+$$v = \sqrt{\frac{T}{\mu}}$$
 	- ***comments***:
 		- this is a simple model
 			- we could account for the stretching of the string

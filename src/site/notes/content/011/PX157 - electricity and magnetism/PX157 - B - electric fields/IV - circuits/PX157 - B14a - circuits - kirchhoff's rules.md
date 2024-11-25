@@ -3,7 +3,9 @@ dg-publish: true
 ---
 ## kirchhoff's junction rule
 - current into element = current out of element:
-$$I_{in}= I_{out}$$
+$$
+I_{in}= I_{out}
+$$
 - no charge accumulation
 ![Pasted image 20240207180441.png](/img/user/pics/Pasted%20image%2020240207180441.png)
 $$\begin{align*}
@@ -11,7 +13,9 @@ $$\begin{align*}
 	I_{2} &= \iint_{A_{2}} \vec J \cdot d\vec S \\\\
 	Q &= \iiint_{Vol.} \rho\,d\tau
 \end{align*}$$
-$$0 = \frac{dQ}{dt} = \frac{d}{dt}\iiint_{Vol.} \rho\,d\tau = \iint_{A_{1}} \vec J \cdot d\vec S - \iint_{A_{2}} \vec J \cdot d\vec S = I_{1}-I_{2}$$
+$$
+0 = \frac{dQ}{dt} = \frac{d}{dt}\iiint_{Vol.} \rho\,d\tau = \iint_{A_{1}} \vec J \cdot d\vec S - \iint_{A_{2}} \vec J \cdot d\vec S = I_{1}-I_{2}
+$$
 	where, $\frac{dQ}{dt}$ is the rate of change of total charge in volume, not rate of charges passing a surface in unit time
 - taking a limit of decreasing the distance between $A_{1}$ and $A_{2}:$
 $$\begin{align*}
@@ -27,16 +31,26 @@ $$\begin{align*}
 		\oint \vec E\cdot d\vec l = \int_{a}^{a}\vec E\cdot d\vec l &= V_a-V_{a} =0
 	\end{align*}$$
 - over a circuit loop, the sum of the potentials from sources balances against potential drops across all other components:
-$$\sum\limits_{i}\epsilon_{i} = \sum\limits_{j}V_{j}$$
+$$
+\sum\limits_{i}\epsilon_{i} = \sum\limits_{j}V_{j}
+$$
 
 - eg: ![Pasted image 20240207181114.png](/img/user/pics/Pasted%20image%2020240207181114.png)
 	- junction rule:
 		- at junction $a:$
-$$I_{1}=I_{2}+I_{3}$$
+$$
+I_{1}=I_{2}+I_{3}
+$$
 		- at junction $b:$
-$$I_{2}+I_{3}=I_{4}=I_{1}$$
+$$
+I_{2}+I_{3}=I_{4}=I_{1}
+$$
 	- loop rule:
 		- for loop $1:$
-$$\epsilon_{1} = R_{1}I_{4} + R_{2}I_{2}$$
+$$
+\epsilon_{1} = R_{1}I_{4} + R_{2}I_{2}
+$$
 		- for loop $2:$
-$$\epsilon_{2}-\epsilon_{3}= -R_{2}I_{2}+R_{3}I_{3}$$
+$$
+\epsilon_{2}-\epsilon_{3}= -R_{2}I_{2}+R_{3}I_{3}
+$$

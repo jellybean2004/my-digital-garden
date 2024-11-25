@@ -15,4 +15,6 @@ $$\begin{align*}
 		\frac{1}{L_{eq}}&= \frac{1}{L_{1}}+ \frac{1}{L_{2}}
 	\end{align*}$$
 - if both inductors have the same ${} A,N,\mu:$
-$$\frac{1}{L_{eq}} = \frac{l_{1}}{\mu N^{2}A} + \frac{l_{2}}{\mu N^{2}A} = \frac{l_{1}+l_{2}}{\mu N^{2}A}$$
+$$
+\frac{1}{L_{eq}} = \frac{l_{1}}{\mu N^{2}A} + \frac{l_{2}}{\mu N^{2}A} = \frac{l_{1}+l_{2}}{\mu N^{2}A}
+$$

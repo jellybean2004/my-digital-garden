@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i1-introduction/","created":"2024-10-01T18:27:09.265+01:00","updated":"2024-11-25T16:26:47.243+00:00"}
+dg-publish: true
 ---
-
 ## definition
 - adding up. eg: area under a curve, volume inside a surface, work done from $A$ to $B$, total electric flux across a surface
 
@@ -24,7 +23,8 @@ $$\lim_{N\to\infty} \sum\limits_{n=0}^{N}f\left(x_{A} + n\frac{x_{B}-x_{A}}{N}\r
 a) **riemann integral**
 	![Pasted image 20240110183649.png](/img/user/pics/Pasted%20image%2020240110183649.png)
 - let $A=$ area under the curve (between $0$ and $a$): 
-$$A \approx \sum\limits_{i=0}^{N-1} f(x_{i})(x_{i+1}-x_{i}) $$
+$$A \approx \sum\limits_{i=0}^{N-1} f(x_{i})(x_{i+1}-x_{i})
+$$
 - if the limit $N\to \infty$ exists: 
 $$\lim_{N\to\infty}\sum\limits_{i=0}^{N-1} f(x_{i})\Delta x_{i} = \int_{0}^{a} f(x').dx'$$
 - we will work with *riemann integral
@@ -40,6 +40,7 @@ $$\begin{align}
 	- substitutions: 
 	$$ I = \int \frac{1}{(1-x)^{\frac{1}{2}}}.dx$$
 		- let $x= \sin u$ , and $dx = \cos u .du$ : 
-		$$I = \int \frac{\cos u.du}{\cos u} = \int du = u = \sin^{-1} x$$
+	
+$$I = \int \frac{\cos u.du}{\cos u} = \int du = u = \sin^{-1} x$$
 	- partial fractions: 
 	$$\int \frac{1}{1-x^{2}}.dx = \int \frac{1}{2}\left(\frac{1}{1-x}+ \frac{1}{{1+x}}\right)= \frac{1}{2} ln((1-x)(1+x))$$

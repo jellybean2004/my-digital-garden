@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c2-14-stellar-atmospheres/px-282-c10d-line-broadening-due-to-free-free-absorption/","created":"2024-10-24T10:38:53.873+01:00","updated":"2024-11-24T15:51:34.721+00:00"}
+dg-publish: true
 ---
-
 - follows *kramer's law*: 
 $$\kappa \propto \rho T^{- \frac{7}{2}}$$
 - this shows that the constant depends on the composition of the material

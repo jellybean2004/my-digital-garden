@@ -8,7 +8,9 @@ $$\begin{align*}
 		I(t) &= I_{0}\sin(\omega t)
 	\end{align*}$$
 - instantaneous power:
-$$P(t) = V(t)I(t) = V_{0}I_{0}\cos(\omega t)\sin(\omega t)$$
+$$
+P(t) = V(t)I(t) = V_{0}I_{0}\cos(\omega t)\sin(\omega t)
+$$
 - average power over a cycle:
 $$\begin{align*}
 		\langle{P}\rangle &= \frac{1}{T}\int_{0}^{T} P(t)\,dt \\
@@ -20,7 +22,9 @@ $$\begin{align*}
 
 # circuits with a resistive load
 - instantaneous power:
-$$P(t) = RI^{2}(t) = RI_{0}^{2}\cos^{2}(\omega t)$$
+$$
+P(t) = RI^{2}(t) = RI_{0}^{2}\cos^{2}(\omega t)
+$$
 - average power:
 $$\begin{align*}
 		\langle{P} \rangle &= \frac{1}{T} \int_{0}^{T} RI_{0}^{2} \left(\frac{1}{2}+ \frac{1}{2}\cos(2\omega t)\right)\,dt \\

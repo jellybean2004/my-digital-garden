@@ -2,9 +2,13 @@
 dg-publish: true
 ---
 - there is an induced emf if there is no motion:
-$$\vec F = q\vec v\times \vec B = \vec 0$$
+$$
+\vec F = q\vec v\times \vec B = \vec 0
+$$
 - but, [[content/011/PX157 - electricity and magnetism/PX157 - D - induction/PX157 - D1a - faraday's law\|faraday's law]] still holds:
-$$\epsilon = - \frac{d\phi_{B}}{dt}$$
+$$
+\epsilon = - \frac{d\phi_{B}}{dt}
+$$
 ![Pasted image 20240229222949.png](/img/user/pics/Pasted%20image%2020240229222949.png)
 - eg: solenoid with current ($I_{s}(t)$), cross-sectional area ($A$), with $n$ turns pre unit length, and [[content/011/PX157 - electricity and magnetism/PX157 - C - magnetic fields/PX157 - C8 - solenoid\|magnetic field]]:
 $$\vec B = \begin{cases}
@@ -12,21 +16,35 @@ $$\vec B = \begin{cases}
         \mu_{0}nI_{s}\,\hat z & inside
      \end{cases}$$
  - adding a *conducting* loop on the outside, [[content/011/PX157 - electricity and magnetism/PX157 - C - magnetic fields/PX157 - C1b - magnetic flux\|magnetic flux]]:
-$$\phi_{B} = \iint_{S}\vec B \cdot d\vec S = \mu_{0}nI_{s}A$$
+$$
+\phi_{B} = \iint_{S}\vec B \cdot d\vec S = \mu_{0}nI_{s}A
+$$
  - from [[content/011/PX157 - electricity and magnetism/PX157 - D - induction/PX157 - D1a - faraday's law\|faraday's law]]:
-$$\epsilon = - \mu_{0} \frac{N}{L}A \frac{dI_{s}}{dt}$$
+$$
+\epsilon = - \mu_{0} \frac{N}{L}A \frac{dI_{s}}{dt}
+$$
  - current induced in the loop:
-$$I_{w}= \frac{\epsilon}{R}= \frac{\mu_{0}NA}{LR} \frac{dI_{s}}{dt}$$
+$$
+I_{w}= \frac{\epsilon}{R}= \frac{\mu_{0}NA}{LR} \frac{dI_{s}}{dt}
+$$
  - from [[content/011/PX157 - electricity and magnetism/PX157 - D - induction/PX157 - D1c - lenz's law\|lenz's law]], the direction of $I_{w}$ is opposite to $I_{s}$
 
 - the force acting on charge, $q$, is given by [[content/011/PX157 - electricity and magnetism/PX157 - C - magnetic fields/PX157 - C1a - the lorentz force\|the lorentz force]]:
-$$\vec F = q (\vec E +\vec v \times \vec B)$$
+$$
+\vec F = q (\vec E +\vec v \times \vec B)
+$$
 - the emf is defined as:
-$$\epsilon = \oint_{loop} \frac{\vec F}{q}\cdot d\vec l$$
+$$
+\epsilon = \oint_{loop} \frac{\vec F}{q}\cdot d\vec l
+$$
 - since the wire is not moving, $\vec v=0$, and there is no external magnetic field, the only contribution can come from the electric field:
-$$\epsilon =\oint_{loop}\vec E\cdot d\vec l$$
+$$
+\epsilon =\oint_{loop}\vec E\cdot d\vec l
+$$
 - for stationary loops:
-$$\oint_{C}\vec E\cdot d\vec l = -\frac{d\phi_{B}}{dt}$$
+$$
+\oint_{C}\vec E\cdot d\vec l = -\frac{d\phi_{B}}{dt}
+$$
 - this poses a problem
 - **remember**: in electrostatics, an electric field starts at a positive charge and ends at a negative charge
 - $\int_{a}^{b}\vec E\cdot d\vec l$ represents the potential difference between the start and end points
@@ -37,7 +55,8 @@ $$\oint_{C}\vec E\cdot d\vec l = -\frac{d\phi_{B}}{dt}$$
 - around a loop of induced electric field, since $\vec F=q\vec E$, the electric field does net work around a closed loop, and a potential can no longer be defined
 - the concept of *electrostatic potential* no longer works
 
-- solenoid's power output over the whole solenoid: $$P = |\epsilon|I = \left(\mu_{0} \frac{NA}{L} \frac{dI_{s}}{dt}\right) (I_{s} N)
+- solenoid's power output over the whole solenoid:
+$$P = |\epsilon|I = \left(\mu_{0} \frac{NA}{L} \frac{dI_{s}}{dt}\right) (I_{s} N)
 $$
 - also,
 $$\begin{align*}
@@ -55,7 +74,9 @@ $$\begin{align*}
 		$Vol. = 6.2\times10^{-31}\,m^{3}$
 		$B \approx 12.5\,T$
 	
-$$U = \frac{B^{2}}{2\mu_{0}}Vol. = mc^{2}\implies m \approx 4.3\times10^{-40}\,kg$$
+$$
+U = \frac{B^{2}}{2\mu_{0}}Vol. = mc^{2}\implies m \approx 4.3\times10^{-40}\,kg
+$$
 
 - **conclusion**:
 	- **resistor**: dissipates energy

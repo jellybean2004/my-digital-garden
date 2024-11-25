@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b2-fermat-s-law-in-optics/","created":"2024-10-11T11:11:24.210+01:00","updated":"2024-11-24T16:16:28.240+00:00"}
+dg-publish: true
 ---
-
 - light rays trace paths that extremize the *optical path length*: 
 $$l = \int ds\, n(\vec r(s))$$
 - is this the same as *[[content/011/PX154 - physics foundations/PX154 - I - light/PX154 - I5 - snell's law\|snell's law]]*?

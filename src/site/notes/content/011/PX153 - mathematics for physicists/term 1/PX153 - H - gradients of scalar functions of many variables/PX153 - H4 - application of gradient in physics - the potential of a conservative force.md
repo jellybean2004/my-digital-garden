@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-h-gradients-of-scalar-functions-of-many-variables/px-153-h4-application-of-gradient-in-physics-the-potential-of-a-conservative-force/","created":"2024-10-01T18:27:09.240+01:00","updated":"2024-11-25T15:51:27.357+00:00"}
+dg-publish: true
 ---
-
 - similar to *[[content/011/PX153 - mathematics for physicists/term 1/PX153 - G - functions of many variables, calculus/PX153 - G2 - the total differential, and exact and inexact differentials\|exact and inexact differentials]]*
 	- a differential is exact if and only if: 
 	$$df = A.dx + B.dy =  \frac{\partial f}{\partial x}.dx + \frac{\partial f}{\partial y}.dy$$

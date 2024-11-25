@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-k-accelerators-and-detectors/k-accelerators-and-detectors/","created":"2024-10-01T18:27:10.018+01:00","updated":"2024-11-24T19:04:23.027+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - K - accelerators & detectors/PX156 - K1 - introduction\|PX156 - K1 - introduction]]
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - K - accelerators & detectors/PX156 - K2 - linear accelerator\|PX156 - K2 - linear accelerator]]
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - K - accelerators & detectors/PX156 - K3 - cyclotron\|PX156 - K3 - cyclotron]]

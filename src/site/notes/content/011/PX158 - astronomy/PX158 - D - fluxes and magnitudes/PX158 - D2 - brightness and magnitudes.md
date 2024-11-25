@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-d-fluxes-and-magnitudes/px-158-d2-brightness-and-magnitudes/","created":"2024-10-01T18:50:58.125+01:00","updated":"2024-11-25T00:48:33.620+00:00"}
+dg-publish: true
 ---
-
 ## apparent magnitude (m)
 - circa $150 \, BCE$, hipparchus of nicaea catalogued the night sky using a system in which the brightest stars is a *magnitude $1$*, and the faintest stars is a *magnitude $6$*
 - in the $1850s$, norman robert pogson worked out that the eye is a logarithmic detector, and that $\Delta magnitude$ is $\times 100$ in flux
@@ -28,7 +27,8 @@ $$\begin{align*}
 - eg: how far away could the sun be seen with a naked eye?
 		$m=6$
 		$M_{\odot} = +4.8$
-$$\therefore d \approx 1.4\,pc $$
+$$\therefore d \approx 1.4\,pc
+$$
 - eg: what is the absolute magnitude of a $100\,W$ light bulb and how far away can it be seen with a naked eye?
 	- $L_{\odot} = 3.82 \times10^{26}\,W$, $M_{\odot} = +4.8$
 $$\begin{align*}

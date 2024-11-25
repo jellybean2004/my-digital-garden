@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/b-introduction/px-284-b2-microstates-and-macrostates/","created":"2024-11-08T10:33:14.557+00:00","updated":"2024-11-24T16:06:37.510+00:00"}
+dg-publish: true
 ---
-
 ## microstate
 - any microscopic configuration of the system
 - eg: specify the position, and the velocity for every molecule in $1\,l$ of gas

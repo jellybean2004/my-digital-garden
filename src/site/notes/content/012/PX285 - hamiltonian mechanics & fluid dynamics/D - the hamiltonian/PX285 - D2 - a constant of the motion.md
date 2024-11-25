@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/d-the-hamiltonian/px-285-d2-a-constant-of-the-motion/","created":"2024-10-25T15:56:05.637+01:00","updated":"2024-11-24T16:19:33.917+00:00"}
+dg-publish: true
 ---
-
 - taking the time derivative of the hamiltonian: 
 $$\frac{dH}{dt} = \frac{d}{dt}\left(\dot x \frac{\partial L}{\partial \dot x} -L\right)$$
 - for a function, $f(a,b,t)$, its time derivative is: 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i3-domain-of-integration/","created":"2024-10-01T18:27:09.286+01:00","updated":"2024-11-25T16:27:04.297+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20240110183917.png](/img/user/pics/Pasted%20image%2020240110183917.png) 
 - the region, $R$, is divided into $m\times n$ rectangles by dividing the interval $a \leq x \leq b$ into $m$ stripes, and $c \leq y \leq d$ into $n$ stripes
 - each of the rectangles has area, $\Delta A_{rs} = (x_{r}-x_{r-1})(y_{s}-y_{s-1}) = \Delta x_{r} \Delta y_{s}$

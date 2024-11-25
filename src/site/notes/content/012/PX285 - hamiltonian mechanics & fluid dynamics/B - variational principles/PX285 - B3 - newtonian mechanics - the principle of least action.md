@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b3-newtonian-mechanics-the-principle-of-least-action/","created":"2024-10-10T14:43:44.631+01:00","updated":"2024-11-24T16:16:45.395+00:00"}
+dg-publish: true
 ---
-
 ## the principle of least action
 - in newtonian mechanics, 'classical' trajectories are those that extremize the *action*, which is called *'the principle of least action'* : 
 $$\begin{align*}

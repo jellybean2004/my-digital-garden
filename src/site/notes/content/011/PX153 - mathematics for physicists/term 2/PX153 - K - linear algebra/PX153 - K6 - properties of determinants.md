@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k6-properties-of-determinants/","created":"2024-10-01T18:27:09.421+01:00","updated":"2024-11-25T16:47:49.994+00:00"}
+dg-publish: true
 ---
-
 - $(i):$ 
 $$\det A = \det A^{T}$$
 - $(ii):$ 

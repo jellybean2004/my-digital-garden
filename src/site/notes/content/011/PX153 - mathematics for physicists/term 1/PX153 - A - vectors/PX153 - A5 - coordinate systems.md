@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-a-vectors/px-153-a5-coordinate-systems/","created":"2024-10-01T18:27:09.041+01:00","updated":"2024-11-25T15:24:38.571+00:00"}
+dg-publish: true
 ---
-
 - recall [basis vectors]([[content/011/PX153 - mathematics for physicists/term 1/PX153 - A - vectors/PX153 - A1 - notation and geometrical representation\|PX153 - A1 - notation and geometrical representation]])
 	- in 3D, a coordinate system can be defined by specifying 3 linearly independent basis vectors at every point in space
 	- usually defined to be orthonormal ![Pasted image 20231009145446.png](/img/user/pics/Pasted%20image%2020231009145446.png)
@@ -24,8 +23,8 @@
 - to check: these are orthonormal
 	$\vec e_r \cdot \vec e_\theta=\cos{\theta}(-\sin{\theta})+\sin{\theta}\cos{\theta}=0\implies orthormal$
 ## cylindrical polar coordinates
-{ #04f786}
 
+^04f786
 
 - 3D
 - polar coordinates in x-y plane, extend by keeping the z-axis

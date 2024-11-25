@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/px-154-f1a-concepts-and-definitions/","created":"2024-10-01T18:50:55.138+01:00","updated":"2024-11-24T19:22:10.214+00:00"}
+dg-publish: true
 ---
-
 ## types of waves 
 ### mechanical 
 [YF ch 15, 16]

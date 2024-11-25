@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b1-variational-principles/","created":"2024-10-04T11:34:23.364+01:00","updated":"2024-11-25T11:16:56.493+00:00"}
+dg-publish: true
 ---
-
 - allows quantities such as path lengths, and functions to be extremized 
 ![Pasted image 20241010140701.png](/img/user/pics/Pasted%20image%2020241010140701.png)
 - a person taking different paths through strips of tarmac, beach and sea

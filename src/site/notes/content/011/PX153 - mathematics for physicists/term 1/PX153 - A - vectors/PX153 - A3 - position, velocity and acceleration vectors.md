@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-a-vectors/px-153-a3-position-velocity-and-acceleration-vectors/","created":"2024-10-01T18:27:09.026+01:00","updated":"2024-11-25T15:24:03.725+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20231003172648.png](/img/user/pics/Pasted%20image%2020231003172648.png)
 - position vector, usually $\vec r$, describes the position of point P relative to the origin 
 - eg: for trajectory of a particle, $\underline r(t) = x(t)\underline{\hat i} + y(t) \underline{\hat ij} + z(t) \underline{\hat k}$

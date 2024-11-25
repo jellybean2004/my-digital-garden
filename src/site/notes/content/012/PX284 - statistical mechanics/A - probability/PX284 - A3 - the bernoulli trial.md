@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/a-probability/px-284-a3-the-bernoulli-trial/","created":"2024-11-07T15:32:12.613+00:00","updated":"2024-11-24T16:03:49.224+00:00"}
+dg-publish: true
 ---
-
 - an *independent* experiment with two outcomes with the probabilities: 
 $$P_{i}(x) = \begin{cases} p & x_{i}=1 & '\text{success}' \\ 1-p & x_{i}=0 & '\text{failure}' \end{cases}$$
 - eg: tossing a coin

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/a-probability/px-284-a2-continuous-probability-distributions/","created":"2024-11-07T15:23:39.512+00:00","updated":"2024-11-24T16:03:09.679+00:00"}
+dg-publish: true
 ---
-
 - suppose  is a continuous random variable with a probability, , of having a value between  and 
 ### normalization
 $$\int P(x)\,dx = 1$$

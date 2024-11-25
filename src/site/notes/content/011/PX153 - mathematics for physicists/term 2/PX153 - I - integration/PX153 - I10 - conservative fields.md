@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i10-conservative-fields/","created":"2024-10-01T18:27:09.273+01:00","updated":"2024-11-25T16:31:33.076+00:00"}
+dg-publish: true
 ---
-
 - what vector fields, $\vec P$, would not show this path dependence? 
 $$\vec P = \vec\nabla V$$
 	- vector fields which are the gradient of a potential (gradient of a scalar field) have integrals, $\int_{a}^{b} \vec P \cdot d\vec l$, which depend only on the end point, $a$ and $b$

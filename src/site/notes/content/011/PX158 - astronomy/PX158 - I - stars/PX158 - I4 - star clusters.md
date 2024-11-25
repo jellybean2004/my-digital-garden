@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i4-star-clusters/","created":"2024-10-01T18:50:57.811+01:00","updated":"2024-11-24T19:10:54.004+00:00"}
+dg-publish: true
 ---
-
 - star clusters *contain stars of the same age and composition*, so they are useful to study stars as they 
 ## open clusters
 - contain $100\to1000$ stars

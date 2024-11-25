@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c3-a-real-gas-equation-of-state/","created":"2024-10-01T18:50:56.061+01:00","updated":"2024-11-25T01:14:05.662+00:00"}
+dg-publish: true
 ---
-
 - *[[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C1 - ideal gas equation of state#ideal gas law\|ideal gas equation]]* does not predict liquification
 	-  as the conditions approach $gas\to liquid/solid$ phase boundary, it fails to predict the observed properties
 ## things to consider

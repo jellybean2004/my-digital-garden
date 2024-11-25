@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-d-time-independent-schrodinger-equation/px-156-d7-alpha-decay-of-nuclei/","created":"2024-10-01T18:27:09.899+01:00","updated":"2024-11-24T18:59:32.388+00:00"}
+dg-publish: true
 ---
-
 ## geiger-nuttall law
 $$\ln \lambda = - C_{1} \frac{Z-2}{\sqrt{E}}+ C_{2}$$
 	$\lambda=$ decay constant
@@ -16,7 +15,8 @@ $$\ln \lambda = - C_{1} \frac{Z-2}{\sqrt{E}}+ C_{2}$$
 - classically, alpha decay cannot be explained
 - alpha decay happens due to quantum tunnelling
 
-- $N(t)=$ number of nuclei remaining at time, $t:$ $$\frac{dN}{dt}= -\lambda N$$
+- $N(t)=$ number of nuclei remaining at time, $t:$
+$$\frac{dN}{dt}= -\lambda N$$
 	$\tau= \frac{1}{\lambda} =$ life time 
 $$\begin{align*}
 	N(t_\frac{1}{2}) &= \frac{1}{2}N(0) = N(0) \exp \left({-\lambda t_\frac{1}{2}}\right)\\

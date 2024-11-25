@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-f-series/px-155-f4-power-series-and-taylor-series-revisited/","created":"2024-10-01T18:27:09.194+01:00","updated":"2024-11-25T15:39:20.514+00:00"}
+dg-publish: true
 ---
-
 \- ***taylor's theorem***: if $f(x)$ is a continuous, single-valued function of $x$ with continuous derivatives $f'(x), f''(x)... f^{(n)}(x)$, in a given interval $a \leq x \leq b$, and if $f^{(n+1)}(x)$ also exists in this interval, then: 
 $$f(x) = f'(a)(x-a) + \frac{1}{2!} f''(a)(x-a)^{2} +...+  \frac{1}{n!} f^{(n)}(a)(x-a)^{n} + E_{n}(x)$$
 		where, $E_{n}(x)$ is a remainder term which describes the error in the approximation of $f(x)$ by the power series of $n+1$ terms.

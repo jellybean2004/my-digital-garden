@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-i-light/px-154-i2-polarization/","created":"2024-10-01T18:50:55.212+01:00","updated":"2024-11-24T19:26:42.768+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20231205143605.png](/img/user/pics/Pasted%20image%2020231205143605.png)
  - in fig 5.1, E-field is put along the y-axis
 	 - in reality, it can point anywhere along the y-z plane for a wave travelling along $x$
 	 - B-field is ignored in fig 5.2 ![Pasted image 20231205143623.png](/img/user/pics/Pasted%20image%2020231205143623.png)
 	 -  the components of the $\vec E$-field are resolved: 
-	 $$\vec E(x,t) = E_{y}\vec j + E_{z}\vec k$$
+	
+$$\vec E(x,t) = E_{y}\vec j + E_{z}\vec k$$
 		 - eg: 
-		 $$E_{y}= E_{0y} \cos(kx-\omega t)$$
-		 $$E_{z}= E_{0z} \cos(kx-\omega t)$$
+		
+$$E_{y}= E_{0y} \cos(kx-\omega t)$$
+		
+$$E_{z}= E_{0z} \cos(kx-\omega t)$$
 		 - fig 5.2 shows a wave oscillating at $45\degree$ between $y+z$
  - need to be able to have a phase difference between the components of the field: 
  $$E_{z}(x,t) = E_{0z}\cos(kx-\omega t + \phi)$$

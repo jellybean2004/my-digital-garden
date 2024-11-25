@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-c-first-order-od-es/px-153-c3-direct-integration/","created":"2024-10-01T18:27:09.111+01:00","updated":"2024-11-25T15:30:42.643+00:00"}
+dg-publish: true
 ---
-
 ## definition
 - the simplest first order ODE is of the form $\frac{dy}{dx}=f(x)$, which can be solved by direct integration
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-b-thermal-physics/px-154-b2-thermal-expansion/","created":"2024-10-01T18:50:55.956+01:00","updated":"2024-11-24T19:16:33.440+00:00"}
+dg-publish: true
 ---
-
 
 ![Pasted image 20231010182739.png](/img/user/pics/Pasted%20image%2020231010182739.png)
 ## thermometer

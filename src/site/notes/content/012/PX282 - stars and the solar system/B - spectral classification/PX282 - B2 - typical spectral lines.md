@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/b-spectral-classification/px-282-b2-typical-spectral-lines/","created":"2024-10-17T11:46:52.113+01:00","updated":"2024-11-24T15:46:33.564+00:00"}
+dg-publish: true
 ---
-
 - typical spectral lines include $H$, $He$, ionized metals, and metals
 	- in astronomy, metals are everything but $H$ or $He$
 - $H$ and metals occupy most of the spectrum

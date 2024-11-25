@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-b-atomic-stucture/px-156-b1-atoms-and-atomic-spectra/","created":"2024-10-01T18:27:09.849+01:00","updated":"2024-11-24T18:52:44.557+00:00"}
+dg-publish: true
 ---
-
 - to determine the wavelength of light emitted/absorbed after an electron moves between energy levels, rydberg formula:
 $$\frac{1}{\lambda}= Rz^{2} \left(\frac{1}{m^{2}} + \frac{1}{n^{2}}\right)$$
 	where, $m, n \in \mathbb Z$ , $m<n$ ; $R=1.097\times10^{7}\, m^{-1}$; ${} z=$ atomic number

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/e-single-particle-partition-function/px-285-e2-examples/","created":"2024-11-22T10:32:23.557+00:00","updated":"2024-11-24T16:13:06.873+00:00"}
+dg-publish: true
 ---
-
 ## two-level system (revisited)
 - the energy levels are: 
 $$\begin{align*}

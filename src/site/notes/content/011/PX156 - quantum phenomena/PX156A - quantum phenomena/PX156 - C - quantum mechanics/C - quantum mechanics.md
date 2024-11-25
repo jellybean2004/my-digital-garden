@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-c-quantum-mechanics/c-quantum-mechanics/","created":"2024-10-01T18:27:09.860+01:00","updated":"2024-11-24T18:53:56.161+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - C - quantum mechanics/PX156 - C1 - the schrodinger equation\|PX156 - C1 - the schrodinger equation]]
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - C - quantum mechanics/PX156 - C2 - matter waves\|PX156 - C2 - matter waves]]
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - C - quantum mechanics/PX156 - C3 - wave packets\|PX156 - C3 - wave packets]]

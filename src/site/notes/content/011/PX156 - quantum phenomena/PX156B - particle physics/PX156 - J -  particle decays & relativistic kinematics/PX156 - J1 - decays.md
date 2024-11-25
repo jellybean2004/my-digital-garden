@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-j-particle-decays-and-relativistic-kinematics/px-156-j1-decays/","created":"2024-10-01T18:27:10.002+01:00","updated":"2024-11-24T19:03:04.143+00:00"}
+dg-publish: true
 ---
-
 ## fermi's golden rule
 - the transition rate from one state to another, ie: number of transitions per unit time, is proportional to the physics as drawn in the [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - G - feynmann diagrams/E - feynmann diagrams\|feynmann diagrams]]: 
 $$P(i\to f) \propto (amplitude)^{2}(phase\,space)$$

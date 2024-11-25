@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j1-introduction/","created":"2024-10-01T18:27:09.320+01:00","updated":"2024-11-25T16:32:15.191+00:00"}
+dg-publish: true
 ---
-
 $$f(x) = \frac{a_{0}}{2} + \sum\limits_{n=1}^{\infty}\left(a_{n}\cos\left(\frac{n\pi x}{L}\right) +b_{n}\sin\left(\frac{n\pi x}{L}\right) \right)$$ for $-L \leq x \leq L$
 - it is not obvious that an arbitrary function, $f(x)$, can be expressed as such in an interval, $-L \leq x \leq L$ 
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","created":"2024-10-01T18:50:58.519+01:00","updated":"2024-11-25T11:16:00.627+00:00"}
+dg-publish: true
 ---
-
 ### [[content/012/PX262 - quantum mechanics/A - recap/A - recap\|A - recap]]
 [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A1 - photoelectric effect\|PX262 - A1 - photoelectric effect]]
 [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A2 - compton scattering\|PX262 - A2 - compton scattering]]

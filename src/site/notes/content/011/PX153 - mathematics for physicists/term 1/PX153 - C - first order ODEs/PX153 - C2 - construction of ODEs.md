@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-c-first-order-od-es/px-153-c2-construction-of-od-es/","created":"2024-10-01T18:27:09.103+01:00","updated":"2024-11-25T15:30:41.639+00:00"}
+dg-publish: true
 ---
-
 - eg: you have  lump of radioactive material. how does the number of radioactive nuclei change over time?
 	- variables:
 		- independent - time($t$)
@@ -28,12 +27,17 @@
 	- the water exits the opening at speed $v(h)$ 
 		- in a time $\Delta t$, the volume of water leaving is $\Delta V = a \;v(h) \Delta t$
 			- corresponds to a change in height: 
-			$$\Delta h = h(t +\Delta t)-h(t) =  \frac{\Delta v}{A}= \frac{-av(h)\Delta t}{A}$$
+		
+$$\Delta h = h(t +\Delta t)-h(t) =  \frac{\Delta v}{A}= \frac{-av(h)\Delta t}{A}$$
 			- to find $v(h)$, we use bernaulli's equation of energy conservation in fluid flow: 
-			$$p_{0} + \rho g h + \frac{1}{2}\rho v^{2}= constant$$
+		
+$$p_{0} + \rho g h + \frac{1}{2}\rho v^{2}= constant$$
 				- basically $E = KE + PE$
-			$$\implies \rho gh = \frac{1}{2}\rho v^{2} \implies v(h)=\sqrt{2gh}$$
+		
+$$\implies \rho gh = \frac{1}{2}\rho v^{2} \implies v(h)=\sqrt{2gh}$$
 			- so we have 
-			$$\frac{h(t+\Delta t)-h(t)}{\Delta t} = - \frac{a}{A}\sqrt{2gh}$$
+		
+$$\frac{h(t+\Delta t)-h(t)}{\Delta t} = - \frac{a}{A}\sqrt{2gh}$$
 			- taking the limit $\Delta t \to 0$ gives is the derivative 
-			$$\frac{dh}{dt}= - \frac{a}{A}\sqrt{2gh}$$
+		
+$$\frac{dh}{dt}= - \frac{a}{A}\sqrt{2gh}$$

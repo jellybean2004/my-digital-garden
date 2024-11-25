@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/d-stellar-structure-and-interiors/px-282-d7-pp-1-fusion-chain/","created":"2024-11-14T10:24:29.075+00:00","updated":"2024-11-24T16:00:05.029+00:00"}
+dg-publish: true
 ---
-
 - considering the hydrogen-fusion reaction: 
 $$4\,{}_{1}^{1}\text{H} \to {}_{2}^{4}\text{He}$$
 - governed by conservation laws:

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c10-heat-capacity-of-solids/","created":"2024-10-01T18:50:56.113+01:00","updated":"2024-11-24T19:18:46.670+00:00"}
+dg-publish: true
 ---
-
 ## prediction
 [YF 18.4]
 ![Pasted image 20231101093813.png](/img/user/pics/Pasted%20image%2020231101093813.png)

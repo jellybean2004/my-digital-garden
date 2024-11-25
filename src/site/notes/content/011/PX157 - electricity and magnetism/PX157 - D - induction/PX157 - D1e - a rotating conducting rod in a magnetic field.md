@@ -17,7 +17,9 @@ $$\begin{align*}
 	&= -\frac{1}{2} B\omega L^{2}
 \end{align*}$$
 - **alternatively**, rod sweeps an area as a function of time:
-$$A(t) = \frac{1}{2}L^{2}\phi(t)$$
+$$
+A(t) = \frac{1}{2}L^{2}\phi(t)
+$$
 - from [[content/011/PX157 - electricity and magnetism/PX157 - D - induction/PX157 - D1a - faraday's law\|faraday's law]]:
 $$\begin{align*}
 	\epsilon &= - \frac{d}{dt}(BA) \\

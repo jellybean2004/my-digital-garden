@@ -25,5 +25,9 @@ $$\begin{align*}
 	&= \frac{\mu_{0}I}{4\pi R} \hat\phi \frac{-(z-z')}{\sqrt{R^{2}+(z-z')^{2}}} \Bigg|_{-\infty}^{+\infty}
 \end{align*}$$
 - taking the limits:
-$$\lim_{z'\to\pm\infty}\frac{(z-z')}{\sqrt{R^{2}+(z-z')^{2}}} = \lim_{z'\to\pm\infty} \frac{z'}{|z'|} =\pm1$$
-$$\vec B(\vec r) = \frac{\mu_{0}I}{2\pi R} \hat\phi$$
+$$
+\lim_{z'\to\pm\infty}\frac{(z-z')}{\sqrt{R^{2}+(z-z')^{2}}} = \lim_{z'\to\pm\infty} \frac{z'}{|z'|} =\pm1
+$$
+$$
+\vec B(\vec r) = \frac{\mu_{0}I}{2\pi R} \hat\phi
+$$

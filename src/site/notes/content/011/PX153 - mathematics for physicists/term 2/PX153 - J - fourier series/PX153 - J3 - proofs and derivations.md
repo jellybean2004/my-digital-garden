@@ -1,19 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j3-proofs-and-derivations/","created":"2024-10-01T18:27:09.336+01:00","updated":"2024-11-25T16:35:35.511+00:00"}
+dg-publish: true
 ---
-
 - [[content/011/PX153 - mathematics for physicists/term 2/PX153 - J - fourier series/PX153 - J1 - introduction#^04a8fb\|Q]] : given a function, $f(x)$, how can $a_{0}$, $a_{n}$, and $b_{n}$ be calculated?
 	- orthogonality relations:
 		(1) 
-		$$\int_{-\pi}^{\pi} \sin nx \cos mx \,dx =0$$
+	
+$$\int_{-\pi}^{\pi} \sin nx \cos mx \,dx =0$$
 			where, $n,m \in \mathbb Z$
 		(2) 
-		$$\int_{-\pi}^{\pi} \sin nx \sin mx \,dx =\begin{cases}
+	
+$$\int_{-\pi}^{\pi} \sin nx \sin mx \,dx =\begin{cases}
 		0 & n\neq m \\
 		\pi & n=m
 		\end{cases}$$
 		(3) 
-		$$\int_{-\pi}^{\pi} \cos nx \cos mx \,dx =\begin{cases}
+	
+$$\int_{-\pi}^{\pi} \cos nx \cos mx \,dx =\begin{cases}
 		0 & n\neq m \\
 		\pi & n=m
 		\end{cases}$$
@@ -68,11 +70,13 @@ $$\begin{align*}
 	- because: 
 	$$\left[\frac{a_{0}x}{2} \frac{\sin(mx)}{m}\right]_{-\pi}^{\pi} =0$$
 		- from relation $(3):$ 
-		$$\int_{-\pi}^{\pi} \cos(nx) \cos(mx) \,dx = \begin{cases}
+	
+$$\int_{-\pi}^{\pi} \cos(nx) \cos(mx) \,dx = \begin{cases}
 	0 & n\neq m \\ \pi & n=m
 	\end{cases}$$
 		- from relation $(1):$ 
-		$$\int_{-\pi}^{\pi} \sin(nx) \cos(mx)\,dx = 0$$
+	
+$$\int_{-\pi}^{\pi} \sin(nx) \cos(mx)\,dx = 0$$
 $$\therefore a_{n}= \frac{1}{\pi}\int_{-\pi}^{\pi} f(x) \cos(mx)\,dx$$
 - finally, multiplying by $\sin(mx)$ and integrating over $x$: 
 $$\begin{align*}
@@ -83,9 +87,11 @@ $$\begin{align*}
 	- because: 
 	$$\left[\frac{a_{0}x}{2} \frac{\cos(mx)}{m}\right]_{-\pi}^{\pi}=0$$
 		- from relation $(1):$ 
-		$$\int_{-\pi}^{\pi} \cos(nx) \sin(mx) \,dx =0$$
+	
+$$\int_{-\pi}^{\pi} \cos(nx) \sin(mx) \,dx =0$$
 		- from relation $(2):$ 
-		$$\int_{-\pi}^{\pi} \sin(nx) \sin(mx)\,dx = \pi$$
+	
+$$\int_{-\pi}^{\pi} \sin(nx) \sin(mx)\,dx = \pi$$
 		for $m=n$
 $$\therefore b_{n} = \frac{1}{\pi} \int_{-\pi}^{\pi} f(x) \sin(nx)\,dx$$
 ## summary

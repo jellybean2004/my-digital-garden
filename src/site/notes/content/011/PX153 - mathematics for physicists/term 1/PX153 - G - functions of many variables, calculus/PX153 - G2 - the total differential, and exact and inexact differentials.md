@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-g-functions-of-many-variables-calculus/px-153-g2-the-total-differential-and-exact-and-inexact-differentials/","created":"2024-10-01T18:27:09.211+01:00","updated":"2024-11-25T15:40:29.960+00:00"}
+dg-publish: true
 ---
-
 - if we think of a 3D plot of $f(x,y)$, it is clear that the gradient changes depending on the direction
 - we define the *total differential* as: 
 $$df = \frac{\partial f}{\partial x}dx + \frac{\partial f}{\partial y}dy$$

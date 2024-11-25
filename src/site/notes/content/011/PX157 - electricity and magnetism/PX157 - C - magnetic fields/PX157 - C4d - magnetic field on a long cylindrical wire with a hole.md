@@ -12,11 +12,17 @@ $$\begin{align*}
 		\hat\phi_{2} &= \frac{R}{R_{2}}\,\hat\phi - \frac{R_{0}}{R_{2}}(\sin(\phi-\phi_{0})\hat R + \cos(\phi-\phi_{0})\,\hat\phi)
 \end{align*}$$
 - **region 1:**
-$$\vec B = \frac{\mu_{0}}{2\pi} \left[I \frac{R}{a^{2}}\hat\phi - I \frac{R_{2}}{b^{2}}\hat\phi_{2}\right]$$
+$$
+\vec B = \frac{\mu_{0}}{2\pi} \left[I \frac{R}{a^{2}}\hat\phi - I \frac{R_{2}}{b^{2}}\hat\phi_{2}\right]
+$$
 - **region 2:**
-$$\vec B = \frac{\mu_{0}}{2\pi} \left[I \frac{R}{a^{2}}\hat\phi - \frac{I}{R_{2}}\hat\phi_{2}\right]$$
+$$
+\vec B = \frac{\mu_{0}}{2\pi} \left[I \frac{R}{a^{2}}\hat\phi - \frac{I}{R_{2}}\hat\phi_{2}\right]
+$$
 - **region 3:**
-$$\vec B = \frac{\mu_{0}}{2\pi} \left[\frac{I}{R}\hat\phi - \frac{I}{R_{2}}\hat\phi_{2}\right]$$
+$$
+\vec B = \frac{\mu_{0}}{2\pi} \left[\frac{I}{R}\hat\phi - \frac{I}{R_{2}}\hat\phi_{2}\right]
+$$
 
 - in typed notes:
 ![Pasted image 20240422162900.png](/img/user/pics/Pasted%20image%2020240422162900.png)
