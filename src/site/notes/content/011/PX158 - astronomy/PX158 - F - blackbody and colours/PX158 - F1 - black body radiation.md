@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-f-blackbody-and-colours/px-158-f1-black-body-radiation/","created":"2024-10-01T18:50:58.178+01:00","updated":"2024-11-24T19:08:56.112+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-f-blackbody-and-colours/px-158-f1-black-body-radiation/","created":"2024-10-01T18:50:58.178+01:00","updated":"2024-11-25T01:06:34.720+00:00"}
 ---
 
 ## planck's law
@@ -8,7 +8,7 @@
 - for a black body, the wavelength, $\lambda$, of the emitted radiation can be specified
 - in 1901, max planck found a function and model that accurately gave the spectrum of  black body.
 - power per area per $\lambda:$ 
-$$B_\lambda(T) = \frac{2\pi hc^{2}}{\lambda^{5}(e^{\frac{hc}{k_{B}T\lambda}}-1)}$$ **nimp**
+$$B_\lambda(T) = \frac{2\pi hc^{2}}{\lambda^{5}\left(\exp\left(\frac{hc}{k_{B}T\lambda}\right)-1\right)}$$ **nimp**
 ![Pasted image 20240131122028.png](/img/user/pics/Pasted%20image%2020240131122028.png)
 - "rayleigh-jeans tail" can be obtained from classical physics
 - smooth curves
