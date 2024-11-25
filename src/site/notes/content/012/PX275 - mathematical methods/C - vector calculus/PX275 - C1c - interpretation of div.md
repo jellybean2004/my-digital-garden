@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/c-vector-calculus/px-275-c1c-interpretation-of-div/","created":"2024-10-28T12:53:40.068+00:00","updated":"2024-11-24T15:35:10.537+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/c-vector-calculus/px-275-c1c-interpretation-of-div/","created":"2024-10-28T12:53:40.068+00:00","updated":"2024-11-25T12:32:00.910+00:00"}
 ---
 
 - consider the electric field due to a charge
@@ -15,5 +15,7 @@ $$\vec\nabla\cdot \vec E = \frac{1}{r^{2}}\frac{\partial }{\partial r} \left(r^{
 - for the sphere, the total flux is not equal to zero, but for the disc, the flux is equal to zero as the flux coming in and going out cancel out
 $$\vec\nabla\cdot \vec E = \frac{\sigma}{\epsilon_{0}}$$
 	where, $\sigma =$  charge density, $\epsilon_{0}=$ permittivity of free space
-- if there is no enclosed charge: $$\vec\nabla\cdot\vec E =0$$
- - for a magnetic field, there are no magnetic monopoles: $$\vec\nabla\cdot\vec B =0$$
+- if there is no enclosed charge: 
+$$\vec\nabla\cdot\vec E =0$$
+ - for a magnetic field, there are no magnetic monopoles: 
+ $$\vec\nabla\cdot\vec B =0$$
