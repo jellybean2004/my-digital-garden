@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e2b-dirac-delta/","created":"2024-11-25T12:41:02.537+00:00","updated":"2024-11-25T13:51:18.063+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e2b-dirac-delta/","created":"2024-11-25T12:41:02.537+00:00","updated":"2024-11-25T14:39:18.464+00:00"}
 ---
 
 - considering a sphere
@@ -23,12 +23,12 @@ $$\begin{align*}
 ## the dirac delta
 - in order to define $\vec\nabla\cdot\vec E$ across all space including $r=0:$
 $$\vec\nabla\cdot\vec E = \frac{Q}{\epsilon_{0}} \delta(r)$$
-	$\delta(r)$ is the **dirac delta**
+	where, $\delta(r)$ is the **dirac delta**
 - in 3D, it is written as $\delta^{3}(r)$
 ![Pasted image 20241125122420.png](/img/user/pics/Pasted%20image%2020241125122420.png)
 - the function is a distribution of infinite height and zero width
 $$\int_{-x_{1}}^{x_{2}} \delta(x) \,dx = 1$$
-from the divergence , if $Q$ is within a volume, $V$, then:
+- from the divergence , if $Q$ is within a volume, $V$, then:
 $$\iiint_{V} \frac{Q}{\epsilon_{0}} \delta(\vec r) \, dV = \frac{Q}{\epsilon_{0}} \iint_{V}\delta(\vec r) \, dV = \frac{Q}{\epsilon_{0}}$$
 - more generally, if the charge, $Q$, is at a position $\vec a$, then define: 
 $$\delta (\overrightarrow{r-a}) = 0, \;\forall r\neq 0$$
