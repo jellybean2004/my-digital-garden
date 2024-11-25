@@ -1,13 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/content/index/","tags":["gardenEntry"],"created":"2024-10-01T18:27:10.371+01:00","updated":"2024-11-25T00:25:31.323+00:00"}
+{"dg-publish":true,"permalink":"/content/index/","tags":["gardenEntry"],"created":"2024-10-01T18:27:10.371+01:00","updated":"2024-11-25T01:41:23.125+00:00"}
 ---
 
 ## hello world!
-welcome to my digital garden. this is a collection of my university notes.
-## years
-### [[content/011/011 year 1\|011 year 1]]
-coming soon...
 
+- welcome to my digital garden. this is a collection of my university notes.
+
+- you may occasionally find some broken latex codes. if you do, please help me out by letting me know. 
+
+- contact me: 
+	- **discord**: @jellybean2004
+	- **email**: [sujayashr18@gmail.com](mailto:sujayashr18@gmail.com)
+	- **linkedin**: [sujaya_shr](https://www.linkedin.com/in/sujayashr/)
+
+## yearly notes
+### [[content/011/011 year 1\|011 year 1]]
 [[content/011/PX153 - mathematics for physicists/PX153 - 0 - mathematics for physicists\|PX153 - 0 - mathematics for physicists]]
 [[content/011/PX154 - physics foundations/PX154 - 0 - physics foundations\|PX154 - 0 - physics foundations]]
 [[content/011/PX155 - classical mechanics and special reltivity/PX155 - 0 - classical mechanics and special relativity\|PX155 - 0 - classical mechanics and special relativity]]
@@ -22,3 +29,5 @@ coming soon...
 [[content/012/PX282 - stars and the solar system/PX282 - 0 - stars and the solar system\|PX282 - 0 - stars and the solar system]]
 [[content/012/PX284 - statistical mechanics/PX284 - 0 - statistical mechanics\|PX284 - 0 - statistical mechanics]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/PX285 - 0 - hamiltonian mechanics\|PX285 - 0 - hamiltonian mechanics]]
+### [[content/013/013 Year 3\|013 Year 3]]
+coming soon...

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-j-particle-decays-and-relativistic-kinematics/px-156-j4-two-body-collisions/","created":"2024-10-01T18:27:10.011+01:00","updated":"2024-11-24T19:04:09.480+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-j-particle-decays-and-relativistic-kinematics/px-156-j4-two-body-collisions/","created":"2024-10-01T18:27:10.011+01:00","updated":"2024-11-25T01:17:29.206+00:00"}
 ---
 
 - three common reference frames:
@@ -24,7 +24,8 @@ $$\begin{align*}
 $$s \simeq 2E_{1}E_{2} -2E_{1}E_{2}\cos(\pi-\theta)$$
 - in $COM$ frame: $\theta=0:$ 
 $$s = 4 E_{1}E_{2}$$
-- in the massless limit: $E_{1}=E_{2}=E$ in $COM$ frame: $$\begin{align*}
+- in the massless limit: $E_{1}=E_{2}=E$ in $COM$ frame: 
+$$\begin{align*}
 	\therefore s &= 4E^{2} \\
 	\sqrt{s} &= 2E
 \end{align*}$$

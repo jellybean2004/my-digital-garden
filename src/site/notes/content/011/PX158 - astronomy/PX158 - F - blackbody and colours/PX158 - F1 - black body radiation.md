@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-f-blackbody-and-colours/px-158-f1-black-body-radiation/","created":"2024-10-01T18:50:58.178+01:00","updated":"2024-11-25T01:13:37.032+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-f-blackbody-and-colours/px-158-f1-black-body-radiation/","created":"2024-10-01T18:50:58.178+01:00","updated":"2024-11-25T01:23:06.679+00:00"}
 ---
 
 ## planck's law
@@ -27,7 +27,8 @@ $$\lambda_{max}T = 2.9\times10^{-3}m\,K$$
 	$$\lambda_{max} = \frac{2.9\times10^{-3}}{290} = 10^{-5}\,m = 1\,\mu m$$
 ## stefan-boltzmann law
 - total power emitted per unit area ($J$) is given by: 
-$$J = \sigma\,T^{4}$$ where, $\sigma=5.67\times10^{-8}\,Wm^{-2}K^{-4}:$ stefan-boltzmann constant
+$$J = \sigma\,T^{4}$$ 
+	where, $\sigma=5.67\times10^{-8}\,Wm^{-2}K^{-4}:$ stefan-boltzmann constant
 
 - eg: what is the power emitted by a person?
 	- $T=310\,K$, $S.A.=2\,m^{2}$

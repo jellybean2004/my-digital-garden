@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-285-c3-the-canonical-ensemble/","created":"2024-11-15T10:23:54.009+00:00","updated":"2024-11-24T16:08:29.221+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-285-c3-the-canonical-ensemble/","created":"2024-11-15T10:23:54.009+00:00","updated":"2024-11-25T01:24:35.863+00:00"}
 ---
 
 - considering a system with an energy, $E_{i}$, connected with an extremely large heat bath (reservoir) such that, $E_{bath} = E - E_{i}$, $\Omega_{bath}(E-E{i})$, and $T$
@@ -18,7 +18,7 @@ $$\sum\limits_{i} P(E_{i}) = \frac{1}{Z}\sum\limits_{i} {e^{-\beta E_{i}}} = 1$$
 - the boltzmann distribution: 
 $$\boxed{P(E_{i}) = \frac{e^{-\beta E_{i}}}{Z}}$$
 	where, $Z$ is the **partition function** such that:  
-	$$\boxed{ Z = \sum\limits_{i}e^{-\beta E_{i}}}$$
+$$\boxed{ Z = \sum\limits_{i}e^{-\beta E_{i}}}$$
 ## example: two state system
 - the expected energy: 
 $$\begin{align*}
