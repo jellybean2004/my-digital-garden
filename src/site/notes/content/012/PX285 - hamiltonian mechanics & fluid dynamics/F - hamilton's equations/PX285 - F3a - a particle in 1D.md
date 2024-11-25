@@ -3,7 +3,9 @@ dg-publish: true
 ---
 - considering a particle moving freely in $d=1$ dimension
 - the hamiltonian: 
-$$H = T + V = \frac{1}{2m}p^{2} + V(x)$$
+$$
+H = T + V = \frac{1}{2m}p^{2} + V(x)
+$$
 - using hamilton's equations: 
 $$\begin{align*}
 	\dot x = \frac{\partial H}{\partial p} &= \frac{p}{m} \\
@@ -25,8 +27,14 @@ $$\begin{align*}
 ![Pasted image 20241108154139.png](/img/user/pics/Pasted%20image%2020241108154139.png)
 ### flow on the phase plane
 - more mathematically: 
-$$\frac{d}{dt}\dot x = \frac{d}{dt} \left(\frac{p}{m}\right) \implies \ddot x = \frac{1}{m}\dot p = -\frac{k}{m}x$$
+$$
+\frac{d}{dt}\dot x = \frac{d}{dt} \left(\frac{p}{m}\right) \implies \ddot x = \frac{1}{m}\dot p = -\frac{k}{m}x
+$$
 - this is the equation of a simple harmonic motion with $\omega^{2} = \frac{k}{m}$, and solutions: 
-$$x(t) = A \cos(\omega t + \phi)$$
+$$
+x(t) = A \cos(\omega t + \phi)
+$$
 - similarly, 
-$$\ddot p = -k\dot x = - \frac{k}{m}p \implies p (t) = B\sin(\omega t + \phi)$$
+$$
+\ddot p = -k\dot x = - \frac{k}{m}p \implies p (t) = B\sin(\omega t + \phi)
+$$

@@ -2,17 +2,12 @@
 dg-publish: true
 ---
 - power in circuits with inductors and capacitors
-- typically, $I$ and $V$ are $\pm90\degree$ out of phase:
-$$\begin{align*}
+- typically, $I$ and $V$ are $\pm90\degree$ out of phase: $$\begin{align*}
 		V(t) &= V_{0}\cos(\omega t)\\
 		I(t) &= I_{0}\sin(\omega t)
 	\end{align*}$$
-- instantaneous power:
-$$
-P(t) = V(t)I(t) = V_{0}I_{0}\cos(\omega t)\sin(\omega t)
-$$
-- average power over a cycle:
-$$\begin{align*}
+- instantaneous power: $$P(t) = V(t)I(t) = V_{0}I_{0}\cos(\omega t)\sin(\omega t)$$
+- average power over a cycle: $$\begin{align*}
 		\langle{P}\rangle &= \frac{1}{T}\int_{0}^{T} P(t)\,dt \\
 		&= \frac{1}{T} \int_{0}^{T} V_{0}I_{0}\cos(\omega t)\sin(\omega t)\, dt \\
 		&= \frac{V_{0}I_{0}}{2T} \int_{0}^{T} \sin(2\omega t)\, dt \\
@@ -21,17 +16,12 @@ $$\begin{align*}
 - no electrical energy dissipated over a cycle in pure inductors and capacitors
 
 # circuits with a resistive load
-- instantaneous power:
-$$
-P(t) = RI^{2}(t) = RI_{0}^{2}\cos^{2}(\omega t)
-$$
-- average power:
-$$\begin{align*}
+- instantaneous power: $$P(t) = RI^{2}(t) = RI_{0}^{2}\cos^{2}(\omega t)$$
+- average power: $$\begin{align*}
 		\langle{P} \rangle &= \frac{1}{T} \int_{0}^{T} RI_{0}^{2} \left(\frac{1}{2}+ \frac{1}{2}\cos(2\omega t)\right)\,dt \\
 		&= \frac{RI_{0}^{2}}{2}
 	\end{align*}$$
-- *root-mean-square* current and potential:
-$$\begin{align*}
+- *root-mean-square* current and potential: $$\begin{align*}
 		I_{rms}&= \frac{I_{0}}{\sqrt{2}} \\
 		V_{rms}&= \frac{V_{0}}{\sqrt{2}} \\
 		\langle{P}\rangle &= R I^{2}_{rms} \\

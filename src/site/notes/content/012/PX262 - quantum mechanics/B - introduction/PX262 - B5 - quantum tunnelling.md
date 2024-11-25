@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b5-quantum-tunnelling/","created":"2024-10-08T11:44:47.762+01:00","updated":"2024-11-25T00:53:45.409+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241109112731.png](/img/user/pics/Pasted%20image%2020241109112731.png)
 - considering a particle travelling from $x= -\infty$, with an energy, $E$, that encounters a potential barrier: 
-  $$V= \begin{cases} V_{0}& for\,x\in[0,b] \\ 0 & elsewhere \end{cases}$$
+$$
+V= \begin{cases} V_{0}& for\,x\in[0,b] \\ 0 & elsewhere \end{cases}
+$$
 - when $E<V_{0}$, in quantum mechanics, particle may get through
 - considering the wavefunctions in the regions:
 $$\begin{align*}
@@ -19,5 +20,7 @@ $$\begin{gather*}
 	\phi_{I}'(a) = \phi_{II}'(a) & \phi_{II}'(b) = \phi_{III}'(b) \\
 \end{gather*}$$
 - using these conditions, the probability of the particle passing through the barrier is: 
-  $$T = \frac{|F|^{2}}{|A|^{2}} = \frac{16E(V_{0}-E)}{V_{o}^{2}}e^{-2\kappa b}$$
+$$
+T = \frac{|F|^{2}}{|A|^{2}} = \frac{16E(V_{0}-E)}{V_{o}^{2}}e^{-2\kappa b}
+$$
 - phenomena like $\alpha-$decay, nuclear fission can be explained only using quantum tunnelling

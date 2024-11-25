@@ -4,16 +4,24 @@ dg-publish: true
 ## general solution
 - conder mass on a spring on a surface to give a friction force proportional to the speed of the mass
 - the equation of motion becomes: 
-$$m \frac{d^{2}x}{dt^{2}}=-kx-\gamma \frac{dx}{dt}$$
+$$
+m \frac{d^{2}x}{dt^{2}}=-kx-\gamma \frac{dx}{dt}
+$$
 - rearrange: 
-$$\frac{d^{2}x}{dt^{2}}+ \frac{\gamma}{m} \frac{dx}{dt}+ \frac{k}{m}x=0$$
+$$
+\frac{d^{2}x}{dt^{2}}+ \frac{\gamma}{m} \frac{dx}{dt}+ \frac{k}{m}x=0
+$$
 - rewrite: 
-$$ \frac{d^{2}x}{dt^{2}} + 2\alpha \frac{dx}{dt} + \omega_{0}^{2}x =0$$
+$$
+\frac{d^{2}x}{dt^{2}} + 2\alpha \frac{dx}{dt} + \omega_{0}^{2}x =0
+$$
 		where, $\alpha = \frac{\gamma}{2m}$ , $\omega_{0}= \sqrt{\frac{k}{m}}$ 
 { #efbd92}
 
 - try $x(t)=Ae^{\lambda t}$: 
-$$\lambda^{2}+ 2\alpha \lambda + \omega_{0}^{2}=0$$
+$$
+\lambda^{2}+ 2\alpha \lambda + \omega_{0}^{2}=0
+$$
 	- quadratic equation, two solutions: 
 	$$\lambda_{1}=-\alpha+\sqrt{\alpha^{2}-\omega_{0}^{2}} \, ,\, and \, \, \lambda_{2}=-\alpha-\sqrt{\alpha^{2}-\omega_{0}^{2}}$$
 	- the general solution: 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/d-stellar-structure-and-interiors/d-solar-structure-and-interiors/","created":"2024-11-05T10:07:04.927+00:00","updated":"2024-11-24T15:54:30.614+00:00"}
+dg-publish: true
 ---
-
 [[content/012/PX282 - stars and the solar system/D - stellar structure and interiors/PX282 - D1 - stellar interiors\|PX282 - D1 - stellar interiors]]
 [[content/012/PX282 - stars and the solar system/D - stellar structure and interiors/PX282 - D2 - energy generation and transport\|PX282 - D2 - energy generation and transport]]
 [[content/012/PX282 - stars and the solar system/D - stellar structure and interiors/PX282 - D2b - radiation\|PX282 - D2b - radiation]]

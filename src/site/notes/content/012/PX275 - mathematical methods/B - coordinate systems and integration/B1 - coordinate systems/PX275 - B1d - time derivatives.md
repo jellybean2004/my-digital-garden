@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b1-coordinate-systems/px-275-b1d-time-derivatives/","created":"2024-10-15T15:37:49.159+01:00","updated":"2024-11-24T15:31:36.061+00:00"}
+dg-publish: true
 ---
-
 - in cartesians: $\vec r = r_{x}\hat i + r_{y}\hat j + r_{z}\hat k$
 - the velocity: 
 $$\begin{align*}
@@ -10,7 +9,9 @@ $$\begin{align*}
 \end{align*}$$
 - in cylindrical polars: $\vec r = \rho \hat e_\rho(\phi) + z \hat e_{z}$
 - the velocity: 
-$$\vec v = \left(\frac{d\rho}{dt}\hat e_{\rho} + \rho \frac{d\hat{e}_{\rho}}{dt}\right) + \left(\frac{dz}{dt}\hat e_{z} + z \frac{d\hat{e}_{\rho}}{dt} \right)$$
+$$
+\vec v = \left(\frac{d\rho}{dt}\hat e_{\rho} + \rho \frac{d\hat{e}_{\rho}}{dt}\right) + \left(\frac{dz}{dt}\hat e_{z} + z \frac{d\hat{e}_{\rho}}{dt} \right)
+$$
 - $\frac{d\hat{e}_{\rho}}{dt}\neq 0$, so using: 
 $$\begin{align*}
 	\hat e_{\rho}&= \cos\phi \hat i + \sin\phi \hat j \\
@@ -19,4 +20,6 @@ $$\begin{align*}
 	\implies \frac{d\hat{e}_{\rho}(\phi)}{dt} &= \frac{d\hat{e}_{\rho}}{d\phi} \frac{d\phi}{dt} \\
 	&= \frac{d\phi}{dt}\hat e_{\phi}
 \end{align*}$$
-$$\therefore\vec v = \frac{d\rho}{dt}\hat e_{\rho} + \rho \frac{d\phi}{dt} \hat{e}_{\phi} + \frac{dz}{dt}\hat e_{z}$$
+$$
+\therefore\vec v = \frac{d\rho}{dt}\hat e_{\rho} + \rho \frac{d\phi}{dt} \hat{e}_{\phi} + \frac{dz}{dt}\hat e_{z}
+$$

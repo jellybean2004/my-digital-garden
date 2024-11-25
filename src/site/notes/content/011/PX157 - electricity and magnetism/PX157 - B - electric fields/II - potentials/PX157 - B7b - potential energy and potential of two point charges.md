@@ -13,13 +13,7 @@ $$\begin{align*}
 	W_{a\to b} &= U_{a} - U_{b} \\
 	\implies U_{a} &= \frac{q_{1}q_{2}}{4\pi\epsilon_{0}r_{a}}
 \end{align*}$$
-- defining that potential energy tends to zero as $r\to\infty: \lim_{r_{b}\to\infty} U_{12}(b)=0$:
-$$
-\implies U_{12}= \frac{q_{1}q_{2}}{4\pi\epsilon_{0}r}
-$$
+- defining that potential energy tends to zero as $r\to\infty: \lim_{r_{b}\to\infty} U_{12}(b)=0$: $$ \implies U_{12}= \frac{q_{1}q_{2}}{4\pi\epsilon_{0}r}$$
 - **note:** $U_{12}= U_{21}$, because $\vec F_{12}=-\vec F_{21}$, and $d\vec l_{12}= -d\vec l_{21}$
 
-- if there are $N$ charges interacting with a charge, $q_{0}$, total potential energy:
-$$
-U_{0} = \sum\limits_{i=1}^{N} U_{i0} = \sum\limits_{i=0}^{N} \frac{q_{i}q_{0}}{4\pi\epsilon_{0}|\vec r_{0}-\vec r_{i}|}
-$$
+- if there are $N$ charges interacting with a charge, $q_{0}$, total potential energy: $$U_{0} = \sum\limits_{i=1}^{N} U_{i0} = \sum\limits_{i=0}^{N} \frac{q_{i}q_{0}}{4\pi\epsilon_{0}|\vec r_{0}-\vec r_{i}|}$$

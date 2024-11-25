@@ -3,7 +3,9 @@ dg-publish: true
 ---
 ## formula and convention
 - *Clausius convention*:
-$$\Delta U = Q - W$$
+$$
+\Delta U = Q - W
+$$
 		where,
 			$\Delta U =$ change in internal energy of the system
 			$Q =$ heat input into the system
@@ -18,7 +20,9 @@ $$\Delta U = Q - W$$
 			- $W<0:$ work done *on* the system
 
 - *international physical chemistry convention*: 
-$$\Delta U = Q + W$$
+$$
+\Delta U = Q + W
+$$
 		here, $W>0:$ work done *on* the system
 	- opposite sign convention
 ## internal energy (U)

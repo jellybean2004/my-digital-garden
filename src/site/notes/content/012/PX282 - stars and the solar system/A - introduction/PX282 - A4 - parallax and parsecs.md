@@ -6,9 +6,13 @@ dg-publish: true
 
 ![Pasted image 20241003102634.png](/img/user/pics/Pasted%20image%2020241003102634.png)
 - from the above diagram: 
-$$\sin{p}=\frac{r}{d}$$
+$$
+\sin{p}=\frac{r}{d}
+$$
 - if $r=1\,AU$, and $p<<1:$ 
-$$p \approx \frac{r}{d}$$
+$$
+p \approx \frac{r}{d}
+$$
 - units: $[\text{arcseconds}]$ or $[^"]$
 - $1^{"}= \left(\frac{1}{60\times60}\right)\degree$
 ## parsec

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c-stellar-atmospheres/","created":"2024-10-17T11:52:26.700+01:00","updated":"2024-11-24T15:54:26.524+00:00"}
+dg-publish: true
 ---
-
 ## the boltzmann-saha equation
 [[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1 - boltzmann and saha equations/PX282 - C1 - the physics of line strength\|PX282 - C1 - the physics of line strength]]
 [[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1 - boltzmann and saha equations/PX282 - C2a - the boltzmann equation\|PX282 - C2a - the boltzmann equation]]

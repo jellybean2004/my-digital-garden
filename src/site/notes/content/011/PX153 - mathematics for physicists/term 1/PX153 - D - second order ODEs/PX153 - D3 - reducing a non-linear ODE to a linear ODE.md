@@ -8,8 +8,6 @@ dg-publish: true
 - so the acceleration is $\frac{d^{2}s}{dt^{2}} = l \frac{d^{2}\theta}{dt^{2}}$
 - this must be equal to the component of the gravity tangential to the trajectory $-mg\sin\theta$
 - giving: $ml \frac{d^{2}\theta}{dt^{2}} = -mg\sin\theta$
-	
-$$\frac{d^{2}\theta}{dt^{2}} = - \frac{g}{l}\sin\theta$$
+		$$\frac{d^{2}\theta}{dt^{2}} = - \frac{g}{l}\sin\theta$$
 	- this is non-linear and very tough to solve
-- to simplify the differential, we make a small angle approximation, such that $\sin\theta \approx \theta$:
-$$\frac{d^{2}\theta}{dt^{2}} \simeq - \frac{g}{l}\theta$$
+- to simplify the differential, we make a small angle approximation, such that $\sin\theta \approx \theta$: $$\frac{d^{2}\theta}{dt^{2}} \simeq - \frac{g}{l}\theta$$

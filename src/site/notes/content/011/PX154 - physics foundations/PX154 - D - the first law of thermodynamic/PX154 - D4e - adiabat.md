@@ -3,11 +3,19 @@ dg-publish: true
 ---
 ## adiabatic expansion of an ideal gas
 ![Pasted image 20240225141502.png](/img/user/pics/Pasted%20image%2020240225141502.png)
-$$Q=0$$
-$$dU = -dW = -pdV$$
-$$nC_{V}dT = \frac{-nRT}{V}dV$$
+$$
+Q=0
+$$
+$$
+dU = -dW = -pdV
+$$
+$$
+nC_{V}dT = \frac{-nRT}{V}dV
+$$
 - rearrange: 
-$$\frac{dT}{T}= - \frac{R}{C_{V}} \frac{dV}{V}$$
+$$
+\frac{dT}{T}= - \frac{R}{C_{V}} \frac{dV}{V}
+$$
 	- note: for $\frac{R}{C_{V}}= \frac{C_{P}-C_{V}}{C_{V}} = \gamma -1$
 		$\frac{dT}{T} = - (\gamma - 1) \frac{dV}{V}$
 		$\frac{dT}{T} + (\gamma - 1) \frac{dV}{V} = 0$
@@ -26,8 +34,7 @@ $$\frac{dT}{T}= - \frac{R}{C_{V}} \frac{dV}{V}$$
 - take $dW=dU$
 		$W = - \int nC_{V}dT$  , here, ($C_{V}=\frac{1}{n} \frac{dU}{dT}$)
 			$= -n C_{V}(T_{2}-T_{1})$ 
-	
-$$\therefore W = -n C_{V} \Delta T$$
+		$$\therefore W = -n C_{V} \Delta T$$
 	- can also be written as: 
 	$$W= - \frac{1}{\gamma-1}(p_{2}V_{2}-p_{1}V_{1})$$
 - note: ![Pasted image 20231102162532.png](/img/user/pics/Pasted%20image%2020231102162532.png)

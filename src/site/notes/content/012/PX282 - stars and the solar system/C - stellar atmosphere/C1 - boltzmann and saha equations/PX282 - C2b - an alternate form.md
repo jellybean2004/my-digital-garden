@@ -1,17 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/c-stellar-atmosphere/c1-boltzmann-and-saha-equations/px-282-c2b-an-alternate-form/","created":"2024-10-17T11:48:52.193+01:00","updated":"2024-11-24T15:47:57.290+00:00"}
+dg-publish: true
 ---
-
 - [[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1 - boltzmann and saha equations/PX282 - C2a - the boltzmann equation\|the boltzmann equation]] can be written in an alternate form to get $\frac{N_{A}}{N}$ 
 - $N$ is the total number of electrons: 
-$$N = \sum\limits_{m=1}^{\infty}N_{m}$$
+$$
+N = \sum\limits_{m=1}^{\infty}N_{m}
+$$
 - using the boltzmann equation: 
 $$\begin{gather}
 	\frac{N_{m}}{N_{1}} = \frac{g_{m}}{g_{1}}\exp\left(- \frac{E_{m}-E_{1}}{k_{B}T}\right) \\
 	\implies N = \frac{N_{1}}{g_{1}} \sum\limits_{m=1}^{\infty} g_{m}\exp\left(- \frac{E_{m}-E_{1}}{k_{B}T}\right)
 \end{gather}$$
 - defining the *partition function*: 
-$$U(T) = \sum\limits_{m=1}^{\infty} g_{m}\exp\left(- \frac{E_{m}-E_{1}}{k_{B}T}\right)$$
+$$
+U(T) = \sum\limits_{m=1}^{\infty} g_{m}\exp\left(- \frac{E_{m}-E_{1}}{k_{B}T}\right)
+$$
 - therefore, the fraction of electrons in state 1 is: 
 $$\begin{gather}
 	\implies \frac{N_{1}}{N}= \frac{g_{1}}{U(T)} \\
@@ -29,10 +32,14 @@ $$\begin{gather}
 ## example
 - calculating the temperature to get $N_{2}=N_{1}$
 - using the boltzmann equation: 
-$$\frac{N_{2}}{N_{1}} = \frac{g_{2}}{g_{1}} \exp\left(- \frac{E_{2}-E_{1}}{k_{B}T}\right) =1$$
+$$
+\frac{N_{2}}{N_{1}} = \frac{g_{2}}{g_{1}} \exp\left(- \frac{E_{2}-E_{1}}{k_{B}T}\right) =1
+$$
 - here, $g_{2}=8$ and $g_{1}=2$, and $E_{2}=-3.4\,eV$ and $E_{1}=-13.6\,eV$
 - rearranging the equation: 
-$$T = \frac{E_{2}-E_{1}}{k_{B}\log(\frac{g_{2}}{g_{1}})} \approx 85300\,K$$
+$$
+T = \frac{E_{2}-E_{1}}{k_{B}\log(\frac{g_{2}}{g_{1}})} \approx 85300\,K
+$$
 - **balmer lines** require lots of electrons in the $n=2$ state, and they get weaker for $T>\sim9000\,K$ due to ionization
 - there exists a 'de-ionized' form of hydrogen, $H^{-}$, with two electrons, which is useful in case of the sun
 - $He\,I: 2p\,2n\,2e$ ; $He\,II: 2p\,2n\,1e$

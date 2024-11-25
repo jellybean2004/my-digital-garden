@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d3-green-s-theorem/px-275-d3d-area-of-an-ellipse/","created":"2024-11-14T12:06:28.768+00:00","updated":"2024-11-24T15:39:09.768+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241114121218.png](/img/user/pics/Pasted%20image%2020241114121218.png)
 - an ellipse is defined by: 
 $$\begin{align*}

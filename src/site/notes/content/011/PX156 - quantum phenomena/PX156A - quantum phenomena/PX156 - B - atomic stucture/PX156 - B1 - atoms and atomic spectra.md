@@ -2,7 +2,9 @@
 dg-publish: true
 ---
 - to determine the wavelength of light emitted/absorbed after an electron moves between energy levels, rydberg formula:
-$$\frac{1}{\lambda}= Rz^{2} \left(\frac{1}{m^{2}} + \frac{1}{n^{2}}\right)$$
+$$
+\frac{1}{\lambda}= Rz^{2} \left(\frac{1}{m^{2}} + \frac{1}{n^{2}}\right)
+$$
 	where, $m, n \in \mathbb Z$ , $m<n$ ; $R=1.097\times10^{7}\, m^{-1}$; ${} z=$ atomic number
 
 - for hydrogen:
@@ -14,9 +16,13 @@ $$\frac{1}{\lambda}= Rz^{2} \left(\frac{1}{m^{2}} + \frac{1}{n^{2}}\right)$$
 	- ${} m=3:$ paschen (IR)
 
 - for an emission: 
-$$hf = \frac{hc}{\lambda} = E_{i}-E_{f}$$
+$$
+hf = \frac{hc}{\lambda} = E_{i}-E_{f}
+$$
 - in $1913$, niels bohr postulated a model that only a discrete set of possible states with energies is allowed, ie: $E_{n,\;}n\in \mathbb Z$ 
-$$\frac{1}{\lambda} = \frac{E_{i}}{hc}- \frac{E_{f}}{hc}$$
+$$
+\frac{1}{\lambda} = \frac{E_{i}}{hc}- \frac{E_{f}}{hc}
+$$
 - comparing with the rydberg formula: 
 	- $\frac{E_{i}}{hc} = - \frac{R}{m^{2}} \implies E_{i} = Rhc/m^{2}$
 	- $\frac{E_{f}}{hc} = - \frac{R}{n^{2}} \implies E_{f} = - Rhc/n^{2}$

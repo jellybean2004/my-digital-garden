@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-e-the-second-law-of-thermodynamics/px-154-e6b-quantitative-definition-of-entropy/","created":"2024-10-01T18:50:55.726+01:00","updated":"2024-11-24T19:21:46.672+00:00"}
+dg-publish: true
 ---
-
 - a small change in entropy, $dS$, is given by a small amount of heat transfer, $dQ$, at a temperature, $T$: 
-$$dS = \frac{dQ}{T}$$ [YF eqn 20.1]
+$$
+dS = \frac{dQ}{T}
+$$
 - if a small amount of heat, $dQ$, is put into a system: 
-$$dQ = dU + dW$$
+$$
+dQ = dU + dW
+$$
 	- $dU\to$ increase in internal energy $\implies$ increases randomness, and hence entropy.
 	- $dW=pdV \to$ increase volume, molecules have more space to move in, and hence entropy increases
 
@@ -41,9 +44,13 @@ $$\begin{align*}
 	\Delta S_{universe} &> 0
 \end{align*}$$
 - for all real processes: 
-$$\Delta S_{universe}>0$$
+$$
+\Delta S_{universe}>0
+$$
 - furthermore, for an isolated system: 
-$$\Delta S \geq 0$$
+$$
+\Delta S \geq 0
+$$
 - **comment**:
 	- in *[[content/011/PX154 - physics foundations/PX154 - E - the second law of thermodynamics/PX154 - E4 - the carnot cycle\|the carnot cycle]]*, the cooling must be adiabatic
 		- what about isochoric cooling?

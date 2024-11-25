@@ -1,14 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b4d-volumes-of-revolution/","created":"2024-10-24T12:33:54.392+01:00","updated":"2024-11-24T15:34:24.415+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241024123648.png](/img/user/pics/Pasted%20image%2020241024123648.png)
 - revolving the plane around the $x$-axis to obtain a solid, cylindrical volume
 - taking the area element, $dA$, and revolving it by an angle, $d\theta$, around the $x$-axis
 - the volume element: 
-$$dV = dA \,y\,d\theta = y\,d\theta\,dx\,dy$$
-$$ V = \int_{x=x_{1}}^{x_{2}} \int_{\theta=0}^{2\pi} d\theta \int_{y=0}^{f(x)}y\,dy\,dx = 2\pi \int_{x_{1}}^{x_{2}} \frac{(f(x))^{2}}{2}\,dx$$
-$$ \therefore V = \pi \int_{x_{1}}^{x_{2}}(f(x))^{2}\,dx$$
+$$
+dV = dA \,y\,d\theta = y\,d\theta\,dx\,dy
+$$
+$$
+V = \int_{x=x_{1}}^{x_{2}} \int_{\theta=0}^{2\pi} d\theta \int_{y=0}^{f(x)}y\,dy\,dx = 2\pi \int_{x_{1}}^{x_{2}} \frac{(f(x))^{2}}{2}\,dx
+$$
+$$
+\therefore V = \pi \int_{x_{1}}^{x_{2}}(f(x))^{2}\,dx
+$$
 ## example
 - taking the cone again
 ![Pasted image 20241024124418.png](/img/user/pics/Pasted%20image%2020241024124418.png)

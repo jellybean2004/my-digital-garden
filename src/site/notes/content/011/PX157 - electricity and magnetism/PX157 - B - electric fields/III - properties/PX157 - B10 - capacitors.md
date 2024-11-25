@@ -8,19 +8,10 @@ C = \frac{Q}{V}
 $$
 - units: $C\,V^{-1}$ or $farad\,(F)$
 ## parallel plate capacitor
-- electric field:
-$$
-\vec E = \vec E_{top} + \vec E_{bottom} = - \frac{\sigma}{\epsilon_{0}}\hat{z}
-$$
+- electric field: $$\vec E = \vec E_{top} + \vec E_{bottom} = - \frac{\sigma}{\epsilon_{0}}\hat{z}$$
 		where, $\sigma= \frac{Q}{A}$ : surface charge density
-- potential difference between the plates:
-$$
-V = E\, d = \frac{\sigma}{\epsilon_{0}}d = \frac{Qd}{\epsilon_{0}A}
-$$
-- for parallel plates:
-$$
-C = \frac{Q}{V} = \frac{\epsilon_{0}A}{d}
-$$
+- potential difference between the plates: $$V = E\, d = \frac{\sigma}{\epsilon_{0}}d = \frac{Qd}{\epsilon_{0}A}$$
+- for parallel plates: $$C = \frac{Q}{V} = \frac{\epsilon_{0}A}{d}$$
 ## cylindrical capacitor
 ![Pasted image 20240131101036.png](/img/user/pics/Pasted%20image%2020240131101036.png)
 $$\begin{align*}
@@ -44,20 +35,12 @@ $$
 - single-plate spherical capacitor: **van der graaf generator**
 ## capacitors in series
 ![Pasted image 20240131101121.png](/img/user/pics/Pasted%20image%2020240131101121.png)
-- conservation of charge: both capacitors have the same charge, $Q:$
-$$
-V_{1}= \frac{Q}{C_{1}}\;,\;V_{2}=\frac{Q}{C_{2}}
-$$
+- conservation of charge: both capacitors have the same charge, $Q:$ $$V_{1}= \frac{Q}{C_{1}}\;,\;V_{2}=\frac{Q}{C_{2}}$$
 $$
 \implies V = V_{1} + V_{2} = Q \left(\frac{1}{C_{1}} + \frac{1}{C_{2}}\right)
 $$
-- this is equivalent to a circuit with one capacitor, $C_{eq}$:
-$$
-\frac{1}{C_{eq}} = \frac{1}{C_{1}}+ \frac{1}{C_{2}}
-$$
-- assume both the capacitors have the same $A$ and $\epsilon_{0}:$
-$$\frac{1}{C_{eq}} = \frac{d_{1}}{\epsilon_{0}A} + \frac{d_{2}}{\epsilon_{0}A} = \frac{d_{1}+d_{2}}{\epsilon_{0}A}
-$$
+- this is equivalent to a circuit with one capacitor, $C_{eq}$: $$\frac{1}{C_{eq}} = \frac{1}{C_{1}}+ \frac{1}{C_{2}}$$
+- assume both the capacitors have the same $A$ and $\epsilon_{0}:$ $$\frac{1}{C_{eq}} = \frac{d_{1}}{\epsilon_{0}A} + \frac{d_{2}}{\epsilon_{0}A} = \frac{d_{1}+d_{2}}{\epsilon_{0}A} $$
 ## capacitors in parallel
 ![Pasted image 20240131101149.png](/img/user/pics/Pasted%20image%2020240131101149.png) 
 - both capacitors have the same potential drop
@@ -65,10 +48,7 @@ $$
 Q_{1} =C_{1}V \; ,\; Q_{2}=C_{2}V
 $$
 - total charge: $Q = Q_{1}+Q_{2} = (C_{1}+C_{2})V$
-- equivalent capacitor, $C_{eq}:$
-$$
-C_{eq} = C_{1}+C_{2}
-$$
+- equivalent capacitor, $C_{eq}:$ $$C_{eq} = C_{1}+C_{2}$$
 
 - eg: two capacitors have the same separation, $d$, and $\epsilon_0$
 	$$C_{eq} = \frac{\epsilon_{0}A_{1}}{d} + \frac{\epsilon_{0}A_{2}}{d} = \frac{\epsilon_{0}}{d}(A_{1}+A_{2})$$

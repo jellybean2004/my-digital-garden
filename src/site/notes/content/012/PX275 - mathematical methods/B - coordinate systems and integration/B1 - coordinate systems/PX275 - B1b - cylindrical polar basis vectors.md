@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b1-coordinate-systems/px-275-b1b-cylindrical-polar-basis-vectors/","created":"2024-10-15T15:02:31.175+01:00","updated":"2024-11-24T15:31:21.803+00:00"}
+dg-publish: true
 ---
-
 ![Pasted image 20241015150304.png](/img/user/pics/Pasted%20image%2020241015150304.png)
 - **note:** only $\vec e_{z}$ is always in the same direction, $\vec e_\rho$ and $\vec e_\phi$ change directions wrt the axes
 - it is only in cartesian coordinates that the basis vectors hold their positions for all points in space

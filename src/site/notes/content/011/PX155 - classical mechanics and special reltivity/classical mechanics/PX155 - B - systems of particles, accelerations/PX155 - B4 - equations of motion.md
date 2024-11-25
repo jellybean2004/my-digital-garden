@@ -6,24 +6,20 @@ dg-publish: true
 	$a= \frac{dv'}{dt'}$
 	$a\int_0^t dt'=\int_u^v dv'$
 
-	$\implies at=v-u$
-$$\implies v=u+at \; ...(1)$$
+	$\implies at=v-u$ $$\implies v=u+at \; ...(1)$$
 		$v= \frac{dx'}{dt'}$
 		$vdt'=dx'$
 		$\implies\int_{0}^{t} (u+at)dt'=\int_{0}^{s} dx'$
 		$\implies [ut'+ \frac{1}{2}at'^{2}]_0^t=s$ 
-	
-$$\implies s=ut+ \frac{1}{2}at^{2}\; ...(2)$$
+		$$\implies s=ut+ \frac{1}{2}at^{2}\; ...(2)$$
 	- from $(1)$: $t= \frac{v-u}{a}$ in $(2)$:
-		$s= u\frac{v-u}{a}+ \frac{1}{2}a \frac{(v+u)^2}{a^2}$
-$$2as = v^2-u^2\;...(3)$$
+		$s= u\frac{v-u}{a}+ \frac{1}{2}a \frac{(v+u)^2}{a^2}$ $$2as = v^2-u^2\;...(3)$$
 - eg: in the UK driving theory test, the breaking distance at $70mph$ is $75m$. what is the acceleration?
 		$1mile = 1600m$
 		$u=1600\times 70/3600=31ms^{-1}$
 	- $a= \frac{v^2-u^2}{2s}=-6.4ms^{-2}$
 ## time dependent acceleration
-- suppose $a=a(t)= \frac{dv'}{dt'}$ 
-$$\int_0^t a(t)dt'=\int_u^v dv'$$
+- suppose $a=a(t)= \frac{dv'}{dt'}$ 	$$\int_0^t a(t)dt'=\int_u^v dv'$$
 	- $LHS$ *might* be integrable analytically
 ## position dependent acceleration
 - if $a=a(x)=\frac{dv}{dt}$

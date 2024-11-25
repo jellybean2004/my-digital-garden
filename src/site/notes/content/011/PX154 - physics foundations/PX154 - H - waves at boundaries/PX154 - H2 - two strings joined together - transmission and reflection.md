@@ -34,7 +34,9 @@ dg-publish: true
 ![Pasted image 20231129100336.png](/img/user/pics/Pasted%20image%2020231129100336.png)
 - no change in gradient at the joint
 - at $x_{0}$: 
-$$\frac{\partial y_{i}}{\partial x} = \frac{\partial y_{r}}{\partial x} = \frac{\partial y_{t}}{\partial x}$$
+$$
+\frac{\partial y_{i}}{\partial x} = \frac{\partial y_{r}}{\partial x} = \frac{\partial y_{t}}{\partial x}
+$$
 - using these conditions, the reflection and transmission coefficients, $r$ and $t$ can be derived: 
 $$\begin{align*}
 	t = \frac{A_{t}}{A_{i}} &= \frac{2z_{1}}{z_{1}+z_{2}} \\ 
@@ -49,4 +51,6 @@ $$\begin{align*}
 ## power transmission at the boundary
 - derivation on moodle pdf
 
-$$P_{i}= P_{r}+ P_{t}$$
+$$
+P_{i}= P_{r}+ P_{t}
+$$

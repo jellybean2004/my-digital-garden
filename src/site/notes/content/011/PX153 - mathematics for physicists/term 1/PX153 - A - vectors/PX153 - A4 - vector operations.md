@@ -2,7 +2,9 @@
 dg-publish: true
 ---
 ## addition and subtraction
-$$\vec u \pm \vec v = (u_x\pm v_x,\; u_y\pm v_y,\; u_z\pm v_z)$$
+$$
+\vec u \pm \vec v = (u_x\pm v_x,\; u_y\pm v_y,\; u_z\pm v_z)
+$$
 - properties
 	- commutative - $\vec u \pm \vec v =\vec v \pm \vec u$
 	- associative - $\vec u \pm (\vec v \pm \vec w) = (\vec v \pm \vec u) \pm \vec w$
@@ -15,11 +17,15 @@ $$\vec u \pm \vec v = (u_x\pm v_x,\; u_y\pm v_y,\; u_z\pm v_z)$$
 - $s =\vec u \cdot \vec v$
 	- $s$ is a scalar
 - geometrically, it is the magnitude of one vector projected on the other 
-$$s = \vec u \cdot \vec v = |\vec u||\vec v| \cos{\theta}$$
+$$
+s = \vec u \cdot \vec v = |\vec u||\vec v| \cos{\theta}
+$$
 	- $\theta =$ angle between the vectors
 - if $\theta = \frac{\pi}{2}$ (orthogonal vectors), $s=0$
 - for cartesian coordinate basis vectors 
-$$\underline{\hat i}\cdot \underline{\hat i}=\underline{\hat j}\cdot \underline{\hat j}=\underline{\hat k}\cdot \underline{\hat k}=1$$
+$$
+\underline{\hat i}\cdot \underline{\hat i}=\underline{\hat j}\cdot \underline{\hat j}=\underline{\hat k}\cdot \underline{\hat k}=1
+$$
 	and
 	$$\underline{\hat i}\cdot \underline{\hat j}=\underline{\hat j}\cdot \underline{\hat k}=\underline{\hat k}\cdot \underline{\hat i}=0$$
 	- this denotes that the basis vectors are orthonormal
@@ -42,8 +48,7 @@ $$\underline{\hat i}\cdot \underline{\hat i}=\underline{\hat j}\cdot \underline{
 ![Pasted image 20231004203051.png](/img/user/pics/Pasted%20image%2020231004203051.png)
 - $\vec v$ is a vector perpendicular to the plane of $\vec u$ and $\vec w$
 	- magnitude $uw\sin{\theta}$ 
-	- direction is set by the right-hand rule
-$$\vec v = uw\sin{\theta}\underline{\hat e}_v$$
+	- direction is set by the right-hand rule $$\vec v = uw\sin{\theta}\underline{\hat e}_v$$
 	- $\vec v$ is the same independent of the coordinate system, its component in a given basis changes
 - cases
 	- if $\vec u$ and $\vec w$ are parallel, $\theta = 0$ and $\vec u \times \vec w = 0$

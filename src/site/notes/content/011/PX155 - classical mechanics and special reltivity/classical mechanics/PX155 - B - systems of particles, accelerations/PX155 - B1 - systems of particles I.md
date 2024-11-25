@@ -5,8 +5,7 @@ dg-publish: true
 ![Pasted image 20231010183545.png](/img/user/pics/Pasted%20image%2020231010183545.png)
 - force on particle $j$ due to particle $i$ is $\vec F_{ij}$
 - external force on particle $i$ is $\vec F_i$
-- total force on one of the particles $i:$
-$$\vec F_{i} + \sum\limits_{j\neq i}^{N}{\vec F_{ji}} = m_{i} \vec a_{i}$$
+- total force on one of the particles $i:$ $$\vec F_{i} + \sum\limits_{j\neq i}^{N}{\vec F_{ji}} = m_{i} \vec a_{i}$$
 - sum over all particles:$$\sum_i^N{\vec F_i}+\sum_i^N{\sum\limits_{j\neq i}^{N}{\vec F_{ji}}}=\sum\limits_i^N{m_i \vec a_i}$$
 - 2nd term = 0 : for every $\vec F_{ji}$ there is an equal and opposite $\vec F_{ij}$ 
 	$\vec F_{ji}=-\vec F_{ij}$ by [[content/011/PX155 - classical mechanics and special reltivity/classical mechanics/PX155 - A - foundations of classical mechanics/PX155 - A3 - newton's third law\|PX155 - A3 - newton's third law]]

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i7d-blackholes/","created":"2024-10-01T18:50:57.998+01:00","updated":"2024-11-24T19:12:21.468+00:00"}
+dg-publish: true
 ---
-
 - above the [[content/011/PX158 - astronomy/PX158 - I - stars/PX158 - I7c - chandrashekhar limit\|chandrashekhar limit]] for [[content/011/PX158 - astronomy/PX158 - I - stars/PX158 - I7b - neutron stars\|neutron stars]], there is no escaping collapse into a blackhole
 - they are very dense objects
 - not even light can escape their gravity
@@ -15,7 +14,9 @@ $$\begin{align*}
 \end{align*}$$
 	$M=$ mass of planet/star, $R=$ its radius
 - for light: 
-$$R = \frac{2GM}{c^{2}}=3\left(\frac{M}{M_{\odot}}\right)\,km$$
+$$
+R = \frac{2GM}{c^{2}}=3\left(\frac{M}{M_{\odot}}\right)\,km
+$$
 	- $R$ is the *schwarzschild radius*
 	- for the sun, $R_{schw.}=6\,km$; for the earth, $R_{schw.}=6\,cm$
 
@@ -28,5 +29,7 @@ $$R = \frac{2GM}{c^{2}}=3\left(\frac{M}{M_{\odot}}\right)\,km$$
 - accretion discs are very luminous
 - accretion discs are stable to $\sim \frac{6GM}{c^{2}} = 3R_{schw.}$
 - energy released by matter falling into a blackhole: 
-$$E_{grav.}= \frac{GMm}{R} = \frac{1}{6}mc^{2}$$
+$$
+E_{grav.}= \frac{GMm}{R} = \frac{1}{6}mc^{2}
+$$
 - efficiency	$\approx17\%$ (*cf*: $H$-fusion $\sim 0.7\%$)

@@ -12,12 +12,16 @@ dg-publish: true
 - for vectors, in books, often in bold **v**
 - often underlined / with an arrow on top
 - magnitude is given by : 
-$$ v = |\vec{v}| = \sqrt{v_x^2+v_y^2+v_z^2}$$
+$$
+v = |\vec{v}| = \sqrt{v_x^2+v_y^2+v_z^2}
+$$
 - direction is often described by a unit vector (underlined with a hat on top) 
-$$ \underline{\hat{v}} = \frac{\vec{v}}{|\vec{v}|}
+$$
+\underline{\hat{v}} = \frac{\vec{v}}{|\vec{v}|}
 $$
 - any vector can be written as: 
-$$ \vec{v} = v \; \underline{\hat{v}} 
+$$
+\vec{v} = v \; \underline{\hat{v}}
 $$
 ## vector fields
 - describes a vector that varies continuously in space

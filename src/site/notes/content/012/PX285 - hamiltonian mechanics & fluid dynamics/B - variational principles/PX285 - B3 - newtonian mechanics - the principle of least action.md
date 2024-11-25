@@ -14,13 +14,17 @@ $$\begin{align*}
 - let, $(x_0,t_0)=(0,0)$, and $(x_{1},t_{1})= (X,\tau)$
 - the particle can take multiple paths, one with a constant velocity, many with varying velocities
 - parameterizing the paths using one scalar parameter, $b=constant$, an equation is formulated, which represents the 'candidate' paths: 
-$$x(t)=\frac{t}{\tau}X+b(\tau-t)t$$
+$$
+x(t)=\frac{t}{\tau}X+b(\tau-t)t
+$$
 - checking whether the equation starts and finishes at the correct fixed points: $x(0)=0$; $x(\tau)= X$ 
 - $b$ allows inclusion of acceleration
 
 ## a falling particle
 - for a mass, $m$, falling under gravity from a height, ${} x$, the lagrangian is: 
-$$L = T-V = \frac{1}{2}mv^{2} - mgx$$
+$$
+L = T-V = \frac{1}{2}mv^{2} - mgx
+$$
 - using the candidate paths equation: 
 $$\begin{align*}
 	x(t) &= \frac{t}{\tau}X+b(\tau-t)t \\

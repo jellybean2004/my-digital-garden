@@ -17,10 +17,14 @@ dg-publish: true
 - it is the energy emitted per unit area/energy flux through a 3D surface
 - units: $[Js^{-1}m^{-2}]$
 - luminosity can be written as: 
-$$L = 4\pi\, R_{*}^{2}\,F$$
+$$
+L = 4\pi\, R_{*}^{2}\,F
+$$
 	where, both $L$ and $F$ are across all $\lambda$
 - at a distance, $d$, the flux is given by: 
-$$f = \frac{L}{4\pi\,d^{2}} = F \left(\frac{R}{d}\right)^{2}$$
+$$
+f = \frac{L}{4\pi\,d^{2}} = F \left(\frac{R}{d}\right)^{2}
+$$
 - for the sun, $f=1370\,Js^{-1}m^{-2}$, $d=1\,AU$, $R_{\odot}= 7\times10^{8}\,m$ 
 	- $F = 6.3\times10^{7}\,Js^{-1}m^{-2}$
 	- $L= 3.9\times10^{26}\,Js^{-1}$

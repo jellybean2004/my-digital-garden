@@ -2,11 +2,15 @@
 dg-publish: true
 ---
 - so far, cartesian coordinates have been used. a more general 2D integral: 
-$$A = \iint_{R}f(\vec r).dA$$
+$$
+A = \iint_{R}f(\vec r).dA
+$$
 	where, $\vec r = (x,y,z)$
 
 - for volume integrals: 
-$$I = \iiint_{V} f(\vec r).dV$$
+$$
+I = \iiint_{V} f(\vec r).dV
+$$
 	where, $dV = dx.dy.dz$ in cartesian coordinates
 
 - eg: what is the mass of a cube, $-L \leq x,y,z \leq L$ , with $\rho(\vec r) = \rho_{0}(1+x)$

@@ -17,16 +17,23 @@ $$\begin{align}
 ## a bit of maths analysis
 - maths behind differentiation and integration is called analysis and concerned with limits
 - differentiation, ie: 
-$$lim_{\delta x\to0} \frac{f(x+ \delta x)-f(x)}{\delta x} \stackrel{?}{=} f'(x)$$
+$$
+lim_{\delta x\to0} \frac{f(x+ \delta x)-f(x)}{\delta x} \stackrel{?}{=} f'(x)
+$$
 - integral, ie: 
-$$\lim_{N\to\infty} \sum\limits_{n=0}^{N}f\left(x_{A} + n\frac{x_{B}-x_{A}}{N}\right)\frac{x_{B}-x_{A}}{N} \stackrel{?}{=} \int_{x_{A}}^{x_{B}}f(x').dx'$$
+$$
+\lim_{N\to\infty} \sum\limits_{n=0}^{N}f\left(x_{A} + n\frac{x_{B}-x_{A}}{N}\right)\frac{x_{B}-x_{A}}{N} \stackrel{?}{=} \int_{x_{A}}^{x_{B}}f(x').dx'
+$$
 a) **riemann integral**
 	![Pasted image 20240110183649.png](/img/user/pics/Pasted%20image%2020240110183649.png)
 - let $A=$ area under the curve (between $0$ and $a$): 
-$$A \approx \sum\limits_{i=0}^{N-1} f(x_{i})(x_{i+1}-x_{i})
+$$
+A \approx \sum\limits_{i=0}^{N-1} f(x_{i})(x_{i+1}-x_{i})
 $$
 - if the limit $N\to \infty$ exists: 
-$$\lim_{N\to\infty}\sum\limits_{i=0}^{N-1} f(x_{i})\Delta x_{i} = \int_{0}^{a} f(x').dx'$$
+$$
+\lim_{N\to\infty}\sum\limits_{i=0}^{N-1} f(x_{i})\Delta x_{i} = \int_{0}^{a} f(x').dx'
+$$
 - we will work with *riemann integral
 - assume that all functions of interest are integrable
 - assume that we cab interchange order of integration in multiple integrals (*fabini's theorem*)
@@ -40,7 +47,6 @@ $$\begin{align}
 	- substitutions: 
 	$$ I = \int \frac{1}{(1-x)^{\frac{1}{2}}}.dx$$
 		- let $x= \sin u$ , and $dx = \cos u .du$ : 
-	
-$$I = \int \frac{\cos u.du}{\cos u} = \int du = u = \sin^{-1} x$$
+		$$I = \int \frac{\cos u.du}{\cos u} = \int du = u = \sin^{-1} x$$
 	- partial fractions: 
 	$$\int \frac{1}{1-x^{2}}.dx = \int \frac{1}{2}\left(\frac{1}{1-x}+ \frac{1}{{1+x}}\right)= \frac{1}{2} ln((1-x)(1+x))$$

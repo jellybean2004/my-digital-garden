@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b4-particle-in-an-infinite-square-well/","created":"2024-10-08T11:14:35.520+01:00","updated":"2024-11-25T11:17:18.476+00:00"}
+dg-publish: true
 ---
-
 - considering an infinite square potential well: 
-  $$V(x) = \begin{cases} 0 & for & |x|<a, \\ \infty & for & |x|>a. \end{cases}$$
+$$
+V(x) = \begin{cases} 0 & for & |x|<a, \\ \infty & for & |x|>a. \end{cases}
+$$
 - infinite potential means that particles cannot be in that region, ie: $\phi =0$
 - inside the well: 
-  $$-\frac{\hbar^{2}}{2m} \frac{d^{2}\phi(x)}{dx^{2}} = E\phi(x)$$
+$$
+-\frac{\hbar^{2}}{2m} \frac{d^{2}\phi(x)}{dx^{2}} = E\phi(x)
+$$
 - the solution has the form: $\phi(x) = A\cos(kx)+B\sin(kx)$
 	where, $A$ and $B$ are constants; $k=\sqrt{\frac{2mE}{\hbar^{2}}}$
 - the boundary conditions require that the function is continuous at the border of the potential well: $\phi(-a) = \phi(a)=0$

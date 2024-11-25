@@ -4,16 +4,22 @@ dg-publish: true
 - as an example, let's look at a mass on a spring
 - the force on the mass $\vec F=-kx\hat{\vec{x}}$
 - using [[content/011/PX155 - classical mechanics and special reltivity/classical mechanics/PX155 - A - foundations of classical mechanics/PX155 - A2 - newton's second law\|PX155 - A2 - newton's second law]], we can derive the equation of motion: 
-$$m \frac{d^2x}{dt^2}=-kx$$
+$$
+m \frac{d^2x}{dt^2}=-kx
+$$
 or, 
-$$\frac{d^2x}{dt^2}= - \frac{k}{m}x$$
+$$
+\frac{d^2x}{dt^2}= - \frac{k}{m}x
+$$
 - let $\omega_0=\sqrt{\frac{k}{m}}$
 - now we need to solve the 2nd order differential equation:$$\frac{d^2x}{dt^2}=-\omega_0^2x$$
 - try solution: $x(t)=Ae^{\lambda t}$
 	$$\frac{dx}{dt}= A\lambda e^{\lambda t}=\lambda x$$
 	$$\frac{d^2x}{dt^2}=A\lambda^{2}e^{\lambda t} =\lambda^2 x$$
 - from this, 
-$$-\omega_0^2x=\lambda^2x$$
+$$
+-\omega_0^2x=\lambda^2x
+$$
 	- for this to be generally true, $-\omega_0^2=\lambda^{2}\implies \lambda=\pm i\omega_0$
 	- both roots are equally valid, hence the general solution is the sum of both:
 	$$x(t)=Ce^{i\omega_0t}+De^{-i\omega_0t}$$

@@ -6,9 +6,13 @@ dg-publish: true
 - the two stars will have different emission spectra 
 - the velocity of the stars can be measured by the doppler shift of the lines
 - assuming circular orbit: 
-$$v_{1} = \frac{2\pi r_{1}}{P} \;;\; v_{2}= \frac{2\pi r_{2}}{P}$$
+$$
+v_{1} = \frac{2\pi r_{1}}{P} \;;\; v_{2}= \frac{2\pi r_{2}}{P}
+$$
 - the *[[content/011/PX154 - physics foundations/PX154 - G - mechanical waves/PX154 - G6 - the doppler effect\|doppler shift]]* is given by: 
-$$\lambda = \lambda_{0} (1 + \frac{v_{RV}}{c})$$
+$$
+\lambda = \lambda_{0} (1 + \frac{v_{RV}}{c})
+$$
 		where, $\lambda=$ observed wavelength, $\lambda_{0}=$ rest wavelength, $v_{RV}=$ radial velocity
 	- $v_{RV} << c$
 - the *inclination* of the binary star orbit is given by $i$
@@ -38,6 +42,8 @@ f(x) = sin(x)
 - for eclipsing binaries, $i\sim 90$
 - as $i\to0$, the amplitude will decrease given by $\sin i$
 - the motion of a binary star through the galaxy can be seen as a constant velocity ($\gamma$)
-$$v_{RV} = \gamma_{RV} + v_{1}\sin\left(\frac{2\pi}{P} (t-T_{0})\right) \sin i$$
+$$
+v_{RV} = \gamma_{RV} + v_{1}\sin\left(\frac{2\pi}{P} (t-T_{0})\right) \sin i
+$$
 - if $i$ is unknown, $m = m_{1}\sin{i}$
 - only a minimum mass can be obtained

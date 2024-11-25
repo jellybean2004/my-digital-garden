@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a5-debroglie-waves/","created":"2024-11-24T02:50:22.919+00:00","updated":"2024-11-24T02:50:36.476+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - B - atomic stucture/PX156 - B3 - de broglie hypothesis\|PX156 - B3 - de broglie hypothesis]]
 - if light can behave as a particle, can particles also behave as waves?
 - debroglie proposed that particles can behave as waves, and are assigned a frequency and a wave number: 

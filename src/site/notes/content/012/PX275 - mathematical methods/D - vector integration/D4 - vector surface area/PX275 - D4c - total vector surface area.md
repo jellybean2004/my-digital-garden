@@ -2,18 +2,26 @@
 dg-publish: true
 ---
 - to evaluate the **vector area**: 
-$$\vec S = \iint d\vec s$$
+$$
+\vec S = \iint d\vec s
+$$
 ![Pasted image 20241118124714.png](/img/user/pics/Pasted%20image%2020241118124714.png)
 ### the total vector surface area of the flat disc
-$$\vec S_{1} = \iint d\vec s = \iint \hat n\,dA$$
-$$d\vec s = dA\,\hat k = \rho\,d\phi\,d\rho\,\hat k$$
+$$
+\vec S_{1} = \iint d\vec s = \iint \hat n\,dA
+$$
+$$
+d\vec s = dA\,\hat k = \rho\,d\phi\,d\rho\,\hat k
+$$
 $$\begin{align*}
 	\vec S_{1} &= \int_{\rho=0}^{a}\int_{\phi=0}^{2\pi} \rho\,d\phi\,d\rho\,\hat k \\
 	&= \left[2\pi \frac{\rho^{2}}{2} \hat k\right]_{0}^{a} \\
 	\vec S_{1} &= \pi a^{2}\hat k
 \end{align*}$$
 ### the total vector surface area of the dome of the hemisphere
- $$\vec S_{2} = \iint d\vec s = \iint \hat n\,dA$$
+$$
+\vec S_{2} = \iint d\vec s = \iint \hat n\,dA
+$$
 - considering the $\hat i, \hat j, \hat k$ components individually for the hemisphere
 #### the $\hat k$-component
 $$\begin{align*}
@@ -40,4 +48,6 @@ $$\begin{align*}
 	&= 0
 \end{align*}$$
 - hence, the total vector surface area of the hemisphere is: 
-$$\vec S_{2} = \pi a^{2}\,\hat k$$
+$$
+\vec S_{2} = \pi a^{2}\,\hat k
+$$

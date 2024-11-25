@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b2-time-independent-schroedinger-equation/","created":"2024-10-07T11:46:14.438+01:00","updated":"2024-11-25T11:17:50.778+00:00"}
+dg-publish: true
 ---
-
 - for systems in which the potential is independent of time$:V(x,t)=V(x)$
 $$\begin{align*}
 	\psi(x,t) &= \phi(x)\,T(t) \\\\
@@ -18,10 +17,16 @@ $$\begin{align*}
 \end{align*}$$
 	- universal time dependence in systems where potential is time independent
 - $RHS:$ 
-  $$- \frac{\hbar^{2}}{2M} \frac{d^{2}\phi}{dx^{2}} + V\phi = E\phi$$
+$$
+- \frac{\hbar^{2}}{2M} \frac{d^{2}\phi}{dx^{2}} + V\phi = E\phi
+$$
 	- this is the time independent schrödinger equation
 - for a free particle, ${} V(x)=0:$ 
-  $$\phi(x) = A\exp(ikx)$$
+$$
+\phi(x) = A\exp(ikx)
+$$
 	where, $k=\sqrt{\frac{2ME}{\hbar^2}}$
 - full wave function: 
-  $$\psi(x,t) = A\exp[-(kx-\omega t)]$$
+$$
+\psi(x,t) = A\exp[-(kx-\omega t)]
+$$

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-d-the-first-law-of-thermodynamic/d-the-first-law-of-thermodynamics/","created":"2024-10-01T18:50:55.385+01:00","updated":"2024-11-24T19:18:52.885+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX154 - physics foundations/PX154 - D - the first law of thermodynamic/PX154 - D1 - introduction\|PX154 - D1 - introduction]]
 [[content/011/PX154 - physics foundations/PX154 - D - the first law of thermodynamic/PX154 - D2 - the first law\|PX154 - D2 - the first law]]
 [[content/011/PX154 - physics foundations/PX154 - D - the first law of thermodynamic/PX154 - D3 - work and the pV diagram\|PX154 - D3 - work and the pV diagram]]

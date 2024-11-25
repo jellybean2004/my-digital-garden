@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b1-the-schroedinger-equation/","created":"2024-10-07T11:32:44.468+01:00","updated":"2024-11-24T00:51:31.315+00:00"}
+dg-publish: true
 ---
-
 - a fundamental equation in QM to describe the system and the state in which it is, the schrödinger equation: 
-  $$i\hbar \frac{\partial \psi(x,t)}{\partial t} = - \frac{\hbar^{2}}{2M} \frac{\partial^{2} \psi(x,t)}{\partial x^{2}}+V(x,t)\psi(x,t)$$
+$$
+i\hbar \frac{\partial \psi(x,t)}{\partial t} = - \frac{\hbar^{2}}{2M} \frac{\partial^{2} \psi(x,t)}{\partial x^{2}}+V(x,t)\psi(x,t)
+$$
 	where, 
 		$M=$ mass of the particle
 		$V(x,t)=$ the potential in which it is moving
@@ -22,7 +23,9 @@
 - in QM, it can be complect, and does not directly give the displacement
 - the QM wavefunction is connected to the probability of finding a particle at some position
 - in some interval, between $x$ and $x+dx$, at a time, $t$, the probability of finding the particle is given by the *bohr postulates*: 
-  $$P(x,t)\,dx = |\psi(x,t)|^{2}$$
+$$
+P(x,t)\,dx = |\psi(x,t)|^{2}
+$$
 - the wavefunction has to be *normalized*, ie: the probability of finding the particle in the system is fixed: 
   $$\begin{gather*}
 	\int_{-\infty}^{+\infty} P(x,t)\,dx = 1 \\

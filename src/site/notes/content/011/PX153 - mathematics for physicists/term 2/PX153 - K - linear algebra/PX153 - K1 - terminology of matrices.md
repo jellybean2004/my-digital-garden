@@ -12,15 +12,22 @@ $$A_{m\times n} = \begin{pmatrix}
   \end{pmatrix}$$
   - $a_{ij}$ represents the element in the $i^{th}$ row and $j^{th}$ column
   - often written as: 
- 
-$$A = (a_{ij})_{m\times n}$$
+$$
+A = (a_{ij})_{m\times n}
+$$
 -  if a matrix has shape, $m\times 1$, it is a *column vector*: 
-$$A= \begin{pmatrix}a_{1} \\ a_{2}  \\ \vdots \\ a_{m}\end{pmatrix}$$
+$$
+A= \begin{pmatrix}a_{1} \\ a_{2}  \\ \vdots \\ a_{m}\end{pmatrix}
+$$
 - if a matrix has shape, $1\times n$, it is a *row vector*: 
-$$B = \begin{pmatrix}b_{1} & b_{2} & \dots & b_{n}\end{pmatrix}$$
+$$
+B = \begin{pmatrix}b_{1} & b_{2} & \dots & b_{n}\end{pmatrix}
+$$
 ## transpose
 - if a matrix, $A = (a_{ij})_{m\times n}$, the transpose of $A$ is the matrix, $A^{T}$, has dimensions $n\times m$, and is obtained by transposing the rows and columns of $A:$ 
-$$A^{T}= (\alpha_{ij})_{n\times m}= (a_{ji})_{n\times m}$$
+$$
+A^{T}= (\alpha_{ij})_{n\times m}= (a_{ji})_{n\times m}
+$$
 - eg: 
 $$\begin{align*}
   A &= \begin{pmatrix} 1 & 2 & 3 \\

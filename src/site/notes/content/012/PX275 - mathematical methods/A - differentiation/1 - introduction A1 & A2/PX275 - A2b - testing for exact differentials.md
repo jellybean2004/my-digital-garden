@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/1-introduction-a1-and-a2/px-275-a2b-testing-for-exact-differentials/","created":"2024-10-03T12:39:01.712+01:00","updated":"2024-11-24T15:25:26.106+00:00"}
+dg-publish: true
 ---
-
 - for a function, $f(x,y)$, the total differential is: 
 	$$df = \left(\frac{\partial f}{\partial x}\right)dx + \left(\frac{\partial f}{\partial y}\right)dy$$
 - writing $\frac{\partial f}{\partial x}$ as $A$, and $\frac{\partial f}{\partial y}$ as $B:$ 
-  $$df = A\,dx + B\,dy$$
+$$
+df = A\,dx + B\,dy
+$$
 - now, differentiating $A$ and $B$ wrt ${} y$ and ${} x$ respectively: 
 $$\begin{gather*}
 		\frac{\partial A}{\partial y} = \frac{\partial }{\partial y}\left(\frac{\partial f}{\partial x}\right) = \frac{\partial ^{2}f}{\partial y \partial x}\\

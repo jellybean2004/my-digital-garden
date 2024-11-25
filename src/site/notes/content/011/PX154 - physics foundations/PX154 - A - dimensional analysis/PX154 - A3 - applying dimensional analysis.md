@@ -6,7 +6,9 @@ dg-publish: true
 	- fundamental independent quantities
 ## dimensionless groups
 - for our pendulum, we had 
-$$\Pi = T\sqrt\frac{g}{l}$$
+$$
+\Pi = T\sqrt\frac{g}{l}
+$$
 	- $T\sqrt\frac{g}{l}$ is a dimensionless group
 - more generally, if we have several variables, we may form more than one dimensionless group
 	- instead of $\Pi$, we have $\Pi_1, \Pi_2, \Pi_3,...$

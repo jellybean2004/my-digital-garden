@@ -2,7 +2,9 @@
 dg-publish: true
 ---
 - light rays trace paths that extremize the *optical path length*: 
-$$l = \int ds\, n(\vec r(s))$$
+$$
+l = \int ds\, n(\vec r(s))
+$$
 - is this the same as *[[content/011/PX154 - physics foundations/PX154 - I - light/PX154 - I5 - snell's law\|snell's law]]*?
 
 ![Pasted image 20241010140639.png](/img/user/pics/Pasted%20image%2020241010140639.png)

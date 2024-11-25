@@ -8,12 +8,18 @@ dg-publish: true
 - consider a shell within the planet/star with a thickness, $dr$, and a mass, $dm$, at a radius, $r$
 - consider a small element within the shell having a mass, $M_{r}$ (a cylinder, with axis perpendicular to the surface, faces aligned along the surfaces of the shell)
 - gravitational force, 
-$$F_{G}= \frac{G\, M_{r}\, dm}{r^{2}} \tag{1}$$
+$$
+F_{G}= \frac{G\, M_{r}\, dm}{r^{2}} \tag{1}
+$$
 	- $dm = \rho(r)\, dr\,dA$
 		where, $\rho(r)$ is the density, $dA$ is the area of the cylinder's circular surface
 - due to pressure: 
-$$F_{P} = \rho(r)\,dA-\rho(r+dr)\,dA = -dP\,dA \tag{2}$$
+$$
+F_{P} = \rho(r)\,dA-\rho(r+dr)\,dA = -dP\,dA \tag{2}
+$$
 - from equations $(1)$ and $(2)$, the **hydrostatic equilibrium equation**:
-$$\frac{dP}{dr}= - \frac{G\, M_{r}\,\rho(r)}{r^{2}}$$
+$$
+\frac{dP}{dr}= - \frac{G\, M_{r}\,\rho(r)}{r^{2}}
+$$
 - can be used to solve for the interior structure of a star/planet
 	- eg: $\rho(r)$, if $P(\rho)$ is known, ie: *the equation of state*

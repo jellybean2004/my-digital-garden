@@ -6,18 +6,11 @@ dg-publish: true
 	- the transit time of the electromagnetic radiation is much less than the period of the AC source
 	- **note**: for $50\,Hz$ AC supply: $\lambda f = c \implies \lambda = 6\times10^{6}\,m$
 
-- impedance in series:
-$$
-\tilde Z_{eq} = \tilde Z_{1}+ \tilde Z_{2}
-$$
-- impedance in parallel:
-$$
-\frac{1}{\tilde Z_{eq}} = \frac{1}{\tilde Z_{1}} + \frac{1}{\tilde Z_{2}}
-$$
+- impedance in series: $$\tilde Z_{eq} = \tilde Z_{1}+ \tilde Z_{2}$$
+- impedance in parallel: $$\frac{1}{\tilde Z_{eq}} = \frac{1}{\tilde Z_{1}} + \frac{1}{\tilde Z_{2}}$$
 - eg: 
 ![Pasted image 20240311182400.png](/img/user/pics/Pasted%20image%2020240311182400.png)
-- all elements are in series:
-$$\begin{align*}
+- all elements are in series: $$\begin{align*}
 			\tilde Z_{eq} &= \tilde Z_{R} + \tilde Z_{C} + \tilde Z_{L} \\
 			&= R + \frac{1}{j\omega C} + j\omega L \\
 			&= R + j(\omega L - \frac{1}{\omega C})

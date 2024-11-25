@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a5-lagrange-multipliers/","created":"2024-10-07T12:47:41.137+01:00","updated":"2024-11-24T15:30:06.988+00:00"}
+dg-publish: true
 ---
-
 -  typically, given a function, $f(x,y)$, a maxima or a minima can be found via the partial derivatives, ie: 
-$$\frac{\partial f}{\partial x}=0\,;\, \frac{\partial f}{\partial y}=0$$
+$$
+\frac{\partial f}{\partial x}=0\,;\, \frac{\partial f}{\partial y}=0
+$$
 - or, it can be found in terms of the total derivative, ie: 
-$$df = \frac{\partial f}{\partial x}dx + \frac{\partial f}{\partial y}dy$$
+$$
+df = \frac{\partial f}{\partial x}dx + \frac{\partial f}{\partial y}dy
+$$
 - if the maximum or minimum of the function, $f(x,y)$, with respect to a constraint, $y=1-x$, is to be found, the constraint needs to be rewritten as a function, $g(x,y)=x+y=1$ 
 - **note:** the constraint being exactly equal to a constant is critical for this method
 

@@ -67,7 +67,9 @@ $$\begin{align*}
 \end{align*}$$
 	- $(\vec x^{i\dagger} \vec x^{i})$ cannot be $0:$ 
 	
-$$\frac{1}{\lambda_{i}}- \lambda_{i}^{*} = 0 \implies \lambda_{i}^{*}\lambda_{i}=1$$
+$$
+\frac{1}{\lambda_{i}}- \lambda_{i}^{*} = 0 \implies \lambda_{i}^{*}\lambda_{i}=1
+$$
 	- the modulus of eigenvalues is unity
 
 	

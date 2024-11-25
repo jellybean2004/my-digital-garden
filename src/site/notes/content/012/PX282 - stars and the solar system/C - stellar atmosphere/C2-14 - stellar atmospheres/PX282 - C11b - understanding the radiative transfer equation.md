@@ -2,21 +2,29 @@
 dg-publish: true
 ---
 - the radiative transfer equation (RTE): 
-$$\frac{dI_{\lambda}}{d\tau_{\lambda}} = I_{\lambda}- S_{\lambda}$$
+$$
+\frac{dI_{\lambda}}{d\tau_{\lambda}} = I_{\lambda}- S_{\lambda}
+$$
 ## local thermal equilibrium (LTE)
 - LTE implies that in a region, the temperature is effectively constant, and the velocity distribution of particles follows [[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C7 - maxwell-boltzmann distribution\|the maxwell-boltzmann distribution]]
 - the photons mean free path is small, and they interact with particles
 - any optically thick object with a non-zero temperature emits blackbody radiation
 - hence, LTE equates to blackbody radiation and: 
-$$S=B$$
+$$
+S=B
+$$
 	where, $B$ is the planck function
 - in equilibrium, the absorption and the emission are equal: 
-$$\implies F = constant = \sigma T^{4}$$
+$$
+\implies F = constant = \sigma T^{4}
+$$
 - using LTE, the RTE becomes analytically solvable
 
 - consider an isothermal slab, with the top surface at $\tau = 0$, and the bottom surface at $\tau'$
 - using LTE: 
-$$\frac{dI_{\lambda}}{d\tau_{\lambda}} = I_{\lambda}- B_{\lambda}$$
+$$
+\frac{dI_{\lambda}}{d\tau_{\lambda}} = I_{\lambda}- B_{\lambda}
+$$
 - multiplying by $e^{-\tau}:$ 
 $$\begin{align*}
 	\frac{dI_{\lambda}}{d\tau_{\lambda}} e^{-\tau} &= (I_{\lambda}- S_{\lambda}) e^{-\tau} \\

@@ -46,9 +46,13 @@ dg-publish: true
 	-> *argument for exponentials and logs has no dimensions*
 - eg: natural log: 
 
-$$ln \left(\frac{I}{I_{0}}\right)=-\lambda t$$
+$$
+ln \left(\frac{I}{I_{0}}\right)=-\lambda t
+$$
 might write this as:
-$$ln(I) = -\lambda t + ln(I_0)$$
+$$
+ln(I) = -\lambda t + ln(I_0)
+$$
 - ideal gas law:  $PV = nRT$
 	- to find : dimensions of R
 	$[P] = M.L^{-1}T^{-2}$
@@ -82,11 +86,13 @@ $$ln(I) = -\lambda t + ln(I_0)$$
 		- we can write: $Q_{1}= f(Q_2,Q_3,Q_4)$
 			- if we were interested in g: $Q_3= f(Q_1,Q_2,Q_4)$
 - we wrote our answer for the pendulum: 
-$$constant = T \sqrt{\frac{g}{l}} = Tg^{\frac{1}{2}}l^{\frac{-1}{2}}$$
+$$
+constant = T \sqrt{\frac{g}{l}} = Tg^{\frac{1}{2}}l^{\frac{-1}{2}}
+$$
 - now we can write: 
-$$constant = \Pi = Q_1^\alpha Q_2^\beta Q_3^\gamma Q_4^\delta$$
-{ #5abdae}
-
+$$
+constant = \Pi = Q_1^\alpha Q_2^\beta Q_3^\gamma Q_4^\delta
+$$
 	- *\*$\Pi \neq3.1415...$* but a convention to denote constants
 	- dimensions: 
 	$$[\Pi] = [Q_1]^\alpha [Q_2]^\beta [Q_3]^\gamma [Q_4]^\delta$$
@@ -105,8 +111,7 @@ $$constant = \Pi = Q_1^\alpha Q_2^\beta Q_3^\gamma Q_4^\delta$$
 				$\implies \beta = \frac{-1}{2}$
 				$\implies [\pi] = T^1 L^\frac{-1}{2}{(LT^{-2})}^\frac{1}{2} M^0$
 				$\therefore\pi = Tg^{\frac{1}{2}}l^{\frac{-1}{2}} = T \sqrt{\frac{g}{l}}$
-		
-$$[\Pi] = T^\alpha L^\beta {(LT^{-2})}^\gamma M^\delta$$
+			$$[\Pi] = T^\alpha L^\beta {(LT^{-2})}^\gamma M^\delta$$
 				- $T$: $0 = \alpha - 2\gamma$
 				- $L$: $0 = \beta + \gamma$
 				- $M$: $0 = \delta$

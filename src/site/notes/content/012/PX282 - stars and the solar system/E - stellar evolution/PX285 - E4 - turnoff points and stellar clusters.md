@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/e-stellar-evolution/px-285-e4-turnoff-points-and-stellar-clusters/","created":"2024-11-21T10:10:48.079+00:00","updated":"2024-11-24T16:02:13.236+00:00"}
+dg-publish: true
 ---
-
 - higher mass stars 'burn out' of hydrogen faster
 - clusters of stars are groups that formed at about the same time, from the same cloud
 - therefore they will be of the same age, a similar composition, and the same distance

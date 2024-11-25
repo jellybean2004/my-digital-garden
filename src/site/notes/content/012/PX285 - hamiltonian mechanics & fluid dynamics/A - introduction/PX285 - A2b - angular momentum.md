@@ -12,7 +12,9 @@ dg-publish: true
 	\end{align*}$$
 	 $\vec\omega\times\vec x = \omega\,\hat{v}$ 
 - using the fact that all mass elements, $m_{i}$ (atoms), in a solid body rotate about the same axis if the body is rotated: 
-$$\vec v_{i} = \vec\omega\times \vec r_{i}$$
+$$
+\vec v_{i} = \vec\omega\times \vec r_{i}
+$$
 $$\begin{align*}
 	\vec L &= \sum\limits_{i}m_{i}\vec r_{i} \times (\vec\omega\times\vec r_{i}) \\
 	 &= \sum\limits_{i}m_{i}\,[\vec\omega(\vec r_{i}\cdot\vec r_{i})-\vec r_{i}(\vec r_{i}\cdot\vec\omega)]
@@ -34,9 +36,13 @@ $$\begin{align*}
 	L_{z} &= I_{zx}\omega_{x} -x_{i}^{2}+ I_{zy}\omega_{y} + I_{zz}\omega_{z}
 \end{align*}$$
 - define a matrix: 
-$$I = \begin{bmatrix}I_{xx} & I_{xy} & I_{xz} \\ I_{yx} & I_{yy} & I_{yz} \\ I_{zx} & I_{zy} & I_{zz}\end{bmatrix}$$
+$$
+I = \begin{bmatrix}I_{xx} & I_{xy} & I_{xz} \\ I_{yx} & I_{yy} & I_{yz} \\ I_{zx} & I_{zy} & I_{zz}\end{bmatrix}
+$$
 - then: 
-$$\vec L = I\,\vec\omega$$
+$$
+\vec L = I\,\vec\omega
+$$
 - eg: calculate the kinetic energy of rotation
 $$\begin{align}
 	T_{rot} &= \frac{1}{2}\sum\limits m_{i}\vec v_{i}\cdot \vec v_{i} \sim \frac{1}{2}mv^{2} \\
@@ -49,7 +55,9 @@ $$\begin{align}
 	\therefore T_{rot}&= \frac{1}{2}I\omega^{2} \tag{1}
 	\end{align}$$
 - comparing $(1)$ with $T=\frac{1}{2}mv^{2}$, $I$ must have dimensions of $[ML^{2}]:$ 
-$$T = \frac{1}{2}I\omega^{2}= \frac{1}{2}I\,\dot\theta^{2}$$
+$$
+T = \frac{1}{2}I\omega^{2}= \frac{1}{2}I\,\dot\theta^{2}
+$$
 $$\begin{align*} 
 I &= \hat{n} \cdot \frac{1}{2} \vec{L} \\\\
 \frac{1}{2}I\omega^{2} &= \frac{1}{2}\omega\,\hat{n}\cdot L \\
@@ -58,7 +66,9 @@ I &= \hat{n}\cdot \sum\limits_{i}m_{i}(\hat{n} (\vec{r}_{i}\cdot\vec{r}_{i})- \v
 &= \sum\limits_{i} m_{i} \left[ \vec r_{i}\cdot \vec r_{i}-(\vec r_{i} \cdot\hat n)^{2} \right]
 \end{align*}$$
 - continuum limit exists: 
-$$\sum\limits_{i}m_{i}\to \sum\limits_{i} \rho_{i}\,\Delta V_{i} \to \int \rho(\vec r) \,dV$$
+$$
+\sum\limits_{i}m_{i}\to \sum\limits_{i} \rho_{i}\,\Delta V_{i} \to \int \rho(\vec r) \,dV
+$$
 
 - consider a cylinder having a length, $l$, a radius, $r$, and a constant density, ${} \rho$
 $$\begin{align*}
@@ -75,4 +85,6 @@ $$\begin{align*}
 	\implies T_{rot} &= \frac{1}{2}\left(\frac{\pi\,l\,\rho\,R^{4}}{2}\right)\, \omega^2
 \end{align*}$$
 - for a cylinder rotating through the centre of mass: 
-$$T_{tot} = T_{rot}+T_{trans}$$
+$$
+T_{tot} = T_{rot}+T_{trans}
+$$

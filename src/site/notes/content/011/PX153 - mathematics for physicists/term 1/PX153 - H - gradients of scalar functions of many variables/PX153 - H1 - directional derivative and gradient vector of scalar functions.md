@@ -6,20 +6,34 @@ dg-publish: true
 - let $B$ be a vector $\vec u$ from $A$
 - any point on the line from $A$ to $B$ can be written as $\vec r = \vec a + t\cdot\vec u$ , for $t \in [0,1]$
 - we can use a taylor expansion to evaluate the values of $f$ close to $A$: 
-$$f(\vec r) = f(\vec a) + \frac{\partial f}{\partial \vec r}|_{a} (\vec r-\vec a) + ...$$
-$$f(x,y,z) = f(x_{a},y_{a}, z_{a}) + \frac{\partial f}{\partial x} (x-x_{a}) + \frac{\partial f}{\partial y} (y-y_{a}) + \frac{\partial f}{\partial z} (z-z_{a})$$
+$$
+f(\vec r) = f(\vec a) + \frac{\partial f}{\partial \vec r}|_{a} (\vec r-\vec a) + ...
+$$
+$$
+f(x,y,z) = f(x_{a},y_{a}, z_{a}) + \frac{\partial f}{\partial x} (x-x_{a}) + \frac{\partial f}{\partial y} (y-y_{a}) + \frac{\partial f}{\partial z} (z-z_{a})
+$$
 	$\vec r = \vec a + t \cdot \vec u$
 	$\implies x = x_{a}+ t u_{x}$
 		$y = y_{a}+ t u_{y}$
 		$z = z_{a}+ t u_{z}$
-$$\Delta f = \frac{\partial f}{\partial x}tu_{x} + \frac{\partial f}{\partial y}tu_{y} + \frac{\partial f}{\partial z}tu_{z}$$
+$$
+\Delta f = \frac{\partial f}{\partial x}tu_{x} + \frac{\partial f}{\partial y}tu_{y} + \frac{\partial f}{\partial z}tu_{z}
+$$
 - we can write this as a scalar product: 
-$$\Delta f = \left( \frac{\partial f}{\partial x}\hat{\vec i} + \frac{\partial f}{\partial y}\hat{\vec j} + \frac{\partial f}{\partial z}\hat{\vec k} \right)|_{\vec a} \cdot t\vec u$$
+$$
+\Delta f = \left( \frac{\partial f}{\partial x}\hat{\vec i} + \frac{\partial f}{\partial y}\hat{\vec j} + \frac{\partial f}{\partial z}\hat{\vec k} \right)|_{\vec a} \cdot t\vec u
+$$
 - we this define the gradient operator (vector): 
-$$\vec \nabla f = \frac{\partial f}{\partial x}\hat{i} + \frac{\partial f}{\partial y}\hat{j} + \frac{\partial f}{\partial z}\hat{k} = \left( \hat{i} \frac{\partial}{\partial x} + \hat{j} \frac{\partial }{\partial y}+ \hat{k} \frac{\partial}{\partial z} \right) f$$
+$$
+\vec \nabla f = \frac{\partial f}{\partial x}\hat{i} + \frac{\partial f}{\partial y}\hat{j} + \frac{\partial f}{\partial z}\hat{k} = \left( \hat{i} \frac{\partial}{\partial x} + \hat{j} \frac{\partial }{\partial y}+ \hat{k} \frac{\partial}{\partial z} \right) f
+$$
 - and we find that: 
-$$\Delta f = \vec \nabla f \cdot (t \vec u)$$
+$$
+\Delta f = \vec \nabla f \cdot (t \vec u)
+$$
 - the directional derivative is defined as: 
-$$D_{u}f = \lim_{t\to0} \frac{f(\vec r)-f(s)}{t} = \lim_{t\to0} \frac{\Delta f}{t} = \vec \nabla f \cdot \vec u$$
+$$
+D_{u}f = \lim_{t\to0} \frac{f(\vec r)-f(s)}{t} = \lim_{t\to0} \frac{\Delta f}{t} = \vec \nabla f \cdot \vec u
+$$
 - this gives the rate of change of function in the direction of $\vec u$
 	- magnitude of $\vec u$ should use $\hat{\vec u}$

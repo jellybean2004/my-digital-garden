@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/d-the-hamiltonian/px-285-d4-roller-coaster-revisited/","created":"2024-10-25T15:45:47.587+01:00","updated":"2024-11-24T16:21:07.219+00:00"}
+dg-publish: true
 ---
-
 - revisiting [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/PX285 - C5 - a roller-coaster\|the roller-coaster problem]]
 - the lagrangian: 
-$$L = \frac{1}{2}m\dot s ^{2}- mgh(s)$$
+$$
+L = \frac{1}{2}m\dot s ^{2}- mgh(s)
+$$
 - the hamiltonian: 
-$$H = \dot s \frac{\partial L}{\partial \dot s} - L =\frac{1}{2}m\dot s^{2} + mgh(s) = E$$
+$$
+H = \dot s \frac{\partial L}{\partial \dot s} - L =\frac{1}{2}m\dot s^{2} + mgh(s) = E
+$$
 - seeking an equation for the trajectory, ie, an ODE for $\dot s:$ 
 $$\begin{gather}
 	\dot s^{2} = \frac{2}{m}(E -mgh(s)) \\
@@ -15,13 +18,21 @@ $$\begin{gather}
 	\implies f(s) = t
 \end{gather}$$
 - therefore, $t$ as a function of $s$ is obtained, which can then be used to obtain $s$ as a function of $t:$ 
-$$s = f^{-1}(t)$$
+$$
+s = f^{-1}(t)
+$$
 - consider a promising particular case, a cycloid: 
-$$h(s) = \frac{1}{2}cs^{2}$$
-$$t = \pm \sqrt{\frac{m}{s}} \int_{s_{0}}^{s_{1}} \frac{ds'}{\sqrt{E - mg \left(\frac{1}{2}cs^{2}\right)}}$$
+$$
+h(s) = \frac{1}{2}cs^{2}
+$$
+$$
+t = \pm \sqrt{\frac{m}{s}} \int_{s_{0}}^{s_{1}} \frac{ds'}{\sqrt{E - mg \left(\frac{1}{2}cs^{2}\right)}}
+$$
 - try: $s = \sqrt{\frac{2E}{mgc}} \sin\theta$ 
 	$\implies ds' = \sqrt{\frac{2E}{mgc}} \cos\theta\,d\theta$
-$$\frac{mgc}{2} s'^{2} = \frac{mgc}{2} \frac{2E}{mgc}\sin^{2}\theta = E\sin^{2}\theta$$
+$$
+\frac{mgc}{2} s'^{2} = \frac{mgc}{2} \frac{2E}{mgc}\sin^{2}\theta = E\sin^{2}\theta
+$$
 $$\begin{align*}
 	t &= \pm\sqrt{\frac{m}{2}} \int_{\theta(s_{0})}^{\theta(s)} \frac{\sqrt{\frac{2E}{mgc}}\cos\theta\,d\theta}{\sqrt{E(1-\sin^{2}\theta)}} \\
 	&= \pm \sqrt{\frac{m}{2}} \sqrt{\frac{2}{mgc}} \int_{\theta(s_{0})}^{\theta(s)} d\theta \\
@@ -36,4 +47,6 @@ $$\begin{gather*}
 \end{gather*}$$
 - this is an equation of simple harmonic motion
 - at maximum height: 
-$$s(0) = \sqrt{\frac{2E}{mgc}} \sin\phi = s_{0}$$
+$$
+s(0) = \sqrt{\frac{2E}{mgc}} \sin\phi = s_{0}
+$$

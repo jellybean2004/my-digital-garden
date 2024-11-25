@@ -2,9 +2,13 @@
 dg-publish: true
 ---
 - for a classical particle with energy, $E:$ 
-$$v = \sqrt{\frac{2E}{m}}$$
+$$
+v = \sqrt{\frac{2E}{m}}
+$$
 - if $E>V_{0}:$ 
-$$v = \sqrt{\frac{2(E-V_{0})}{m}}$$
+$$
+v = \sqrt{\frac{2(E-V_{0})}{m}}
+$$
 
 - for a quantum particle: 
 	- if $E>V_{0}: \lambda$ increases 

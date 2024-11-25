@@ -1,9 +1,13 @@
 ---
 dg-publish: true
 ---
-$$(\cos{\theta}+i\sin{\theta})^n=\cos{n\theta}+i\sin{n\theta}$$
+$$
+(\cos{\theta}+i\sin{\theta})^n=\cos{n\theta}+i\sin{n\theta}
+$$
 - follows from [[content/011/PX153 - mathematics for physicists/term 1/PX153 - B - complex numbers/PX153 - B2 - polar representation#^775224\|euler's formula]] and leads to 
-$$z^n=r^ne^{in\theta}=r^n(\cos{n\theta+i\sin{n\theta})}$$
+$$
+z^n=r^ne^{in\theta}=r^n(\cos{n\theta+i\sin{n\theta})}
+$$
 	- valid for $n\in \mathbb Z$
 ## solving polynomials
 - the total number of roots = largest power
@@ -15,8 +19,7 @@ $$z^n=r^ne^{in\theta}=r^n(\cos{n\theta+i\sin{n\theta})}$$
 			if $k=1$: $z_1=r^{1/n}e^{i\theta/n}e^{i2\pi/n}=z_0e^{i2\pi/n}$
 			...
 			if $k=n-1$: $z_{n-1}=r^{1/n}e^{i\theta/n}e^{i(n-1)2\pi/n}$
-		
-$$z_n=z_0e^{ik2\pi/n}=z_0e^{i2\pi}=z_0$$
+			$$z_n=z_0e^{ik2\pi/n}=z_0e^{i2\pi}=z_0$$
 				n roots from $k = 0$ to $k=n-1$
 - eg: solve $z^4-1=-i\sqrt{3}$
 	- ![Pasted image 20231016144508.png](/img/user/pics/Pasted%20image%2020231016144508.png)

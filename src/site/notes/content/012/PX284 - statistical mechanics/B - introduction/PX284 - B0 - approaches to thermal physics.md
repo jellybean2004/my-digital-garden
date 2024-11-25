@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/b-introduction/px-284-b0-approaches-to-thermal-physics/","created":"2024-11-08T10:13:11.457+00:00","updated":"2024-11-24T16:05:15.826+00:00"}
+dg-publish: true
 ---
-
 ## thermodynamics
 - assumes a unique normal state called '*thermal equilibrium*'
 - states four laws relating pressure, temperature, internal energy, entropy, and volume

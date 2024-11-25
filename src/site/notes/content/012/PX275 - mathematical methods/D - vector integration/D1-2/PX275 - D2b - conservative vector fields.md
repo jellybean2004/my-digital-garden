@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d1-2/px-275-d2b-conservative-vector-fields/","created":"2024-11-04T12:43:41.889+00:00","updated":"2024-11-24T15:37:39.234+00:00"}
+dg-publish: true
 ---
-
 ## conditions
 - consider the integral: 
-$$I = \int \vec a \cdot d\vec r$$
+$$
+I = \int \vec a \cdot d\vec r
+$$
 - the path dependence of the integral depends on the definition of $\vec a$
 - for a *conservative* vector field, the integral is path independent
 - a vector field must be continuous (partial derivatives) and simply connected (no holes)
@@ -17,7 +18,9 @@ $$I = \int \vec a \cdot d\vec r$$
 - **note:** validity of any one of the above four conditions means that the others are also valid
 
 - consider a vector field, $\vec a = \vec\nabla \phi$, if $\vec a$ is conservative: 
-$$\int_{A}^{B} \vec a \cdot d\vec r = \phi(B) - \phi(A)$$
+$$
+\int_{A}^{B} \vec a \cdot d\vec r = \phi(B) - \phi(A)
+$$
 ## example 1
  - previously considered: ![Pasted image 20241107120733.png](/img/user/pics/Pasted%20image%2020241107120733.png)
  - taking 2 paths in each case:
@@ -42,7 +45,9 @@ $$\int_{A}^{B} \vec a \cdot d\vec r = \phi(B) - \phi(A)$$
 
 ## example 2
 past paper [2021 Q1]
-$$\vec F = \frac{-y}{x^{2}+y^{2}} \hat i + \frac{x}{x^{2}+y^{2}}\hat j$$
+$$
+\vec F = \frac{-y}{x^{2}+y^{2}} \hat i + \frac{x}{x^{2}+y^{2}}\hat j
+$$
 - this looks similar to a $\vec B$-field around a wire
 $$\begin{align*}
 	\vec\nabla \times \vec F &= \left| \begin{matrix}\hat i & \hat j & \hat k \\ \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\ \frac{-y}{x^{2}+y^{2}} & \frac{x}{x^{2}+y^{2}} & 0\end{matrix} \right| \\

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/px-154-f4-wave-groups-and-group-velocity/","created":"2024-10-01T18:50:55.119+01:00","updated":"2024-11-24T19:23:44.995+00:00"}
+dg-publish: true
 ---
-
  - from [[content/011/PX154 - physics foundations/PX154 - F - waves/PX154 - F3a - principle of superposition#^d12c0f\|PX154 - F3a - principle of superposition#^d12c0f]]: $$u_{total} = 2A\cos(kx-\omega t)\cos(\Delta kx -\Delta \omega t)$$
 	- where, 
 		$\cos(kx-\omega t)= \frac{\omega}{k} =$ wave speed, 
@@ -13,7 +12,9 @@
 - this is the relationship between $\omega$ and $k$ for our wave: $\omega(k)$
 	- waves of different wavelengths travelling at different speeds
 - eg: gravity waves on deep water (dimensional analysis}: 
-$$v_{p} \propto \sqrt{g\lambda}$$
+$$
+v_{p} \propto \sqrt{g\lambda}
+$$
 	- we have, $k = \frac{2\pi}{\lambda}$, $v_{p}= \frac{\omega}{k}$
 	$$v_{p}= \frac{\omega}{k} \propto \sqrt{g .\frac{2\pi}{k}} \implies v_{p}= constant \times \sqrt{\frac{g}{k}}$$
 	- or, the "*dispersion relation*": 
@@ -25,7 +26,9 @@ $$v_{p} \propto \sqrt{g\lambda}$$
 		- $v_{g}\neq v_{p}$
 
 - eg: capillary waves on water: 
-$$\omega^{2} = \frac{\sigma}{\rho}k^{3}$$
+$$
+\omega^{2} = \frac{\sigma}{\rho}k^{3}
+$$
 		where, $\sigma=$ surface tension, $\rho=$ density 
 			$2\omega \frac{d\omega}{dk}= 3\frac{\sigma}{\rho}k^{2}$
 			$v_{g} = \frac{d\omega}{dk} = \frac{3}{2}\sqrt{\frac{\sigma}{\rho}k}$
@@ -55,7 +58,9 @@ $$\omega^{2} = \frac{\sigma}{\rho}k^{3}$$
 	- light travelling through materials exhibits dispersion (eg: a prism)
 	
  - eg: EM waves in the ionosphere: 
- $$(\omega(k))^{2} = c^{2}k^{2}+\omega_{p}^{2}$$
+$$
+(\omega(k))^{2} = c^{2}k^{2}+\omega_{p}^{2}
+$$
 		 where, $w_p=$ cyclotron frequency (a constant)
 	- find $v_{p}$ and $v_{g}$
 			$v_{p} = \frac{\omega}{k} = \sqrt{c^{2} + \frac{\omega_{p}^{2}}{k^{2}}}$

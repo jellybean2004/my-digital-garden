@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-e-the-second-law-of-thermodynamics/px-154-e1-work-done-along-different-paths-in-the-p-v-diagram/","created":"2024-10-01T18:50:55.593+01:00","updated":"2024-11-24T19:20:45.591+00:00"}
+dg-publish: true
 ---
-
 - [[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C2 - pV diagrams\|PX154 - C2 - pV diagrams]]
 ![Pasted image 20231107143349.png](/img/user/pics/Pasted%20image%2020231107143349.png)
 - any point on the $pV$ diagram has a specific values of $p$ and $V$

@@ -10,20 +10,28 @@ dg-publish: true
 		- $(i): \det A = \sum\limits_{j=1} a_{ij}c_{ij}$ (*co-factor rule*)
 		- $(ii): \sum\limits_{j=1} a_{ij}c_{kj}=0 \;\forall\; i\neq k$ (*false co-factor rule)
 - co-factor rule for $3\times 3:$ 
-$$\det \begin{bmatrix}e_{1} & e_{2} & e_{3} \\ f_{1} & f_{2} & f_{3} \\ g_{1} & g_{2} & g_{3}\end{bmatrix} = - \det \begin{bmatrix}f_{1} & f_{2} & f_{3} \\ e_{1} & e_{2} & e_{3} \\ g_{1} & g_{2} & g_{3}\end{bmatrix} = f_{1}c_{21}+f_{2}c_{22}+ f_{3} c_{23}$$
+$$
+\det \begin{bmatrix}e_{1} & e_{2} & e_{3} \\ f_{1} & f_{2} & f_{3} \\ g_{1} & g_{2} & g_{3}\end{bmatrix} = - \det \begin{bmatrix}f_{1} & f_{2} & f_{3} \\ e_{1} & e_{2} & e_{3} \\ g_{1} & g_{2} & g_{3}\end{bmatrix} = f_{1}c_{21}+f_{2}c_{22}+ f_{3} c_{23}
+$$
 	- switching row 1 and row 2 is equivalent to expanding from the $2^{nd}row$
 - false co-factor rule: $A = \begin{bmatrix}e_{1} & e_{2} & e_{3} \\ f_{1} & f_{2} & f_{3} \\ g_{1} & g_{2} & g_{3}\end{bmatrix}$
 	- $\det A = \vec e \cdot (\vec f \times \vec g)$
 	- using false co-factor rule: $\sum\limits_{j} a_{ij}c_{kj} \stackrel{?}{=} 0$
 	- using $i=2,\; k=1:$ 
-$$\sum\limits_{j} a_{2j}c_{1j} = f_{1}c_{11}+ f_{2}c_{12}+ f_{3}c_{13} = \vec f \cdot (\vec f \times \vec g)=0$$
+$$
+\sum\limits_{j} a_{2j}c_{1j} = f_{1}c_{11}+ f_{2}c_{12}+ f_{3}c_{13} = \vec f \cdot (\vec f \times \vec g)=0
+$$
 	- in general, $\det A = 0$ if two rows are the same
 ### the adjugate matrix
 - if $A = (a_{ij})_{n\times m}$, the adjugate (AKA adjoint) of $A$, $Adj(A) = (c_{ij}^{T})$, where $c_{ij}$ are co-factors of matrix $A:$ 
-$$Adj(A) =   \begin{bmatrix} c_{11} &  \dots & c_{n1} \\ \vdots & \ddots & \vdots \\ c_{1n} & \dots & c_{nn}\end{bmatrix}$$
+$$
+Adj(A) =   \begin{bmatrix} c_{11} &  \dots & c_{n1} \\ \vdots & \ddots & \vdots \\ c_{1n} & \dots & c_{nn}\end{bmatrix}
+$$
 ## the inverse
 - $A_{n\times n}$ is inversible if and only if $\det A \neq 0$
-$$A^{-1} = \frac{1}{\det A} Adj(A)$$
+$$
+A^{-1} = \frac{1}{\det A} Adj(A)
+$$
 - let $B = A\, Adj(A)$
 $$\begin{align*}
 	 B_{ij} &= \sum\limits_{k=1}^{n} a_{ik} (Adj (A))_{kj} \\

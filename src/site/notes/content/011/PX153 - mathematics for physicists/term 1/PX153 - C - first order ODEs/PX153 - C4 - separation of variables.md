@@ -2,7 +2,9 @@
 dg-publish: true
 ---
 - if an ODE can be written as $\frac{dy}{dx}=f(x)g(y)$, then solve by rearranging and integrating: 
-$$\int \frac{1}{g(x)}.dy = \int f(x).dx$$
+$$
+\int \frac{1}{g(x)}.dy = \int f(x).dx
+$$
 - eg: solve: $\frac{dN}{dt}=-\alpha N$
 		$\int \frac{1}{N}.dN=\int -\alpha .dt$
 			$\ln{N}=-\alpha t +c$

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-e-the-second-law-of-thermodynamics/px-154-e6a-introduction-to-entropy/","created":"2024-10-01T18:50:55.683+01:00","updated":"2024-11-24T19:21:20.445+00:00"}
+dg-publish: true
 ---
-
 [YF 20.7]
 - eg: from *[[content/011/PX154 - physics foundations/PX154 - E - the second law of thermodynamics/PX154 - E5 - reversible and irreversible processes#hear transfers\|here]]*: $[hot | cold]\to[warm | warm]$ is irreversible
 - the system becomes more random:

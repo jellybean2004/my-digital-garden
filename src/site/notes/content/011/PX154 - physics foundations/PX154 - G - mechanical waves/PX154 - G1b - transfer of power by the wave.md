@@ -13,8 +13,7 @@ dg-publish: true
 	$$f_{P} = 2\omega$$ 
 	- let's simplify this. take $v= \frac{\omega}{k}$ and $v^{2} = \frac{T}{\mu}$: 
 	$$\implies k=\omega \sqrt{\frac{\mu}{T}}$$
-	
-$$\therefore P(x,t) = \omega^{2} A^{2} \sqrt{\mu T}\sin ^{2}(kx-\omega t)$$
+		$$\therefore P(x,t) = \omega^{2} A^{2} \sqrt{\mu T}\sin ^{2}(kx-\omega t)$$
 			where, $z = \sqrt{\mu T}$, often called '*impedance*'
 	- the average power transmitted over a wave cycle: 
 	$$P_{av} = \frac{1}{2}\omega^{2} A^{2} z$$

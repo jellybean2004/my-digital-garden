@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i6d-stars-by-masses/","created":"2024-10-01T18:50:57.924+01:00","updated":"2024-11-24T19:11:40.630+00:00"}
+dg-publish: true
 ---
-
 - the final state depends on the mass
 ## 1
 - $M<0.08\,M_{\odot}:$ brown dwarfs

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-k-the-universe/px-158-k4-the-big-bang-theory/","created":"2024-10-01T18:27:10.346+01:00","updated":"2024-11-24T19:13:20.584+00:00"}
+dg-publish: true
 ---
-
 - this is an expansion of the space-time itself, not an explosion
 
 - $H$, $He$ and some $Li$ were formed a the universe cooled

@@ -13,10 +13,7 @@ z = x+iy = re^{i\theta}
 $$
 	$r=\sqrt{x^{2}+y^{2}}$
 	$\theta=\arctan(\frac{y}{x})$
-- here, $\theta=\omega t:$
-$$
-z= re^{i\omega t} = r(\cos(\omega t)+ i\sin(\omega t))
-$$
+- here, $\theta=\omega t:$ $$z= re^{i\omega t} = r(\cos(\omega t)+ i\sin(\omega t))$$
 - the physical solution is $\mathbb Re(z)$
 
 - notation: 
@@ -24,19 +21,14 @@ $$
 	- complex representation: $\tilde V = V_{0}e^{i\omega t}$
 	- '$j$' is used instead of '$i$', $j=\sqrt{-1}$
 
-- *phasor* ($\tilde V$):
-$$
-V(t) = V_{0}\cos(\omega t) \to \tilde V = V_{0}e^{j\omega t}
-$$
-- phase differences:
-$$\begin{align*}
+- *phasor* ($\tilde V$): $$V(t) = V_{0}\cos(\omega t) \to \tilde V = V_{0}e^{j\omega t}$$
+- phase differences: $$\begin{align*}
 		V_{1} &= V_{0}\cos(\omega t) \\
 		V_{2} &= V_{0}\cos(\omega t+\phi) \\
 	\end{align*}$$
 ![Pasted image 20240311182126.png](/img/user/pics/Pasted%20image%2020240311182126.png)- $V_{2}$ leads $V_{1}$ by a phase difference, $\phi$
 ![Pasted image 20240311182139.png](/img/user/pics/Pasted%20image%2020240311182139.png)
-- in complex notation:
-$$\begin{align*}
+- in complex notation: $$\begin{align*}
 		\tilde V_{1} &= V_{0}e^{j\omega t} \\\\
 		\tilde V_{2} &= V_{0}e^{j\omega t+j\phi} \\
 		 &= \tilde V_{1}e^{j\phi}

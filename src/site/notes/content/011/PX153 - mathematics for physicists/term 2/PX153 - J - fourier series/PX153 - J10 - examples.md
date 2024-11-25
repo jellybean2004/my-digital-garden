@@ -24,7 +24,9 @@ $$\begin{align*}
 	&= - \frac{2}{n\pi}+ \left[\frac{\sin(n\pi x)}{(n\pi)^{2}}\right]_{0}^{2} \\
 	&= -\frac{2}{n\pi}
 \end{align*}$$
-$$\therefore f(x) = 1 + \sum\limits_{n=1}^{\infty}(- \frac{2}{n\pi})\sin(n\pi x)$$
+$$
+\therefore f(x) = 1 + \sum\limits_{n=1}^{\infty}(- \frac{2}{n\pi})\sin(n\pi x)
+$$
 ## Q2
 - $f(x)= \cos(\alpha x); \; x \in [-\pi,\pi),\; \alpha\in\mathbb{R}$
 - point-wise convergence
@@ -76,20 +78,21 @@ $f(x) = x$ in $[-\pi,\pi)$
 	![Pasted image 20240205141021.png](/img/user/pics/Pasted%20image%2020240205141021.png)
 - **convergence**: point-wise (disconitinous at $x=-\pi$)
 - **symmetries**: anti-symmetric, ie: $a_{0}=0$, $a_{n}=0$
-- **coefficients and series**:
-$$\begin{align*}
+- **coefficients and series**: $$\begin{align*}
 	b_{n} &= \int_{-\pi}^{\pi} x\sin(nx)\,dx \\
 	&= \frac{1}{\pi} \left[- \frac{\cos(nx)}{n}x\right]_{-\pi}^{\pi} - \frac{1}{\pi} \int_{-\pi}^{\pi}- \frac{\cos(nx)}{n}dx \\
 	&= \frac{1}{\pi} \left(- \frac{\pi}{n} (-1)^{n} - \frac{\pi}{n}(-1)^{n} \right) \\&= \frac{2}{n} (-1)^{n+1}
 \end{align*}$$
 - fourier series: 
-$$f(x) = 2\sin x - \frac{2}{2}\sin(2x) + \frac{2}{3}\sin(3x)- \frac{2}{{4}}\sin(4x)+...$$
-{ #2eaa23}
-
+$$
+f(x) = 2\sin x - \frac{2}{2}\sin(2x) + \frac{2}{3}\sin(3x)- \frac{2}{{4}}\sin(4x)+...
+$$
 - fourier series are useful for deriving interesting relations between numbers
 ## Q5
 - from [[content/011/PX153 - mathematics for physicists/term 2/PX153 - J - fourier series/PX153 - J3 - proofs and derivations#^feb2c0\|here]]: 
-$$f(x) = |x| = \frac{\pi}{2}- \frac{4}{\pi}\left( \cos x + \frac{\cos{3x}}{9} + \frac{\cos{5x}}{25}+...\right)$$
+$$
+f(x) = |x| = \frac{\pi}{2}- \frac{4}{\pi}\left( \cos x + \frac{\cos{3x}}{9} + \frac{\cos{5x}}{25}+...\right)
+$$
 - try $x=0$: 
 $$\begin{align*}
 	0 &= \frac{\pi}{2}- \frac{4}{\pi}\left(1 + \frac{1}{9}+ \frac{1}{25}+ ...\right) \\
@@ -98,7 +101,9 @@ $$\begin{align*}
 \end{align*}$$
 ## Q6
 - from [[content/011/PX153 - mathematics for physicists/term 2/PX153 - J - fourier series/PX153 - J4 - periodic extensions#^2eaa23\|here]]: 
-$$f(x) =x= 2\sin x - \frac{2}{2}\sin(2x) + \frac{2}{3}\sin(3x)- \frac{2}{{4}}\sin(4x)+...$$
+$$
+f(x) =x= 2\sin x - \frac{2}{2}\sin(2x) + \frac{2}{3}\sin(3x)- \frac{2}{{4}}\sin(4x)+...
+$$
 - try $x = \frac{\pi}{2}$: 
 $$\begin{align*}
 	\frac{\pi}{2} &= 2\left(1- \frac{1}{3}+ \frac{1}{5}- \frac{1}{7}+ \frac{1}{9}+...\right)\\

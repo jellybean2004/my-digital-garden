@@ -17,7 +17,11 @@ $$\begin{align*}
 		\therefore \vec x &= A^{-1}\vec b
 	\end{align*}$$
 - assume: 
-$$A^{-1} = \begin{pmatrix} -a_{4} & a_{3} \\ a_{2 } & -a_{1}\end{pmatrix}$$
+$$
+A^{-1} = \begin{pmatrix} -a_{4} & a_{3} \\ a_{2 } & -a_{1}\end{pmatrix}
+$$
 - check that $A^{-1}A = I$
 - so: 
-$$\begin{pmatrix}x_{1} \\ x_{2}\end{pmatrix} = \begin{pmatrix} -a_{4} & a_{3} \\ a_{2 } & -a_{1}\end{pmatrix} \begin{pmatrix}b_{1} \\ b_{2}\end{pmatrix}$$
+$$
+\begin{pmatrix}x_{1} \\ x_{2}\end{pmatrix} = \begin{pmatrix} -a_{4} & a_{3} \\ a_{2 } & -a_{1}\end{pmatrix} \begin{pmatrix}b_{1} \\ b_{2}\end{pmatrix}
+$$

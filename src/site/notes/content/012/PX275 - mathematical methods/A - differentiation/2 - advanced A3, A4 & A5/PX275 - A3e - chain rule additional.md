@@ -1,16 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a3e-chain-rule-additional/","created":"2024-10-04T17:27:29.227+01:00","updated":"2024-11-24T15:29:20.221+00:00"}
+dg-publish: true
 ---
-
 ## comments
 - more generally: 
 	- $x_{1},x_{2}, x_{3},\dots x_{i}$ are used rather than $x,y,t$
 	- $u_{1}, u_{2}, u_{3},\dots u_{j}$ are used rather than $\rho,\theta\,\phi$
 	- for functions, $f,g$, just $f$ is used
 - a more compact notation: 
-$$\frac{\partial f}{\partial u_{j}} = \sum\limits_{i} \frac{\partial f}{\partial x_{i}} \frac{\partial x_{i}}{\partial u_{j}}$$
+$$
+\frac{\partial f}{\partial u_{j}} = \sum\limits_{i} \frac{\partial f}{\partial x_{i}} \frac{\partial x_{i}}{\partial u_{j}}
+$$
 - in operator form: 
-$$\frac{\partial }{\partial u_{j}} = \sum\limits_{i}\frac{\partial x_{i}}{\partial u_{j}} \frac{\partial }{\partial x_{i}}$$
+$$
+\frac{\partial }{\partial u_{j}} = \sum\limits_{i}\frac{\partial x_{i}}{\partial u_{j}} \frac{\partial }{\partial x_{i}}
+$$
 ## warning
 $$\begin{gather}
 x=\rho\cos\theta \\
@@ -21,9 +24,13 @@ x=\rho\cos\theta \\
 \frac{\partial \rho}{\partial x} =\cos\theta
 \end{gather}$$
 - expected: 
-$$\frac{\partial x}{\partial \rho} = \left(\frac{\partial \rho}{\partial x}\right)^{-1}$$
+$$
+\frac{\partial x}{\partial \rho} = \left(\frac{\partial \rho}{\partial x}\right)^{-1}
+$$
 - the reason: 
-$$\left(\frac{\partial x}{\partial \rho}\right)_{\theta} \text{and } \left(\frac{\partial \rho}{\partial x}\right)_{y}$$ 
+$$
+\left(\frac{\partial x}{\partial \rho}\right)_{\theta} \text{and } \left(\frac{\partial \rho}{\partial x}\right)_{y}
+$$
 	- different variables are being held constant
 
 ### what does '*holding variables constant*' mean?

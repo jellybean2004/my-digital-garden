@@ -4,12 +4,18 @@ dg-publish: true
 - often, mechanical systems are intrinsically coupled, and the displacement degrees of freedom move 'together' in a mode that has a characteristic frequency
 ## particle attached to a spring
 - the lagrangian: 
-$$L = \frac{1}{2}m\dot x^{2} - \frac{1}{2}kx^{2}$$
+$$
+L = \frac{1}{2}m\dot x^{2} - \frac{1}{2}kx^{2}
+$$
 - the euler-lagrange equation: 
-$$m\ddot x = - kx \implies \ddot x = - \omega^{2}x$$
+$$
+m\ddot x = - kx \implies \ddot x = - \omega^{2}x
+$$
 	where, $\omega = \sqrt{\frac{k}{m}}$ 
 - the solution: 
-$$x = A\cos\omega t + B\sin\omega t = C\exp(i\omega t)$$
+$$
+x = A\cos\omega t + B\sin\omega t = C\exp(i\omega t)
+$$
 ## two particles 
 - the solutions: 
 $$\begin{align*}
@@ -22,15 +28,23 @@ $$\begin{align*}
 	m_{2}\ddot x_{2} &= - k_{2}x_{2} 
 \end{align*}$$
 - in matrix form: 
-$$\begin{pmatrix}m_{1}\ddot x_{1} \\ m_{2}\ddot x_{2}\end{pmatrix} = \begin{pmatrix}-k_{1}x_{1} \\ -k_{2}x_{2}\end{pmatrix}$$
+$$
+\begin{pmatrix}m_{1}\ddot x_{1} \\ m_{2}\ddot x_{2}\end{pmatrix} = \begin{pmatrix}-k_{1}x_{1} \\ -k_{2}x_{2}\end{pmatrix}
+$$
 - to isolate $\ddot x$ an $x:$ 
-$$\begin{pmatrix}m_{1} & 0 \\ 0 & m_{2}\end{pmatrix} \begin{pmatrix}\ddot x_{1} \\ \ddot x_{2} \end{pmatrix} = \begin{pmatrix}-k_{1}x_{1} \\ -k_{2}x_{2}\end{pmatrix}$$
+$$
+\begin{pmatrix}m_{1} & 0 \\ 0 & m_{2}\end{pmatrix} \begin{pmatrix}\ddot x_{1} \\ \ddot x_{2} \end{pmatrix} = \begin{pmatrix}-k_{1}x_{1} \\ -k_{2}x_{2}\end{pmatrix}
+$$
 	- the matrix is called the **inertia matrix**, $M$
 - also: 
-$$\begin{pmatrix}k_{1} & 0 \\ 0 & k_{2}\end{pmatrix} \begin{pmatrix} x_{1} \\ x_{2} \end{pmatrix} = \begin{pmatrix}-k_{1}x_{1} \\ -k_{2}x_{2}\end{pmatrix}$$
+$$
+\begin{pmatrix}k_{1} & 0 \\ 0 & k_{2}\end{pmatrix} \begin{pmatrix} x_{1} \\ x_{2} \end{pmatrix} = \begin{pmatrix}-k_{1}x_{1} \\ -k_{2}x_{2}\end{pmatrix}
+$$
 	- this matrix is called the **stiffness matrix**, $K$
 - therefore: 
-$$M \vec{\ddot x}  = -K\vec x$$
+$$
+M \vec{\ddot x}  = -K\vec x
+$$
 - solutions: 
 $$\begin{align*}
 	\vec x(t) = \begin{pmatrix}1 \\ 0\end{pmatrix} D_{1}\exp(i\omega_{1}t) \\
@@ -38,4 +52,6 @@ $$\begin{align*}
 \end{align*}$$
 - they give the vibrations of the first and the second spring respectively
 - the general solution is a sum of the two: 
-$$\vec x(t) = \begin{pmatrix}1 \\ 0\end{pmatrix} D_{1}\exp(i\omega_{1}t) + \begin{pmatrix} 0 \\ 1 \end{pmatrix} D_{2}\exp(i\omega_{2}t)$$
+$$
+\vec x(t) = \begin{pmatrix}1 \\ 0\end{pmatrix} D_{1}\exp(i\omega_{1}t) + \begin{pmatrix} 0 \\ 1 \end{pmatrix} D_{2}\exp(i\omega_{2}t)
+$$

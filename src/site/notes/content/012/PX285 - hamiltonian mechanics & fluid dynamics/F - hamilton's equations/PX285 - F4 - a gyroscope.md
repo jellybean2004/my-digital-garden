@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f4-a-gyroscope/","created":"2024-11-15T19:02:47.964+00:00","updated":"2024-11-24T16:25:19.223+00:00"}
+dg-publish: true
 ---
-
 - considering a spinning top that can rotate on a fixed point
 - it has three rotational degrees of freedom: $\theta$, $\alpha$, and $\phi$; but no translational degrees of freedom 
 ![Pasted image 20241115190518.png](/img/user/pics/Pasted%20image%2020241115190518.png)
 - **reminder:** for a uniform rod of length, $l$, spinning about its centre of mass with an angular frequency, $\omega$, the kinetic energy is given by: 
-$$T = \frac{1}{2}I\omega^{2}$$
+$$
+T = \frac{1}{2}I\omega^{2}
+$$
 	where, $I=ml^{2}$ is the moment of inertia
 
 - the gyroscope has two moments of inertia, $I$ and $J$
@@ -30,7 +31,9 @@ $$T = \frac{1}{2}I\omega^{2}$$
 - the spin frequency: $\dot\omega = \dot\alpha + \dot\beta\cos\theta$
 - $\dot\phi\sin\theta \hat e_{\phi}'$ 
 - hence, the kinetic energy is given by: 
-$$T = \frac{1}{2}I\dot\theta^{2} + \frac{1}{2} I (\dot\phi\sin\theta)^{2} + \frac{1}{2}J(\dot\alpha + \dot\phi\cos\theta)^{2}$$
+$$
+T = \frac{1}{2}I\dot\theta^{2} + \frac{1}{2} I (\dot\phi\sin\theta)^{2} + \frac{1}{2}J(\dot\alpha + \dot\phi\cos\theta)^{2}
+$$
 ## the lagrangian
 $$\begin{align*}
 	L &= T - V \\
@@ -38,7 +41,9 @@ $$\begin{align*}
 	&= 
 \end{align*}$$
 - the euler-lagrange equation: 
-$$\frac{\partial L}{\partial q_{i}} = \frac{d}{dt} \frac{\partial L}{\partial \dot q_{i}}$$
+$$
+\frac{\partial L}{\partial q_{i}} = \frac{d}{dt} \frac{\partial L}{\partial \dot q_{i}}
+$$
 - $\frac{d}{dt}\frac{\partial L}{\partial \dot q_{i}}$ is the generalized momentum
 - there will be three equations
 - there are two rotational symmetries as $L$ does not depend on ${} \phi$ or $\alpha$

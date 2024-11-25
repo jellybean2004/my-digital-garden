@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-i-light/i-light/","created":"2024-10-01T18:50:55.259+01:00","updated":"2024-11-24T19:26:06.579+00:00"}
+dg-publish: true
 ---
-
 [[content/011/PX154 - physics foundations/PX154 - I - light/PX154 - I1 - the nature of light\|PX154 - I1 - the nature of light]]
 [[content/011/PX154 - physics foundations/PX154 - I - light/PX154 - I2 - polarization\|PX154 - I2 - polarization]]
 [[content/011/PX154 - physics foundations/PX154 - I - light/PX154 - I3 - polarized and unpolarized light\|PX154 - I3 - polarized and unpolarized light]]

@@ -11,11 +11,13 @@ $$\begin{align*}
 	\therefore (m_{2}-m_{1}) &= -2.5 \log_{10}\left(\frac{f_{2}}{f_{1}}\right)
 \end{align*}$$
 - pogson selected vega as a reference star due to its brightness: 
-$$m_{vega} = 0$$
+$$
+m_{vega} = 0
+$$
 - magnitudes of other stars can be determined by: 
-$$\therefore m = -2.5\log_{10}\left(\frac{f}{f_{vega}}\right)$$
-{ #6c110f}
-
+$$
+\therefore m = -2.5\log_{10}\left(\frac{f}{f_{vega}}\right)
+$$
 - these are *apparent magnitudes* - depends upon where the observer is
 ## absolute magnitude (M)
 - the apparent magnitude if the object was located at a distance of $10\,pc$
@@ -27,7 +29,8 @@ $$\begin{align*}
 - eg: how far away could the sun be seen with a naked eye?
 		$m=6$
 		$M_{\odot} = +4.8$
-$$\therefore d \approx 1.4\,pc
+$$
+\therefore d \approx 1.4\,pc
 $$
 - eg: what is the absolute magnitude of a $100\,W$ light bulb and how far away can it be seen with a naked eye?
 	- $L_{\odot} = 3.82 \times10^{26}\,W$, $M_{\odot} = +4.8$

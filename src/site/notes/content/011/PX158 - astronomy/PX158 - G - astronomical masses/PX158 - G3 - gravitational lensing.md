@@ -3,14 +3,20 @@ dg-publish: true
 ---
 - general relativity predicts that light will bend in a gravitational field
 - the angle of deflection due to gravitational lensing, $\alpha$, by a mass, $M:$ 
-$$\alpha = \frac{4GM}{c^{2}r}$$ nimp
+$$
+\alpha = \frac{4GM}{c^{2}r}
+$$
 - the angle of deflection for light from a star near the limb of the sun: 
-$$\Delta\alpha = 1.73^{''}$$
+$$
+\Delta\alpha = 1.73^{''}
+$$
 - in $1919$, measurements were made that helped prove general relativity
 
 ![Pasted image 20240213101704.png](/img/user/pics/Pasted%20image%2020240213101704.png)
 - *einstien ring radius*: 
-$$\theta_{E} = \sqrt{\frac{4\,G\,M}{c^{2}\,D}}$$
+$$
+\theta_{E} = \sqrt{\frac{4\,G\,M}{c^{2}\,D}}
+$$
 	where, $M=$ mass of gravitational lens object, $D =$ observer-lens distance $=$ lens-source distance
 - **note:** need perfect alignment
 

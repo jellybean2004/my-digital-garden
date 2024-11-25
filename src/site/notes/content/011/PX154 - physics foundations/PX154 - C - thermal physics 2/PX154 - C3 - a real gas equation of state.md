@@ -25,6 +25,8 @@ dg-publish: true
 		- further reading [grant+phillips : elements of physics]
 ## van der waal's equation of state
 
-$$\left(p+ \frac{an^{2}}{V^{2}}\right)(V-nb)=nRT$$
+$$
+\left(p+ \frac{an^{2}}{V^{2}}\right)(V-nb)=nRT
+$$
 - at high volumes/low densities, it is well approximate by the *[[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C1 - ideal gas equation of state#ideal gas law\|ideal gas law]]*
  

@@ -27,17 +27,12 @@ dg-publish: true
 	- the water exits the opening at speed $v(h)$ 
 		- in a time $\Delta t$, the volume of water leaving is $\Delta V = a \;v(h) \Delta t$
 			- corresponds to a change in height: 
-		
-$$\Delta h = h(t +\Delta t)-h(t) =  \frac{\Delta v}{A}= \frac{-av(h)\Delta t}{A}$$
+			$$\Delta h = h(t +\Delta t)-h(t) =  \frac{\Delta v}{A}= \frac{-av(h)\Delta t}{A}$$
 			- to find $v(h)$, we use bernaulli's equation of energy conservation in fluid flow: 
-		
-$$p_{0} + \rho g h + \frac{1}{2}\rho v^{2}= constant$$
+			$$p_{0} + \rho g h + \frac{1}{2}\rho v^{2}= constant$$
 				- basically $E = KE + PE$
-		
-$$\implies \rho gh = \frac{1}{2}\rho v^{2} \implies v(h)=\sqrt{2gh}$$
+			$$\implies \rho gh = \frac{1}{2}\rho v^{2} \implies v(h)=\sqrt{2gh}$$
 			- so we have 
-		
-$$\frac{h(t+\Delta t)-h(t)}{\Delta t} = - \frac{a}{A}\sqrt{2gh}$$
+			$$\frac{h(t+\Delta t)-h(t)}{\Delta t} = - \frac{a}{A}\sqrt{2gh}$$
 			- taking the limit $\Delta t \to 0$ gives is the derivative 
-		
-$$\frac{dh}{dt}= - \frac{a}{A}\sqrt{2gh}$$
+			$$\frac{dh}{dt}= - \frac{a}{A}\sqrt{2gh}$$

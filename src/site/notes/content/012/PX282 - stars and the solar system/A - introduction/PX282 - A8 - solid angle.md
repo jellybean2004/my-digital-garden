@@ -1,16 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/a-introduction/px-282-a8-solid-angle/","created":"2024-10-17T11:37:10.004+01:00","updated":"2024-11-24T15:45:56.458+00:00"}
+dg-publish: true
 ---
-
 - a solid angle gives the area of a 'spherical cap' on the surface
 - it is the 3D equivalent of an angle
 - units: steradians, radians
 ![Pasted image 20241017113641.png](/img/user/pics/Pasted%20image%2020241017113641.png)
 - how many total solid angles in a sphere? ie: 
-$$\int_{sphere} d\Omega =?$$
+$$
+\int_{sphere} d\Omega =?
+$$
 - taking a unit sphere of surface area, $dA$, for a given solid angle, $d\Omega$
 - for spherical coordinates, $dA = \sin\theta\,d\theta\,d\Omega:$ 
-$$\int_{0}^{2\pi} \int_{0}^{\pi} \sin\theta \,d\theta \, d\phi = 4\pi$$
+$$
+\int_{0}^{2\pi} \int_{0}^{\pi} \sin\theta \,d\theta \, d\phi = 4\pi
+$$
 - at $\theta=0$, there is not surface contribution
 
 - the angle between two lines is always the same
@@ -23,7 +26,9 @@ $$\int_{0}^{2\pi} \int_{0}^{\pi} \sin\theta \,d\theta \, d\phi = 4\pi$$
 	- therefore, the solid angle is: 
 	$$\Omega = \frac{\pi r^{2}}{4\pi d^{2}}\times 4\pi = \frac{\pi r^{2}}{d^{2}}$$
 - more generally: 
-$$\Omega = \frac{A}{d^{2}}$$
+$$
+\Omega = \frac{A}{d^{2}}
+$$
 - eg in reverse: a beam of particles is released from a collider into a solid angle, $\Omega$, at a rate, $n\,s^{-1}$. how many particles hit a detector at a distance, $d$?
 	- beam fills a fraction of the sphere, $\frac{\Omega}{4\pi}$, at any $d$
 	- the detector also covers a fraction of the sphere, an area, $A$

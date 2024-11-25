@@ -2,7 +2,9 @@
 dg-publish: true
 ---
 ## geiger-nuttall law
-$$\ln \lambda = - C_{1} \frac{Z-2}{\sqrt{E}}+ C_{2}$$
+$$
+\ln \lambda = - C_{1} \frac{Z-2}{\sqrt{E}}+ C_{2}
+$$
 	$\lambda=$ decay constant
 	$Z =$ atomic number
 	$E=$ energy of the emitted $\alpha$ particle
@@ -15,8 +17,7 @@ $$\ln \lambda = - C_{1} \frac{Z-2}{\sqrt{E}}+ C_{2}$$
 - classically, alpha decay cannot be explained
 - alpha decay happens due to quantum tunnelling
 
-- $N(t)=$ number of nuclei remaining at time, $t:$
-$$\frac{dN}{dt}= -\lambda N$$
+- $N(t)=$ number of nuclei remaining at time, $t:$ $$\frac{dN}{dt}= -\lambda N$$
 	$\tau= \frac{1}{\lambda} =$ life time 
 $$\begin{align*}
 	N(t_\frac{1}{2}) &= \frac{1}{2}N(0) = N(0) \exp \left({-\lambda t_\frac{1}{2}}\right)\\
@@ -27,16 +28,22 @@ $$\begin{align*}
 - atomic number of nucleus$:Z$
 - charges $:Q_{1}=2^{+},\; Q_{2} = (Z-2)^{+}$
 - potential energy: 
-$$V(r) = \frac{2(Z-2)e^{2}}{4\pi \epsilon_{0}r}$$
+$$
+V(r) = \frac{2(Z-2)e^{2}}{4\pi \epsilon_{0}r}
+$$
 - if the particle escapes: 
-$$E_{K} = V(r) = \frac{2(Z-2)e^{2}}{4\pi \epsilon_{0}d}$$
+$$
+E_{K} = V(r) = \frac{2(Z-2)e^{2}}{4\pi \epsilon_{0}d}
+$$
 	where, $d=$ width of barrier
 $$\begin{gather}
 	d = \frac{(Z-2)e^{2}}{2\pi\epsilon_{0}E_{K}} \\
 	T \sim \exp\left(- \frac{(Z-2)e^{2}\sqrt{2m(V-E_{K})}}{\pi\epsilon_{0}E_{K}\hbar}\right)
 \end{gather}$$
 - for $V>>E_{K}:$ 
-$$T \sim \exp\left(- \frac{A(Z-2)}{E_{K}}\right)$$
+$$
+T \sim \exp\left(- \frac{A(Z-2)}{E_{K}}\right)
+$$
 	where, $A=$ collection of constants
 
  - in reality, there are a range of kinetic energies, so to account for that, an integral must be taken: 

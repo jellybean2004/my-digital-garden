@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c6b-a-particle-in-a-cartesian-plane/","created":"2024-10-24T17:58:55.761+01:00","updated":"2024-11-24T16:18:40.096+00:00"}
+dg-publish: true
 ---
-
 - consider a particle moving in a cartesian plane with a potential, $V(x,y)$
 - the lagrangian: 
-$$L = \frac{1}{2}mv^{2}- V(x,y)$$
+$$
+L = \frac{1}{2}mv^{2}- V(x,y)
+$$
 	where, $v^{2}= \dot x^{2}+ \dot y^{2}$
 - here, there are two position coordinates, ie: $d=2$, so expect two euler-lagrange equations: 
 $$\begin{align*}
@@ -12,7 +13,13 @@ $$\begin{align*}
 	-\frac{\partial V}{\partial y} &= \frac{d}{dt} m\dot y = \frac{d}{dt} p_{y}
 \end{align*}$$
 - define the momentum vector:
-$$\vec p = \begin{pmatrix} p_{x} \\ p_{y}\end{pmatrix}$$
-$$\frac{d}{dt} \begin{pmatrix} p_{x} \\ p_{y}\end{pmatrix} = \begin{pmatrix} -\frac{\partial V}{\partial x} \\ -\frac{\partial V}{\partial y}\end{pmatrix} = \vec F$$
+$$
+\vec p = \begin{pmatrix} p_{x} \\ p_{y}\end{pmatrix}
+$$
+$$
+\frac{d}{dt} \begin{pmatrix} p_{x} \\ p_{y}\end{pmatrix} = \begin{pmatrix} -\frac{\partial V}{\partial x} \\ -\frac{\partial V}{\partial y}\end{pmatrix} = \vec F
+$$
 - therefore, a fully vectorized form of newton's second law is obtained: 
-$$\frac{d}{dt}\vec p = \vec F = -\vec\nabla V$$
+$$
+\frac{d}{dt}\vec p = \vec F = -\vec\nabla V
+$$

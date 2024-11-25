@@ -10,8 +10,5 @@ dg-publish: true
 - eg: imposing an external magnetic field, $\vec B_{0}$
 	- $\vec B_{0}$ induces atomic $\vec\mu$, and causes permanent atomic $\vec\mu$ to align
 	- an additional magnetic field (dipole field) is generated
-	- consequently:
-$$
-\vec B = \mu_{r}\vec B_{0}
-$$
+	- consequently: $$\vec B = \mu_{r}\vec B_{0}$$
 		where, $\mu_{r}=$ relative permeability

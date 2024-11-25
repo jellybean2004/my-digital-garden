@@ -1,12 +1,18 @@
 ---
 dg-publish: true
 ---
-$$\iint_{S} \phi\,dS \; or \; \iint_{S} \vec a \cdot d\vec S \; or \; \iint_{S} \vec a \times d\vec S \; or \; \iint_{S} a\, d\vec S$$
+$$
+\iint_{S} \phi\,dS \; or \; \iint_{S} \vec a \cdot d\vec S \; or \; \iint_{S} \vec a \times d\vec S \; or \; \iint_{S} a\, d\vec S
+$$
 - $d\vec S$ is a surface element that represents $dS\,\hat n$, where $dS$ is an infinitesimal area, and $\hat n$ is the normal to the surface element (3D vector with a magnitude of 1)
 
 - formally, dividing $S$ into $N$ elements, each with an area, $\Delta S_{p}$, where $p=1,...N$, and each surface element is assigned its normal, $\hat n_{p}$: 
-$$\iint_{S} \vec a \cdot d\vec S = \lim_{N\to\infty} \sum\limits_{p=1}^{N} \vec a (\bar x_{p}, \bar y_{p}, \bar z_{p}) \cdot \Delta S_{p}\hat n_{p}$$ 
-$$d\vec S = r^{2}\sin\theta \, d\theta \, d\phi$$
+$$
+\iint_{S} \vec a \cdot d\vec S = \lim_{N\to\infty} \sum\limits_{p=1}^{N} \vec a (\bar x_{p}, \bar y_{p}, \bar z_{p}) \cdot \Delta S_{p}\hat n_{p}
+$$
+$$
+d\vec S = r^{2}\sin\theta \, d\theta \, d\phi
+$$
 - eg: what is the vector area of the hemisphere?
 	$$I = \int_{S} 1\,d\vec S$$
 		$x^{2}+y^{2}+z^{2}=a^{2}$

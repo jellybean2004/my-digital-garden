@@ -49,4 +49,6 @@ dg-publish: true
 [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F6 - hydrogen-like atoms\|PX262 - F6 - hydrogen-like atoms]]
 [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F7 - properties of hydrogen-like atoms\|PX262 - F7 - properties of hydrogen-like atoms]]
 ### [[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/G - additional interactions in atoms\|G - additional interactions in atoms]]
-$$$$
+$$
+
+$$

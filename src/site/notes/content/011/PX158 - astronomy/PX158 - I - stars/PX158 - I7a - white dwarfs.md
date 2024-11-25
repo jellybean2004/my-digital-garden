@@ -1,14 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i7a-white-dwarfs/","created":"2024-10-01T18:50:57.851+01:00","updated":"2024-11-24T19:11:48.029+00:00"}
+dg-publish: true
 ---
-
 - consists of cores from stars that have finished fusion
 - *pauli's exclusion principle*: no two electrons can occupy the same quantum state
 - *the [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - B - atomic stucture/PX156 - B3 - de broglie hypothesis#^e4a50f\|de broglie wavelength]]* gives the mean spacing between the electrons: 
-$$\lambda = \frac{h}{p} = n_{e}^{- \frac{1}{3}}$$
+$$
+\lambda = \frac{h}{p} = n_{e}^{- \frac{1}{3}}
+$$
 		where, $n_{e}=$ number density of electrons
 - the degeneracy energy: 
-$$E_{d} = \frac{p^{2}}{2m_{e}} = \frac{h^{2}n_{e}^{\frac{2}{3}}}{2m_{e}}$$
+$$
+E_{d} = \frac{p^{2}}{2m_{e}} = \frac{h^{2}n_{e}^{\frac{2}{3}}}{2m_{e}}
+$$
 - **key features:**
 	- there is no temperature dependence
 	- $E\propto \frac{1}{m}$ means electrons have much higher degeneracy energy for similar $n$ than protons or neutrons

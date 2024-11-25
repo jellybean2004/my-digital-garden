@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a3c-change-of-variables-and-coordinate-system/","created":"2024-10-04T17:26:16.027+01:00","updated":"2024-11-24T15:29:08.080+00:00"}
+dg-publish: true
 ---
-
 ## cylindrical coordinates
 ![Pasted image 20241004170604.png](/img/user/pics/Pasted%20image%2020241004170604.png)
-$$P(x,y) \to P(\rho,\theta)$$
+$$
+P(x,y) \to P(\rho,\theta)
+$$
 	$x=\rho\cos\theta$ 
 	$y=\rho\sin\theta$ 
 	$\rho^{2}=x^{2}+y^{2}$ 
