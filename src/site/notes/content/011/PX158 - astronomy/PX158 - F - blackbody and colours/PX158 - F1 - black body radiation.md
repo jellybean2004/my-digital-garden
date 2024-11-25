@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-f-blackbody-and-colours/px-158-f1-black-body-radiation/","created":"2024-10-01T18:50:58.178+01:00","updated":"2024-11-25T01:06:34.720+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-f-blackbody-and-colours/px-158-f1-black-body-radiation/","created":"2024-10-01T18:50:58.178+01:00","updated":"2024-11-25T01:13:37.032+00:00"}
 ---
 
 ## planck's law
@@ -8,7 +8,8 @@
 - for a black body, the wavelength, $\lambda$, of the emitted radiation can be specified
 - in 1901, max planck found a function and model that accurately gave the spectrum of  black body.
 - power per area per $\lambda:$ 
-$$B_\lambda(T) = \frac{2\pi hc^{2}}{\lambda^{5}\left(\exp\left(\frac{hc}{k_{B}T\lambda}\right)-1\right)}$$ **nimp**
+$$B_\lambda(T) = \frac{2\pi hc^{2}}{\lambda^{5}\left(\exp\left(\frac{hc}{k_{B}T\lambda}\right)-1\right)}$$
+
 ![Pasted image 20240131122028.png](/img/user/pics/Pasted%20image%2020240131122028.png)
 - "rayleigh-jeans tail" can be obtained from classical physics
 - smooth curves
@@ -23,7 +24,7 @@ $$\lambda_{max}T = 2.9\times10^{-3}m\,K$$
 
 - eg: what is the peak wavelength for emission from the earth?
 	- $T=290\,K$
-	$$\lambda_{max} = \frac{2.9\times10^{-3}}{290} = 10^{-5}\,m = 10\,\mu m$$
+	$$\lambda_{max} = \frac{2.9\times10^{-3}}{290} = 10^{-5}\,m = 1\,\mu m$$
 ## stefan-boltzmann law
 - total power emitted per unit area ($J$) is given by: 
 $$J = \sigma\,T^{4}$$ where, $\sigma=5.67\times10^{-8}\,Wm^{-2}K^{-4}:$ stefan-boltzmann constant
