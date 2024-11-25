@@ -1,18 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b5-quantum-tunnelling/","created":"2024-10-08T11:44:47.762+01:00","updated":"2024-11-24T00:52:37.099+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b5-quantum-tunnelling/","created":"2024-10-08T11:44:47.762+01:00","updated":"2024-11-25T00:53:45.409+00:00"}
 ---
 
 ![Pasted image 20241109112731.png](/img/user/pics/Pasted%20image%2020241109112731.png)
 - considering a particle travelling from $x= -\infty$, with an energy, $E$, that encounters a potential barrier: 
   $$V= \begin{cases} V_{0}& for\,x\in[0,b] \\ 0 & elsewhere \end{cases}$$
 - when $E<V_{0}$, in quantum mechanics, particle may get through
-- considering the wavefunctions in the regions:$$\begin{align*}
-		\phi_{I}(x) &= Ae^{ikx}+Be^{-ikx} \\
-		\phi_{II}(x) &= Ce^{\kappa x} + De^{\kappa x} \\
-		\phi_{III}(x) &= Fe^{ikx}
+- considering the wavefunctions in the regions:
+$$\begin{align*}
+	\phi_{I}(x) &= Ae^{ikx}+Be^{-ikx} \\
+	\phi_{II}(x) &= Ce^{\kappa x} + De^{\kappa x} \\
+	\phi_{III}(x) &= Fe^{ikx}
 \end{align*}$$
 	where, $\kappa=\sqrt{\frac{2m(V_{0}-E)}{\hbar^{2}}}$
-- $\phi(x)$ and its derivative must be continuous at $x=0$ and $x=b:$ $$\begin{gather*}
+- $\phi(x)$ and its derivative must be continuous at $x=0$ and $x=b:$ 
+$$\begin{gather*}
 	\phi_{I}(0) = \phi_{II}(0) & \phi_{II}(b) = \phi_{III}(b) \\
 	\phi_{I}'(a) = \phi_{II}'(a) & \phi_{II}'(b) = \phi_{III}'(b) \\
 \end{gather*}$$

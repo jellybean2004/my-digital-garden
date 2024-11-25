@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b6-1-d-harmonic-oscillator/","created":"2024-10-14T19:09:28.450+01:00","updated":"2024-11-24T01:46:49.519+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b6-1-d-harmonic-oscillator/","created":"2024-10-14T19:09:28.450+01:00","updated":"2024-11-25T00:54:46.996+00:00"}
 ---
 
 - in classical physics: 
@@ -12,7 +12,8 @@ $$\begin{align*}
 	\frac{d^{2}\phi(y)}{dy^{2}} + (\alpha-y^{2})\phi(y) =0
 \end{align*}$$
 	where, $y = \sqrt{\frac{M\omega_{c}}{\hbar}}x$, and $\alpha = \frac{2E}{\hbar\omega_{c}}$
-- looking at the asymptotic case, $|y| >> \alpha:$ $$\frac{d^{2}\phi}{dy^{2}} - y^{2}\phi = 0$$
+- looking at the asymptotic case, $|y| >> \alpha:$ 
+$$\frac{d^{2}\phi}{dy^{2}} - y^{2}\phi = 0$$
 - try solution in form: 
 $$\begin{gather*}
 	\phi = y^{n}e^{-\frac{y^{2}}{2}} \\\\
@@ -22,7 +23,7 @@ $$\begin{gather*}
 	= \frac{n(n-1)}{y^{2}}\phi(y) - (2n+1)\phi(y) + y^{2}\phi(y)
 \end{gather*}$$
 - if $y$ is very large: 
-  $$\frac{d^{2}\phi(y)}{dy^{2}} \approx y^{2}\phi(y)$$
+$$\frac{d^{2}\phi(y)}{dy^{2}} \approx y^{2}\phi(y)$$
 	- also, $\phi\approx 0$ due to the $e^\frac{-y^{2}}{2}$ term
 - for small values of $y:$ 
   $$\phi(y) = H(y)e^{- \frac{y^{2}}{2}}$$
