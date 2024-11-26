@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:12:03.433+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T21:29:24.891+00:00"}
 ---
 
+ [[content/012/PX275 - mathematical methods/PX275 - formula sheet\|PX275 - formula sheet]]
 ## [[content/012/PX275 - mathematical methods/A - differentiation/A - differentiation\|A - differentiation]]
 [[content/012/PX275 - mathematical methods/A - differentiation/1 - introduction A1 & A2/PX275 - A1 - partial differentiation\|PX275 - A1 - partial differentiation]]
 [[content/012/PX275 - mathematical methods/A - differentiation/1 - introduction A1 & A2/PX275 - A1a - total differentiation\|PX275 - A1a - total differentiation]]
