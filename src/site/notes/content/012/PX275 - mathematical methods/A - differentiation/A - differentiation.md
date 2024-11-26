@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/a-differentiation/"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/a-differentiation/a-differentiation/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:18:02.664+00:00"}
 ---
 
 [[content/012/PX275 - mathematical methods/A - differentiation/1 - introduction A1 & A2/PX275 - A1 - partial differentiation\|PX275 - A1 - partial differentiation]]

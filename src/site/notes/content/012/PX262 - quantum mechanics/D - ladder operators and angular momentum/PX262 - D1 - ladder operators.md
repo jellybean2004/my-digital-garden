@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-d1-ladder-operators/"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-d1-ladder-operators/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:07:50.779+00:00"}
 ---
 
 - the hamiltonian operator: 

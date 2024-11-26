@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b-coordinate-systems-and-integration/"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b-coordinate-systems-and-integration/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:18:25.707+00:00"}
 ---
 
 ## [[content/012/PX275 - mathematical methods/B - coordinate systems and integration/B1 - coordinate systems/B1 - coordinate systems\|B1 - coordinate systems]]

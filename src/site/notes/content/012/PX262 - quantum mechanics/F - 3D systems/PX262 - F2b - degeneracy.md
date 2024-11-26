@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f2b-degeneracy/"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f2b-degeneracy/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:08:15.527+00:00"}
 ---
 
 - if two or more sides of the potential well are of the same length, eg: $a=b$, the energies of the states will be: 

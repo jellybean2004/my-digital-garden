@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g5-multielectron-atoms/"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g5-multielectron-atoms/","created":"2024-11-25T11:41:02.445+00:00","updated":"2024-11-26T01:08:58.931+00:00"}
 ---
 
 - for two electrons:

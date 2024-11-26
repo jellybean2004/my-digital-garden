@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f4-separation-of-variables-in-spherical-coordinates/"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f4-separation-of-variables-in-spherical-coordinates/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:08:19.632+00:00"}
 ---
 
 - considering a spherically symmetric potential: $V(x,y,z) = V(r)$, where $r$ is the distance from the centre of potential

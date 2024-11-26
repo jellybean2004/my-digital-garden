@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/px-282-0-stars-and-the-solar-system/"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/px-282-0-stars-and-the-solar-system/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:14:01.042+00:00"}
 ---
 
 ## lectures notes

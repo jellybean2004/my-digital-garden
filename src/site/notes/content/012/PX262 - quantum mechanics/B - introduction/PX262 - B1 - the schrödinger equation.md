@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b1-the-schroedinger-equation/"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b1-the-schroedinger-equation/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:31:51.673+00:00"}
 ---
 
 - a fundamental equation in QM to describe the system and the state in which it is, the schrödinger equation: 
@@ -12,7 +12,7 @@
 	- in classical mechanics: 
 	  $$E = \frac{p^{2}}{2M} +V$$
 	- swapping $p, V, E$ with operators: 
-	  $$\begin{align*}
+$$\begin{align*}
 		E\to i\hbar\frac{\partial }{\partial t} \\
 		\vec p \to -i\hbar \vec\nabla
 	\end{align*}$$
@@ -24,7 +24,7 @@
 - in some interval, between $x$ and $x+dx$, at a time, $t$, the probability of finding the particle is given by the *bohr postulates*: 
   $$P(x,t)\,dx = |\psi(x,t)|^{2}$$
 - the wavefunction has to be *normalized*, ie: the probability of finding the particle in the system is fixed: 
-  $$\begin{gather*}
+$$\begin{gather*}
 	\int_{-\infty}^{+\infty} P(x,t)\,dx = 1 \\
 	\implies \int_{-\infty}^{+\infty} |\psi(x,t)|^{2}\,dx = \int_{-\infty}^{+\infty} \psi^{*}\psi\,dx=1
 \end{gather*} $$

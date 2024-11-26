@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/content/index/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T00:59:56.801+00:00"}
 ---
 
 ## hello world!

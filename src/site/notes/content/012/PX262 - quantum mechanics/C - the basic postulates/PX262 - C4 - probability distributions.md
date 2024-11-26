@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c4-probability-distributions/"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c4-probability-distributions/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:07:16.225+00:00"}
 ---
 
 - taking the lowest energy state of a particle in an infinite potential well, and its wavefunction

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c5-expectation-value/"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c5-expectation-value/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:07:23.192+00:00"}
 ---
 
 -  when measurements of a dynamical variable represented by the operator, $\hat Q$, are repeated on identical copies of a system, the average value obtained is called the expectation value

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d-vector-integration/"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d-vector-integration/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:18:38.275+00:00"}
 ---
 
 [[content/012/PX275 - mathematical methods/D - vector integration/D1-2/PX275 - D1 - vector displacements\|PX275 - D1 - vector displacements]]

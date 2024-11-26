@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c9c-compatibility-of-measurements/"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c9c-compatibility-of-measurements/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:07:40.951+00:00"}
 ---
 
 - take a case where $\phi_{1}$ and $\phi_{2}$ are degenerate eigenfunctions of an operator, $\hat Q$, with an eigenvalue, $q$

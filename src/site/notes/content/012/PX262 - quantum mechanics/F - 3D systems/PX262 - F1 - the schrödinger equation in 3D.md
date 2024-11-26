@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f1-the-schroedinger-equation-in-3-d/"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f1-the-schroedinger-equation-in-3-d/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:08:12.509+00:00"}
 ---
 
 ## time-dependent

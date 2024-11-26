@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/b-introduction/"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/b-introduction/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:06:35.751+00:00"}
 ---
 
 [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B1 - the schrödinger equation\|PX262 - B1 - the schrödinger equation]]

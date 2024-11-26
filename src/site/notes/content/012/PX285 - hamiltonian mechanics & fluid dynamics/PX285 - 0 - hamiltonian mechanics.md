@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics/"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:14:10.870+00:00"}
 ---
 
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/A - introduction/A - introduction\|A - introduction]]

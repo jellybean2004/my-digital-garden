@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c10-the-basic-postulates/"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c10-the-basic-postulates/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:07:44.168+00:00"}
 ---
 
 ## postulate 1

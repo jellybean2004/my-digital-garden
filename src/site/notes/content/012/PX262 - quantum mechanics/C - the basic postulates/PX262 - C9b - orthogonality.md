@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c9b-orthogonality/"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c9b-orthogonality/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:07:37.558+00:00"}
 ---
 
 - by the fact that there are different eigenvalues, it was concluded that: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f6-hydrogen-like-atoms/"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f6-hydrogen-like-atoms/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:08:28.699+00:00"}
 ---
 
 - **hydrogen-like atoms** are systems with a **single electron in the coulomb potential** of the nucleus, eg: $He+$, $Li^{2+}$, etc.
