@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/e-stellar-evolution/px-282-e3-main-sequence/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:40:12.291+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/e-stellar-evolution/px-282-e3-main-sequence/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:49:54.008+00:00"}
 ---
 
+![Pasted image 20241126104946.png](/img/user/pics/Pasted%20image%2020241126104946.png)
 - H-burning stars in PP chains
 - overtime, He builds up in the core
 - the average mass per particle in the core goes from $\mu_{H+} = \frac{1}{2}$ to $\mu_{He+}=\frac{4}{3}$
@@ -14,8 +15,6 @@ $$\tau_{N} = \frac{E_{N}}{L} \approx 7\times10^{9}\,years \;\text{(sun)}$$
 ## scaling law for low mass stars
 - the luminosity from energy transfer: 
 $$L \propto \frac{r^{2}}{\kappa\rho} T^{3} \frac{dT}{dr} \propto \frac{r^{2}T^{6.5}}{\rho^{2}} \frac{dT}{dr}$$
-{ #4635d4}
-
 	- where, $\kappa \propto \rho T^{-3.5}$ from kramer's laws
 - therefore: 
 $$\frac{dT}{dr} = \frac{T}{R}$$

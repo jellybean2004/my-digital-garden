@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/e-stellar-evolution/e-stellar-evolution/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:47:13.692+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/e-stellar-evolution/e-stellar-evolution/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:53:25.570+00:00"}
 ---
 
 [[content/012/PX282 - stars and the solar system/E - stellar evolution/PX282 - E1a - star formation\|PX282 - E1a - star formation]]
@@ -15,3 +15,4 @@
 [[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E5f - post AGB\|PX285 - E5f - post AGB]]
 [[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E6 - higher mass stars\|PX285 - E6 - higher mass stars]]
 [[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E7 - remnants\|PX285 - E7 - remnants]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E8 - supernova Ia\|PX285 - E8 - supernova Ia]]
