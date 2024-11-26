@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:18:22.392+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:12:03.433+00:00"}
 ---
 
 ## [[content/012/PX275 - mathematical methods/A - differentiation/A - differentiation\|A - differentiation]]
@@ -64,5 +64,5 @@
 [[content/012/PX275 - mathematical methods/D - vector integration/D4 - vector surface area/PX275 - D4b  - the vector surface area and element\|PX275 - D4b  - the vector surface area and element]]
 [[content/012/PX275 - mathematical methods/D - vector integration/D4 - vector surface area/PX275 - D4c - total vector surface area\|PX275 - D4c - total vector surface area]]
 [[content/012/PX275 - mathematical methods/D - vector integration/D4 - vector surface area/PX275 - D4d - comments\|PX275 - D4d - comments]]
-### [[content/012/PX275 - mathematical methods/E - stoke's theorem and the divergence theorem/E - stoke's theorem and the divergence theorem\|E - stoke's theorem and the divergence theorem]]
+### [[content/012/PX275 - mathematical methods/E - stoke's theorem and the divergence theorem/E - stokes' theorem and the divergence theorem\|E - stoke's theorem and the divergence theorem]]
 
