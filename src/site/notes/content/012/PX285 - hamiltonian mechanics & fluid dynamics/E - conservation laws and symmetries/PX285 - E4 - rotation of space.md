@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e4-rotation-of-space/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T12:59:55.319+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e4-rotation-of-space/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:04:42.700+00:00"}
 ---
 
 - consider the isotropy of space (rotational symmetry)
@@ -26,7 +26,8 @@ $$\frac{d}{dt}\vec M = \frac{d}{dt}(\vec r \times\vec p) =0$$
 - the angular momentum, $\vec M$, is an invariant, ie: a constant of the motion
 - $\vec M$ contains $d$ invariant components, each arising from the rotational symmetries in $d$-dimensional space 
 ## general case
-- more generally, for $N$ interacting particles, eg: bound in a solid body, there will be $3N$ coordinates and $3N$ velocities, giving the lagrangian: $$L(x_{1},\dots z_{n}, \dot x_{1},\dots \dot z_n)$$
+- more generally, for $N$ interacting particles, eg: bound in a solid body, there will be $3N$ coordinates and $3N$ velocities, giving the lagrangian: 
+$$L(x_{1},\dots z_{n}, \dot x_{1},\dots \dot z_n)$$
 - for a rotation, $L \to L + \delta L:$ 
 $$\delta L = \sum\limits_{i=1}^{N} \left[ \begin{pmatrix}\frac{\partial L}{\partial x_{i}} \\ \frac{\partial L}{\partial y_{i}} \\ \frac{\partial L}{\partial z_{i}}\end{pmatrix} \cdot \begin{pmatrix}\delta x_{1} \\ \delta y_{1} \\ \delta z_{1}\end{pmatrix} + \begin{pmatrix}\frac{\partial L}{\partial \dot x_{i}} \\ \frac{\partial L}{\partial \dot y_{i}} \\ \frac{\partial L}{\partial \dot z_{i}}\end{pmatrix} \cdot \begin{pmatrix}\delta \dot x_{1} \\ \delta \dot y_{1} \\ \delta \dot z_{1}\end{pmatrix} \right]$$
 - this is the first order taylor expansion in $6N$ dependent variables
