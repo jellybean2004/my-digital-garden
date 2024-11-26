@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f4-a-gyroscope/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T12:59:40.749+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f4-a-gyroscope/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:28:04.303+00:00"}
 ---
 
 - considering a spinning top that can rotate on a fixed point
@@ -19,32 +19,56 @@ $$T = \frac{1}{2}I\omega^{2}$$
 ![Pasted image 20241115195808.png](/img/user/pics/Pasted%20image%2020241115195808.png)
 - the potential energy: $$V = mgl\cos\theta$$
 ### kinetic energy
-![Pasted image 20241115200711.png](/img/user/pics/Pasted%20image%2020241115200711.png)
-- axes of rotation for top are represented by:
-	$\hat e_{\theta} \perp x-y$ plane
+![Pasted image 20241126185556.png](/img/user/pics/Pasted%20image%2020241126185556.png)
+- the axes of rotation for top are represented by:
+	$\hat e_{\theta} \perp$ plane of rotation
 	$\hat e_{\phi} \sim \hat z$
 	$\hat e_{\alpha} \sim \hat r$
 - these are not orthogonal
-- suppose $\hat e_{\phi}' \perp \hat e_{\theta}$
-- $\phi$ rotation is represented by: ${} \dot\phi \hat e_{\phi}' {}$
-- the spin frequency: $\dot\omega = \dot\alpha + \dot\beta\cos\theta$
-- $\dot\phi\sin\theta \hat e_{\phi}'$ 
+
+- define another unit vector, $\hat e_{\phi}'$, such that $\hat e_{\phi}' \perp \hat e_{\theta}$
+- therefore, $\phi$ rotation is represented by: $\dot\phi \, \hat e_{\phi}$
+- taking its projection in the $\hat e_{\phi} : \dot\phi \sin\theta \, \hat e_{\phi}'$  
+- the spin frequency: $\dot\omega = \dot\alpha + \dot\phi\cos\theta$ about $\hat e_{\alpha}$
+- the theta rotation is represented by: $\dot \theta  \,\hat e_{\theta}$
+- therefore the three rotations are:
+$$\begin{gather}
+	\dot \phi \sin\theta, \, \hat e_{\phi}' & (\dot \alpha + \dot \phi \cos\theta), & \dot\theta \hat \, e_\theta
+\end{gather}$$
 - hence, the kinetic energy is given by: 
 $$T = \frac{1}{2}I\dot\theta^{2} + \frac{1}{2} I (\dot\phi\sin\theta)^{2} + \frac{1}{2}J(\dot\alpha + \dot\phi\cos\theta)^{2}$$
-## the lagrangian
-$$\begin{align*}
-	L &= T - V \\
-	&= \frac{1}{2}I\dot\theta^{2} + \frac{1}{2} I (\dot\phi\sin\theta)^{2} + \frac{1}{2}J(\dot\alpha + \dot\phi\cos\theta)^{2} - mgl\cos\theta \\
-	&= 
-\end{align*}$$
+	where, $J$ is the moment of inertia about the axis of the top, and $I$ is that about the 
+### the lagrangian
+$$L = T - V  = \frac{1}{2}I\dot\theta^{2} + \frac{1}{2} I (\dot\phi\sin\theta)^{2} + \frac{1}{2}J(\dot\alpha + \dot\phi\cos\theta)^{2} - mgl\cos\theta$$
+## the euler-lagrange equation
 - the euler-lagrange equation: 
 $$\frac{\partial L}{\partial q_{i}} = \frac{d}{dt} \frac{\partial L}{\partial \dot q_{i}}$$
-- $\frac{d}{dt}\frac{\partial L}{\partial \dot q_{i}}$ is the generalized momentum
-- there will be three equations
-- there are two rotational symmetries as $L$ does not depend on ${} \phi$ or $\alpha$
+- there will be three equations:
+	$q_{1}= \theta$
+	$q_{2}= \phi$
+	$q_{3} = \alpha$
+- there will two rotational symmetries as $L$ does not depend on ${} \phi$ or $\alpha$
 - looking at $\phi$ and $\alpha$ equations first, anticipating the emergence of two conserved momenta: 
+$$\begin{gather*}
+	\frac{\partial L}{\partial \phi} = 0 = \frac{d}{dt}p_{\phi} \\
+	p_{\phi} = \frac{\partial L}{\partial \dot\phi} = I \sin^{2}\theta + J \cos\theta (\dot \alpha + \dot \phi \cos\theta) = constant \\
+\end{gather*}$$
+$$\begin{gather*}
+	\frac{\partial L}{\partial \alpha} = 0 = \frac{d}{dt}p_{\alpha} \\
+	p_{\alpha} = \frac{\partial L}{\partial \dot\alpha} = J (\dot\alpha + \dot\phi \cos\theta) = constant \\
+\end{gather*}$$
+$$\implies p_{\phi}= I\sin^{2}\theta \,\dot\phi + \cos\theta\,p_{\alpha}= constant \tag{1}$$
+- considering the $\theta$ equation:
+$$\frac{\partial L}{\partial \theta} = I\sin\theta\cos\theta\,\dot\phi^{2} - J\dot\phi\sin\theta (\dot\alpha + \dot\phi \cos\theta) + mgl\sin\theta$$
+$$\frac{d}{dt} \frac{\partial L}{\partial \dot \theta} = \frac{d}{dt}I\dot \theta = I \ddot \theta$$
 $$\begin{align*}
-	\frac{\partial L}{\partial \phi} = 0 &= \frac{d}{dt}p_{\phi} \\
-	p_{\phi} = \frac{\partial L}{\partial \dot\phi} &= I \sin^{2}\theta + J \cos\theta (\dot \alpha + \dot \phi \cos\theta) \\
+	I\ddot\theta &= I\sin\theta\cos\theta\,\dot\phi^{2} - J\dot\phi\sin\theta (\dot\alpha + \dot\phi \cos\theta) + mgl\sin\theta \\
+	&= I\sin\theta\cos\theta\,\dot\phi^{2} - \dot\phi\sin\theta p_\alpha + mgl\sin\theta \\
 \end{align*}$$
-- #incomplete 
+- from equation ${} (1): {}$
+$$\dot \phi = \frac{p_{\phi}-cos\theta p_{\alpha}}{I\sin^{2}\theta}$$
+$$\begin{align}	I\ddot\theta &=I\sin\theta\cos\theta\,\left(\frac{p_{\phi}-cos\theta p_{\alpha}}{I\sin^{2}\theta}\right)^{2}  \\ 
+&-  p_{\alpha}\sin\theta \left(\frac{p_{\phi}-cos\theta p_{\alpha}}{I\sin^{2}\theta}\right) + mgl\sin\theta \\
+&= F(\theta) 
+\end{align}$$
+- this is a second order ODE that can be solved numerically

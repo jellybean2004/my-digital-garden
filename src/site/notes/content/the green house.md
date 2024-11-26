@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:05:54.936+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:24:09.528+00:00"}
 ---
 
 ## hello world!
@@ -7,12 +7,6 @@
 - welcome to my digital garden. this is a collection of my university notes.
 
 - you may occasionally find some broken latex codes. if you do, please help me out by letting me know. 
-
-- contact me: 
-	- **discord**: @jellybean2004
-	- **email**: [sujayashr18@gmail.com](mailto:sujayashr18@gmail.com)
-	- **linkedin**: [sujaya_shr](https://www.linkedin.com/in/sujayashr/)
-
 ---
 ## yearly notes
 ### [[content/011/011 year 1\|011 year 1]]
@@ -35,3 +29,9 @@
 ---
 ### [[content/013/013 Year 3\|013 Year 3]]
 coming soon...
+
+---
+## contact me
+- **discord**: @jellybean2004
+- **email**: [sujayashr18@gmail.com](mailto:sujayashr18@gmail.com)
+- **linkedin**: [sujaya_shr](https://www.linkedin.com/in/sujayashr/)
