@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-home: true
+{"dg-publish":true,"permalink":"/content/index/","tags":["gardenEntry"]}
 ---
+
 ## hello world!
 
 - welcome to my digital garden. this is a collection of my university notes.
