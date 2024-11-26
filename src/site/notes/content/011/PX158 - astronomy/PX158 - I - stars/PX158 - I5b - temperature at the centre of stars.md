@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i5b-temperature-at-the-centre-of-stars/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:14:15.685+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i5b-temperature-at-the-centre-of-stars/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:13:58.068+00:00"}
 ---
 
 - using the [[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C1 - ideal gas equation of state\|ideal gas equation]]: 
@@ -16,8 +16,6 @@ $$\begin{align*}
 $$k_{B}T = \frac{GM\mu}{R} $$
 	$k_{B}T \sim$ thermal energy
 	$\frac{GM_{s}\mu}{R_{s}} \sim$ gravitational energy
-{ #0011c7}
-
 
 - the mass at the centre of a star is mostly protons and electrons, ie: $\mu \to p^{+}+e^{-}$, and $m_{p}+m_{e} \approx m_{p}:$ 
 $$\mu\approx \frac{m_{p}}{2}$$

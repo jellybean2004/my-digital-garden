@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/a-probability/px-284-a4-bayes-theorem/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:01:20.229+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/a-probability/px-284-a4-bayes-theorem/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:39:03.304+00:00"}
 ---
 
 ## conditional probability
@@ -10,6 +10,7 @@ $$P(A \cap B) = P(A) \cdot P(B)$$
 - if they are not independent: 
 $$P(A \cap B) = P(A \mid B) \cdot P(B) = P(A \mid B) \cdot P(A)$$
 ## bayes' theorem
+>[! important] Formula
 $$P(A\mid B) = \frac{P(B \mid A)\cdot P(A)}{P(B)}$$
 ### example
 - an athlete fails a drugs test which is $95\%$ accurate. what is the likelihood that they are guilty if on average, only $1\%$ of athletes take drugs

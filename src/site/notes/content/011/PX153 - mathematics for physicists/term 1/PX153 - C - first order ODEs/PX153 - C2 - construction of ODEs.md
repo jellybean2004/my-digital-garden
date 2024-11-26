@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-c-first-order-od-es/px-153-c2-construction-of-od-es/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:36:51.853+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-c-first-order-od-es/px-153-c2-construction-of-od-es/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:14:20.388+00:00"}
 ---
 
 - eg: you have  lump of radioactive material. how does the number of radioactive nuclei change over time?
@@ -19,7 +19,6 @@
 		- if $N(0)=N_0$ then, the particular solution is $N(t)=N_0e^{-\alpha t}$
 
 - eg: a large tank of water with cross-section $A$, and a small opening on the side, at the bottom, with cross-section $a$. find the ODE that described the height of the water
-{ #a397d9}
 
 	- ![Pasted image 20231023144607.png](/img/user/pics/Pasted%20image%2020231023144607.png)
 	- variables:

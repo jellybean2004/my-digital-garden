@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-d-fluxes-and-magnitudes/px-158-d2-brightness-and-magnitudes/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:13:16.185+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-d-fluxes-and-magnitudes/px-158-d2-brightness-and-magnitudes/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:13:34.118+00:00"}
 ---
 
 ## apparent magnitude (m)
@@ -15,8 +15,6 @@ $$\begin{align*}
 $$m_{vega} = 0$$
 - magnitudes of other stars can be determined by: 
 $$\therefore m = -2.5\log_{10}\left(\frac{f}{f_{vega}}\right)$$
-{ #6c110f}
-
 - these are *apparent magnitudes* - depends upon where the observer is
 ## absolute magnitude (M)
 - the apparent magnitude if the object was located at a distance of $10\,pc$

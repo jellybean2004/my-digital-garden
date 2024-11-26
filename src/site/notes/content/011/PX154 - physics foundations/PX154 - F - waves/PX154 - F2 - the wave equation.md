@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/px-154-f2-the-wave-equation/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:51:27.703+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/px-154-f2-the-wave-equation/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:14:48.754+00:00"}
 ---
 
 - a fundamental equation, ubiquitous in physics
@@ -26,8 +26,6 @@ $$\begin{align*}
 \end{align*}$$
 - the wave equation:
 $$\frac{\partial^{2} u}{\partial t^{2}} = v^{2} \, \frac{\partial^{2} u}{\partial x^{2}}$$ [YF eqn 15.12]
-{ #c8f14b}
-
 - ***comments***:
 	- applies to right + left travelling waves, and also to standing waves
 	- this is in 1D, in 3D: 

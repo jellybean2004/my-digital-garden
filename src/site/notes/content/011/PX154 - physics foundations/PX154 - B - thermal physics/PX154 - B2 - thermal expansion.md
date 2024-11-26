@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-b-thermal-physics/px-154-b2-thermal-expansion/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:49:23.500+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-b-thermal-physics/px-154-b2-thermal-expansion/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:12:06.957+00:00"}
 ---
 
 
@@ -18,16 +18,12 @@
 - [YF17.8]
 	- ![Pasted image 20231011100820.png](/img/user/pics/Pasted%20image%2020231011100820.png)
 - new length: $L=L_{0}+\Delta L$
-{ #2b2871}
-
 	- $\Delta L$ can be defined in terms of the change in temperature
 	- $\Delta L = \alpha L_{0}\Delta T$
 		- where $\alpha=$ linear expansion coefficient
 	- works for moderate temperature changes
 	- then we define 
 	$$\alpha = \frac{1}{L_0}\frac{\Delta L}{\Delta T}$$
-{ #4680f7}
-
 		- its units are $K^{-1}$
 	- eg: [YF table 17.1] 
 		![Pasted image 20231011101515.png](/img/user/pics/Pasted%20image%2020231011101515.png)

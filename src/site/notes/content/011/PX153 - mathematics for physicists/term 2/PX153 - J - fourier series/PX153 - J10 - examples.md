@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j10-examples/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:39:48.770+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j10-examples/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:12:20.076+00:00"}
 ---
 
 ## Q1
@@ -84,7 +84,6 @@ $f(x) = x$ in $[-\pi,\pi)$
 \end{align*}$$
 - fourier series: 
 $$f(x) = 2\sin x - \frac{2}{2}\sin(2x) + \frac{2}{3}\sin(3x)- \frac{2}{{4}}\sin(4x)+...$$
-{ #2eaa23}
 
 - fourier series are useful for deriving interesting relations between numbers
 ## Q5

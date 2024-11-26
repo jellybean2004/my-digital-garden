@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-e-the-second-law-of-thermodynamics/px-154-e2-heat-engine-cycles-and-the-p-v-diagram/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:51:07.830+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-e-the-second-law-of-thermodynamics/px-154-e2-heat-engine-cycles-and-the-p-v-diagram/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:16:25.489+00:00"}
 ---
 
 ## cyclic processes
@@ -39,4 +39,4 @@ $$k_{fr} = \frac{|Q_{C}|}{|W|} = \frac{|Q_{C}|}{|Q_{H}|-|Q_{C}|}$$ [YF eqn 20.9]
 ![Pasted image 20231101104054.png](/img/user/pics/Pasted%20image%2020231101104054.png)
 - heat pump: 
 $$k_{hp} = \frac{|Q_{H}|}{|W|} = \frac{|Q_{H}|}{|Q_{H}|-|Q_{C}|}$$
-- eg: *rankine cycle* (fridge) #revisit , stirling cycle in reverse, gifford-macmahon cycle (cryocooling),  pulse tube
+- eg: *rankine cycle* (fridge) , stirling cycle in reverse, gifford-macmahon cycle (cryocooling),  pulse tube

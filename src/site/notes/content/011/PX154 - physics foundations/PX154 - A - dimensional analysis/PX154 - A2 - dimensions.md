@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-a-dimensional-analysis/px-154-a2-dimensions/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:49:10.102+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-a-dimensional-analysis/px-154-a2-dimensions/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:13:24.134+00:00"}
 ---
 
 *we use dimensions to mean quantities from the [SI system](https://www.npl.co.uk/si-units)* 
@@ -86,8 +86,6 @@ $$ln(I) = -\lambda t + ln(I_0)$$
 $$constant = T \sqrt{\frac{g}{l}} = Tg^{\frac{1}{2}}l^{\frac{-1}{2}}$$
 - now we can write: 
 $$constant = \Pi = Q_1^\alpha Q_2^\beta Q_3^\gamma Q_4^\delta$$
-{ #5abdae}
-
 	- *\*$\Pi \neq3.1415...$* but a convention to denote constants
 	- dimensions: 
 	$$[\Pi] = [Q_1]^\alpha [Q_2]^\beta [Q_3]^\gamma [Q_4]^\delta$$

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-a-vectors/px-153-a4-vector-operations/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:36:17.877+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-a-vectors/px-153-a4-vector-operations/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:12:55.166+00:00"}
 ---
 
 ## addition and subtraction
@@ -9,8 +9,6 @@ $$\vec u \pm \vec v = (u_x\pm v_x,\; u_y\pm v_y,\; u_z\pm v_z)$$
 	- associative - $\vec u \pm (\vec v \pm \vec w) = (\vec v \pm \vec u) \pm \vec w$
 ![Pasted image 20231004173735.png](/img/user/pics/Pasted%20image%2020231004173735.png)
 ![Pasted image 20231004173841.png](/img/user/pics/Pasted%20image%2020231004173841.png)
-{ #04d205}
-
 ## vector products
 ### scalar/dot product
 - $s =\vec u \cdot \vec v$
@@ -25,8 +23,6 @@ $$\underline{\hat i}\cdot \underline{\hat i}=\underline{\hat j}\cdot \underline{
 	$$\underline{\hat i}\cdot \underline{\hat j}=\underline{\hat j}\cdot \underline{\hat k}=\underline{\hat k}\cdot \underline{\hat i}=0$$
 	- this denotes that the basis vectors are orthonormal
 - properties
-{ #b52bb2}
-
 	- commutative - $\vec u \cdot \vec v = \vec v \cdot \vec u$
 	- distributive - $\vec u \cdot (\vec v + \vec w) = \vec v \cdot (\vec u + \vec w)$
 - in cartesian coordinates - $s = \vec u \cdot \vec v = u_xv_x+u_yv_y+u_zv_z$
@@ -51,9 +47,7 @@ $$\underline{\hat i}\cdot \underline{\hat i}=\underline{\hat j}\cdot \underline{
 - for cartesian coordinates,
 	- $\underline{\hat i}\times \underline{\hat i}=\underline{\hat j}\times \underline{\hat j}=\underline{\hat k}\times \underline{\hat k}=0$
 	- $\underline{\hat i}\times \underline{\hat j}= \underline{\hat k}$    ,     $\underline{\hat j}\times \underline{\hat k}= \underline{\hat i}$    ,     $\underline{\hat k}\times \underline{\hat i}= \underline{\hat j}$
-- properties
-{ #6177ef}
-
+- properties:
 	- vector product is NOT commutative, ie: $\underline{\hat i}\times \underline{\hat j} \neq \underline{\hat j} \times \underline{\hat i}$
 	- it is anti-commutative, ie: $\underline{\hat j} \times \underline{\hat i}=-\underline{\hat k}$
 - calculating cross product:$$\vec v = \vec u \times \vec w = (u_yw_z-u_zw_y)\underline{\hat i}+(\vec u_zw_x-u_xw_z)\underline{\hat j}+(\vec u_xw_y-u_yw_x)\underline{\hat k}$$

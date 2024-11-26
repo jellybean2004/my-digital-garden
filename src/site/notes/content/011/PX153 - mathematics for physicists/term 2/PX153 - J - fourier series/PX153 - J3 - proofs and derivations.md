@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j3-proofs-and-derivations/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:38:28.241+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j3-proofs-and-derivations/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:12:30.964+00:00"}
 ---
 
 - [[content/011/PX153 - mathematics for physicists/term 2/PX153 - J - fourier series/PX153 - J1 - introduction#^04a8fb\|Q]] : given a function, $f(x)$, how can $a_{0}$, $a_{n}$, and $b_{n}$ be calculated?
@@ -126,5 +126,3 @@ $$\begin{align*}
 	&= 0
 \end{align*}$$
 $$\therefore f(x) = |x| = \frac{\pi}{2}- \frac{4}{\pi}\left( \cos x + \frac{\cos{3x}}{9} + \frac{\cos{5x}}{25}+...\right)$$
-
-{ #feb2c0}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/d-equipartition-theorem/px-285-d2-examples/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:02:02.817+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/d-equipartition-theorem/px-285-d2-examples/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T22:56:13.413+00:00"}
 ---
 
 ## translational motion of a monatomic gas
@@ -21,7 +21,8 @@ $$\begin{gather*}
 where, $\mu = \frac{m_{1}m_{2}}{m_{1}+m_{2}}$
 ## lattice vibrations
 - a 3D arrangement of masses and springs
-- for a cubic lattice, there are 3 springs per ion: $$\langle{E}\rangle = 3 k_{B}T$$
+- for a cubic lattice, there are 3 springs per ion: 
+$$\langle{E}\rangle = 3 k_{B}T$$
 - $C_{V} = 3k_{B}$ per atom or $2N_{A}k_{B}$ per mole
 ## diatomic molecules
 - translational motion: 

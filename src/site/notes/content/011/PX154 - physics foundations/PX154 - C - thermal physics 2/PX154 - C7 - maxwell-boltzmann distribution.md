@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c7-maxwell-boltzmann-distribution/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:50:18.303+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c7-maxwell-boltzmann-distribution/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:16:04.489+00:00"}
 ---
 
 ## molecular speeds and energy
@@ -24,5 +24,5 @@
 $$f(E)=\frac{2}{\sqrt{\pi}}\left(\frac{1}{k_{B}T}\right)^{\frac{3}{2}}E^{\frac{1}{2}}\exp{\left(- \frac{E}{k_{B}T}\right)}$$
  ![Pasted image 20231024143328.png](/img/user/pics/Pasted%20image%2020231024143328.png)
 	- $peak: E \approx k_{B}T$
-- $k_BT$ gives the energy associated with a given temperature #imp 
+- $k_BT$ gives the energy associated with a given temperature
 	- at $RTP (T=290K), k_BT=4\times 10^{-21}J\approx25meV$
