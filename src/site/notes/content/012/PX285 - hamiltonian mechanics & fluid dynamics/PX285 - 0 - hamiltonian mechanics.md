@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:14:10.870+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T12:24:17.124+00:00"}
 ---
 
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/A - introduction/A - introduction\|A - introduction]]
@@ -35,5 +35,6 @@
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - F2 - phase space\|PX285 - F2 - phase space]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - F3a - a particle in 1D\|PX285 - F3a - a particle in 1D]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - F3b - a pendulum\|PX285 - F3b - a pendulum]]
-### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/G - central forces/G - central forces\|G - central forces]]
-[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/G - central forces/PX285 - G1 - central forces\|PX285 - G1 - central forces]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - G1 - central forces\|PX285 - G1 - central forces]]
+### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/G - normal modes and small oscillations/G - normal modes and small oscillations\|G - normal modes and small oscillations]]
+[[PX285 - G1 - normal modes analysis\|PX285 - G1 - normal modes analysis]]
