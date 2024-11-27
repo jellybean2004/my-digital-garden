@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/px-282-0-stars-and-the-solar-system/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T15:00:30.039+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/px-282-0-stars-and-the-solar-system/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T21:01:50.203+00:00"}
 ---
 
+<img src = 'https://i.pinimg.com/originals/d5/b0/80/d5b080e257c1e7403f9827a480042261.gif'>
 ## lectures notes
 ### stars
 #### [[content/012/PX282 - stars and the solar system/A - introduction/A - introduction\|A - introduction]]
@@ -14,7 +15,7 @@
 [[content/012/PX282 - stars and the solar system/A - introduction/PX282 - A6 - magnitudes, bandpasses, colours\|PX282 - A6 - magnitudes, bandpasses, colours]]
 [[content/012/PX282 - stars and the solar system/A - introduction/PX282 - A7 - inside a star\|PX282 - A7 - inside a star]]
 [[content/012/PX282 - stars and the solar system/A - introduction/PX282 - A8 - solid angle\|PX282 - A8 - solid angle]]
-[[PX282 - A9 - connection to luminousity\|PX282 - A9 - connection to luminousity]]
+[[content/012/PX282 - stars and the solar system/A - introduction/PX282 - A9 - connection to luminosity\|PX282 - A9 - connection to luminosity]]
 [[content/012/PX282 - stars and the solar system/A - introduction/PX282 - A10 - real spectra\|PX282 - A10 - real spectra]]
 #### [[content/012/PX282 - stars and the solar system/B - spectral classification/B - stellar spectroscopy and classification\|B - stellar spectroscopy and classification]]
 [[content/012/PX282 - stars and the solar system/B - spectral classification/PX282 - B1 - spectral classification\|PX282 - B1 - spectral classification]]

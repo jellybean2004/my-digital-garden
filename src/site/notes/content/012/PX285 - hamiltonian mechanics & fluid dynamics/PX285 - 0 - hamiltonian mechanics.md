@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T20:32:05.568+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T21:10:45.822+00:00"}
 ---
 
-![Planetarium by Daniel Linssen.gif|100%](/img/user/pics/Planetarium%20by%20Daniel%20Linssen.gif)
+<img src = 'https://i.pinimg.com/originals/74/b1/5c/74b15cba6d83f1a7f158ad235a8ee812.gif' width = '100%'>
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/A - introduction/A - introduction\|A - introduction]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/A - introduction/PX285 - A1 - newton's laws\|PX285 - A1 - newton's laws]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/A - introduction/PX285 - A2a - conservation laws\|PX285 - A2a - conservation laws]]
