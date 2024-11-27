@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T22:45:58.829+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T22:55:17.939+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif'  class = 'banner'>
@@ -16,12 +16,12 @@
 [[content/012/PX262 - quantum mechanics/PX262 - 0 - quantum mechanics and its applications\|PX262 - 0 - quantum mechanics and its applications]]
 [[content/012/PX271 - physics skills/PX271 - 0 - physics skills\|PX271 - 0 - physics skills]]
 [[content/012/PX275 - mathematical methods/PX275 - 0 - mathematical methods\|PX275 - 0 - mathematical methods]]
-[[content/012/PX282 - stars and the solar system/PX282 - 0 - stars and the solar system\|PX282 - 0 - stars and the solar system]]
-[[PX282B - solar system\|PX282B - solar system]]
-[[content/012/PX284 - statistical mechanics/PX284 - 0 - statistical mechanics\|PX284 - 0 - statistical mechanics]]
+[[content/012/PX282 - stars and the solar system/PX282A - 0 - stars\|PX282 - 0 - stars and the solar system]]
+[[content/PX282B - solar system\|PX282B - solar system]]
+[[content/012/PX284 - statistical mechanics/PX284A - 0 - statistical mechanics\|PX284 - 0 - statistical mechanics]]
 [[PX284B - electromagnetic theory and optics\|PX284B - electromagnetic theory and optics]]
-[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/PX285 - 0 - hamiltonian mechanics\|PX285 - 0 - hamiltonian mechanics]]
-[[content/PX285B - 0 - fluid dyamics\|PX285B - 0 - fluid dyamics]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/PX285A - 0 - hamiltonian mechanics\|PX285 - 0 - hamiltonian mechanics]]
+[[content/PX285B - 0 - fluid dynamics\|PX285B - 0 - fluid dynamics]]
 
 ---
 ### [[content/011/011 year 1\|011 year 1]] 🌱

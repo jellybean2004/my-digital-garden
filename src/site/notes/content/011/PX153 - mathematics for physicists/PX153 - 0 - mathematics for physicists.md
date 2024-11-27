@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/px-153-0-mathematics-for-physicists/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:48:57.344+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/px-153-0-mathematics-for-physicists/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T22:55:59.341+00:00"}
 ---
+
+<img src = 'https://miro.medium.com/max/584/0*l0zoTQqaOFAFw_6H.gif' class = 'banner'>
 
 [moodle](https://moodle.warwick.ac.uk/course/view.php?id=61265)
 [[content/011/PX153 - mathematics for physicists/term 2/review before exam\|review before exam]]
