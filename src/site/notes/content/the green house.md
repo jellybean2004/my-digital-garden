@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T19:20:21.561+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T20:29:12.390+00:00"}
 ---
 
-![jwst astro bg.jpg|100%](/img/user/pics/jwst%20astro%20bg.jpg)
+![download.gif|100%](/img/user/pics/download.gif)
 # my digital garden 🌿 
 ---
 ## hello world! 🌍
