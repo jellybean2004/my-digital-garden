@@ -1,15 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-0-physics-foundations/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:52:59.811+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-0-physics-foundations/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T22:49:03.381+00:00"}
 ---
+
+<img src = "https://i.pinimg.com/originals/a7/68/76/a76876b05cc5767ce6ce5c59abceb7e4.gif" class = "banner">
 
 [moodle](https://moodle.warwick.ac.uk/course/view.php?id=61266)
 [University Physics textbook](https://plus.pearson.com/courses/warwick71800/products/154533/pages/0?locale=)
-## weekly stuff:
-- lectures - 3 hrs
-- self study - 3-6 hrs
-- problem sheet - due 3pm on the following monday 
-- problem class
-- online problems
+
 ## lecture notes
 ### [[content/011/PX154 - physics foundations/PX154 - A - dimensional analysis/A - dimensional analysis\|A - dimensional analysis]]
 [[content/011/PX154 - physics foundations/PX154 - A - dimensional analysis/PX154 - A1 - dimensional analysis\|PX154 - A1 - dimensional analysis]]
