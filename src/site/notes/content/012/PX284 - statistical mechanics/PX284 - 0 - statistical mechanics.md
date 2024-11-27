@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/px-284-0-statistical-mechanics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T22:04:02.630+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/px-284-0-statistical-mechanics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T22:29:32.468+00:00"}
 ---
 
-<img src = 'https://s1.ezgif.com/tmp/ezgif-1-8afdfd96fe.gif' width = 100%>
+<img src = 'https://i.pinimg.com/originals/13/f4/94/13f494f8b38832096a4a700050e7047d.gif' class = 'banner'>
+
 ### [[content/012/PX284 - statistical mechanics/A - probability/A - probability\|A - probability]]
 [[content/012/PX284 - statistical mechanics/A - probability/PX283 - A1 - discrete probability distributions\|PX283 - A1 - discrete probability distributions]]
 [[content/012/PX284 - statistical mechanics/A - probability/PX284 - A2 - continuous probability distributions\|PX284 - A2 - continuous probability distributions]]

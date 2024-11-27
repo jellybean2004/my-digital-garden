@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T21:34:22.095+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T22:27:04.102+00:00"}
 ---
 
-<img src = 'https://i.redd.it/3jxjy5nfxq781.gif'>
+<img src = 'https://i.redd.it/3jxjy5nfxq781.gif' class = 'banner'>
 
 [[content/012/PX275 - mathematical methods/PX275 - formula sheet\|PX275 - formula sheet]]
 ## [[content/012/PX275 - mathematical methods/A - differentiation/A - differentiation\|A - differentiation]]

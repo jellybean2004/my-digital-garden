@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T22:04:31.378+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T22:26:30.004+00:00"}
 ---
 
-<img src = 'https://i.pinimg.com/originals/6f/d2/1f/6fd21f76a834848c7d5389aac21f1405.gif' width = 100%>
+<img src = 'https://i.pinimg.com/originals/6f/d2/1f/6fd21f76a834848c7d5389aac21f1405.gif' class = 'banner'>
 
 ### [[content/012/PX262 - quantum mechanics/A - recap/A - recap\|A - recap]]
 [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A1 - photoelectric effect\|PX262 - A1 - photoelectric effect]]

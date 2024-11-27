@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-reltivity/px-155-0-classical-mechanics-and-special-relativity/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T21:16:01.993+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-reltivity/px-155-0-classical-mechanics-and-special-relativity/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T22:30:14.529+00:00"}
 ---
 
-<img src = 'https://i.pinimg.com/originals/37/42/94/3742942e1d424f91234de1b1b8d71b40.gif' width = '100%'>
+<img src = 'https://i.pinimg.com/originals/37/42/94/3742942e1d424f91234de1b1b8d71b40.gif' class = 'banner'>
+
 [moodle](https://moodle.warwick.ac.uk/course/view.php?id=61267)
 [University Physics textbook](https://plus.pearson.com/courses/warwick71800/products/154533/pages/0?locale=)
 [special relativity book](https://archive.org/details/special-relativity)

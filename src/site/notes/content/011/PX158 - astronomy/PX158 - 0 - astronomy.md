@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-0-astronomy/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T21:27:31.464+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-0-astronomy/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T22:21:57.155+00:00"}
 ---
 
-<img src = 'https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif' width = '100%'>
+<img src = 'https://i.pinimg.com/originals/ec/b9/c2/ecb9c2d3d68104257d36ef064f2cc1bc.gif' class = 'banner'>
+
 ## lecture notes
 ### [[content/011/PX158 - astronomy/PX158 - A - introduction/A - introduction\|content/011/PX158 - astronomy/PX158 - A - introduction/A - introduction]] 
 [[content/011/PX158 - astronomy/PX158 - A - introduction/PX158 - A1 - introduction\|PX158 - A1 - introduction]]
