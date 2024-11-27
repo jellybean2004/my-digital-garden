@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T19:01:45.137+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T19:20:21.561+00:00"}
 ---
 
+![jwst astro bg.jpg|100%](/img/user/pics/jwst%20astro%20bg.jpg)
 # my digital garden 🌿 
 ---
 ## hello world! 🌍
@@ -36,5 +37,5 @@
 ---
 
 written on [obsidian](obsidian.md)
-created using [digital garden plugin](https://github.com/oleeskild/obsidian-digital-garden)
+created using [digital garden plugin 🏡](https://github.com/oleeskild/obsidian-digital-garden)
 $\textcopyright$ Sujaya Shrestha 2024
