@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e2-eigenvalues-and-eigenfunctions/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:07:57.281+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e2-eigenvalues-and-eigenfunctions/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T23:10:39.790+00:00"}
 ---
 
 - using spherical coordinates: 
@@ -93,7 +93,7 @@ $$\begin{align*}
 \end{align*}$$
 - $l$ and $m$ are often used as quantum numbers to label states, referred to as orbital and magnetic quantum numbers respectively
 - spherical harmonics for $l\leq 2:$
-- ![Pasted image 20241106212214.png](/img/user/pics/Pasted%20image%2020241106212214.png)
+ ![Pasted image 20241106212214.png](/img/user/pics/Pasted%20image%2020241106212214.png)
 - for two neighbouring states with the same $l$, $\Delta m = m_{1}-m_{2}$, is constant
 - another analogue of latter operators can be defined: 
 $$\begin{align*}

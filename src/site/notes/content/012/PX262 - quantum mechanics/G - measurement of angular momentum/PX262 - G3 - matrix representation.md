@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g3-matrix-representation/","created":"2024-11-25T11:21:45.798+00:00","updated":"2024-11-26T01:08:49.506+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g3-matrix-representation/","created":"2024-11-25T11:21:45.798+00:00","updated":"2024-11-27T23:06:59.497+00:00"}
 ---
 
 - taking a dynamical variable, $\hat Q$, and adding the state, $\psi$, which has an eigenvalue, ${} q: {}$
