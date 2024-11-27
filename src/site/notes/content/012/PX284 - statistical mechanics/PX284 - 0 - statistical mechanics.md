@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/px-284-0-statistical-mechanics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T17:59:33.914+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/px-284-0-statistical-mechanics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T18:09:20.970+00:00"}
 ---
 
 ### [[content/012/PX284 - statistical mechanics/A - probability/A - probability\|A - probability]]
@@ -14,12 +14,12 @@
 [[content/012/PX284 - statistical mechanics/B - introduction/PX284 - B3 - the assumptions\|PX284 - B3 - the assumptions]]
 [[content/012/PX284 - statistical mechanics/B - introduction/PX284 - B4 - ensembles\|PX284 - B4 - ensembles]]
 ### [[content/012/PX284 - statistical mechanics/C - entropy and temperature/C - entropy and temperature\|C - entropy and temperature]]
-[[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX285 - C1 - entropy\|PX285 - C1 - entropy]]
-[[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX285 - C2 - temperature\|PX285 - C2 - temperature]]
-[[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX285 - C3 - boltzmann distribution\|PX285 - C3 - the canonical ensemble]]
-[[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX285 - C4 - measuring entropy\|PX285 - C4 - measuring entropy]]
-[[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX285 - C5 - general definition of entropy\|PX285 - C5 - general definition of entropy]]
+[[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX284 - C1 - entropy\|PX284 - C1 - entropy]]
+[[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX284 - C2 - temperature\|PX284 - C2 - temperature]]
+[[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX284 - C3 - boltzmann distribution\|PX284 - C3 - boltzmann distribution]]
+[[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX284 - C4 - measuring entropy\|PX284 - C4 - measuring entropy]]
+[[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX284 - C5 - general definition of entropy\|PX284 - C5 - general definition of entropy]]
 ### [[content/012/PX284 - statistical mechanics/D - equipartition theorem/D - equipartition theorem\|D - equipartition theorem]]
-[[content/012/PX284 - statistical mechanics/D - equipartition theorem/PX285 - D1 - equipartition theorem\|PX285 - D1 - equipartition theorem]]
-[[content/012/PX284 - statistical mechanics/D - equipartition theorem/PX285 - D2 - examples\|PX285 - D2 - examples]]
+[[content/012/PX284 - statistical mechanics/D - equipartition theorem/PX284 - D1 - equipartition theorem\|PX284 - D1 - equipartition theorem]]
+[[content/012/PX284 - statistical mechanics/D - equipartition theorem/PX284 - D2 - examples\|PX284 - D2 - examples]]
 ### [[content/012/PX284 - statistical mechanics/E - single-particle partition function/E - single-particle partition function\|E - single-particle partition function]]
