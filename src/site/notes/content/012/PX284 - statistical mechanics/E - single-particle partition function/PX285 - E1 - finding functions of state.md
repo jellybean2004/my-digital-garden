@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/e-single-particle-partition-function/px-285-e1-finding-functions-of-state/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:02:20.905+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/e-single-particle-partition-function/px-285-e1-finding-functions-of-state/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T18:05:07.828+00:00"}
 ---
+
 ## internal energy
 $$\begin{align*}
 	U &= \langle{E}\rangle \\

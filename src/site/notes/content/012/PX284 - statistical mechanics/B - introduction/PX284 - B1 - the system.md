@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/b-introduction/px-284-b1-the-system/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:01:27.272+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/b-introduction/px-284-b1-the-system/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T17:54:24.831+00:00"}
 ---
 
 - statistical mechanics is concerned with understanding and predicting the properties of a '*system*'
 - eg: a box of gas, ions in a solid, electrons in a star
 - there exists a '**reservoir**' with which systems can exchange energy or particles
 - typical systems:
-	- $1\,l$ of $N_{2}$ gas $\sim 10^{22}$ molecules
-	- $1\,g$ of $NaCl$ $\sim 10^{22}$ molecules
-	- $1\,cm^{3}$ of $Cu$ $\sim 10^{22}$ electrons
+	- $1\,l$ of N$_{2} {}$ gas $\sim 10^{22}$ molecules
+	- $1\,g$ of NaCl $\sim 10^{22}$ molecules
+	- $1\,cm^{3}$ of Cu $\sim 10^{22}$ electrons
 	- the sun $\sim 10^{57}$ electrons
 - **isolated systems:** not connected to a reservoir, therefore the energy $(E)$, the number of particles $(N)$, and the volume $(V)$ are fixed
 
