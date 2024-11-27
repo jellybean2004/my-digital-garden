@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:09:05.470+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T20:46:08.001+00:00"}
 ---
 
+<img src = 'https://i.pinimg.com/originals/52/bd/e9/52bde91dcf529e8ca48bff9f1da7763a.gif'>
 ### [[content/012/PX262 - quantum mechanics/A - recap/A - recap\|A - recap]]
 [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A1 - photoelectric effect\|PX262 - A1 - photoelectric effect]]
 [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A2 - compton scattering\|PX262 - A2 - compton scattering]]

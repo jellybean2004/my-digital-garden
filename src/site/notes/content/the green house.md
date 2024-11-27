@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T20:29:12.390+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T20:48:14.630+00:00"}
 ---
 
-![download.gif|100%](/img/user/pics/download.gif)
+<img src = 'https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif'>
+![my digital garden](https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif)
 # my digital garden 🌿 
 ---
 ## hello world! 🌍
