@@ -32,4 +32,4 @@
 [[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E4 - degeneracy\|PX284 - E4 - degeneracy]]
 [[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E5 - combining partition functions\|PX284 - E5 - combining partition functions]]
 [[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E6 - harmonic oscillator in 3D\|PX284 - E6 - harmonic oscillator in 3D]]
-### [[content/012/PX284 - statistical mechanics/F - connection between thermodynamics and statistical mechanics\|F - connection between thermodynamics and statistical mechanics]]
+### [[content/012/PX284 - statistical mechanics/F - connection between thermodynamics and statistical mechanics/F - connection between thermodynamics and statistical mechanics\|F - connection between thermodynamics and statistical mechanics]]
