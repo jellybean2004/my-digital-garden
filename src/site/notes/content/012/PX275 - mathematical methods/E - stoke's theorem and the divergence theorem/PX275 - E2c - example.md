@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e2c-example/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:06:18.759+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e2c-example/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T12:13:06.537+00:00"}
 ---
 
 - to determine the electric field outside a charged hollow sphere
-![Pasted image 20241125124204.png](/img/user/pics/Pasted%20image%2020241125124204.png)
+
+![Pasted image 20241125124204.png|500](/img/user/pics/Pasted%20image%2020241125124204.png)
 - using the divergence theorem:
 $$\iint_{S} \vec F \cdot d\vec s = \iiint_{V}(\vec\nabla \cdot \vec E)\,dV$$
 - defining:
@@ -17,3 +18,7 @@ $$\begin{align*}
 	\therefore E&= \frac{\sigma}{\varepsilon_{0}} \frac{a^{2}}{r^{2}}
 \end{align*}$$
 
+- **note:** $\delta(r-a)=0\; \forall r \neq a$
+- the electric field inside the sphere must be zero because there is no enclosed charge inside the sphere
+
+- also, the gravity problem #fig 

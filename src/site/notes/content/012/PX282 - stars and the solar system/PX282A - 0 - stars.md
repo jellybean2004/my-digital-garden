@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/px-282-a-0-stars/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T22:27:20.025+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/px-282-a-0-stars/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-29T05:44:03.304+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/d5/b0/80/d5b080e257c1e7403f9827a480042261.gif' class  = 'banner'>
@@ -23,13 +23,13 @@
 [[content/012/PX282 - stars and the solar system/B - spectral classification/PX282 - B2 - typical spectral lines\|PX282 - B2 - typical spectral lines]]
 [[content/012/PX282 - stars and the solar system/B - spectral classification/PX282 - B3 - spectral lines and classes\|PX282 - B3 - spectral lines and classes]]
 #### [[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C - stellar atmospheres\|C - stellar atmospheres]]
-[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1 - boltzmann and saha equations/PX282 - C1 - the physics of line strength\|PX282 - C1 - the physics of line strength]]
-[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1 - boltzmann and saha equations/PX282 - C2a - the boltzmann equation\|PX282 - C2a - the boltzmann equation]]
-[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1 - boltzmann and saha equations/PX282 - C2b - an alternate form\|PX282 - C2b - an alternate form]]
-[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1 - boltzmann and saha equations/PX282 - C3 - the saha equation\|PX282 - C3 - the saha equation]]
-[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1 - boltzmann and saha equations/PX282 - C4 - the boltzmann-saha equation\|PX282 - C4 - the boltzmann-saha equation]]
-[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C2-14 - stellar atmospheres/PX282 - C5 - definitions\|PX282 - C5 - definitions]]
-[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C2-14 - stellar atmospheres/PX282 - C6 - radiation-matter interactions\|PX282 - C6 - radiation-matter interactions]]
+[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1-4 - boltzmann-saha/PX282 - C1 - the physics of line strength\|PX282 - C1 - the physics of line strength]]
+[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1-4 - boltzmann-saha/PX282 - C2a - the boltzmann equation\|PX282 - C2a - the boltzmann equation]]
+[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1-4 - boltzmann-saha/PX282 - C2b - an alternate form\|PX282 - C2b - an alternate form]]
+[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1-4 - boltzmann-saha/PX282 - C3 - the saha equation\|PX282 - C3 - the saha equation]]
+[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C1-4 - boltzmann-saha/PX282 - C4 - the boltzmann-saha equation\|PX282 - C4 - the boltzmann-saha equation]]
+[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C5-14 - stellar atmospheres/PX282 - C5 - definitions\|PX282 - C5 - definitions]]
+[[content/012/PX282 - stars and the solar system/C - stellar atmosphere/C5-14 - stellar atmospheres/PX282 - C6 - radiation-matter interactions\|PX282 - C6 - radiation-matter interactions]]
 ### [[content/012/PX282 - stars and the solar system/D - stellar structure and interiors/D - solar structure and interiors\|D - solar structure and interiors]]
 [[content/012/PX282 - stars and the solar system/D - stellar structure and interiors/PX282 - D1 - stellar interiors\|PX282 - D1 - stellar interiors]]
 [[content/012/PX282 - stars and the solar system/D - stellar structure and interiors/PX282 - D2 - energy generation and transport\|PX282 - D2 - energy generation and transport]]
@@ -41,4 +41,19 @@
 [[content/012/PX282 - stars and the solar system/D - stellar structure and interiors/PX282 - D6 - nuclear binding energies\|PX282 - D6 - nuclear binding energies]]
 [[content/012/PX282 - stars and the solar system/D - stellar structure and interiors/PX282 - D7 - PP1 fusion chain\|PX282 - D7 - PP1 fusion chain]]
 ### [[content/012/PX282 - stars and the solar system/E - stellar evolution/E - stellar evolution\|E - stellar evolution]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX282 - E1a - star formation\|PX282 - E1a - star formation]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX282 - E1b - initial mass function\|PX282 - E1b - initial mass function]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX282 - E2 - protostar\|PX282 - E2 - protostar]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX282 - E3 - main sequence\|PX282 - E3 - main sequence]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E4 - turnoff points and stellar clusters\|PX285 - E4 - turnoff points and stellar clusters]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E5a - post-main sequence evolution\|PX285 - E5a - post-main sequence evolution]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E5b - red giant branch (RGB)\|PX285 - E5b - red giant branch (RGB)]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E5c - helium flash\|PX285 - E5c - helium flash]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E5d - horizontal branch\|PX285 - E5d - horizontal branch]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E5e - asymptotic giant branch (AGB)\|PX285 - E5e - asymptotic giant branch (AGB)]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E5f - post AGB\|PX285 - E5f - post AGB]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E6 - higher mass stars\|PX285 - E6 - higher mass stars]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E7 - remnants\|PX285 - E7 - remnants]]
+[[content/012/PX282 - stars and the solar system/E - stellar evolution/PX285 - E8 - supernova Ia\|PX285 - E8 - supernova Ia]]
+### [[content/012/PX282 - stars and the solar system/F - binary stars and fundamental parameters/F - binary stars and fundamental parameters\|F - binary stars and fundamental parameters]]
 ### solar system
