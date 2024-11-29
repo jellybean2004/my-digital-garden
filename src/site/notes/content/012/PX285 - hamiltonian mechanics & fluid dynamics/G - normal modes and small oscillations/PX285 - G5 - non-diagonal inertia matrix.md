@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g5-non-diagonal-inertia-matrix/","created":"2024-11-28T18:39:30.659+00:00","updated":"2024-11-29T06:32:05.376+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g5-non-diagonal-inertia-matrix/","created":"2024-11-28T18:39:30.659+00:00","updated":"2024-11-29T11:07:36.883+00:00"}
 ---
 
 ![Pasted image 20241129063120.png|500](/img/user/pics/Pasted%20image%2020241129063120.png)
@@ -8,7 +8,7 @@
 $$T  = \frac{1}{2} m\dot l_{1}^{2} + \frac{1}{2} m(\dot l_{1}  + \dot l_{2})^{2} = m\dot l_{1}^{2}  + \frac{1}{2}m \dot l_{2}^{2}  + \frac{1}{2}m \dot l_{1} \dot l_{2}$$
 - $\dot l_{1} \dot l_{2}$ is an off-diagonal term
 - the inertia matrix: 
-$$M = \begin{pmatrix}m & \frac{m}{2} \\ \frac{m}{2} & \frac{m}{2}\end{pmatrix}$$
+$$M = \begin{pmatrix} \frac{m}{2} & \frac{m}{2} \\ \frac{m}{2} & m\end{pmatrix}$$
 
 - the generalized force:
 $$F_{k} = \frac{\partial L}{\partial x_{k}} = - \frac{\partial V}{\partial x_{k}}$$

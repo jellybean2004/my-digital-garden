@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/px-284-a-0-statistical-mechanics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T22:39:44.821+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/px-284-a-0-statistical-mechanics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-29T18:40:34.704+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0b/fe/e5/0bfee5f0553195c340ed579aa2a1c0bb.gif' class = 'banner'>
@@ -25,3 +25,11 @@
 [[content/012/PX284 - statistical mechanics/D - equipartition theorem/PX284 - D1 - equipartition theorem\|PX284 - D1 - equipartition theorem]]
 [[content/012/PX284 - statistical mechanics/D - equipartition theorem/PX284 - D2 - examples\|PX284 - D2 - examples]]
 ### [[content/012/PX284 - statistical mechanics/E - single-particle partition function/E - single-particle partition function\|E - single-particle partition function]]
+[[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX285 - E0 - solving problems in statistical mechanics\|PX285 - E0 - solving problems in statistical mechanics]]
+[[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E1 - finding functions of state\|PX285 - E1 - finding functions of state]]
+[[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E2 - examples\|PX285 - E2 - examples]]
+[[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E3 - harmonic oscillator in 1D\|PX284 - E3 - harmonic oscillator in 1D]]
+[[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E4 - degeneracy\|PX284 - E4 - degeneracy]]
+[[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E5 - combining partition functions\|PX284 - E5 - combining partition functions]]
+[[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E6 - harmonic oscillator in 3D\|PX284 - E6 - harmonic oscillator in 3D]]
+### [[content/012/PX284 - statistical mechanics/F - connection between thermodynamics and statistical mechanics\|F - connection between thermodynamics and statistical mechanics]]
