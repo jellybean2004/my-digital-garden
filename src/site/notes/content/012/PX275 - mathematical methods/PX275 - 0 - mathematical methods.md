@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T23:01:09.850+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-02T19:14:28.652+00:00"}
 ---
 
 <img src = 'https://i.redd.it/3jxjy5nfxq781.gif' class = 'banner'>
@@ -68,4 +68,13 @@
 [[content/012/PX275 - mathematical methods/D - vector integration/D4 - vector surface area/PX275 - D4c - total vector surface area\|PX275 - D4c - total vector surface area]]
 [[content/012/PX275 - mathematical methods/D - vector integration/D4 - vector surface area/PX275 - D4d - comments\|PX275 - D4d - comments]]
 ### [[content/012/PX275 - mathematical methods/E - stoke's theorem and the divergence theorem/E - stokes' theorem and the divergence theorem\|E - stoke's theorem and the divergence theorem]]
-
+[[content/012/PX275 - mathematical methods/E - stoke's theorem and the divergence theorem/PX275 - E1a - stokes' theorem\|PX275 - E1 - stoke's theorem]]
+[[content/012/PX275 - mathematical methods/E - stoke's theorem and the divergence theorem/PX275 - E1b - examples\|PX275 - E1b - examples]]
+[[content/012/PX275 - mathematical methods/E - stoke's theorem and the divergence theorem/PX275 - E2a - divergence theorem\|PX275 - E2 - divergence theorem]]
+[[content/012/PX275 - mathematical methods/E - stoke's theorem and the divergence theorem/PX275 - E2b - dirac delta\|PX275 - E2b - dirac delta]]
+[[content/012/PX275 - mathematical methods/E - stoke's theorem and the divergence theorem/PX275 - E2c - example\|PX275 - E2c - example]]
+[[content/012/PX275 - mathematical methods/E - stoke's theorem and the divergence theorem/PX275 - E2d - scalar fields\|PX275 - E2d - scalar fields]]
+### [[content/012/PX275 - mathematical methods/F - tensors and summation conventions/F - tensors and summation conventions\|F - tensors and summation conventions]]
+[[content/012/PX275 - mathematical methods/F - tensors and summation conventions/PX275 - F1 - tensors\|PX275 - F1 - tensors]]
+[[content/012/PX275 - mathematical methods/F - tensors and summation conventions/PX275 - F2 - summation conventions\|PX275 - F2 - summation conventions]]
+[[content/012/PX275 - mathematical methods/F - tensors and summation conventions/PX275 - F3 - levi-civita symbol\|PX275 - F3 - levi-civita symbol]]
