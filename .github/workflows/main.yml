@@ -31,4 +31,4 @@ jobs:
         run: |
           git push https://github.com/<your-username>/<destination-repo>.git HEAD:main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the token for authentication
+          GITHUB_TOKEN: ${{ MY_GITHUB_TOKEN }}  # Use the token for authentication
