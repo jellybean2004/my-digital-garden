@@ -23,9 +23,9 @@ jobs:
       
       - name: Copy contents
         run: |
-        rsync -av --exclude '.git' --exclude 'my-digital-garden' ../ ./  # Exclude .git and my-digital-garden folder
-        git add .  # Stage all changes
-        git commit -m "Update content from source repo"
+          rsync -av --exclude '.git' --exclude 'my-digital-garden' ../ ./  # Exclude .git and my-digital-garden folder
+          git add .  # Stage all changes
+          git commit -m "Update content from source repo"
 
       
       - name: Push to the destination repo
