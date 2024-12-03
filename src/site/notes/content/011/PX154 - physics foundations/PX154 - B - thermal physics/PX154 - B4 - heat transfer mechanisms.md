@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-b-thermal-physics/px-154-b4-heat-transfer-mechanisms/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:49:27.572+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-b-thermal-physics/px-154-b4-heat-transfer-mechanisms/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T10:22:29.120+00:00"}
 ---
 
 [YF 17.6]
@@ -37,6 +37,6 @@
 - a surface at temperature $T$ will radiate at a power $P$ proportional to the surface area $A$ and $T^4$:
 $$P= \frac{dQ}{dt}=e\sigma AT^4$$
 		$e=$ surface emissivity
-		$\sigma=5.67\times 10^{-8}Wm^2K^{-1}$ (stephan boltzmann constant)
+		$\sigma=5.67\times 10^{-8}Wm^2K^{-1}$ (stefan boltzmann constant)
 	- all bodies emit and absorb radiation
 	- we will need a quantum theory to describe it properly - [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - A - light/PX156 - A2 - blackbody radiation and laws#PX158 - F1 - black body radiation stefan-boltzmann law stefan-boltzmann law for blackbodies\|stefan-boltzmann law for blackbodies]]
