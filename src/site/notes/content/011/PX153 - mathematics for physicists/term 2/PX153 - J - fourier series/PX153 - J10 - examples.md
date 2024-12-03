@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j10-examples/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:12:20.076+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j10-examples/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:17:16.186+00:00"}
 ---
 
 ## Q1
@@ -69,7 +69,7 @@ n=1,5,9,... &: \cos\left(\frac{\pi}{2}\right)=0 & b_{n}=- \frac{2}{n\pi} \\
 n=2,6,10,... &: \cos\pi=0 & b_{n}=- \frac{4}{n\pi} \\
 n=3,7,11,... &: \cos\left(\frac{3\pi}{2}\right)=0 & b_{n}=- \frac{2}{n\pi} \\
 n=4,8,12,... &: \cos(2\pi)=0 & b_{n}=0 \\
-\end{align*}$${ #4d1500}
+\end{align*}$$
 
 ## Q4
 $f(x) = x$ in $[-\pi,\pi)$

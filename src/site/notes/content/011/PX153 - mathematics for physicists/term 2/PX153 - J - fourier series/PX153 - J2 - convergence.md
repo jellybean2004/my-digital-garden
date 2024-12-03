@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j2-convergence/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:38:26.959+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j2-convergence/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:12:51.097+00:00"}
 ---
 
 - let $L=\pi$ : 
-$$f_{N}(x) = \frac{a_{0}}{2} + \sum\limits_{n=1}^{\infty} (a_{n}\cos(nx) + b_{n}\sin(nx))$$ for $-\pi\leq x \leq\pi$
+$$f_{N}(x) = \frac{a_{0}}{2} + \sum\limits_{n=1}^{\infty} (a_{n}\cos(nx) + b_{n}\sin(nx))$$
+for $-\pi\leq x \leq\pi$
 ## minimum requirement (convergence in the mean)
 - any function for which $\int_{-\pi}^{\pi} (f(x))^{2}\,dx < \infty$ can be expressed as a fourier series
 - a weak form of convergence: 
-$$\lim_{N\to\infty}f_{N}(x) \neq f(x)$$ at all $-\pi \leq x \leq \pi$
+$$\lim_{N\to\infty}f_{N}(x) \neq f(x)$$
+at all $-\pi \leq x \leq \pi$
 ## point-wise convergence
 - if $f(x)$ and $f'(x)$ are continuous at $[-\pi,\pi)$, except possibly at a finite number of points, the fourier series converges at every point, $\tilde f(x) = \frac{1}{2}(f(x^{+})+f(x^{-}))$, where, $f(x^{+})= \lim_{\epsilon\to0}f(x+\epsilon)$, $f(x^{-})= \lim_{\epsilon\to0}f(x-\epsilon)$, and $\epsilon$ is a scalar
 
