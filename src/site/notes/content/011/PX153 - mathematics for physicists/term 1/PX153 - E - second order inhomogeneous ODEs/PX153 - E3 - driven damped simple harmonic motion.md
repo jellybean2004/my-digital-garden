@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-e-second-order-inhomogeneous-od-es/px-153-e3-driven-damped-simple-harmonic-motion/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:37:17.498+00:00"}
 ---
 
-*[[content/011/PX155 - classical mechanics and special reltivity/classical mechanics/PX155 - D - simple harmonic motion/PX155 - D9 - driven damped simple harmonic motion\|PX155 - D9 - driven damped simple harmonic motion]]*
+*[[content/011/PX155 - classical mechanics and special relativity/classical mechanics/PX155 - D - simple harmonic motion/PX155 - D9 - driven damped simple harmonic motion\|PX155 - D9 - driven damped simple harmonic motion]]*
 - add a periodic driving force to our damped SHM. we'll write 
 $$f(x) = A_{0}e^{i\omega t}$$
 	- often written as $A_{0}\cos(\omega t)$

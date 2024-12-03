@@ -35,7 +35,7 @@ $$p= \frac{N}{3V}m \bar{v}^2$$
 $$pV=\frac{1}{3}Nm\bar{v}^2=Nk_BT$$
 ## alternative method
 $\Delta p = 2mv_x$
-[[content/011/PX155 - classical mechanics and special reltivity/classical mechanics/PX155 - A - foundations of classical mechanics/PX155 - A2 - newton's second law\|PX155 - A2 - newton's second law]]: $F= \frac{2mv_{x}}{dt}$
+[[content/011/PX155 - classical mechanics and special relativity/classical mechanics/PX155 - A - foundations of classical mechanics/PX155 - A2 - newton's second law\|PX155 - A2 - newton's second law]]: $F= \frac{2mv_{x}}{dt}$
 - if length of the cube is $L$, time for a molecule to get from one wall to the other and back:
 	$v_{x} = \frac{2L}{dt} \implies dt = \frac{2L}{v_{x}}$
 	$\implies F= \frac{m v_{x}^{2}}{L}$

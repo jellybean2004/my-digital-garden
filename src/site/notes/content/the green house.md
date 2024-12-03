@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T23:02:15.222+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:21:34.419+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif'  class = 'banner'>
@@ -17,17 +17,17 @@
 [[content/012/PX271 - physics skills/PX271 - 0 - physics skills\|PX271 - 0 - physics skills]]
 [[content/012/PX275 - mathematical methods/PX275 - 0 - mathematical methods\|PX275 - 0 - mathematical methods]]
 [[content/012/PX282A - stars/PX282A - 0 - stars\|PX282 - 0 - stars and the solar system]]
-[[content/012/PX282B - the solar system/PX282B - solar system\|PX282B - solar system]]
+[[content/012/PX282B - the solar system/PX282B - 0 - solar system\|PX282B - 0 - solar system]]
 [[content/012/PX284 - statistical mechanics/PX284A - 0 - statistical mechanics\|PX284 - 0 - statistical mechanics]]
-[[PX284B - electromagnetic theory and optics\|PX284B - electromagnetic theory and optics]]
-[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/PX285A - 0 - hamiltonian mechanics\|PX285 - 0 - hamiltonian mechanics]]
+[[content/PX284B  - 0 - electromagnetic theory and optics\|PX284B  - 0 - electromagnetic theory and optics]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/PX285A - 0 - hamiltonian mechanics\|PX285A - 0 - hamiltonian mechanics]]
 [[content/012/PX285B - 0 - fluid dynamics\|PX285B - 0 - fluid dynamics]]
 
 ---
 ### [[content/011/011 year 1\|011 year 1]] 🌱
 [[content/011/PX153 - mathematics for physicists/PX153 - 0 - mathematics for physicists\|PX153 - 0 - mathematics for physicists]]
 [[content/011/PX154 - physics foundations/PX154 - 0 - physics foundations\|PX154 - 0 - physics foundations]]
-[[content/011/PX155 - classical mechanics and special reltivity/PX155 - 0 - classical mechanics and special relativity\|PX155 - 0 - classical mechanics and special relativity]]
+[[content/011/PX155 - classical mechanics and special relativity/PX155 - 0 - classical mechanics and special relativity\|PX155 - 0 - classical mechanics and special relativity]]
 [[content/011/PX156 - quantum phenomena/PX156 - 0 - quantum phenomena\|PX156 - 0 - quantum phenomena]]
 [[content/011/PX157 - electricity and magnetism/PX157 - 0 - electricity and magnetism\|PX157 - 0 - electricity and magnetism 1]]
 [[content/011/PX158 - astronomy/PX158 - 0 - astronomy\|PX158 - 0 - astronomy]]

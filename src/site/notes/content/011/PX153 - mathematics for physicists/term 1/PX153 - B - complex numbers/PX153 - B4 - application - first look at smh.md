@@ -4,7 +4,7 @@
 
 - as an example, let's look at a mass on a spring
 - the force on the mass $\vec F=-kx\hat{\vec{x}}$
-- using [[content/011/PX155 - classical mechanics and special reltivity/classical mechanics/PX155 - A - foundations of classical mechanics/PX155 - A2 - newton's second law\|PX155 - A2 - newton's second law]], we can derive the equation of motion: 
+- using [[content/011/PX155 - classical mechanics and special relativity/classical mechanics/PX155 - A - foundations of classical mechanics/PX155 - A2 - newton's second law\|PX155 - A2 - newton's second law]], we can derive the equation of motion: 
 $$m \frac{d^2x}{dt^2}=-kx$$
 or, 
 $$\frac{d^2x}{dt^2}= - \frac{k}{m}x$$

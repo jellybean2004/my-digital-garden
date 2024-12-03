@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-j-particle-decays-and-relativistic-kinematics/px-156-j1-decays/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:06:00.622+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-j-particle-decays-and-relativistic-kinematics/px-156-j1-decays/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:21:34.312+00:00"}
 ---
 
 ## fermi's golden rule
@@ -15,7 +15,7 @@ $$P(i\to f) \propto (amplitude)^{2}(phase\,space)$$
 - every particle decays, except the ones that have no lighter particles to decay to: electron, proton(?), and neutrino(?)
 
 - usually looked at in a particle's rest frames
-- otherwise, [[content/011/PX155 - classical mechanics and special reltivity/special relativity/PX155 - G - foundations of special relativity/G - foundations of special relativity\|special relativity]] needs to be used
+- otherwise, [[content/011/PX155 - classical mechanics and special relativity/special relativity/PX155 - G - foundations of special relativity/G - foundations of special relativity\|special relativity]] needs to be used
 
 - controlled by a decay law
 - given an ensemble of $N$ particles at time, $t=0$, the number of particles left at time, $t$ is: 

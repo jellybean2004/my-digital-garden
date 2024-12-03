@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-b-atomic-stucture/px-156-b4-classical-vs-quantum/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:09:37.941+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-b-atomic-stucture/px-156-b4-classical-vs-quantum/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:21:34.089+00:00"}
 ---
 
 ## classical approach
 - consider a particle of mass, $m$, in 1D, subjected to a force, $F(x,t)$
 - $v = \frac{dv}{dt}$, ${} p=mv$, $KE = \frac{1}{2}mv^{2}$
-- from [[content/011/PX155 - classical mechanics and special reltivity/classical mechanics/PX155 - A - foundations of classical mechanics/PX155 - A2 - newton's second law\|newton's second law]]: 
+- from [[content/011/PX155 - classical mechanics and special relativity/classical mechanics/PX155 - A - foundations of classical mechanics/PX155 - A2 - newton's second law\|newton's second law]]: 
 $$F=ma$$
 - potential energy function, $V(x)$
 $$m \frac{d^{2}v}{dt^{2}}= - \frac{\partial V}{\partial x}$$

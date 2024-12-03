@@ -4,7 +4,7 @@
 
 [YF 16.8]
 [YF 37.6]
-[[content/011/PX155 - classical mechanics and special reltivity/special relativity/PX155 - H - the lorentz transformations/PX155 - H4 - relativistic doppler effect - seeing vs observing\|PX155 - H4 - relativistic doppler effect - seeing vs observing]]
+[[content/011/PX155 - classical mechanics and special relativity/special relativity/PX155 - H - the lorentz transformations/PX155 - H4 - relativistic doppler effect - seeing vs observing\|PX155 - H4 - relativistic doppler effect - seeing vs observing]]
 
 - the apparent change in frequency as measure by an observer when the source and/or the observer are moving relative to each other
 	- eg:

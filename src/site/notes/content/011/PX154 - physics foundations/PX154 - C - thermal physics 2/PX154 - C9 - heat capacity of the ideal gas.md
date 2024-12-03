@@ -61,7 +61,7 @@ $$C_{V}= \frac{1}{n}\frac{dQ}{dT}=\frac{3}{2}R$$
 ### vibration
 - doesn't exist for monatomic molecules
 - molecules can vibrate via stretching/contracting, or sometimes by bending of the interatomic bonds
-- the bond can be modelled as a spring and treat it as a *harmonic oscillator*, *[[content/011/PX155 - classical mechanics and special reltivity/classical mechanics/PX155 - D - simple harmonic motion/PX155 - D1 & D2 - oscillations & mass on a spring\|SHM]]* 
+- the bond can be modelled as a spring and treat it as a *harmonic oscillator*, *[[content/011/PX155 - classical mechanics and special relativity/classical mechanics/PX155 - D - simple harmonic motion/PX155 - D1 & D2 - oscillations & mass on a spring\|SHM]]* 
 ![Pasted image 20231101093623.png](/img/user/pics/Pasted%20image%2020231101093623.png) [YF 18.18]
 - $KE$ and $PE$ from the vibration have to be included. each adds one degree of freedom
 	- total $k_BT$ 
