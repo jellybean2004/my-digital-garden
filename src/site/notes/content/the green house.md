@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:21:34.419+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-04T21:24:15.000+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif'  class = 'banner'>
@@ -42,6 +42,7 @@
 - **email**: [sujayashr18@gmail.com](mailto:sujayashr18@gmail.com)
 - **linkedin**: [sujaya_shr](https://www.linkedin.com/in/sujayashr/)written on [obsidian](obsidian.md)
 ---
+- created using [digital garden plugin 🏡](https://github.com/oleeskild/obsidian-digital-garden)
+- many graphics used in the notes are not mind. please right click and open the image address for original addresses of the banners.
 
-created using [digital garden plugin 🏡](https://github.com/oleeskild/obsidian-digital-garden)
 $\textcopyright$ Sujaya Shrestha 2024
