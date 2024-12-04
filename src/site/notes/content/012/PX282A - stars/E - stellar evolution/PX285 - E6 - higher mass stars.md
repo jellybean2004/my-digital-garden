@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-285-e6-higher-mass-stars/","created":"2024-11-26T10:30:43.658+00:00","updated":"2024-11-26T10:46:48.380+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-285-e6-higher-mass-stars/","created":"2024-11-26T10:30:43.658+00:00","updated":"2024-12-04T21:11:20.922+00:00"}
 ---
 
 - they evolve similarly to low-mass stars, up to [[content/012/PX282A - stars/E - stellar evolution/PX285 - E5e - asymptotic giant branch (AGB)\|AGB]], but they burn faster with no [[content/012/PX282A - stars/E - stellar evolution/PX285 - E5c - helium flash\|helium flash]]
@@ -9,11 +9,12 @@
 	- temperature $\sim 6\times10^{8}\,K$ 
 	- forms Ne, Na and Mg
 	- lasts about $300$ years
-- O-burning
+- **O-burning**
 	- a temperature $\sim 10^{9}\,K$ 
 	- forms Si, P, S and Mg
 	- lasts about ${} 200$ days
-- Si burning forms Fe, 
+- **Si burning** 
+	- forms Fe, 
 	- lasts about 2 days 
 
 - a shell structure forms with an  degenerate iron core
@@ -24,6 +25,6 @@
 - about 1% of it is kinetic energy released as neutrinos in about $10\,s$
 - observationally, such core-collapse supernovae are labelled type $II$, ${} Ib$, ${} Ic$
 - the outer layers fall slower and they are suspended over the collapsing core
-- a lot happens in a sort time
+- a lot happens in a short time
 - the core collapses in seconds, while the shockwave takes hours to reach the surface
 - a large quantity of $\alpha$-elements is produced

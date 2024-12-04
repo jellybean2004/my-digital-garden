@@ -19,9 +19,9 @@
 [[content/012/PX282A - stars/PX282A - 0 - stars\|PX282 - 0 - stars and the solar system]]
 [[content/012/PX282B - the solar system/PX282B - 0 - solar system\|PX282B - 0 - solar system]]
 [[content/012/PX284 - statistical mechanics/PX284A - 0 - statistical mechanics\|PX284 - 0 - statistical mechanics]]
-[[content/PX284B  - 0 - electromagnetic theory and optics\|PX284B  - 0 - electromagnetic theory and optics]]
+[[content/012/PX284 - statistical mechanics/PX284B  - 0 - electromagnetic theory and optics\|PX284B  - 0 - electromagnetic theory and optics]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/PX285A - 0 - hamiltonian mechanics\|PX285A - 0 - hamiltonian mechanics]]
-[[content/012/PX285B - 0 - fluid dynamics\|PX285B - 0 - fluid dynamics]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/PX285B - 0 - fluid dynamics\|PX285B - 0 - fluid dynamics]]
 
 ---
 ### [[content/011/011 year 1\|011 year 1]] 🌱

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-282-e3-main-sequence/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:49:54.008+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-282-e3-main-sequence/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-04T21:17:08.655+00:00"}
 ---
 
 ![Pasted image 20241126104946.png](/img/user/pics/Pasted%20image%2020241126104946.png)
@@ -19,7 +19,7 @@ $$L \propto \frac{r^{2}}{\kappa\rho} T^{3} \frac{dT}{dr} \propto \frac{r^{2}T^{6
 - therefore: 
 $$\frac{dT}{dr} = \frac{T}{R}$$
 - where, $\rho\sim \frac{M}{R^{3}}$ and $r\sim R:$ 
-$$L \propto \frac{R^{7}T^{7.5}}{M^{2}}$$
+$$L \propto \frac{R^{7}T^{7.5}}{M^{2}} \tag{1}$$
 - taking the hydrostatic equilibrium equation: 
 $$\frac{dP}{dr} = - \frac{GM_{r}}{r^{2}}\rho$$
 $$\frac{P}{R}\propto \frac{M^{2}}{R^{5}} \;,\; P \propto \frac{M^{2}}{R^{4}}$$
@@ -30,6 +30,6 @@ $$\implies T\propto \frac{M\mu}{R}$$
 $$R \propto M\mu$$
 - back to equation $(1):$ 
 $$L\propto \mu^{7}M^{5}$$
-- so, if $\mu$ increases, the luminousity also increases in main sequence
+- so, if $\mu$ increases, the luminosity also increases in main sequence
 $$\tau_{N} = D \times \frac{m_{core}c^{2}}{L} \propto \frac{M}{L} \propto M^{-4}$$
 - higher mass stars have shorter main-sequence lifetime

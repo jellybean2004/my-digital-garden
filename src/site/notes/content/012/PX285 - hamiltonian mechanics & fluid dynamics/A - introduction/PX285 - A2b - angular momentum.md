@@ -1,16 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/a-introduction/px-285-a2b-angular-momentum/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:00:46.661+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/a-introduction/px-285-a2b-angular-momentum/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-04T21:18:51.206+00:00"}
 ---
 
-- eg:
-
-	- $\vec\omega = \omega\,\hat n$, $\vec r$ at an angle $\theta$
-	$$\begin{align*}
+- eg: $\vec\omega = \omega\,\hat n$, $\vec r$ at an angle $\theta$
+$$\begin{align*}
 	\vec v &= \vec\omega\times\vec r \\
 	&= \vec\omega \times (r\cos\theta\,\hat{n}+ r\sin\theta\,\hat{x})\\
 	&= \vec\omega \times \hat{x} r\sin\theta \\
 	&= \hat{v}\,r\sin\theta\,\omega
-	\end{align*}$$
+\end{align*}$$
 	 $\vec\omega\times\vec x = \omega\,\hat{v}$ 
 - using the fact that all mass elements, $m_{i}$ (atoms), in a solid body rotate about the same axis if the body is rotated: 
 $$\vec v_{i} = \vec\omega\times \vec r_{i}$$
