@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f1-isolated-system-or-microcanonical-ensemble/","created":"2024-11-29T18:43:20.801+00:00","updated":"2024-11-29T19:00:40.478+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f1-isolated-system-or-microcanonical-ensemble/","created":"2024-11-29T18:43:20.801+00:00","updated":"2024-12-05T15:14:12.534+00:00"}
 ---
 
 - in statistical mechanics:
@@ -19,4 +19,12 @@ $$dS \geq 0$$
 ## statistical mechanics
 - in statistical mechanics: $S$ for an isolated two-state system:
 $$S = -k_{B} \sum\limits_{i} P_{i}\ln P_{i} = - k_{B} [P_{1} \ln P_{1} + P_{2}\ln P_{2}]$$
-
+$$\frac{dS}{dP_{1}}= - k_{B} \left[ \ln P_{1} + 1 + \frac{dP_{2}}{dP_{1}}(\ln P_{1} +1 ) \right] = 0$$
+	at maximum (equilibrium)
+- but, $P_{1} + P_{2} = 1$
+- so, $\frac{dP_{2}}{dP_{1}}=1$
+- at maximum $S: \ln P_{1} + 1 - \ln P_{2} -1 =0 \implies ln P_{1} = \ln P_{2} \implies P_{1} = P_{2}$
+- this shows that the microstates are equiprobable
+- it can be shown that this is true for an $N$ state system
+- therefore, maximizing $S \equiv$ equiprobable microstates
+- this is he definition of equilibrium in microcanonical ensemble
