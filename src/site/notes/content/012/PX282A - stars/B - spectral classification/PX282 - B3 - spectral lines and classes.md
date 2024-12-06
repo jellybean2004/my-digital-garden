@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/b-spectral-classification/px-282-b3-spectral-lines-and-classes/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:34:07.330+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/b-spectral-classification/px-282-b3-spectral-lines-and-classes/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T17:00:16.627+00:00"}
 ---
 
 - from spectral lines, subdivisions are formed: $G0 \to G9\, (hot\to cold)$
@@ -14,4 +14,6 @@
 	- $VI:$ sub-dwarfs
 	- $D:$ white dwarfs
 - eg: $AOV$(dwarf), $AOI$ (giant)
-![Pasted image 20241116144140.png](/img/user/pics/Pasted%20image%2020241116144140.png)
+
+![Pasted image 20241116144140.png|500](/img/user/pics/Pasted%20image%2020241116144140.png)
+*image: chandra x-ray observatory*

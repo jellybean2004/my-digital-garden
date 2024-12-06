@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g4-solar-atmosphere/","created":"2024-12-05T10:07:55.492+00:00","updated":"2024-12-05T10:24:11.523+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g4-solar-atmosphere/","created":"2024-12-05T10:07:55.492+00:00","updated":"2024-12-06T16:23:10.164+00:00"}
 ---
 
 ![Pasted image 20241205100913.png|500](/img/user/pics/Pasted%20image%2020241205100913.png)
@@ -18,5 +18,3 @@
 - in the corona, the plasma is confined to many magnetic field loops by the [[content/011/PX157 - electricity and magnetism/PX157 - C - magnetic fields/PX157 - C1a - the lorentz force\|the lorentz force]]
 
 ![Pasted image 20241205102348.png|500](/img/user/pics/Pasted%20image%2020241205102348.png)
-*image: * #fig redraw
-

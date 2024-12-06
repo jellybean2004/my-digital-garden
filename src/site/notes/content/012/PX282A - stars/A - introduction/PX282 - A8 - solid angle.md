@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/a-introduction/px-282-a8-solid-angle/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:33:53.325+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/a-introduction/px-282-a8-solid-angle/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T16:40:27.683+00:00"}
 ---
 
 - a solid angle gives the area of a 'spherical cap' on the surface
 - it is the 3D equivalent of an angle
 - units: steradians, radians
-![Pasted image 20241017113641.png](/img/user/pics/Pasted%20image%2020241017113641.png)
+
+![Pasted image 20241206164023.png|500](/img/user/pics/Pasted%20image%2020241206164023.png)
+*image: c. balaji, b. srinivasan and s. gedupudi* 
+
 - how many total solid angles in a sphere? ie: 
 $$\int_{sphere} d\Omega =?$$
 - taking a unit sphere of surface area, $dA$, for a given solid angle, $d\Omega$

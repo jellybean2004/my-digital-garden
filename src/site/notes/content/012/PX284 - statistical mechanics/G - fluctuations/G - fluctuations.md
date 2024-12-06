@@ -3,4 +3,4 @@
 ---
 
 [[content/012/PX284 - statistical mechanics/G - fluctuations/PX284 - G1 - energy deviation\|PX284 - G1 - energy deviation]]
-[[PX284 - G2 - large systems\|PX284 - G2 - large systems]]
+[[content/012/PX284 - statistical mechanics/G - fluctuations/PX284 - G2 - large systems\|PX284 - G2 - large systems]]

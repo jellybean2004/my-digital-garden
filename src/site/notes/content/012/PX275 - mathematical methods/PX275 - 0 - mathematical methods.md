@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-02T19:14:28.652+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T16:25:29.201+00:00"}
 ---
 
 <img src = 'https://i.redd.it/3jxjy5nfxq781.gif' class = 'banner'>
@@ -78,3 +78,5 @@
 [[content/012/PX275 - mathematical methods/F - tensors and summation conventions/PX275 - F1 - tensors\|PX275 - F1 - tensors]]
 [[content/012/PX275 - mathematical methods/F - tensors and summation conventions/PX275 - F2 - summation conventions\|PX275 - F2 - summation conventions]]
 [[content/012/PX275 - mathematical methods/F - tensors and summation conventions/PX275 - F3 - levi-civita symbol\|PX275 - F3 - levi-civita symbol]]
+
+***image credits:** most images in these notes are taken from Prof. Steve Dixon's typed notes for the module*

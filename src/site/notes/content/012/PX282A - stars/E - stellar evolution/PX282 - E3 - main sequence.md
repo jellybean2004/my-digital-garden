@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-282-e3-main-sequence/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-04T21:17:08.655+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-282-e3-main-sequence/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T17:16:19.366+00:00"}
 ---
 
-![Pasted image 20241126104946.png](/img/user/pics/Pasted%20image%2020241126104946.png)
+![Pasted image 20241206171555.png|500](/img/user/pics/Pasted%20image%2020241206171555.png)
+*image: nelson bridwell*
+
 - H-burning stars in PP chains
 - overtime, He builds up in the core
 - the average mass per particle in the core goes from $\mu_{H+} = \frac{1}{2}$ to $\mu_{He+}=\frac{4}{3}$

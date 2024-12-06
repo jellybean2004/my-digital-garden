@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/a-introduction/px-282-a7-inside-a-star/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:33:49.620+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/a-introduction/px-282-a7-inside-a-star/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T16:40:45.520+00:00"}
 ---
 
 - photons are released from nuclear-energy production, which do not get out easily
@@ -8,7 +8,9 @@
 - the photons seen arise from near the 'surface', from material in thermal equilibrium
 - emission from a gas in thermal equilibrium can be approximated by [[content/011/PX158 - astronomy/PX158 - F - blackbody and colours/PX158 - F1 - black body radiation\|black body radiation]], which follows planck's law: 
 $$B_\lambda(T) = \frac{2hc^{2}}{\lambda^{5}}\left(\frac{1}{\exp(\frac{hc}{\lambda kT})}-1\right)$$
-![Pasted image 20241017180433.png](/img/user/pics/Pasted%20image%2020241017180433.png)
+![Pasted image 20241017180433.png|500](/img/user/pics/Pasted%20image%2020241017180433.png)
+#credits 
+
 - **key observations:**
 	- hotter objects have a higher peak, ie. they give off more energy
 	- total energy under the curve is: 

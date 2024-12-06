@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d6-nuclear-binding-energies/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:39:57.440+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d6-nuclear-binding-energies/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T17:04:28.879+00:00"}
 ---
 
 - the energy of an atom: 
@@ -9,7 +9,9 @@ $$E = mc^{2} \neq (Z\,m_{p} + N\,m_{n}) \, c^{2}$$
 $$E_{nucleus} < E_{p} + E_{n}$$
 - the binding energy is the amount of energy required to separate the components of an atom: 
 $$E_{binding} = (Z\,m_{p} + N\,m_{n} - m_{nucleus}) \, c^{2}$$
-![Pasted image 20241114100920.png](/img/user/pics/Pasted%20image%2020241114100920.png)
+![Pasted image 20241206170411.png|500](/img/user/pics/Pasted%20image%2020241206170411.png)
+*image: david moriaf*
+
 - consider a fusion reaction: 
 $$4 \, {}_{1}^{1}\text{H} \to {}_{2}^{4} \text{He}$$
 - the energy released: $\Delta E = 0.0084\,m_{H}$ per nucleon

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/a-introduction/px-282-a6-magnitudes-bandpasses-colours/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:33:22.979+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/a-introduction/px-282-a6-magnitudes-bandpasses-colours/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T16:46:52.154+00:00"}
 ---
 
 - see: [[content/011/PX158 - astronomy/PX158 - D - fluxes and magnitudes/PX158 - D2 - brightness and magnitudes\|PX158 - D2 - brightness and magnitudes]]
@@ -34,7 +34,8 @@ $$\bar f_{A} = \frac{\int_{0}^{\infty} T_{\lambda}f_{\lambda}\,d\lambda}{\int_{0
 	- $90\%$ at $\lambda$
 
 ### colours and temperature
-![Pasted image 20241008101726.png](/img/user/pics/Pasted%20image%2020241008101726.png)
+![Pasted image 20241206164609.png|500](/img/user/pics/Pasted%20image%2020241206164609.png)
+*image; speclite developers*
 
 - $m$  in a bandpass: ${} m_{B},m_{U},m_{V}$
 	- $U-B \text{ colour}= m_{U}-m_{B}$

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d7-pp-1-fusion-chain/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:39:58.381+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d7-pp-1-fusion-chain/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T17:10:47.949+00:00"}
 ---
 
 - considering the hydrogen-fusion reaction: 
@@ -24,9 +24,6 @@ $$\begin{gather}
 ## energy released
 - the reaction rates are set by the slowest process
 - for PP1, the initial decay of $p\to n$ requires the weak nuclear force and collisions, and it takes $10^{10}$ years for a given proton
-
-![Pasted image 20241114104722.png](/img/user/pics/Pasted%20image%2020241114104722.png)
-
 - energy is needed to overcome the strong nuclear force and escape the coulomb potential well
 - comparing the thermal and the coulomb energy: 
 $$\frac{3}{2}k_{B}T = \frac{Z_{1}Z_{2}e^{2}}{4\pi\epsilon_{0}r}$$
@@ -43,7 +40,9 @@ $$R_{1,2} = n_{1}n_{2}\sigma v$$
 $$P \propto \exp\left(- \frac{2\pi^{2}U}{E}\right)$$
 - the velocity: 
 $$v \propto \exp\left(- \frac{E}{k_{B}T}\right)$$
-![Pasted image 20241114104423.png](/img/user/pics/Pasted%20image%2020241114104423.png)
+
+![Pasted image 20241206170959.png](/img/user/pics/Pasted%20image%2020241206170959.png)
+*image: livius trache*
 
 - expanding the exponentials: 
 $$R_{pp}\propto \rho^{2}X_{H}^{2}T^{4}$$
@@ -59,5 +58,4 @@ $$\epsilon_{pp}= \rho X_H ^{2} T^4$$
 $$3 \, {}_{2}^{4} \text{He} \to {}_{6}^{12} \text{C} + \gamma$$
 	- $\epsilon_{3\alpha} \propto \rho^{2} Y^{3} T^{40}$ for $T>\sim10^8\,K$
 
-![Pasted image 20241114105332.png](/img/user/pics/Pasted%20image%2020241114105332.png)
 - the energy gets progressively lower, thus less time is taken for subsequent fusions into heavier nuclei
