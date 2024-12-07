@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c8-postulate-5/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:07:31.064+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c8-postulate-5/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-07T18:17:51.046+00:00"}
 ---
 
 ## the time dependence of the wavefunction
@@ -10,8 +10,11 @@ $$\begin{gather}
 \end{gather}$$
 - another time dependence is when measurement is done
 - at the time of the measurement, the wavefunction collapses to one of the eigenfunctions of the corresponding order
-## postulate 5 
-- between measurements, the development of the wavefunction is governed by the schrödinger equation 
+
+
+> [!quote] postulate 5
+>  between measurements, the development of the wavefunction with time is governed by the [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B1 - schrödinger equation\|time-dependent schrödinger equation]] 
+
 - how it looks for a general wavefunction: 
   $$\psi(\vec r , t) = \sum\limits_{n}a_{n}(t) \phi_{n}(\vec r)$$
 $$i\hbar \sum\limits_{n}\frac{da_{n}(t)}{dt} \phi_{n}(\vec r) = \sum\limits_{n}a_{n}(t) \hat H\phi_{n}= \sum\limits_{n} a_{n}(t) E_{n}\phi_{n}(\vec r)$$

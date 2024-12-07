@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c7a-the-uncertainty-principle/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:07:28.999+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c7a-the-uncertainty-principle/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-07T18:04:27.656+00:00"}
 ---
 
 ## derivation
@@ -31,6 +31,7 @@ $$\Delta q^{2} \Delta r^{2} \geq \left(\frac{1}{4} \left|\int \psi^{*} [\hat Q' 
 - for position and momentum operators, $[\hat X, \hat P_{x}] = i\hbar:$ 
   $$\Delta x \Delta p_{x} = \frac{\hbar}{2}$$
 ## interpretation
-- the two quantities are measured on different copies of the QM system
-- HUP does not tell how one variable is affected by the measurement of another
-- it tells how well given quantities can be measured or predicted
+- the two quantities are measured on different copies of the system/different experiments
+- HUP does not tell how one variable is affected by the measurement of another, but rather how well given quantities can be measured or predicted
+
+- **note:** the generalized uncertainty principle is an **inequality**, so ${} [\hat Q , \hat R] = 0 {}$ does **not** mean that $\Delta q \Delta r = 0$

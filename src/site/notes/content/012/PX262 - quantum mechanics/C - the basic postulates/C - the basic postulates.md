@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/c-the-basic-postulates/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:06:52.561+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/c-the-basic-postulates/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-07T15:51:43.519+00:00"}
 ---
 
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C1a - the wavefunction\|PX262 - C1a - the wavefunction]]
@@ -11,7 +11,7 @@
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C3 - orthonormality\|PX262 - C3 - orthonormality]]
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C4 - probability distributions\|PX262 - C4 - probability distributions]]
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C4b - postulate 4\|PX262 - C4b - postulate 4]]
-[[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C4c - continuous variables\|PX262 - C4c - continuous variables]]
+[[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C4c - continuous eigenvalues\|PX262 - C4c - continuous variables]]
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C5 - expectation value\|PX262 - C5 - expectation value]]
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C6 - commutation relations\|PX262 - C6 - commutation relations]]
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C7a - the uncertainty principle\|PX262 - C7a - the uncertainty principle]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-02T20:18:20.349+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-07T15:51:43.614+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/bc/33/e6/bc33e60f91c80e7f319adb6b59f87fa7.gif' class = 'banner'>
@@ -13,8 +13,8 @@
 [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A6 - wave-particle duality\|PX262 - A6 - wave-particle duality]]
 [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A7 - the uncertainty principle\|PX262 - A7 - the uncertainty principle]]
 ### [[content/012/PX262 - quantum mechanics/B - introduction/B - introduction\|B - introduction]]
-[[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B1 - the schrödinger equation\|PX262 - B1 - the schrödinger equation]]
-[[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B2 - time independent schrödinger equation\|PX262 - B2 - time independent schrödinger equation]]
+[[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B1 - schrödinger equation\|PX262 - B1 - the schrödinger equation]]
+[[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B2 - time-independent schrödinger equation\|PX262 - B2 - time independent schrödinger equation]]
 [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B3 - boundary conditions\|PX262 - B3 - boundary conditions]]
 [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B4 - particle in an infinite square well\|PX262 - B4 - particle in an infinite square well]]
 [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B5 - quantum tunnelling\|PX262 - B5 - quantum tunnelling]]
@@ -29,7 +29,7 @@
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C3 - orthonormality\|PX262 - C3 - orthonormality]]
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C4 - probability distributions\|PX262 - C4 - probability distributions]]
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C4b - postulate 4\|PX262 - C4b - postulate 4]]
-[[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C4c - continuous variables\|PX262 - C4c - continuous variables]]
+[[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C4c - continuous eigenvalues\|PX262 - C4c - continuous variables]]
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C5 - expectation value\|PX262 - C5 - expectation value]]
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C6 - commutation relations\|PX262 - C6 - commutation relations]]
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C7a - the uncertainty principle\|PX262 - C7a - the uncertainty principle]]

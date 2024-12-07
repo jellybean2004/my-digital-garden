@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b4-particle-in-an-infinite-square-well/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:30:54.474+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b4-particle-in-an-infinite-square-well/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-07T18:21:38.559+00:00"}
 ---
+
+![Pasted image 20241207182131.png|500](/img/user/pics/Pasted%20image%2020241207182131.png)
 
 - considering an infinite square potential well: 
   $$V(x) = \begin{cases} 0 & for & |x|<a, \\ \infty & for & |x|>a. \end{cases}$$
@@ -8,7 +10,8 @@
 - inside the well: 
   $$-\frac{\hbar^{2}}{2m} \frac{d^{2}\phi(x)}{dx^{2}} = E\phi(x)$$
 - the solution has the form: $\phi(x) = A\cos(kx)+B\sin(kx)$
-	where, $A$ and $B$ are constants; $k=\sqrt{\frac{2mE}{\hbar^{2}}}$
+	where, $A$ and $B$ are constants, and $k=\sqrt{\frac{2mE}{\hbar^{2}}}$
+
 - the boundary conditions require that the function is continuous at the border of the potential well: $\phi(-a) = \phi(a)=0$
 $$\begin{gather*}
 	A\cos(ka)+ B\sin(kx) = 0 \\
@@ -28,19 +31,18 @@ $$\begin{gather*}
 	\end{cases}$$
 	- the index in the labels give the state of the system
 
-- substituting into the schrödinger equation: 
-  $$\begin{gather*}
-\vdots \\
+- substituting into the schrödinger equation, the energy is obtained: 
+$$\begin{gather*}
 E_{n}= \frac{\hbar^{2}\pi^{2}}{8ma^{2}}n^{2}
 \end{gather*}$$
 - **note:** 
 	- a particle in the system can only have specific, discrete energies
 	- the probabilities of finding the particle at different positions will depend on the energies
 
-- typical values for electron, $M=9.1\times10^{-31}\,kg$, in an atom of size, $10^{-10}m:$ $E_{n}=9.4\,eV\,n^{2}$
+- typical values for electron, ${} m=9.1\times10^{-31}\,kg$, in an atom of size, $10^{-10}m:$ $E_{n}=9.4\,eV\,n^{2}$
 
-- more macroscopic: $M=10^-10\,kg$; $a = 10^{-6}\,m \implies E_{n}= 1.4\times10^{-46}\,n^{2}\,J$
-	- thermal energy at $1K \sim 10^-23\,J$, $n$ must be $3\times10^{11}$
+- more macroscopic: ${} m=10^{-10}\,kg$; $a = 10^{-6}\,m \implies E_{n}= 1.4\times10^{-46}\,n^{2}\,J$
+	- thermal energy at $1K \sim 10^{-23}\,J$, $n$ must be $3\times10^{11}$
 	- differences between energies and positions are so small that they cannot be distinguished experimentally
 
 - **correspondence principle:** when going towards macroscopic objects, the quantum mechanical description will result in something resembling classical physics

@@ -1,21 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c4-probability-distributions/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:07:16.225+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c4-probability-distributions/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-07T18:20:45.400+00:00"}
 ---
 
 - taking the lowest energy state of a particle in an infinite potential well, and its wavefunction
 - the position eigenfunctions are defined by the dirac delta functions, and the whole wavefunction could be viewed as a sum of an infinite number of these functions
-- this can be approximated by discretizing the position, allowing the particle to be one of the several strips of a finite width, $\Delta$
 
-![Pasted image 20241022142825.png](/img/user/pics/Pasted%20image%2020241022142825.png)
-
-- if the particle is measured in a particular strip, strip $n$, that strip will have a non-zero height, whereas all other strips will have a height of zero
+- considering a experiment where the particle is found in one of a series of detectors of width, $\Delta$
+- if the particle is measured in a particular detector, the wavefunction will be non-zero everywhere except on that detector, with a peak $h$ and width, $\Delta$
 - the height is given by the fact that the probability of finding the particle in that strip is one: 
-  $$ h\Delta^{2}=1 \implies h = \Delta^{-\frac{1}{2}}$$
+  $$ h^{2}\Delta=1 \implies h = \Delta^{-\frac{1}{2}}$$
+	  **note:** $h^{2}$ comes from the fact that probability comes from $|\psi|^{2}$
+	
 - the $n^{th}$ wavefunction is denoted by $\phi_{n}$, which is properly normalized
+- the wavefunction before such measurement is $\psi$
+- if $\psi(x)$ is divided into a strips of width, $\Delta$, which can be approximated by $\psi(x_n)$ inside the $n^{th}$ strip
 
-- before the measurement, the wavefunction of the system is the weighted sum over all the strips: 
-  $$\psi(x) = \sum\limits_{n} \frac{\psi(x_{n})}{h} \phi_{n} = \sum\limits_{n}a_{n}\phi_{n}$$
-	where, $a_{n} = \frac{\psi(x_{n})}{h} = \Delta^{\frac{1}{2}}\psi(x_{n})$
+![Pasted image 20241207182041.png|500](/img/user/pics/Pasted%20image%2020241207182041.png)
+
+- $\phi_n$ would represent a strip of height $h$ covering the strip, and is zero outside it:
+$$\psi(x) = \sum\limits_{n} \frac{\psi(x_{n})}{h} \phi_{n} = \sum\limits_{n}a_{n}\phi_{n}$$
+	where, 
+$$a_{n} = \cfrac{\psi(x_{n})}{h} = \Delta^{1/2}\psi(x_{n})$$
 - the weights correspond to the probability of finding the particle in each strip
 - the probability of finding the particle in the $n^{th}$ strip is: 
   $$P(x_{n}) = |\psi(x_{n})|^{2}\Delta = |a_{n}|^{2}$$

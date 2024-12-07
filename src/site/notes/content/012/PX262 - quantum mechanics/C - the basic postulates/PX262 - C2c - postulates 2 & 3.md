@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c2c-postulates-2-and-3/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:07:11.771+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c2c-postulates-2-and-3/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-07T14:24:13.628+00:00"}
 ---
 
-## postulate 2
-- every dynamical variable is represented by a hermitian operator
-- the measured values correspond to the eigenvalues of the given operator
-- immediately after the measurement, the wavefunction will be the eigenfunction corresponding to the given eigenvalue
-## postulate 3
-- the position and the momentum operators are $\vec r$ and $-i\hbar\vec v$ 
-- the other operators bear the same functional form as in classical physics
+> [!quote] postulate 2
+> every dynamical variable may be represented by a hermitian operator whose eigenvalues represent the possible results of carrying out the measurement of the value of the dynamical variable
+> immediately after such a measurement, the wavefunction of the system is identical to the eigenfunction corresponding to the eigenvalue obtained as a result of the measurement
+
+> [!quote] postulate 3
+> the operators representing the position and the momentum of a particle are$\vec r$ and $-i\hbar\vec\nabla$, respectively
+> operators reprseneting other dynamical quantities bear the same functional relation to these, as do the corresponding classical quantities to the classical position and momentum variables

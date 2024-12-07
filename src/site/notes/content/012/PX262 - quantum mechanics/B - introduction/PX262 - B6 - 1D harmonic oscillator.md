@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b6-1-d-harmonic-oscillator/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:06:47.908+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b6-1-d-harmonic-oscillator/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-07T12:53:06.390+00:00"}
 ---
 
 - in classical physics: 
@@ -17,15 +17,15 @@ $$\frac{d^{2}\phi}{dy^{2}} - y^{2}\phi = 0$$
 - try solution in form: 
 $$\begin{gather*}
 	\phi = y^{n}e^{-\frac{y^{2}}{2}} \\\\
-	\implies \frac{d\phi}{dy} = ny^{n-1} e^{- \frac{y^{2}}{2}} - ye^{- \frac{y^{2}}{2}} \\
-	= \frac{n}{y}\phi(y) - y \phi(y)\\\\
+	\implies \frac{d\phi}{dy} = ny^{n-1} e^{- \frac{y^{2}}{2}} - ye^{- \frac{y^{2}}{2}} 	= \frac{n}{y}\phi(y) - y \phi(y)\\\\
 	\implies \frac{d^{2}\phi}{dy^{2}} = - \frac{n}{y^{2}} \phi(y) + \frac{n}{y}\left(\frac{n}{y}\phi(y)-y\phi(y)\right)-\phi(y) -y\left(\frac{n}{y}\phi (y) -y\phi(y)\right) \\
 	= \frac{n(n-1)}{y^{2}}\phi(y) - (2n+1)\phi(y) + y^{2}\phi(y)
 \end{gather*}$$
 - if $y$ is very large: 
 $$\frac{d^{2}\phi(y)}{dy^{2}} \approx y^{2}\phi(y)$$
 	- also, $\phi\approx 0$ due to the $e^\frac{-y^{2}}{2}$ term
-- for small values of $y:$ 
+
+- for all values  of $y$, the general solution can be written as: 
   $$\phi(y) = H(y)e^{- \frac{y^{2}}{2}}$$
 	where, $H(y)$ is a function that needs to be determined
 - substituting $H$ in the TISE: 
@@ -56,12 +56,11 @@ $$\begin{gather*}
 - substituting the value of $\alpha$ gives the allowed energies: 
   $$E_{n}= \left(n + \frac{1}{2}\right)\hbar\omega_c$$
 - the condition $\alpha =2n+1$ removed even/odd terms, but not both
-- first two states: $a_{1}=0, n\in even$; $a_{0}=0,n\in odd$
 
-- the lowest state has $n=0$, and its energy is called the zero-point energy: 
+- the lowest state has $n=0$, and its energy is called the **zero-point energy**: 
   $$E_{0}= \frac{1}{2}\hbar \omega_{c}$$
 - the energy levels are evenly spaced with the difference, $\hbar\omega_c$
-- the first few $H(y)$ are called *hermite polynomials*: 
+- the polynomials $H(y)$ are called **hermite polynomials**: 
 $$\begin{gather}
 		H_{0}=1 && H_{1}=2y \\ H_{2}=4y^{2}-2 && H_{3}=8y^{3}-12y
 \end{gather}$$
@@ -72,3 +71,6 @@ $$\begin{align*}
 	\phi_{1} &= \left(\frac{4}{\pi}\right)^{\frac{1}{4}} \left(\frac{M\omega}{\hbar\pi}\right)^{\frac{1}{4}}\exp\left(\frac{-M\omega x^{2}}{2\hbar}\right) \\
 	\phi_{2} &= \left(\frac{M\omega}{4\pi\hbar}\right)^{\frac{1}{4}} \left[\frac{2M\omega}{\hbar}x^{2}-1\right] \exp\left(\frac{-M\omega x^{2}}{2\hbar}\right)
 \end{align*}$$
+
+![Pasted image 20241207125243.png|500](/img/user/pics/Pasted%20image%2020241207125243.png)
+*image: avtar sehra*
