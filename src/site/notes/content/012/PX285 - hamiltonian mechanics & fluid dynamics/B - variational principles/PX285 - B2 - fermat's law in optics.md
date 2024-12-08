@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b2-fermat-s-law-in-optics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:00:34.504+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b2-fermat-s-law-in-optics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-08T17:15:52.580+00:00"}
 ---
 
 - light rays trace paths that extremize the *optical path length*: 
 $$l = \int ds\, n(\vec r(s))$$
 - is this the same as *[[content/011/PX154 - physics foundations/PX154 - I - light/PX154 - I5 - snell's law\|snell's law]]*?
 
-![Pasted image 20241010140639.png](/img/user/pics/Pasted%20image%2020241010140639.png)
+#fig
 
 -  consider light travelling though layers of air $(n_1)$ and water $(n_2)$
 - it travels a distance, $d_{1}$, in air, and $d_{2}$ in water
@@ -30,14 +30,13 @@ $$\begin{gather*}
 	\end{gather*}$$
 - the above relation is *snell's law*!
 
-- neighbouring path lengths are the same $\implies$ constructive interference
+- considering neighbouring paths, ie. $x_{min}\pm \delta x$, 
+- the taylor expansion of $l$ at the minimum:
+$$l(x)|_{x=x_{min}} = l_{min} + \underbrace{\frac{dl}{dx} \bigg|_{x=x_{min}}}_{=0} (x-x_{min}) + \frac{d^{2}l}{dx^{2}} \bigg|_{x=x_{min}}(x-x_{min})^{2} + \dots$$
+- there is no difference (at lowest order) in optical path length, $l(x)$, near $x=x_{min}$
+- the neighbouring paths have almost exactly the same optical path lengths, hence they interfere constructively
 
-- the phase: $\phi = (2\pi \frac{l}{\lambda}-\omega t)$
-- $\frac{d\phi}{dx} = 0 \Leftrightarrow \frac{df}{dx}=0$
-$$\begin{gather}
-	f(x)|_{x=x_{min}} = l_{min} + \frac{dl}{dx} \bigg|_{x=x_{min}}(x-x_{min}) + \frac{d^{2}l}{dx^{2}} \bigg|_{x=x_{min}}(x-x_{min})^{2} + \dots \\\\
-	\text{but: }\frac{dl}{dx} \bigg|_{x=x_{min}}(x-x_{min}) = 0
-\end{gather}$$ 
-- no difference (at lowest order) in optical path length, $l(x)$
-- the paths of light passing through $x$ near $x_{min}$ have almost exactly the same optical path lengths 
-- the realized path is the one where the path length, $l$, is stationary wrt varying paths, ie: have varying $x$
+- considering the phase of the light wave: $\phi = (2\pi \frac{l}{\lambda}-\omega t)$, so, $\frac{d\phi}{dx} = 0 \Leftrightarrow \frac{df}{dx}=0$
+
+ - the light 'seen' is therefore the rays passing through $x_{min}$ 
+- the **realized path** is the one where the path length, $l$, is stationary with respect to varying paths, ie: have varying $x$

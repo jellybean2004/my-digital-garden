@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b4-particle-in-an-infinite-square-well/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-07T18:21:38.559+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/b-introduction/px-262-b4-particle-in-an-infinite-square-well/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-08T16:54:57.502+00:00"}
 ---
 
 ![Pasted image 20241207182131.png|500](/img/user/pics/Pasted%20image%2020241207182131.png)
@@ -24,11 +24,11 @@ $$\begin{gather*}
 	- ${} A=0$, $\sin(ka)=0 \implies k = \frac{n\pi}{2a},n\in even$
 
 - wave function (after normalization): 
-  $$\phi_{n}(x) = \begin{cases}
+$$\phi_{n}(x) = \begin{cases}
 	 \frac{1}{\sqrt{a}}\cos\left(\frac{n\pi x}{2a}\right) & \text{for } n\in \text{odd,} \\
 	\frac{1}{\sqrt{a}}\sin\left(\frac{n\pi x}{2a}\right) & \text{for } n \in \text{even,} \\
 	0 & \text{for } |x|>a.
-	\end{cases}$$
+\end{cases}$$
 	- the index in the labels give the state of the system
 
 - substituting into the schrödinger equation, the energy is obtained: 

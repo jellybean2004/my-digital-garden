@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c10-the-basic-postulates/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:07:44.168+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c10-the-basic-postulates/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-08T13:30:37.166+00:00"}
 ---
 
 ## postulate 1
@@ -16,4 +16,4 @@
 - when a measurement of a dynamical variable represented by an operator, $\hat Q$, is carried out on a system with a wavefunction, $\psi = \sum_{n}a_{n}\phi_n$,  were $\phi_n$ is an eigenfunction of the operator, then the probability to obtain the result $q_m$ will be $|a_{m|^2}$
 $$a_{n} = \int \phi_{n}^{*} \psi \,d\tau$$
 ## postulate 5 
-- between measurements, the development of the wavefunction is governed by the schrödinger equation 
+- between measurements, the development of the wavefunction is governed by the time-dependent schrödinger equation 

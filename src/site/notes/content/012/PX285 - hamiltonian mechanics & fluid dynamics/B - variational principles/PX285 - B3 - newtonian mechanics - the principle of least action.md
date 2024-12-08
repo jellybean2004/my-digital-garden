@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b3-newtonian-mechanics-the-principle-of-least-action/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:00:35.506+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b3-newtonian-mechanics-the-principle-of-least-action/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-08T17:37:44.580+00:00"}
 ---
 
 ## the principle of least action
@@ -29,7 +29,7 @@ $$\begin{align*}
 \end{align*}$$
 - using the principle of least action: 
 $$\begin{gather}
-	A(b) = \int_{t_{0}}^{t_{1}} db\left[\frac{1}{2}m \left[\frac{X}{\tau}+b(\tau-2t)\right]^{2} - mg \left[\frac{1}{\tau}X + b(\tau-t)t\right]\right] \\
+	A(b) = \int_{t_{0}}^{t_{1}} db\left[\frac{1}{2}m \left[\frac{X}{\tau}+b(\tau-2t)\right]^{2} - mg \left[\frac{t}{\tau}X + b(\tau-t)t\right]\right] \\
 	\vdots \\
 	A(b) = \frac{m}{2}\left(\frac{b^{2}\tau^{3}}{3} - \frac{bg\tau^{3}}{3}- g\tau X + \frac{X^{2}}{\tau}\right)
 \end{gather}$$

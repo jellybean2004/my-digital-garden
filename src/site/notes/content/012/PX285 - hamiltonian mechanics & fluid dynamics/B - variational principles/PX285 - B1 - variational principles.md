@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b1-variational-principles/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:00:32.023+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b1-variational-principles/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-08T16:28:49.396+00:00"}
 ---
+
 
 - allows quantities such as path lengths, and functions to be extremized 
 ![Pasted image 20241010140701.png](/img/user/pics/Pasted%20image%2020241010140701.png)
