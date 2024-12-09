@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e4-rotation-of-space/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:04:42.700+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e4-rotation-of-space/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T14:51:58.103+00:00"}
 ---
 
 - consider the isotropy of space (rotational symmetry)
 - same dynamics expected, regardless of rotation, so there should be no 'special direction'
 
-- consider a position vector, $\vec r$, rotated by a small angle, ${} \vec{\delta\phi}: {}$ $\vec r \to \vec r + \vec{\delta r}$, where, $\vec{\delta r} = \vec{\delta\phi} \times \vec r$
+- consider a position vector, $\vec r$, rotated by a small angle, $\vec{\delta\phi}:$ $\vec r \to \vec r + \vec{\delta r}$, where, $\vec{\delta r} = \vec{\delta\phi} \times \vec r$
 - the rotation also acts on velocities: $\vec{\delta v} = \vec{\delta\phi} \times \vec v$
 - the lagrangian: 
 $$L(\vec r, \vec v) \to L(\vec r + \vec{\delta r}, \vec v + \vec{\delta v}) = L(\vec r, \vec v) + \delta L$$

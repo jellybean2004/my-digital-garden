@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c1-the-euler-lagrange-equation/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:00:12.830+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c1-the-euler-lagrange-equation/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T10:55:41.309+00:00"}
 ---
 
 - *calculus of variations* is a technique to find the function that extremizes the integral provided that the end points are fixed
@@ -10,7 +10,7 @@ $$\begin{gather}
 \end{gather}$$
 - $x(t)$ is the extremal path from $x_{0}(t_{0})$ to $x_{1}(t_{1})$, and $a(t)$ is a general, **small** excursion that the path is forced to take, but it must always pass through its fixed end points: $a(t_{0}) = a(t_{1}) = 0$
 - considering $L(x,v)$, and taking a small pertubation: $L(x+a,v+\dot a)$ like a taylor expansion, where only the first order variation is of interest: 
-$$L(x+a,v+\dot a) \approx L(x,v) + a \frac{\partial L}{\partial x} + \dot a \frac{\partial L}{\partial x} + \dots$$
+$$L(x+a,v+\dot a) \approx L(x,v) + a \frac{\partial L}{\partial x} + \dot a \frac{\partial L}{\partial \dit x} + \dots$$
 - by definition, $A = \int_{t_{0}}^{t_{1}} L(x,\dot x)\,dt$, with $x(t)$ as the extremal path, and $A$ as the extremal action: 
 $$\begin{gather*}
 	A \to A + \delta A \\

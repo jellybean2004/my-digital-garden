@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e3-translation-in-time/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T12:59:53.796+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e3-translation-in-time/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T14:45:15.202+00:00"}
 ---
 
 - taking a small translation in time, $t \to t + \delta t$
@@ -9,7 +9,7 @@
 $$\frac{dL}{dt} = \sum\limits_{i} \left(\frac{\partial L}{\partial q_{i}} \frac{\partial q_{i}}{\partial t} + \frac{\partial L}{\partial \dot q_{i}} \frac{\partial \dot q_{i}}{\partial t} \right) + \frac{\partial L}{\partial t} = \sum\limits_{i} \left(\frac{\partial L}{\partial q_{i}} \frac{\partial q_{i}}{\partial t} + \frac{\partial L}{\partial \dot q_{i}} \frac{\partial \dot q_{i}}{\partial t} \right)$$
 $$\frac{\partial L}{\partial q_{i}} = \frac{d}{dt} \frac{\partial L}{\partial \dot q_{i}} \;\forall i \in[1,d]$$
 $$\begin{align*}
-	\frac{dL}{dt} &= \sum\limits_{i}\left(\dot q_{i} \frac{d}{dt}\frac{\partial L}{\partial \dot q_{i}} + \frac{\partial L}{\partial \dot q_{i}} \frac{\partial q_{i}}{\partial t}\right) \\
+	\frac{dL}{dt} &= \sum\limits_{i}\left(\dot q_{i} \frac{d}{dt}\frac{\partial L}{\partial \dot q_{i}} + \frac{\partial L}{\partial \dot q_{i}} \frac{\partial \dot dq_{i}}{\partial t}\right) \\
 	&= \frac{d}{dt}\sum\limits_{i}\dot q_{i}\frac{\partial L}{\partial \dot q_{i}}
 \end{align*}$$
 $$H = \sum\limits_{i} \dot q_{i} \frac{\partial L}{\partial \dot q_{i}} - L$$

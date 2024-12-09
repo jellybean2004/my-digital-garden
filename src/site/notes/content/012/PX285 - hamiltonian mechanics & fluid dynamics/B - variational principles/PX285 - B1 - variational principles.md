@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b1-variational-principles/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-08T16:28:49.396+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b1-variational-principles/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T10:31:05.020+00:00"}
 ---
 
-
 - allows quantities such as path lengths, and functions to be extremized 
-![Pasted image 20241010140701.png](/img/user/pics/Pasted%20image%2020241010140701.png)
-- a person taking different paths through strips of tarmac, beach and sea
-- the time: 
+
+![Pasted image 20241209103049.png|500](/img/user/pics/Pasted%20image%2020241209103049.png)
+
+- considering a person taking different paths through strips of tarmac, beach and sea
+- the time taken is: 
 $$\tau = \sum\limits \frac{\text{distances}}{\text{velocities}}$$
-## varitional principles in physics:
+## variational principles in physics:
 - **optics**: fermat's law, $l(x)$ is extremal
 - **waves**: destructive interference is small for paths that interfere constructively (ie: are at the same phase), such that their phase difference is minimized
 - **relativity:** trajectories in free space, in a gravitational field for general relativity, are those that extremize (maximize here) elapsed proper time: 

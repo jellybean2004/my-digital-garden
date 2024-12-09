@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c5-a-roller-coaster/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:00:19.042+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c5-a-roller-coaster/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T11:21:51.844+00:00"}
 ---
 
 - the arc-length coordinate, $s$, is used to describe the motion of a roller coaster, which represented the distance moved along the track from an arbitrary starting point
@@ -8,7 +8,7 @@
 $$L = \frac{1}{2}m\dot s^{2} -mgh(s)$$
 - using the euler-lagrange equation: 
 $$\begin{gather*}
-	-\left(mg \frac{dh}{ds}-m\ddot s\right) = 0 \\
+	mg \frac{dh}{ds}-m\ddot s = 0 \\
 	\ddot s = -g \frac{dh}{ds}
 \end{gather*}$$
 ## solutions

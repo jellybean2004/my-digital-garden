@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b2-fermat-s-law-in-optics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-08T17:15:52.580+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b2-fermat-s-law-in-optics/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T10:31:59.518+00:00"}
 ---
 
 - light rays trace paths that extremize the *optical path length*: 
 $$l = \int ds\, n(\vec r(s))$$
-- is this the same as *[[content/011/PX154 - physics foundations/PX154 - I - light/PX154 - I5 - snell's law\|snell's law]]*?
 
-#fig
+![Pasted image 20241209103134.png|500](/img/user/pics/Pasted%20image%2020241209103134.png)
 
 -  consider light travelling though layers of air $(n_1)$ and water $(n_2)$
 - it travels a distance, $d_{1}$, in air, and $d_{2}$ in water
@@ -16,7 +15,7 @@ $$\begin{align*}
 	&= n_{1}d_{1}+ n_{2}d_{2} \\
 	&= n_{1}\sqrt{h_{1}^{2}+x^{2}} + n_{2}\sqrt{h_{2}^{2}+(R-x)^{2}}
 \end{align*}$$
-$\frac{dl}{dx}=0 \implies l$ is the minimum wrt variation of $x:$ 
+- $\frac{dl}{dx}=0 \implies l$ is the minimum wrt variation of $x:$ 
 $$\begin{align*}
 	\frac{dl}{dx} &= \frac{n_{1}x}{\sqrt{h_{1}^{2}+x^{2}}} + \frac{-n_{2}(R-x)}{\sqrt{h_{2}^{2}+ (R-x)^{2}}} = 0 \\
 	 0 &= n_{1}\frac{x}{d_{1}} + n_{2}\frac{x-R}{d_{2}}
