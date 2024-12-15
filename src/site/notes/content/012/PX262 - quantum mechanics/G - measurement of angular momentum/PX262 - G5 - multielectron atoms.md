@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g5-multielectron-atoms/","created":"2024-11-25T11:41:02.445+00:00","updated":"2024-11-26T01:08:58.931+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g5-multielectron-atoms/","created":"2024-11-25T11:41:02.445+00:00","updated":"2024-12-15T13:16:08.186+00:00"}
 ---
 
 - for two electrons:
@@ -8,7 +8,7 @@ $$\hat H = - \frac{\hbar^{2}}{2m}\nabla_{1}^{2} - \frac{\hbar^{2}}{2m}\nabla_{2}
 		$\nabla_{1}$ and $\nabla_{2}$ represent the derivatives with respect to the coordinates of the two electrons, 
 		$r_{1}$ and $r_{2}$ are the distances of the electrons from the nucleus, $r_{12}$ is the distance between the two electrons
 - interaction/potential between electrons complicates the solution
-- contribution from two electrons and each will have solution like in [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F6 - hydrogen-like atoms\|hydrogen-like atoms]], ie. the same structure of state/energy levels
+- contribution from two electrons and each will have solution like in [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F6 - hydrogenic atom\|hydrogen-like atoms]], ie. the same structure of state/energy levels
 - electrons (any particles with half-integer spin) have to obey the **pauli exclusion principle**, which states that the wavefunction of two identical particles have to be antisymmetric
 $$\mu(r_{1}, r_{2}) = -\mu(r_{2},r_{1})$$
 - consequently, only one electron or particle can e in a particular state

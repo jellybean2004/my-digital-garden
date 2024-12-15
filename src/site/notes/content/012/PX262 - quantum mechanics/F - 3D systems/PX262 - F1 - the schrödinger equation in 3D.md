@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f1-the-schroedinger-equation-in-3-d/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:08:12.509+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f1-the-schroedinger-equation-in-3-d/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-15T11:25:08.147+00:00"}
 ---
 
 ## time-dependent
@@ -18,6 +18,6 @@ $$\begin{gather*}
 	\frac{i\hbar}{T(t)} \frac{\partial T(t)}{\partial t} = \frac{1}{\mu(\vec r)}\hat H \mu(\vec r) = E
 \end{gather*}$$
 - the time-dependent part is: 
-  $$\frac{i\hbar}{T(t)} \frac{\partial T(t)}{\partial t} = E \implies T(t) = \exp\left(\frac{iEt}{\hbar}\right)$$
+  $$\frac{i\hbar}{T(t)} \frac{\partial T(t)}{\partial t} = E \implies T(t) = \exp\left(-\frac{iEt}{\hbar}\right)$$
 - the time-independent part is: 
   $$\hat H \mu(\vec r) = E \mu(\vec r)$$

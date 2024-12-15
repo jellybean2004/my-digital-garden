@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f3b-a-pendulum/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T12:59:39.399+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f3b-a-pendulum/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-12T13:38:35.132+00:00"}
 ---
 
 - considering a simple pendulum of length, $l$, and $\theta$ is the angle between the pendulum and the equilibrium position at a given time
@@ -51,7 +51,7 @@ $$\frac{dp}{d\theta} = \frac{dp}{dt} \frac{dt}{d\theta} = \frac{\dot p}{\dot\the
 - if pendulum oscillates back and forth: $E<E^{*} = 2mgl$, $-\theta_{max} < \theta < \theta_{max}$, $\theta_{max}<\pi$
 - if $\theta = \pm \theta_{max}: p=0$
 ![Pasted image 20241114201640.png](/img/user/pics/Pasted%20image%2020241114201640.png)
-- if ${} E>E^{*} = 2mgl: {}$ no restriction on $\theta$, $\theta=\pm\pi : p>0:$ 
+- if $E>E^{*} = 2mgl:$ no restriction on $\theta$, $\theta=\pm\pi : p>0:$ 
 $$\frac{dp}{dt}\propto \frac{\sin\theta}{p} \to 0$$
 ![Pasted image 20241114201915.png](/img/user/pics/Pasted%20image%2020241114201915.png)
 - if $E=E^{*}$, the pendulum can come to rest at $\theta=\pm\pi$
@@ -76,7 +76,7 @@ $$\begin{align*}
 - the gradient is a non-zero negative constant
 ## disconnected trajectories
 ![Pasted image 20241114204550.png](/img/user/pics/Pasted%20image%2020241114204550.png)
-- not all statues of a given energy are necessarily accessible, this is called breaking of **ergodicity**
+- not all states of a given energy are necessarily accessible, this is called breaking of **ergodicity**
 - **ergodic** systems explore all sates consistent with energy conservation
 
 - considering a rollercoaster in a 'mexican hat' potential, where, $E^{*} = mgh^{*}$

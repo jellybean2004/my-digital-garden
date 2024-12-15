@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f1-hamilton-s-equations/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T12:59:34.136+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f1-hamilton-s-equations/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T18:37:02.966+00:00"}
 ---
 
 considering variations in the lagrangian: 
@@ -10,7 +10,7 @@ $$\begin{align*}
 	where, $p_{i} = \frac{\partial L}{\partial \dot q_{i}}$, and $\dot p_{i} = \frac{\partial L}{\partial q_{i}}$
 - for $a = fg:$ 
 $$\frac{da}{dt}= f \frac{dg}{dt}+ g \frac{df}{dt} \implies da = f\,dg + g\, df$$
-- similarly, for equation $(1):$ 
+- similarly, for ${} \sum\limits_{i} p_{i} \dot q_{i}: {}$ 
 $$\begin{align*}
 	d\left(\sum_{i}p_{i}\dot q_{i}\right) = \sum\limits_{i}p_{i} \, d\dot q_{i} + \sum\limits_{i}\dot q_{i}\,dp_{i} \\
 	\sum\limits_{i}p_{i} \, d\dot q_{i}  = d\left(\sum_{i}p_{i}\dot q_{i}\right) - \sum\limits_{i}\dot q_{i}\,dp_{i}
