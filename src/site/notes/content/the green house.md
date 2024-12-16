@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-16T22:21:40.749+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-16T22:22:10.969+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif'  class = 'banner'>
@@ -39,7 +39,7 @@
 ---
 ```contributionGraph
 title: Contributions
-graphType: month-track
+graphType: calendar
 dateRangeValue: 6
 dateRangeType: LATEST_MONTH
 startOfWeek: "1"
@@ -54,6 +54,8 @@ dataSource:
   dateField:
     type: FILE_MTIME
     value: "file create time "
+  countField:
+    type: DEFAULT
 fillTheScreen: true
 enableMainContainerShadow: false
 cellStyleRules:
