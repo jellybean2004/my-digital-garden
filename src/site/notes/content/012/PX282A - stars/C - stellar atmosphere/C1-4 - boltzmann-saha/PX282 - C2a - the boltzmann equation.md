@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c1-4-boltzmann-saha/px-282-c2a-the-boltzmann-equation/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T18:02:49.122+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c1-4-boltzmann-saha/px-282-c2a-the-boltzmann-equation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T18:02:49.122+00:00"}
 ---
 
 - the boltzmann equation gives how many electrons are in each state: 

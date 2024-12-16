@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-a-0-hamiltonian-mechanics/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T18:44:24.720+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-a-0-hamiltonian-mechanics/","pinned":"true","noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-16T23:51:45.653+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/74/b1/5c/74b15cba6d83f1a7f158ad235a8ee812.gif' class = 'banner'>

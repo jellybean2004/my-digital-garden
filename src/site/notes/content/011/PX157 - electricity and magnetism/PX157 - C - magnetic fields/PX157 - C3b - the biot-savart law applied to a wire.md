@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c3b-the-biot-savart-law-applied-to-a-wire/","created":"2024-10-01T18:27:10.182+01:00","updated":"2024-11-26T20:09:27.650+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c3b-the-biot-savart-law-applied-to-a-wire/","noteIcon":"1","created":"2024-10-01T18:27:10.182+01:00","updated":"2024-11-26T20:09:27.650+00:00"}
 ---
 
 ![Pasted image 20240218165634.png](/img/user/pics/Pasted%20image%2020240218165634.png)

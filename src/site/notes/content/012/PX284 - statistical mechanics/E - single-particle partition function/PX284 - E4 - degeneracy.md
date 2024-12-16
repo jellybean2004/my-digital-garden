@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/e-single-particle-partition-function/px-284-e4-degeneracy/","created":"2024-11-29T17:37:55.071+00:00","updated":"2024-11-29T17:52:22.874+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/e-single-particle-partition-function/px-284-e4-degeneracy/","noteIcon":"1","created":"2024-11-29T17:37:55.071+00:00","updated":"2024-11-29T17:52:22.874+00:00"}
 ---
 
 - degenerate states are two or more states that have the same energy

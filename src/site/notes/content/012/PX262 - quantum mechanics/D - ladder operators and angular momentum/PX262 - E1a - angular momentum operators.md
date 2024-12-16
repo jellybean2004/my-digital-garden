@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e1a-angular-momentum-operators/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-15T14:40:15.279+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e1a-angular-momentum-operators/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-15T14:40:15.279+00:00"}
 ---
 
 - in classical physics, the angular momentum is defined as: 

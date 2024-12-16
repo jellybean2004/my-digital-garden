@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/i-field/px-157-b6b-electric-field-around-a-conductor/","created":"2024-10-01T18:27:10.081+01:00","updated":"2024-11-26T20:08:15.040+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/i-field/px-157-b6b-electric-field-around-a-conductor/","noteIcon":"1","created":"2024-10-01T18:27:10.081+01:00","updated":"2024-11-26T20:08:15.040+00:00"}
 ---
 
 - eg: a spherical conductor with charge, $Q$

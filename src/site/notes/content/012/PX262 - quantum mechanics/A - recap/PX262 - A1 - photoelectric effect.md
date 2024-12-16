@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a1-photoelectric-effect/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:06:16.439+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a1-photoelectric-effect/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:06:16.439+00:00"}
 ---
 
 **[[PX156 - A4 - the photoelectric effect \| PX156 - quantum phenomena]]**

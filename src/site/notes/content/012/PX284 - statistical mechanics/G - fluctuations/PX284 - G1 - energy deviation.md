@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/g-fluctuations/px-284-g1-energy-deviation/","created":"2024-12-05T15:43:28.701+00:00","updated":"2024-12-05T15:54:44.364+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/g-fluctuations/px-284-g1-energy-deviation/","noteIcon":"1","created":"2024-12-05T15:43:28.701+00:00","updated":"2024-12-05T15:54:44.364+00:00"}
 ---
 
 - in a canonical ensemble, $T$ is fixed, but $U$ (and hence $F, S, p$, etc) is calculated from an average energy, $\langle{E}\rangle$, so, in principle, could **fluctuate**

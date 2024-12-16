@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/i-field/px-157-b1-introduction/","created":"2024-10-01T18:27:10.051+01:00","updated":"2024-11-26T20:07:11.916+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/i-field/px-157-b1-introduction/","noteIcon":"1","created":"2024-10-01T18:27:10.051+01:00","updated":"2024-11-26T20:07:11.916+00:00"}
 ---
 
 $$

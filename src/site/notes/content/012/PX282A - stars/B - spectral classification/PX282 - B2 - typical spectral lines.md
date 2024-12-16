@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/b-spectral-classification/px-282-b2-typical-spectral-lines/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T16:31:49.881+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/b-spectral-classification/px-282-b2-typical-spectral-lines/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T16:31:49.881+00:00"}
 ---
 
 - typical spectral lines include $H$, $He$, ionized metals, and metals

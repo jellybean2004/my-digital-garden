@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g2-stiffness-matrix/","created":"2024-11-26T12:40:36.599+00:00","updated":"2024-11-26T12:59:18.993+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g2-stiffness-matrix/","noteIcon":"1","created":"2024-11-26T12:40:36.599+00:00","updated":"2024-11-26T12:59:18.993+00:00"}
 ---
 
 - **note:** from typed notes

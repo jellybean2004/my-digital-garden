@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/f-binary-stars-and-fundamental-parameters/f-binary-stars-and-fundamental-parameters/","created":"2024-11-29T05:44:05.533+00:00","updated":"2024-11-29T06:18:07.141+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/f-binary-stars-and-fundamental-parameters/f-binary-stars-and-fundamental-parameters/","noteIcon":"1","created":"2024-11-29T05:44:05.533+00:00","updated":"2024-11-29T06:18:07.141+00:00"}
 ---
 
 [[content/012/PX282A - stars/F - binary stars and fundamental parameters/PX285 - F1 - binary stars\|PX285 - F1 - binary stars]]

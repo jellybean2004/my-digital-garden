@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c4a-ampere-s-law/","created":"2024-10-01T18:27:10.193+01:00","updated":"2024-11-26T20:09:37.219+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c4a-ampere-s-law/","noteIcon":"1","created":"2024-10-01T18:27:10.193+01:00","updated":"2024-11-26T20:09:37.219+00:00"}
 ---
 
 ## the law

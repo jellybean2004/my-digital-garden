@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d9-driven-damped-simple-harmonic-motion/","created":"2024-10-01T18:27:09.666+01:00","updated":"2024-11-26T19:56:00.233+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d9-driven-damped-simple-harmonic-motion/","noteIcon":"1","created":"2024-10-01T18:27:09.666+01:00","updated":"2024-11-26T19:56:00.233+00:00"}
 ---
 
 [[content/011/PX153 - mathematics for physicists/term 1/PX153 - E - second order inhomogeneous ODEs/PX153 - E3 - driven damped simple harmonic motion\|PX153 - E3 - driven damped simple harmonic motion]]

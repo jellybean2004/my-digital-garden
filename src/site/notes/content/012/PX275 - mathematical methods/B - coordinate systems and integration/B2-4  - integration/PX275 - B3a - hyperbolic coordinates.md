@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b3a-hyperbolic-coordinates/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:53.108+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b3a-hyperbolic-coordinates/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:53.108+00:00"}
 ---
 
 - consider the thermodynamics of an ideal gas: $pV = nRT$

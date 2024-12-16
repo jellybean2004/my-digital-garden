@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g3-sunspots/","created":"2024-12-03T10:41:27.191+00:00","updated":"2024-12-06T16:20:55.528+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g3-sunspots/","noteIcon":"1","created":"2024-12-03T10:41:27.191+00:00","updated":"2024-12-06T16:20:55.528+00:00"}
 ---
 
 ![Pasted image 20241203104259.png|500](/img/user/pics/Pasted%20image%2020241203104259.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e3-translation-in-time/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T14:45:15.202+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e3-translation-in-time/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T14:45:15.202+00:00"}
 ---
 
 - taking a small translation in time, $t \to t + \delta t$

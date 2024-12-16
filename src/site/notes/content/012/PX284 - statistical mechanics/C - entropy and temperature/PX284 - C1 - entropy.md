@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-284-c1-entropy/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:41:45.320+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-284-c1-entropy/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:41:45.320+00:00"}
 ---
 
 ## the boltzmann entropy formula

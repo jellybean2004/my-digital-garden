@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-e-ac-circuits/px-157-e4b-lrc-circuits-2/","created":"2024-10-01T18:27:10.283+01:00","updated":"2024-11-26T20:11:21.220+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-e-ac-circuits/px-157-e4b-lrc-circuits-2/","noteIcon":"1","created":"2024-10-01T18:27:10.283+01:00","updated":"2024-11-26T20:11:21.220+00:00"}
 ---
 
 ![Pasted image 20240311183335.png](/img/user/pics/Pasted%20image%2020240311183335.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d1-stellar-interiors/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:39:30.087+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d1-stellar-interiors/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:39:30.087+00:00"}
 ---
 
 - consider a spherically-symmetric star of a radius, $r$, and a mass, $M_{r}$, which has a spherical shell of a thickness, $dr$, and a mass, ${} dm {}$, with a density, $\rho(r)$

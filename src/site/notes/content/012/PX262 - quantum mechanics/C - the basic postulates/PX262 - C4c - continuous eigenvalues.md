@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c4c-continuous-eigenvalues/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-07T16:07:30.230+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c4c-continuous-eigenvalues/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-07T16:07:30.230+00:00"}
 ---
 
 - previous arguments assume that the eigenvalues of the operators have discrete values

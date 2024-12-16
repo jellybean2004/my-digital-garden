@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-d-the-first-law-of-thermodynamic/px-154-d4e-adiabat/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:50:59.068+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-d-the-first-law-of-thermodynamic/px-154-d4e-adiabat/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:50:59.068+00:00"}
 ---
 
 ## adiabatic expansion of an ideal gas

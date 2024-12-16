@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/e-single-particle-partition-function/px-284-e3-harmonic-oscillator-in-1-d/","created":"2024-11-29T17:03:05.459+00:00","updated":"2024-11-29T17:37:35.325+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/e-single-particle-partition-function/px-284-e3-harmonic-oscillator-in-1-d/","noteIcon":"1","created":"2024-11-29T17:03:05.459+00:00","updated":"2024-11-29T17:37:35.325+00:00"}
 ---
 
 - the energy of states is:

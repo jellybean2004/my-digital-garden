@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e2-translation-of-space/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T14:07:36.774+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e2-translation-of-space/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T14:07:36.774+00:00"}
 ---
 
 - space is homogenous if the motion of a particle is independent of its absolute position in space, ie: the lagrangian, $L(\vec r , \vec v) = L(q_{1},\dots, \dot q_{1},\dots)$, is unchanged under an arbitrary translation

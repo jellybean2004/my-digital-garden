@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/a-introduction/px-285-a2b-angular-momentum/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-04T21:18:51.206+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/a-introduction/px-285-a2b-angular-momentum/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-04T21:18:51.206+00:00"}
 ---
 
 - eg: $\vec\omega = \omega\,\hat n$, $\vec r$ at an angle $\theta$

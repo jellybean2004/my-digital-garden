@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/px-154-f3a-principle-of-superposition/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:51:29.016+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/px-154-f3a-principle-of-superposition/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:51:29.016+00:00"}
 ---
 
 - to add waves together

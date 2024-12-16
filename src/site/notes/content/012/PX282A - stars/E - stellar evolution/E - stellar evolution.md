@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/e-stellar-evolution/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T10:05:59.526+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/e-stellar-evolution/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T10:05:59.526+00:00"}
 ---
 
 [[content/012/PX282A - stars/E - stellar evolution/PX282 - E1a - star formation\|PX282 - E1a - star formation]]

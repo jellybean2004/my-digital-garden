@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g2-stern-gerlach-experiment/","created":"2024-11-25T11:06:53.658+00:00","updated":"2024-11-26T01:08:46.563+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g2-stern-gerlach-experiment/","noteIcon":"1","created":"2024-11-25T11:06:53.658+00:00","updated":"2024-11-26T01:08:46.563+00:00"}
 ---
 
 - interaction of the magnetic moment with an external magnetic field can be used to measure the orbital angular momentum

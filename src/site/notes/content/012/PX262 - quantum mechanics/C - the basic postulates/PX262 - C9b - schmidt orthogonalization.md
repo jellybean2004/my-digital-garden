@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c9b-schmidt-orthogonalization/","created":"2024-12-15T11:07:33.599+00:00","updated":"2024-12-15T11:07:42.905+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c9b-schmidt-orthogonalization/","noteIcon":"1","created":"2024-12-15T11:07:33.599+00:00","updated":"2024-12-15T11:07:42.905+00:00"}
 ---
 
 - a way of restoring orthogonality

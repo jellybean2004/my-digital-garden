@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c5-14-stellar-atmospheres/px-282-c5-definitions/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:38:24.886+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c5-14-stellar-atmospheres/px-282-c5-definitions/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:38:24.886+00:00"}
 ---
 
 - consider  ray of light, which has a specific intensity, $I_\lambda$ (specific because it is in a specific wavelength range, $\lambda\to\lambda+d\lambda$), at an angle, $\theta$, with the $z$-axis

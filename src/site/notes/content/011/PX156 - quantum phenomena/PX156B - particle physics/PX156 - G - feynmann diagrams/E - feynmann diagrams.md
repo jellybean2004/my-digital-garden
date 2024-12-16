@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-g-feynmann-diagrams/e-feynmann-diagrams/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:02:59.370+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-g-feynmann-diagrams/e-feynmann-diagrams/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:02:59.370+00:00"}
 ---
 
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - G - feynmann diagrams/PX156 - G1 - introduction\|PX156 - G1 - introduction]]

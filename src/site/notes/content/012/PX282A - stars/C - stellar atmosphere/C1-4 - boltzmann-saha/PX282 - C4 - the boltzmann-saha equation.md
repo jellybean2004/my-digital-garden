@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c1-4-boltzmann-saha/px-282-c4-the-boltzmann-saha-equation/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T18:02:10.850+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c1-4-boltzmann-saha/px-282-c4-the-boltzmann-saha-equation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T18:02:10.850+00:00"}
 ---
 
 - ${} \frac{N_2}{N_{total}}$ is needed, where, $N_{total}= N_{I}+ N_{II}$ ($N$ in each ionization state), and $N_{I}=N_{1}+N_{2}$

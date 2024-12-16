@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-d-time-independent-schrodinger-equation/px-156-d3-finite-potential-well/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:02:20.082+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-d-time-independent-schrodinger-equation/px-156-d3-finite-potential-well/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:02:20.082+00:00"}
 ---
 
 $$V(x) = \begin{cases} 

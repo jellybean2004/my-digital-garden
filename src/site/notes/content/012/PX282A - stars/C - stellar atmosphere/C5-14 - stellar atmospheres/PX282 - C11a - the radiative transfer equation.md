@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c5-14-stellar-atmospheres/px-282-c11a-the-radiative-transfer-equation/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:38:53.426+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c5-14-stellar-atmospheres/px-282-c11a-the-radiative-transfer-equation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:38:53.426+00:00"}
 ---
 
 $$dI_{\lambda} = - \kappa_{\lambda}\rho I_{\lambda}\,dz + \epsilon_{\lambda}\rho \,dz$$

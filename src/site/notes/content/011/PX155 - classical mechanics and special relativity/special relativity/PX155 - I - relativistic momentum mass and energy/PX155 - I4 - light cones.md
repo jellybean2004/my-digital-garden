@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-i-relativistic-momentum-mass-and-energy/px-155-i4-light-cones/","created":"2024-10-01T18:27:09.796+01:00","updated":"2024-11-26T19:59:30.038+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-i-relativistic-momentum-mass-and-energy/px-155-i4-light-cones/","noteIcon":"1","created":"2024-10-01T18:27:09.796+01:00","updated":"2024-11-26T19:59:30.038+00:00"}
 ---
 
 ![Pasted image 20231217201632.png](/img/user/pics/Pasted%20image%2020231217201632.png)

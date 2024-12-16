@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/review-before-exam/","created":"2024-10-01T18:50:56.659+01:00","updated":"2024-11-26T20:06:43.866+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/review-before-exam/","noteIcon":"1","created":"2024-10-01T18:50:56.659+01:00","updated":"2024-11-26T20:06:43.866+00:00"}
 ---
 
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - A - light/PX156 - A3a - blackbody models#3D blackbody\|PX156 - A3a - blackbody models#3D blackbody]]

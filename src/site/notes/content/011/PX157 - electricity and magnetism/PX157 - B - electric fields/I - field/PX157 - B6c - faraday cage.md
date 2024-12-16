@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/i-field/px-157-b6c-faraday-cage/","created":"2024-10-01T18:27:10.083+01:00","updated":"2024-11-26T20:08:18.026+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/i-field/px-157-b6c-faraday-cage/","noteIcon":"1","created":"2024-10-01T18:27:10.083+01:00","updated":"2024-11-26T20:08:18.026+00:00"}
 ---
 
 - a person inside a conducting shell (faraday cage) in a uniform electric field in $\hat z$

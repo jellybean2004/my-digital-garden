@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d8-3-regimes-of-damping/","created":"2024-10-01T18:27:09.666+01:00","updated":"2024-11-26T19:55:58.143+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d8-3-regimes-of-damping/","noteIcon":"1","created":"2024-10-01T18:27:09.666+01:00","updated":"2024-11-26T19:55:58.143+00:00"}
 ---
 
 - sign of determinant $(\frac{\gamma}{2})^{2}-\omega^{2}$ determines behaviour

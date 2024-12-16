@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-284-c2-temperature/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T17:56:46.594+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-284-c2-temperature/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T17:56:46.594+00:00"}
 ---
 
 - considering two systems that can exchange energy, and the combined system is isolated

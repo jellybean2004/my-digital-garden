@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-282-e2-protostar/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:49:27.986+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-282-e2-protostar/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:49:27.986+00:00"}
 ---
 
 ## collapse

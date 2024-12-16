@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g4-attached-particles-on-springs/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:57:29.151+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g4-attached-particles-on-springs/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:57:29.151+00:00"}
 ---
 
 - consider two masses $(m)$ connected to a fixed wall is connected with a spring such that all springs are at rest in equilibrium conjugation, and are at equilibrium extension 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/d-solar-structure-and-interiors/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T10:05:59.478+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/d-solar-structure-and-interiors/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T10:05:59.478+00:00"}
 ---
 
 [[content/012/PX282A - stars/D - stellar structure and interiors/PX282 - D1 - stellar interiors\|PX282 - D1 - stellar interiors]]

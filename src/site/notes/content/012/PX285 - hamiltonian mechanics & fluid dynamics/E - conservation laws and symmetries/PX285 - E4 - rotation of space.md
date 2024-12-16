@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e4-rotation-of-space/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T14:51:58.103+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/e-conservation-laws-and-symmetries/px-285-e4-rotation-of-space/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T14:51:58.103+00:00"}
 ---
 
 - consider the isotropy of space (rotational symmetry)

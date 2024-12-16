@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i5b-temperature-at-the-centre-of-stars/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:13:58.068+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i5b-temperature-at-the-centre-of-stars/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:13:58.068+00:00"}
 ---
 
 - using the [[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C1 - ideal gas equation of state\|ideal gas equation]]: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-282-e1a-star-formation/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T17:12:45.682+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-282-e1a-star-formation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T17:12:45.682+00:00"}
 ---
 
 ![Pasted image 20241121102048.png|500](/img/user/pics/Pasted%20image%2020241121102048.png)

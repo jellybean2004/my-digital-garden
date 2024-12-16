@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-e-ac-circuits/px-157-e2-complex-impedences/","created":"2024-10-01T18:27:10.275+01:00","updated":"2024-11-26T20:11:16.582+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-e-ac-circuits/px-157-e2-complex-impedences/","noteIcon":"1","created":"2024-10-01T18:27:10.275+01:00","updated":"2024-11-26T20:11:16.582+00:00"}
 ---
 
 - for DC, using [[content/011/PX157 - electricity and magnetism/PX157 - B - electric fields/III - properties/PX157 - B13b - resistance#^9e9b04\|ohm's law]]: $V=RI$

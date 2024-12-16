@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-k-the-universe/px-158-k3-cosmic-microwave-background/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:14:51.232+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-k-the-universe/px-158-k3-cosmic-microwave-background/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:14:51.232+00:00"}
 ---
 
 - in $1966$, researchers found a microwave signal coming from all directions in the sky

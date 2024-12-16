@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/d-equipartition-theorem/px-284-d2-examples/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T18:03:41.729+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/d-equipartition-theorem/px-284-d2-examples/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T18:03:41.729+00:00"}
 ---
 
 ## translational motion of a monatomic gas

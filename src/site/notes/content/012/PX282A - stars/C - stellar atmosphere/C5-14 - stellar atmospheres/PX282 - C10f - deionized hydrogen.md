@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c5-14-stellar-atmospheres/px-282-c10f-deionized-hydrogen/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T18:02:10.891+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c5-14-stellar-atmospheres/px-282-c10f-deionized-hydrogen/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T18:02:10.891+00:00"}
 ---
 
 - a hydrogen with an extra electron, H$^{-}$, is barely stable, with an ionization energy of $\chi_{i} = 0.75\,eV$

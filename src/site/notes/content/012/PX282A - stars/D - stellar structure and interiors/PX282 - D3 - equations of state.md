@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d3-equations-of-state/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:39:37.818+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d3-equations-of-state/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:39:37.818+00:00"}
 ---
 
 - relate pressure, density, and temperature 

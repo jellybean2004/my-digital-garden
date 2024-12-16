@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-i-symmetries/px-156-i3-discrete-symmetries/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:03:26.294+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-i-symmetries/px-156-i3-discrete-symmetries/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:03:26.294+00:00"}
 ---
 
 - these make countable transformations to a system which returns the system to the start after repeated application a finite number of times

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/f-binary-stars-and-fundamental-parameters/px-285-f1-binary-stars/","created":"2024-11-29T05:56:10.544+00:00","updated":"2024-11-29T06:00:24.870+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/f-binary-stars-and-fundamental-parameters/px-285-f1-binary-stars/","noteIcon":"1","created":"2024-11-29T05:56:10.544+00:00","updated":"2024-11-29T06:00:24.870+00:00"}
 ---
 
 - stars form from large molecular clouds, which are naturally not sized for one star, thus multiple star systems are formed

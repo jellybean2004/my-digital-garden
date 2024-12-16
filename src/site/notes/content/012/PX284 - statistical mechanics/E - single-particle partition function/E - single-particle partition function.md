@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/e-single-particle-partition-function/e-single-particle-partition-function/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-05T10:06:59.598+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/e-single-particle-partition-function/e-single-particle-partition-function/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-05T10:06:59.598+00:00"}
 ---
 
 [[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E0 - solving problems in statistical mechanics\|PX284 - E0 - solving problems in statistical mechanics]]

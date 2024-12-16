@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g1-particle-with-angular-momentum-in-magnetic-field/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T12:11:28.565+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g1-particle-with-angular-momentum-in-magnetic-field/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T12:11:28.565+00:00"}
 ---
 
 - the effect of angular momentum needs to be observed to check the validity of quantum mechanics

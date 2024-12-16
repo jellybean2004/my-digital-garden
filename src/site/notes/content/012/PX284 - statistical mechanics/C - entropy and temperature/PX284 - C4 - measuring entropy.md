@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-284-c4-measuring-entropy/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T12:08:20.812+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-284-c4-measuring-entropy/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T12:08:20.812+00:00"}
 ---
 
 - **in thermodynamics**, [[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX284 - C1 - entropy\|entropy]] cannot be measured directly, but the changes in entropy can be measured using the heat capacity

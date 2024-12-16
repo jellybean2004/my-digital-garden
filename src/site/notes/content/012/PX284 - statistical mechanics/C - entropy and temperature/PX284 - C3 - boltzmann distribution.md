@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-284-c3-boltzmann-distribution/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T17:59:21.958+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-284-c3-boltzmann-distribution/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T17:59:21.958+00:00"}
 ---
 
 - considering a system with an energy, $E_{i}$, connected with an extremely large heat bath (reservoir) such that, $E_{bath} = E - E_{i}$, $\Omega_{bath}(E-E{i})$, and $T$

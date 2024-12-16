@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d7-pp-1-fusion-chain/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T17:10:47.949+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d7-pp-1-fusion-chain/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T17:10:47.949+00:00"}
 ---
 
 - considering the hydrogen-fusion reaction: 

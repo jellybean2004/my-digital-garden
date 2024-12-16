@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d4-energy-in-stars/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:14:39.481+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d4-energy-in-stars/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:14:39.481+00:00"}
 ---
 
 - virial theorem relates thermal $(U)$ and gravitational potential $(\Omega):$ 

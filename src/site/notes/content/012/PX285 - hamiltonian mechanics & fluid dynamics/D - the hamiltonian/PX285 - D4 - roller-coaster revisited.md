@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/d-the-hamiltonian/px-285-d4-roller-coaster-revisited/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T13:52:56.954+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/d-the-hamiltonian/px-285-d4-roller-coaster-revisited/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T13:52:56.954+00:00"}
 ---
 
 - revisiting [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/PX285 - C5 - a roller-coaster\|the roller-coaster problem]]

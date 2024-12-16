@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-k-accelerators-and-detectors/px-156-k5-detectors/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:06:34.359+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-k-accelerators-and-detectors/px-156-k5-detectors/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:06:34.359+00:00"}
 ---
 
 - collider detectors are onion-like with different types of sub detectors with different types of subdetectors doing different things to 'reconstruct' particles coming from a collision

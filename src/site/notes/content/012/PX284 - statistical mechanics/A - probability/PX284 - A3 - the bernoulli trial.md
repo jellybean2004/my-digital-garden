@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/a-probability/px-284-a3-the-bernoulli-trial/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:01:17.253+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/a-probability/px-284-a3-the-bernoulli-trial/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:01:17.253+00:00"}
 ---
 
 - an *independent* experiment with two outcomes with the probabilities: 

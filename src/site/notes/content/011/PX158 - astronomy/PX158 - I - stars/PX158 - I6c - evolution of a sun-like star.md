@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i6c-evolution-of-a-sun-like-star/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:14:21.888+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i6c-evolution-of-a-sun-like-star/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:14:21.888+00:00"}
 ---
 
 ![Pasted image 20240228215705.png](/img/user/pics/Pasted%20image%2020240228215705.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f2a-particle-in-an-infinite-potential-well/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-15T11:40:32.615+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f2a-particle-in-an-infinite-potential-well/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-15T11:40:32.615+00:00"}
 ---
 
 s- consider a potential well in 3D: 

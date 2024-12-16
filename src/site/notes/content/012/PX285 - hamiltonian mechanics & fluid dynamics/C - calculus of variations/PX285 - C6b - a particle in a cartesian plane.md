@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c6b-a-particle-in-a-cartesian-plane/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:00:23.226+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/c-calculus-of-variations/px-285-c6b-a-particle-in-a-cartesian-plane/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:00:23.226+00:00"}
 ---
 
 - consider a particle moving in a cartesian plane with a potential, $V(x,y)$

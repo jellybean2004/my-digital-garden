@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-h-aspects-of-the-forces/px-156-h1-the-electromagnetic-force/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:03:14.682+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-h-aspects-of-the-forces/px-156-h1-the-electromagnetic-force/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:03:14.682+00:00"}
 ---
 
 - boson: photon ($\gamma$)

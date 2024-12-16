@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b2b-simple-examples-of-line-integrals/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:48.690+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b2-4-integration/px-275-b2b-simple-examples-of-line-integrals/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:48.690+00:00"}
 ---
 
 ## length of a line

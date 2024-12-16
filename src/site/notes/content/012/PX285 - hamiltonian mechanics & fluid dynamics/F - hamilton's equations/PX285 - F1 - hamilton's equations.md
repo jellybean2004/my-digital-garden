@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f1-hamilton-s-equations/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T18:37:02.966+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f1-hamilton-s-equations/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T18:37:02.966+00:00"}
 ---
 
 considering variations in the lagrangian: 

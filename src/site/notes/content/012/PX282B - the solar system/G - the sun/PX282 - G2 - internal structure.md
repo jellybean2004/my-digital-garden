@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g2-internal-structure/","created":"2024-12-03T10:26:30.923+00:00","updated":"2024-12-07T10:56:02.315+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g2-internal-structure/","noteIcon":"1","created":"2024-12-03T10:26:30.923+00:00","updated":"2024-12-07T10:56:02.315+00:00"}
 ---
 
 ## surface granulation

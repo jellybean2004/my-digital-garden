@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/e-circular-motion-rotation-of-bodies/","created":"2024-10-01T18:27:09.675+01:00","updated":"2024-11-26T19:56:17.596+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/e-circular-motion-rotation-of-bodies/","noteIcon":"1","created":"2024-10-01T18:27:09.675+01:00","updated":"2024-11-26T19:56:17.596+00:00"}
 ---
 
 [[content/011/PX155 - classical mechanics and special relativity/classical mechanics/PX155 - E - circular motion, rotation of bodies/PX155 - E1 - circular motion\|PX155 - E1 - circular motion]]

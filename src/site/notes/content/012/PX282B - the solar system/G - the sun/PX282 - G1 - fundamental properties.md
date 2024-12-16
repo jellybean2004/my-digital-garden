@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g1-fundamental-properties/","created":"2024-12-03T10:12:10.251+00:00","updated":"2024-12-06T17:16:41.365+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g1-fundamental-properties/","noteIcon":"1","created":"2024-12-03T10:12:10.251+00:00","updated":"2024-12-06T17:16:41.365+00:00"}
 ---
 
 ![Pasted image 20241206160650.png|500](/img/user/pics/Pasted%20image%2020241206160650.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-a-coulomb-s-law/px-157-a3-principle-of-super-position/","created":"2024-10-01T18:50:56.350+01:00","updated":"2024-11-26T20:07:05.965+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-a-coulomb-s-law/px-157-a3-principle-of-super-position/","noteIcon":"1","created":"2024-10-01T18:50:56.350+01:00","updated":"2024-11-26T20:07:05.965+00:00"}
 ---
 
 - total force, $\vec F_{0}$, on charge, $q_{0}$ :

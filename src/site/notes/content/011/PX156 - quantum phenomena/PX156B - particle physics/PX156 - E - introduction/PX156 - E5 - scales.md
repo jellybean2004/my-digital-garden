@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-e-introduction/px-156-e5-scales/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:02:39.949+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-e-introduction/px-156-e5-scales/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:02:39.949+00:00"}
 ---
 
 - **why are high energy colliders used to study the physics of small particles?**
