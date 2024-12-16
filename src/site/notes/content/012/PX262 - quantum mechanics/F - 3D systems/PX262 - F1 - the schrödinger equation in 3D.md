@@ -19,5 +19,4 @@ $$\begin{gather*}
 \end{gather*}$$
 - the time-dependent part is: 
   $$\frac{i\hbar}{T(t)} \frac{\partial T(t)}{\partial t} = E \implies T(t) = \exp\left(-\frac{iEt}{\hbar}\right)$$
-- the time-independent part is: 
-  $$\hat H \mu(\vec r) = E \mu(\vec r)$$
+\1\n\2\n

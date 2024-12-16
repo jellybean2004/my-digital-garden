@@ -41,5 +41,4 @@ $$\begin{align}
 	$$ I = \int \frac{1}{(1-x)^{\frac{1}{2}}}.dx$$
 		- let $x= \sin u$ , and $dx = \cos u .du$ : 
 		$$I = \int \frac{\cos u.du}{\cos u} = \int du = u = \sin^{-1} x$$
-	- partial fractions: 
-	$$\int \frac{1}{1-x^{2}}.dx = \int \frac{1}{2}\left(\frac{1}{1-x}+ \frac{1}{{1+x}}\right)= \frac{1}{2} ln((1-x)(1+x))$$
+\1\n\2\n

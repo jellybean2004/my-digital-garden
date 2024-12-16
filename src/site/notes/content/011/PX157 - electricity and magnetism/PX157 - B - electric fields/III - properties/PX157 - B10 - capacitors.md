@@ -71,5 +71,4 @@ $$
 C_{eq} = C_{1}+C_{2}
 $$
 
-- eg: two capacitors have the same separation, $d$, and $\epsilon_0$
-	$$C_{eq} = \frac{\epsilon_{0}A_{1}}{d} + \frac{\epsilon_{0}A_{2}}{d} = \frac{\epsilon_{0}}{d}(A_{1}+A_{2})$$
+\1\n\2\n

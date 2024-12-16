@@ -23,5 +23,4 @@ $$\frac{\partial r}{\partial y} = \sin\theta \;, and \; \frac{\partial \theta}{\
 $$\vec\nabla f(r,\theta) = \left( \hat{\vec e}_{r}  \frac{\partial }{\partial r} + \hat{\vec e}_{\theta} \frac{1}{r} \frac{\partial }{\partial \theta} \right)f$$
 
 - eg: for $U(r) = \frac{q_{1}q_{2}}{4\pi\epsilon_{0}r}$
-	- we get: 
-	$$\vec\nabla U = \left(\hat{\vec e}_{r} \frac{\partial }{\partial r} + \hat{\vec e}_{\theta} \frac{1}{r} \frac{\partial }{\partial r}\right)U = - \frac{q_{1}q_{2}}{4\pi\epsilon_{o}r^{2}} \hat{\vec e}_{r}$$
+\1\n\2\n

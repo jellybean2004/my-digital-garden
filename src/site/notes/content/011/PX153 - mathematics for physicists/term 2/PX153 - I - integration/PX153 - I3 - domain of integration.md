@@ -15,5 +15,4 @@ $$I = \sum\limits_{s=1}^{m} \left( \int_{a}^{b} f(x , \bar y_{s}) .dx \right) \D
 - taking the limit $m\to \infty$: 
 $$I = \int_{c}^{d} \left(\int_{a}^{b} f(x, y) .dx \right) .dy$$
 - eg: evaluate $I = \int\int_{R} xy.dx.dy$, where $R$ is the rectangle with vertices $(0,0)$, $(0,2)$, $(1,0)$, $(1,2)$
-	![Pasted image 20240110183946.png](/img/user/pics/Pasted%20image%2020240110183946.png) 
-	$$I = \int_{0}^{2} \int_{0}^{1} xy.dx.dy = \int_{0}^{2} \left[ \frac{x^{2}}{2}y \right]_{0}^{1}.dy = \int_{0}^{2} \frac{y}{2}.dy = \left[ \frac{y^{2}}{4} \right]_{0}^{2} =1$$
+\1\n\2\n

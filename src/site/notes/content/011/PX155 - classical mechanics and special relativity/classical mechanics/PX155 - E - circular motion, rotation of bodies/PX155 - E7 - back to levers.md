@@ -11,5 +11,4 @@
 $$\vec \tau = \vec r \times \vec F$$
 - angular momentum:
 $$\vec L = \vec r \times \vec p$$
-torque:
-$$\vec \tau = \frac{d\vec L}{dt}$$
+\1\n\2\n

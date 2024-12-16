@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-16T22:22:10.969+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-16T22:41:43.591+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif'  class = 'banner'>
@@ -32,6 +32,9 @@
 [[content/011/PX157 - electricity and magnetism/PX157 - 0 - electricity and magnetism\|PX157 - 0 - electricity and magnetism 1]]
 [[content/011/PX158 - astronomy/PX158 - 0 - astronomy\|PX158 - 0 - astronomy]]
 
+Some text $$Block LaTeX starts$$ and more text.
+Another line $$Block again$$ continues.
+
 
 ---
 <img src = "https://i.pinimg.com/originals/d6/d7/08/d6d708434397d59a043343235aeb6d69.gif" class = "banner">
@@ -40,14 +43,14 @@
 ```contributionGraph
 title: Contributions
 graphType: calendar
-dateRangeValue: 6
+dateRangeValue: 3
 dateRangeType: LATEST_MONTH
 startOfWeek: "1"
 showCellRuleIndicators: true
 titleStyle:
   textAlign: left
-  fontSize: 15px
-  fontWeight: normal
+  fontSize: 20px
+  fontWeight: bold
 dataSource:
   type: PAGE
   value: ""
@@ -62,22 +65,22 @@ cellStyleRules:
   - id: Ocean_a
     color: "#8dd1e2"
     min: 1
-    max: 2
+    max: "3"
   - id: Ocean_b
     color: "#63a1be"
-    min: 2
-    max: 3
+    min: "3"
+    max: "6"
   - id: Ocean_c
     color: "#376d93"
-    min: 3
-    max: 5
+    min: "6"
+    max: "9"
   - id: Ocean_d
     color: "#012f60"
-    min: 5
+    min: "9"
     max: 9999
 
 ```
-
+---
 ## contact me 📫
 - **discord**: @jellybean2004
 - **email**: [sujayashr18@gmail.com](mailto:sujayashr18@gmail.com)

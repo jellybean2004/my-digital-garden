@@ -40,5 +40,4 @@ $$\begin{align*}
 	\vec x(t) = \begin{pmatrix} 0 \\ 1 \end{pmatrix} D_{2}\exp(i\omega_{2}t)
 \end{align*}$$
 - they give the vibrations of the first and the second spring respectively
-- the general solution is a sum of the two: 
-$$\vec x(t) = \begin{pmatrix}1 \\ 0\end{pmatrix} D_{1}\exp(i\omega_{1}t) + \begin{pmatrix} 0 \\ 1 \end{pmatrix} D_{2}\exp(i\omega_{2}t)$$
+\1\n\2\n

@@ -13,5 +13,4 @@ $$- \frac{d}{dt}\frac{\partial L}{\partial v} = -\frac{d}{dt}(mv) = - \frac{dp}{
 - therefore, the euler-lagrange equation gives: 
 $$F= \frac{dp}{dt}$$
 - the above relation is *newton's second law*
-- an important relation for 'canonical' momentum: 
-$$p = \frac{\partial L}{\partial \dot\theta}$$
+\1\n\2\n

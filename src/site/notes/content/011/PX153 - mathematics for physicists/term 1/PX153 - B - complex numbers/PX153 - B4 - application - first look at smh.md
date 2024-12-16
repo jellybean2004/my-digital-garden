@@ -39,5 +39,4 @@ $$-\omega_0^2x=\lambda^2x$$
 	$\implies 2C=\frac{v_{0}}{i\omega_{0}} \implies C=\frac{v_{0}}{2i\omega_{0}}$
 	$\implies D=-C=-\frac{v_{0}}{2i\omega_{0}}$
 	giving, 
-	$$x(t)=\frac{v_{0}}{2i\omega_{0}}(e^{i\omega_0t}+e^{-i\omega_0t})$$
-	$$x(t)= \frac{v_{0}}{\omega_{0}}sin{\omega_0t}$$
+\1\n\2\n

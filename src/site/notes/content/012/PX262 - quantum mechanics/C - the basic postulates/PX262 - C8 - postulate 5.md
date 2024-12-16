@@ -26,5 +26,4 @@ $$\begin{align*}
 	i\hbar \frac{da_{n}}{dt} &= a_{n}E_{n} \\
 	a_{n}(t) &= a_{n}(0) \exp\left(-\frac{iE_{n}t}{\hbar}\right)
 \end{align*}$$
-- the full solution: 
-  $$\psi(\vec r, t) = \sum_{n}a_{n}(0) \phi_{n}(\vec r)\exp\left(- \frac{iE_{n}t}{\hbar}\right)$$
+\1\n\2\n

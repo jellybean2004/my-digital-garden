@@ -30,5 +30,4 @@ $$\frac{\partial}{\partial x \partial y}f(x,y) = \frac{\partial}{\partial x}\lef
 	$$\frac{\partial f}{\partial y} = 2x^{3}y + e^{x} + 18y^{2}$$
 	$$\frac{\partial^{2} f}{\partial x^{2}} = 6xy^{2}+ye^{x}$$
 	$$\frac{\partial^{2} f}{\partial y^{2}} = 2x^{3}+36y$$
-	$$\frac{\partial^{2} f}{\partial x \partial y} = 6x^{2}y + e^{x}$$
-	$$\frac{\partial^{2} f}{\partial y \partial x}=6x^{2}y +e^{x}$$
+\1\n\2\n

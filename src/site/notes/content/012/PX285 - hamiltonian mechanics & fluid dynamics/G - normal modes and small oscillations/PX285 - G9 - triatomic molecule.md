@@ -62,5 +62,4 @@ $$\therefore \vec X^{(2)} = \begin{pmatrix}1\\1\\1\end{pmatrix}$$
 - the general solution:
 $$ \vec x (t) = (A^{(2)} + B^{(2)}t) \begin{pmatrix}1 \\ 1 \\ 1\end{pmatrix} t$$
 ## the third mode
-- substituting it to equation $(1)$ will yield:
-$$\vec X = a\begin{pmatrix}1 \\ -\left(\frac{m_{O}}{\gamma} -1\right) \\ 1\end{pmatrix}$$
+\1\n\2\n

@@ -8,5 +8,4 @@
 - the angular velocity: 
 $$|\omega| = \frac{|\vec v|}{r} \implies |\vec v| = |\omega|r$$
 $$\vec v = - \omega y\hat i + \omega x\hat j$$
-- considering the curl of $\vec v:$ 
-$$\vec\nabla \times \vec v = \left|\begin{matrix}\hat i & \hat j & \hat k \\ \frac{\partial }{\partial x} & \frac{\partial }{\partial y} & \frac{\partial }{\partial z} \\ -\omega_{z}y & \omega_{z}x & 0\end{matrix} \right| = 2\omega_{z}\hat k$$
+\1\n\2\n

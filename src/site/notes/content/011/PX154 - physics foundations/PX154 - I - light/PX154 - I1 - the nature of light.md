@@ -20,5 +20,4 @@ $$\frac{\partial^{2}E }{\partial x^{2}} = \epsilon_{0}\mu_{0} \frac{\partial^{2}
 
 - the E and B fields are vector quantities
 - for a wave propagation along $x$, we might have: 
-$$\vec E(x,t) = \vec j E_{0}\cos(kx-\omega t)$$
-$$\vec B(x,t) = \vec k B_{0}\cos(kx-\omega t)$$
+\1\n\2\n

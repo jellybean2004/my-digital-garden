@@ -18,5 +18,4 @@ $$
 - to measure period - calculate $I_{cm}$ from experiment
 ## 2
 - a circular disc, radius $20cm$, is separated from a  point $50m$ from its centre. what is the oscillation period as a compound pendulum?
-$$I_{cm} = \frac{1}{2}MR^{2}$$
-$$T = \frac{2\pi}{\omega} = 2\pi\sqrt{\frac{I_{cm}+Md^{2}}{Mgd}}=...\approx 1.34s$$
+\1\n\2\n

@@ -24,5 +24,4 @@ $$\mu^{-} \to e^{-} + \bar{\nu}{E} + \nu_{\mu}$$
 - expect
 $$\frac{N}{N_{0}}= \exp\frac{-1600/c}{2.2\times10^{-6}} \approx 0.9$$
 - instead measure $0.7$
-- in rest frame of muon, $\tau$ is dilated to $\gamma \tau$:
-$$\frac{N}{N_{0}}= \exp{\frac{-1600/c}{2.2\times10^{-6}\gamma}}$$
+\1\n\2\n

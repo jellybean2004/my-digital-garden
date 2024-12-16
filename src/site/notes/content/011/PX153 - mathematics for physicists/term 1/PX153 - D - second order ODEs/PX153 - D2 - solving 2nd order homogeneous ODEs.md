@@ -45,4 +45,4 @@ $$\implies \lambda ^{2}+\lambda+2=0$$
 	- find the auxiliary equation (quadratic in $\lambda$)
 	- if there are two distinct roots, GS: $y=Ae^{\lambda_{1}x} + Be^{\lambda_{2} x}$
 	- if there are repeated roots, GS: $y=Ae^{\lambda x} + Bxe^{\lambda x}$
-	- if $\lambda_{1}=z= u+iv, \; \lambda_{2}=z^{*}=u-iv$ : $$y = e^{ux}(A\cos vx + B \sin vx)$$
+\1\n\2\n

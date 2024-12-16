@@ -49,5 +49,4 @@ $$\therefore\vec\nabla f \perp \vec t$$
 		- ie: circles of radius $\sqrt{\ln{\frac{1}{\kappa}}}$ centred on the origin
 	- the gradient is given by: 
 	$$\vec\nabla f = (-2xe^{-(x^{2}+y^{2})})\hat{\vec i} + (-2ye^{-(x^{2}+y^{2})})\hat{\vec j}$$
-		- in circular polar coordinates, this is 
-		$$\vec\nabla f = -2e^{-r^{2}}\vec r$$
+\1\n\2\n

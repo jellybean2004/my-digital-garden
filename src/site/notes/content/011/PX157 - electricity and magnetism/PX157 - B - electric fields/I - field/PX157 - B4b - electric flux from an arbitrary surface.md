@@ -52,5 +52,4 @@ $$
 	- in this:
 $$
 \int_{0}^{\pi}  2\sin\theta\cos\theta d\theta = \int_{0}^{\pi}\sin2\theta = 0
-$$
-	$$\therefore \phi_{E}= 0$$
+\1\n\2\n

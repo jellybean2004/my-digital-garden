@@ -48,6 +48,4 @@ $$\begin{align*}
 - if $\mu_{1}>\mu_2$: ![Pasted image 20231129101106.png](/img/user/pics/Pasted%20image%2020231129101106.png)
 - if $\mu_{1}= \mu_{2}$: ![Pasted image 20231129101212.png](/img/user/pics/Pasted%20image%2020231129101212.png)
 ## power transmission at the boundary
-- derivation on moodle pdf
-
-$$P_{i}= P_{r}+ P_{t}$$
+\1\n\2\n

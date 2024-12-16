@@ -16,5 +16,4 @@ $$I_{A}= \int (r')^{2}.dm$$
 - cosine rule:
 $$(r')^{2}=r^{2} + d^{2} - 2dr\cos\theta$$
 $$I_{A}= \int r^{2}.dm + d^{2}\int dm - 2d\int x.dm$$
-		$x_{cm} = \frac{\int x.dm}{\int dm} \implies \int x.dm = x_{cm}\int dm = d.m$
-$$I_{A}= I_{cm}(||)+md^{2}$$
+\1\n\2\n

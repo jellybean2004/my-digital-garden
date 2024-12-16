@@ -17,5 +17,4 @@ $$x_{cm}=\frac{\int x.dm}{\int dm}=\frac{2}{3}L$$
 	- let
 $$\sigma = \frac{M}{A}\implies M = \frac{\pi R^2}{2}\sigma(=\int dm)$$
 	- slicing the semicircle vertically:
-$$\int x.dm=\int_0^R x.2.(R^2-x^2)^{\frac{1}{2}}.\sigma.dx=...=\frac{2}{3}\sigma R^3$$
-	$$\therefore x_{cm}=\frac{\int x.dm}{\int dm}=\frac{4}{3\pi} R\approx 0.424R$$
+\1\n\2\n
