@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-05T10:06:06.821+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-16T22:21:40.749+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif'  class = 'banner'>
@@ -37,12 +37,50 @@
 <img src = "https://i.pinimg.com/originals/d6/d7/08/d6d708434397d59a043343235aeb6d69.gif" class = "banner">
 
 ---
+```contributionGraph
+title: Contributions
+graphType: month-track
+dateRangeValue: 6
+dateRangeType: LATEST_MONTH
+startOfWeek: "1"
+showCellRuleIndicators: true
+titleStyle:
+  textAlign: left
+  fontSize: 15px
+  fontWeight: normal
+dataSource:
+  type: PAGE
+  value: ""
+  dateField:
+    type: FILE_MTIME
+    value: "file create time "
+fillTheScreen: true
+enableMainContainerShadow: false
+cellStyleRules:
+  - id: Ocean_a
+    color: "#8dd1e2"
+    min: 1
+    max: 2
+  - id: Ocean_b
+    color: "#63a1be"
+    min: 2
+    max: 3
+  - id: Ocean_c
+    color: "#376d93"
+    min: 3
+    max: 5
+  - id: Ocean_d
+    color: "#012f60"
+    min: 5
+    max: 9999
+
+```
+
 ## contact me 📫
 - **discord**: @jellybean2004
 - **email**: [sujayashr18@gmail.com](mailto:sujayashr18@gmail.com)
 - **linkedin**: [sujaya_shr](https://www.linkedin.com/in/sujayashr/)written on [obsidian](obsidian.md)
 ---
 - created using [digital garden plugin 🏡](https://github.com/oleeskild/obsidian-digital-garden)
-- many graphics used in the notes are not mind. please right click and open the image address for original addresses of the banners.
 
 $\textcopyright$ Sujaya Shrestha 2024
