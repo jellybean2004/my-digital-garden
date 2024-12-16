@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-16T22:41:43.591+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-16T22:43:49.818+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif'  class = 'banner'>
@@ -39,6 +39,7 @@ Another line $$Block again$$ continues.
 ---
 <img src = "https://i.pinimg.com/originals/d6/d7/08/d6d708434397d59a043343235aeb6d69.gif" class = "banner">
 
+::: hidden
 ---
 ```contributionGraph
 title: Contributions
@@ -80,6 +81,7 @@ cellStyleRules:
     max: 9999
 
 ```
+:::
 ---
 ## contact me 📫
 - **discord**: @jellybean2004
