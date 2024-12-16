@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f3-3-d-harmonic-oscillator/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:08:18.541+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f3-3-d-harmonic-oscillator/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:08:18.541+00:00"}
 ---
 
 - the potential energy operator: 

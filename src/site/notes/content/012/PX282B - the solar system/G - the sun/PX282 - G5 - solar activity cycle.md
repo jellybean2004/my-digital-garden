@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g5-solar-activity-cycle/","created":"2024-12-05T10:25:47.506+00:00","updated":"2024-12-05T11:14:29.986+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g5-solar-activity-cycle/","noteIcon":"1","created":"2024-12-05T10:25:47.506+00:00","updated":"2024-12-05T11:14:29.986+00:00"}
 ---
 
 ![Pasted image 20241205102548.png|500](/img/user/pics/Pasted%20image%2020241205102548.png)

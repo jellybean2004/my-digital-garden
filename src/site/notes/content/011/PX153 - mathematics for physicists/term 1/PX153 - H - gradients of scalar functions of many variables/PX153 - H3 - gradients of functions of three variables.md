@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-h-gradients-of-scalar-functions-of-many-variables/px-153-h3-gradients-of-functions-of-three-variables/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:37:50.204+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-h-gradients-of-scalar-functions-of-many-variables/px-153-h3-gradients-of-functions-of-three-variables/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:37:50.204+00:00"}
 ---
 
 - $f(x,y,z)= \kappa$ represents contours as planes of constant value

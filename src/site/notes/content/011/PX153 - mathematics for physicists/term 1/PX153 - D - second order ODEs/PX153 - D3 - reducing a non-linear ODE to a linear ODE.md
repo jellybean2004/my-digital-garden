@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-d-second-order-od-es/px-153-d3-reducing-a-non-linear-ode-to-a-linear-ode/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:37:07.143+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-d-second-order-od-es/px-153-d3-reducing-a-non-linear-ode-to-a-linear-ode/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:37:07.143+00:00"}
 ---
 
 - non-linear ODEs are usually very difficult or impossible to solve, so, we try to make assumptions to simplify them

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e1a-stokes-theorem/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T12:32:36.808+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e1a-stokes-theorem/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T12:32:36.808+00:00"}
 ---
 
 - [[content/012/PX275 - mathematical methods/D - vector integration/D3 - green's theorem/PX275 - D3a - green's theorem in the plane\|green's theorem]]: 

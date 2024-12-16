@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/b-introduction/b-introduction/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:01:23.887+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/b-introduction/b-introduction/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:01:23.887+00:00"}
 ---
 
 [[content/012/PX284 - statistical mechanics/B - introduction/PX284 - B0 - approaches to thermal physics\|PX284 - B0 - approaches to thermal physics]]

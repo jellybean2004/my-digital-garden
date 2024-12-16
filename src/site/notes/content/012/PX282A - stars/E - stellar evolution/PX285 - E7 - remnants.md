@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-285-e7-remnants/","created":"2024-11-26T10:47:16.799+00:00","updated":"2024-11-26T10:53:02.225+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-285-e7-remnants/","noteIcon":"1","created":"2024-11-26T10:47:16.799+00:00","updated":"2024-11-26T10:53:02.225+00:00"}
 ---
 
 - a mass of remnant material is left

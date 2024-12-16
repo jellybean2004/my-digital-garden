@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c5-phase-diagrams/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:50:14.196+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c5-phase-diagrams/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:50:14.196+00:00"}
 ---
 
 ![Pasted image 20231031184937.png](/img/user/pics/Pasted%20image%2020231031184937.png) [YF 18.6]

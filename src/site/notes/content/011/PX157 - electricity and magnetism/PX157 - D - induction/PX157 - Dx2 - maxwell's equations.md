@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-dx2-maxwell-s-equations/","created":"2024-10-01T18:27:10.263+01:00","updated":"2024-11-26T20:11:05.899+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-dx2-maxwell-s-equations/","noteIcon":"1","created":"2024-10-01T18:27:10.263+01:00","updated":"2024-11-26T20:11:05.899+00:00"}
 ---
 
 - [[content/011/PX157 - electricity and magnetism/PX157 - B - electric fields/I - field/PX157 - B5a - gauss's law\|gauss's law]]:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g6c-spin-orbit-coupling/","created":"2024-11-26T11:31:26.405+00:00","updated":"2024-11-26T11:40:41.734+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g6c-spin-orbit-coupling/","noteIcon":"1","created":"2024-11-26T11:31:26.405+00:00","updated":"2024-11-26T11:40:41.734+00:00"}
 ---
 
 - setting the external magnetic field to zero

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-g-mechanical-waves/px-154-g1b-transfer-of-power-by-the-wave/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:52:22.364+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-g-mechanical-waves/px-154-g1b-transfer-of-power-by-the-wave/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:52:22.364+00:00"}
 ---
 
 [YF 15.5]

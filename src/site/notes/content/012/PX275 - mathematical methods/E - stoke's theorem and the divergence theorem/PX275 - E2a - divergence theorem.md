@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e2a-divergence-theorem/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:06:14.213+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e2a-divergence-theorem/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:06:14.213+00:00"}
 ---
 
 - in 2D previously: 

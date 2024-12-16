@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g6b-strong-field-zeeman-effect/","created":"2024-11-26T11:23:13.505+00:00","updated":"2024-11-26T11:30:56.755+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g6b-strong-field-zeeman-effect/","noteIcon":"1","created":"2024-11-26T11:23:13.505+00:00","updated":"2024-11-26T11:30:56.755+00:00"}
 ---
 
 - starting with a large external magnetic field such that LS-coupling can be neglected

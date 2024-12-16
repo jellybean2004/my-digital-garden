@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j10-examples/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:17:16.186+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j10-examples/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:17:16.186+00:00"}
 ---
 
 ## Q1

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g8-diatomic-molecule/","created":"2024-12-05T18:31:39.076+00:00","updated":"2024-12-06T11:21:12.810+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g8-diatomic-molecule/","noteIcon":"1","created":"2024-12-05T18:31:39.076+00:00","updated":"2024-12-06T11:21:12.810+00:00"}
 ---
 
 ![Pasted image 20241205225803.png|500](/img/user/pics/Pasted%20image%2020241205225803.png)

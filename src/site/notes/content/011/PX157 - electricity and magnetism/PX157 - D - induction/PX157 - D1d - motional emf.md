@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-d1d-motional-emf/","created":"2024-10-01T18:27:10.228+01:00","updated":"2024-11-26T20:10:34.093+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-d1d-motional-emf/","noteIcon":"1","created":"2024-10-01T18:27:10.228+01:00","updated":"2024-11-26T20:10:34.093+00:00"}
 ---
 
 - *what causes the emf in [[content/011/PX157 - electricity and magnetism/PX157 - D - induction/PX157 - D1b - a moving crossbar\|a moving crossbar]]?*

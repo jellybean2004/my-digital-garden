@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-f-series/px-155-f4-power-series-and-taylor-series-revisited/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:37:28.403+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-f-series/px-155-f4-power-series-and-taylor-series-revisited/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:37:28.403+00:00"}
 ---
 
 \- ***taylor's theorem***: if $f(x)$ is a continuous, single-valued function of $x$ with continuous derivatives $f'(x), f''(x)... f^{(n)}(x)$, in a given interval $a \leq x \leq b$, and if $f^{(n+1)}(x)$ also exists in this interval, then: 

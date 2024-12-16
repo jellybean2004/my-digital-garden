@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-285-e5f-post-agb/","created":"2024-11-26T10:22:58.207+00:00","updated":"2024-11-26T10:37:15.737+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-285-e5f-post-agb/","noteIcon":"1","created":"2024-11-26T10:22:58.207+00:00","updated":"2024-11-26T10:37:15.737+00:00"}
 ---
 
 - planetary nebulae form from the ejected material

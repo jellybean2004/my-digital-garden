@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-b-complex-numbers/px-153-b1-basic-operations-and-the-argand-diagram/","created":"2024-10-01T18:27:09.073+01:00","updated":"2024-11-26T19:36:29.562+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-b-complex-numbers/px-153-b1-basic-operations-and-the-argand-diagram/","noteIcon":"1","created":"2024-10-01T18:27:09.073+01:00","updated":"2024-11-26T19:36:29.562+00:00"}
 ---
 
 ## complex numbers

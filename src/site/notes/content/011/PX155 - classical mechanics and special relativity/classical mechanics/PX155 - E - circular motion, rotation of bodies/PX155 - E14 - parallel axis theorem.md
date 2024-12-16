@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/px-155-e14-parallel-axis-theorem/","created":"2024-10-01T18:27:09.693+01:00","updated":"2024-11-26T19:57:20.067+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/px-155-e14-parallel-axis-theorem/","noteIcon":"1","created":"2024-10-01T18:27:09.693+01:00","updated":"2024-11-26T19:57:20.067+00:00"}
 ---
 
 - moment of inertia of an object of mass $m$ around an axis that lies at a perpendicular distance $d$ from the object's centre of mass equals the moment of inertia around a parallel axis through the centre of mass plus $md^{2}$:

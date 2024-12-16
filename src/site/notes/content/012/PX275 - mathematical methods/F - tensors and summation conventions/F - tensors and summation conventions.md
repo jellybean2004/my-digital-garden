@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/f-tensors-and-summation-conventions/f-tensors-and-summation-conventions/","created":"2024-12-02T12:09:22.409+00:00","updated":"2024-12-02T19:14:14.222+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/f-tensors-and-summation-conventions/f-tensors-and-summation-conventions/","noteIcon":"1","created":"2024-12-02T12:09:22.409+00:00","updated":"2024-12-02T19:14:14.222+00:00"}
 ---
 
 [[content/012/PX275 - mathematical methods/F - tensors and summation conventions/PX275 - F1 - tensors\|PX275 - F1 - tensors]]

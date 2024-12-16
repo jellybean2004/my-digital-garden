@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c10c-paramagnetic-materials/","created":"2024-10-01T18:27:10.161+01:00","updated":"2024-11-26T20:10:15.802+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c10c-paramagnetic-materials/","noteIcon":"1","created":"2024-10-01T18:27:10.161+01:00","updated":"2024-11-26T20:10:15.802+00:00"}
 ---
 
 - $\mu_{r}>1:$ magnetic field is enhanced

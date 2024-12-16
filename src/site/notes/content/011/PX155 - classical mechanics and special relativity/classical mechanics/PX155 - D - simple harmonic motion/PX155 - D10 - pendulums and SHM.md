@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d10-pendulums-and-shm/","created":"2024-10-01T18:27:09.640+01:00","updated":"2024-11-26T19:56:01.501+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d10-pendulums-and-shm/","noteIcon":"1","created":"2024-10-01T18:27:09.640+01:00","updated":"2024-11-26T19:56:01.501+00:00"}
 ---
 
 ![Pasted image 20231113090042.png](/img/user/pics/Pasted%20image%2020231113090042.png)

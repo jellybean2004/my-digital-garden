@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-i-light/px-154-i4-propagation-of-light/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:52:52.527+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-i-light/px-154-i4-propagation-of-light/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:52:52.527+00:00"}
 ---
 
 ##  waves, wave fronts, and rays

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-i-relativistic-momentum-mass-and-energy/px-155-i3-causality/","created":"2024-10-01T18:27:09.796+01:00","updated":"2024-11-26T19:59:29.260+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-i-relativistic-momentum-mass-and-energy/px-155-i3-causality/","noteIcon":"1","created":"2024-10-01T18:27:09.796+01:00","updated":"2024-11-26T19:59:29.260+00:00"}
 ---
 
 - [[content/011/PX155 - classical mechanics and special relativity/special relativity/PX155 - H - the lorentz transformations/PX155 - H1 - lorentz transformation\|LTs]] can change the order of two events

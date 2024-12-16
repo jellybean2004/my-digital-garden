@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-d2-induced-electric-fields/","created":"2024-10-01T18:27:10.235+01:00","updated":"2024-11-26T20:10:46.393+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-d2-induced-electric-fields/","noteIcon":"1","created":"2024-10-01T18:27:10.235+01:00","updated":"2024-11-26T20:10:46.393+00:00"}
 ---
 
 - there is an induced emf if there is no motion:

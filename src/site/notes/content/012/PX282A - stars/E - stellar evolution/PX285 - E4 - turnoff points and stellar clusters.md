@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-285-e4-turnoff-points-and-stellar-clusters/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:40:13.977+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-285-e4-turnoff-points-and-stellar-clusters/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:40:13.977+00:00"}
 ---
 
 - higher mass stars 'burn out' of hydrogen faster

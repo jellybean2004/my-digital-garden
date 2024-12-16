@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-h-waves-at-boundaries/h-waves-at-boundaries/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:52:33.859+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-h-waves-at-boundaries/h-waves-at-boundaries/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:52:33.859+00:00"}
 ---
 
 [[content/011/PX154 - physics foundations/PX154 - H - waves at boundaries/PX154 - H1 - fixed and free ends\|PX154 - H1 - fixed and free ends]]

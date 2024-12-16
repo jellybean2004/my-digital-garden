@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i7a-white-dwarfs/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:14:26.562+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i7a-white-dwarfs/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:14:26.562+00:00"}
 ---
 
 - consists of cores from stars that have finished fusion

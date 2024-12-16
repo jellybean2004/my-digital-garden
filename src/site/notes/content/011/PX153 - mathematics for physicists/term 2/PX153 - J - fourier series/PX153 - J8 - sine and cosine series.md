@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j8-sine-and-cosine-series/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:16:45.597+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j8-sine-and-cosine-series/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:16:45.597+00:00"}
 ---
 
 - it is possible to use only sines or cosines:

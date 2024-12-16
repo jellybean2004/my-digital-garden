@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-d3d-inductors-in-series/","created":"2024-10-01T18:27:10.250+01:00","updated":"2024-11-26T20:10:57.570+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-d3d-inductors-in-series/","noteIcon":"1","created":"2024-10-01T18:27:10.250+01:00","updated":"2024-11-26T20:10:57.570+00:00"}
 ---
 
 ![Pasted image 20240322164119.png](/img/user/pics/Pasted%20image%2020240322164119.png)

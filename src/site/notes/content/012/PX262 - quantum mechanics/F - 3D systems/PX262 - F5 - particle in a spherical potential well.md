@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f5-particle-in-a-spherical-potential-well/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-15T13:14:39.893+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/f-3-d-systems/px-262-f5-particle-in-a-spherical-potential-well/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-15T13:14:39.893+00:00"}
 ---
 
 - considering that the particle is bound to be within a sphere, the potential energy would be: 

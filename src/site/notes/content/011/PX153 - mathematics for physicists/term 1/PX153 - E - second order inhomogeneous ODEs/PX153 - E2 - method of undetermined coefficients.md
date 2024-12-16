@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-e-second-order-inhomogeneous-od-es/px-153-e2-method-of-undetermined-coefficients/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:37:15.454+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-e-second-order-inhomogeneous-od-es/px-153-e2-method-of-undetermined-coefficients/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:37:15.454+00:00"}
 ---
 
 - just a posh way of saying [[content/011/PX153 - mathematics for physicists/term 1/PX153 - E - second order inhomogeneous ODEs/PX153 - E1 - recap and introduction\|PX153 - E1 - recap and introduction]]

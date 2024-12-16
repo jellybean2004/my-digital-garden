@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-i-relativistic-momentum-mass-and-energy/px-155-i9-how-far-could-you-go/","created":"2024-10-01T18:27:09.812+01:00","updated":"2024-11-26T19:59:40.298+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-i-relativistic-momentum-mass-and-energy/px-155-i9-how-far-could-you-go/","noteIcon":"1","created":"2024-10-01T18:27:09.812+01:00","updated":"2024-11-26T19:59:40.298+00:00"}
 ---
 
 - depart earth and accelerate with $1g$. how far can you travel in $10 \, years$?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-g-astronomical-masses/px-158-g3-gravitational-lensing/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:13:43.683+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-g-astronomical-masses/px-158-g3-gravitational-lensing/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:13:43.683+00:00"}
 ---
 
 - general relativity predicts that light will bend in a gravitational field

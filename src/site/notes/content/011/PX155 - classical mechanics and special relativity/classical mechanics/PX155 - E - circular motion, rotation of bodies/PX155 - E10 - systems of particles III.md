@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/px-155-e10-systems-of-particles-iii/","created":"2024-10-01T18:27:09.681+01:00","updated":"2024-11-26T19:57:08.151+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/px-155-e10-systems-of-particles-iii/","noteIcon":"1","created":"2024-10-01T18:27:09.681+01:00","updated":"2024-11-26T19:57:08.151+00:00"}
 ---
 
 [[content/011/PX155 - classical mechanics and special relativity/classical mechanics/PX155 - B - systems of particles, accelerations/PX155 - B1 - systems of particles I\|PX155 - B1 - systems of particles I]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b1-coordinate-systems/px-275-b1b-cylindrical-polar-basis-vectors/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:28.656+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b1-coordinate-systems/px-275-b1b-cylindrical-polar-basis-vectors/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:28.656+00:00"}
 ---
 
 ![Pasted image 20241015150304.png](/img/user/pics/Pasted%20image%2020241015150304.png)

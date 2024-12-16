@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-285-e6-higher-mass-stars/","created":"2024-11-26T10:30:43.658+00:00","updated":"2024-12-04T21:11:20.922+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-285-e6-higher-mass-stars/","noteIcon":"1","created":"2024-11-26T10:30:43.658+00:00","updated":"2024-12-04T21:11:20.922+00:00"}
 ---
 
 - they evolve similarly to low-mass stars, up to [[content/012/PX282A - stars/E - stellar evolution/PX285 - E5e - asymptotic giant branch (AGB)\|AGB]], but they burn faster with no [[content/012/PX282A - stars/E - stellar evolution/PX285 - E5c - helium flash\|helium flash]]

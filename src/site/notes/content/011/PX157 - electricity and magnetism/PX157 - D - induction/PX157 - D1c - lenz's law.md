@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-d1c-lenz-s-law/","created":"2024-10-01T18:27:10.226+01:00","updated":"2024-11-26T20:10:31.913+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-d1c-lenz-s-law/","noteIcon":"1","created":"2024-10-01T18:27:10.226+01:00","updated":"2024-11-26T20:10:31.913+00:00"}
 ---
 
 - the effect of an induced emf is such that it opposes the changing flux which produced it

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/ii-potentials/px-157-b8c-potential-of-a-ring-of-charges/","created":"2024-10-01T18:27:10.101+01:00","updated":"2024-11-26T20:08:31.457+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/ii-potentials/px-157-b8c-potential-of-a-ring-of-charges/","noteIcon":"1","created":"2024-10-01T18:27:10.101+01:00","updated":"2024-11-26T20:08:31.457+00:00"}
 ---
 
 ![Pasted image 20240125100545.png](/img/user/pics/Pasted%20image%2020240125100545.png)

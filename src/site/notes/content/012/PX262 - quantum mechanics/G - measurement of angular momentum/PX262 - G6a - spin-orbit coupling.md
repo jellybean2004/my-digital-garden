@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g6a-spin-orbit-coupling/","created":"2024-11-26T11:07:58.725+00:00","updated":"2024-11-26T11:22:40.494+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g6a-spin-orbit-coupling/","noteIcon":"1","created":"2024-11-26T11:07:58.725+00:00","updated":"2024-11-26T11:22:40.494+00:00"}
 ---
 
 - classically orbiting electrons around nucleus generates magnetic field, and electron spin can interact with this internal magnetic field

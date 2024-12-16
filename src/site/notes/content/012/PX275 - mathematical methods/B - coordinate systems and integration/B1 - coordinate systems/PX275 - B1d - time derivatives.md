@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b1-coordinate-systems/px-275-b1d-time-derivatives/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:33.190+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b1-coordinate-systems/px-275-b1d-time-derivatives/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:33.190+00:00"}
 ---
 
 - in cartesians: $\vec r = r_{x}\hat i + r_{y}\hat j + r_{z}\hat k$

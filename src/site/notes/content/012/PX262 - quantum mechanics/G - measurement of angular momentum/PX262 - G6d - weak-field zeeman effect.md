@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g6d-weak-field-zeeman-effect/","created":"2024-11-26T11:41:04.286+00:00","updated":"2024-11-26T12:18:56.448+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g6d-weak-field-zeeman-effect/","noteIcon":"1","created":"2024-11-26T11:41:04.286+00:00","updated":"2024-11-26T12:18:56.448+00:00"}
 ---
 
 - investigating the regime where both the effects are important

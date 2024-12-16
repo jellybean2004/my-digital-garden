@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/k-linear-algebra/","created":"2024-10-01T18:27:09.366+01:00","updated":"2024-11-26T19:39:54.463+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/k-linear-algebra/","noteIcon":"1","created":"2024-10-01T18:27:09.366+01:00","updated":"2024-11-26T19:39:54.463+00:00"}
 ---
 
 [[content/011/PX153 - mathematics for physicists/term 2/PX153 - K - linear algebra/PX153 - K0 - outline\|PX153 - K0 - outline]]

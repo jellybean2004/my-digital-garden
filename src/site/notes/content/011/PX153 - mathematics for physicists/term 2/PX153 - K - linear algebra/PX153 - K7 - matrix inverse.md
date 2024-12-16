@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k7-matrix-inverse/","created":"2024-10-01T18:27:09.423+01:00","updated":"2024-11-26T19:40:15.078+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k7-matrix-inverse/","noteIcon":"1","created":"2024-10-01T18:27:09.423+01:00","updated":"2024-11-26T19:40:15.078+00:00"}
 ---
 
 ## some definitions

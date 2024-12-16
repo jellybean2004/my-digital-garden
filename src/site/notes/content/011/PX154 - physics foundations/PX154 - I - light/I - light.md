@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-i-light/i-light/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:52:46.577+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-i-light/i-light/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:52:46.577+00:00"}
 ---
 
 [[content/011/PX154 - physics foundations/PX154 - I - light/PX154 - I1 - the nature of light\|PX154 - I1 - the nature of light]]

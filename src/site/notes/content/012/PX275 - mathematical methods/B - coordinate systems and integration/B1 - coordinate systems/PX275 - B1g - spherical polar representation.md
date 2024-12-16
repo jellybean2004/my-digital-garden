@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b1-coordinate-systems/px-275-b1g-spherical-polar-representation/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:39.036+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/b-coordinate-systems-and-integration/b1-coordinate-systems/px-275-b1g-spherical-polar-representation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:39.036+00:00"}
 ---
 
 ![Pasted image 20241017124715.png](/img/user/pics/Pasted%20image%2020241017124715.png)

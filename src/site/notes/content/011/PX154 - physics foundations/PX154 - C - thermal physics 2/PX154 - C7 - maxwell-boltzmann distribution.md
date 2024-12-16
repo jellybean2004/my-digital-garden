@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c7-maxwell-boltzmann-distribution/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:16:04.489+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c7-maxwell-boltzmann-distribution/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:16:04.489+00:00"}
 ---
 
 ## molecular speeds and energy

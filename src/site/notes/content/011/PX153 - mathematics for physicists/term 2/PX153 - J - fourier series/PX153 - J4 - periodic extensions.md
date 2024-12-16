@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j4-periodic-extensions/","created":"2024-10-01T18:27:09.339+01:00","updated":"2024-11-26T19:39:39.553+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j4-periodic-extensions/","noteIcon":"1","created":"2024-10-01T18:27:09.339+01:00","updated":"2024-11-26T19:39:39.553+00:00"}
 ---
 
 ## periodic extension

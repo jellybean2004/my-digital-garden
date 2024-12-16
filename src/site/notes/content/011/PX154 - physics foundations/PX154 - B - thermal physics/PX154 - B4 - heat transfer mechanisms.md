@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-b-thermal-physics/px-154-b4-heat-transfer-mechanisms/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T10:22:29.120+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-b-thermal-physics/px-154-b4-heat-transfer-mechanisms/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T10:22:29.120+00:00"}
 ---
 
 [YF 17.6]

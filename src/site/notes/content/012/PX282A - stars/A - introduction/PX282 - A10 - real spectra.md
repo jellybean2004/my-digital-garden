@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/a-introduction/px-282-a10-real-spectra/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T16:59:35.464+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/a-introduction/px-282-a10-real-spectra/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T16:59:35.464+00:00"}
 ---
 
 - real spectra do not align perfectly with blackbody curves

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c6a-commutation-relations/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-15T15:03:57.861+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/c-the-basic-postulates/px-262-c6a-commutation-relations/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-15T15:03:57.861+00:00"}
 ---
 
 - in classical physics, the order of dynamical variables does not matter, as they commute

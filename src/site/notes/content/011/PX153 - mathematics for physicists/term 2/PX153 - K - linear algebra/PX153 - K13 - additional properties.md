@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k13-additional-properties/","created":"2024-10-01T18:27:09.391+01:00","updated":"2024-11-26T19:40:35.401+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k13-additional-properties/","noteIcon":"1","created":"2024-10-01T18:27:09.391+01:00","updated":"2024-11-26T19:40:35.401+00:00"}
 ---
 
 - $(i):$ if $y$ is a column vector, $y^{T}$ is a row vector, and vice versa

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/e-stoke-s-theorem-and-the-divergence-theorem/e-stokes-theorem-and-the-divergence-theorem/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T12:29:58.813+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/e-stoke-s-theorem-and-the-divergence-theorem/e-stokes-theorem-and-the-divergence-theorem/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T12:29:58.813+00:00"}
 ---
 
 [[content/012/PX275 - mathematical methods/E - stoke's theorem and the divergence theorem/PX275 - E1a - stokes' theorem\|PX275 - E1 - stoke's theorem]]

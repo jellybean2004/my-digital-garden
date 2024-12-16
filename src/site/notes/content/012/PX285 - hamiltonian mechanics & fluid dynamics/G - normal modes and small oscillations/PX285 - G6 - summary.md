@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g6-summary/","created":"2024-11-28T19:54:15.229+00:00","updated":"2024-11-28T22:42:03.855+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g6-summary/","noteIcon":"1","created":"2024-11-28T19:54:15.229+00:00","updated":"2024-11-28T22:42:03.855+00:00"}
 ---
 
 - a vector form of the [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/PX285 - C1 - the euler-lagrange equation\|euler-lagrange equation]]:

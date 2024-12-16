@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/e-single-particle-partition-function/px-284-e6-harmonic-oscillator-in-3-d/","created":"2024-11-29T18:14:58.089+00:00","updated":"2024-11-29T18:38:36.098+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/e-single-particle-partition-function/px-284-e6-harmonic-oscillator-in-3-d/","noteIcon":"1","created":"2024-11-29T18:14:58.089+00:00","updated":"2024-11-29T18:38:36.098+00:00"}
 ---
 
 - the energy is given by:

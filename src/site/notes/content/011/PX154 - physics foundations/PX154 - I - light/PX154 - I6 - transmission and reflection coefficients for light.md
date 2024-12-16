@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-i-light/px-154-i6-transmission-and-reflection-coefficients-for-light/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:52:56.722+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-i-light/px-154-i6-transmission-and-reflection-coefficients-for-light/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:52:56.722+00:00"}
 ---
 
 - only normal incidence will be considered (ie: $\theta_{i}=0\degree$), and polarization neglected

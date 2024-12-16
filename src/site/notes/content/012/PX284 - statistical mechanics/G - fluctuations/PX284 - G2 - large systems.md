@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/g-fluctuations/px-284-g2-large-systems/","created":"2024-12-06T10:16:46.375+00:00","updated":"2024-12-06T10:27:23.906+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/g-fluctuations/px-284-g2-large-systems/","noteIcon":"1","created":"2024-12-06T10:16:46.375+00:00","updated":"2024-12-06T10:27:23.906+00:00"}
 ---
 
 - for $N$ independent and distinct particles:

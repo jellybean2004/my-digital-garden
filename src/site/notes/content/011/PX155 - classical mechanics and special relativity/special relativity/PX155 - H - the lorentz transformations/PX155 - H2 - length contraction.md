@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-h-the-lorentz-transformations/px-155-h2-length-contraction/","created":"2024-10-01T18:27:09.766+01:00","updated":"2024-11-26T19:58:30.240+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-h-the-lorentz-transformations/px-155-h2-length-contraction/","noteIcon":"1","created":"2024-10-01T18:27:09.766+01:00","updated":"2024-11-26T19:58:30.240+00:00"}
 ---
 
 - consider a rod at rest in frame $S'$ along the $x'$ axis. two ends at $x_{A}'$ and $x_{B}'$

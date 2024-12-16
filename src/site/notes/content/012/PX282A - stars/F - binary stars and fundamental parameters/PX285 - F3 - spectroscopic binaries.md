@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/f-binary-stars-and-fundamental-parameters/px-285-f3-spectroscopic-binaries/","created":"2024-11-29T06:08:08.694+00:00","updated":"2024-11-29T06:17:40.056+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/f-binary-stars-and-fundamental-parameters/px-285-f3-spectroscopic-binaries/","noteIcon":"1","created":"2024-11-29T06:08:08.694+00:00","updated":"2024-11-29T06:17:40.056+00:00"}
 ---
 
 - evidence of binarity in the spectra, such as two sets of absorption lines, or [[content/011/PX154 - physics foundations/PX154 - G - mechanical waves/PX154 - G6 - the doppler effect\|doppler shift]] of absorption lines

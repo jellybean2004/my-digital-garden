@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-e-telescopes/px-158-e2-extended-objects/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:13:23.707+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-e-telescopes/px-158-e2-extended-objects/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:13:23.707+00:00"}
 ---
 
 - includes galaxies, comets, planets

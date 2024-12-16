@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/px-155-e2-angular-velocity-vector/","created":"2024-10-01T18:27:09.703+01:00","updated":"2024-11-26T19:56:21.187+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/px-155-e2-angular-velocity-vector/","noteIcon":"1","created":"2024-10-01T18:27:09.703+01:00","updated":"2024-11-26T19:56:21.187+00:00"}
 ---
 
  - angular velocity vector $\vec\omega$ has magnitude $\frac{d\theta}{dt}$ and direction parallel to the axis of rotation, sign according to the right hand rule

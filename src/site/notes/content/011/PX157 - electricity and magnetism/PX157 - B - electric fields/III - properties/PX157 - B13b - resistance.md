@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/iii-properties/px-157-b13b-resistance/","created":"2024-10-01T18:27:10.131+01:00","updated":"2024-11-26T20:08:53.382+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/iii-properties/px-157-b13b-resistance/","noteIcon":"1","created":"2024-10-01T18:27:10.131+01:00","updated":"2024-11-26T20:08:53.382+00:00"}
 ---
 
 ## resistivity

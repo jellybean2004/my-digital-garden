@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-b-complex-numbers/px-153-b5-application-describing-damped-smh/","created":"2024-10-01T18:27:09.084+01:00","updated":"2024-11-26T19:36:38.519+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-b-complex-numbers/px-153-b5-application-describing-damped-smh/","noteIcon":"1","created":"2024-10-01T18:27:09.084+01:00","updated":"2024-11-26T19:36:38.519+00:00"}
 ---
 
 ## general solution

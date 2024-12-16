@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c9-magnetic-dipole-moment/","created":"2024-10-01T18:27:10.211+01:00","updated":"2024-11-26T20:10:04.653+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c9-magnetic-dipole-moment/","noteIcon":"1","created":"2024-10-01T18:27:10.211+01:00","updated":"2024-11-26T20:10:04.653+00:00"}
 ---
 
 ## introduction

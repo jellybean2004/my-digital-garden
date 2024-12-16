@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f1-isolated-system-or-microcanonical-ensemble/","created":"2024-11-29T18:43:20.801+00:00","updated":"2024-12-05T15:14:12.534+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f1-isolated-system-or-microcanonical-ensemble/","noteIcon":"1","created":"2024-11-29T18:43:20.801+00:00","updated":"2024-12-05T15:14:12.534+00:00"}
 ---
 
 - in statistical mechanics:

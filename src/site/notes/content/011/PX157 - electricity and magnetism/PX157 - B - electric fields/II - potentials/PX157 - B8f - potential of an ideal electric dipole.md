@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/ii-potentials/px-157-b8f-potential-of-an-ideal-electric-dipole/","created":"2024-10-01T18:27:10.110+01:00","updated":"2024-11-26T23:15:22.912+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/ii-potentials/px-157-b8f-potential-of-an-ideal-electric-dipole/","noteIcon":"1","created":"2024-10-01T18:27:10.110+01:00","updated":"2024-11-26T23:15:22.912+00:00"}
 ---
 
 ![Pasted image 20240125101634.png](/img/user/pics/Pasted%20image%2020240125101634.png)

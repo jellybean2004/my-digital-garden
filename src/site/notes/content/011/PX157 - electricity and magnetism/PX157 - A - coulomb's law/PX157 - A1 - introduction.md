@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-a-coulomb-s-law/px-157-a1-introduction/","created":"2024-10-01T18:50:56.314+01:00","updated":"2024-11-26T20:06:55.579+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-a-coulomb-s-law/px-157-a1-introduction/","noteIcon":"1","created":"2024-10-01T18:50:56.314+01:00","updated":"2024-11-26T20:06:55.579+00:00"}
 ---
 
 - **elementary charge**: $e \approx 1.6022 \times10^{-15} \, C$

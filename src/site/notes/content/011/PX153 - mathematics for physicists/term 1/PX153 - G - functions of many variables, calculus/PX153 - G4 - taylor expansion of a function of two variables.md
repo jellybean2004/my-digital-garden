@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-g-functions-of-many-variables-calculus/px-153-g4-taylor-expansion-of-a-function-of-two-variables/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:37:39.613+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-g-functions-of-many-variables-calculus/px-153-g4-taylor-expansion-of-a-function-of-two-variables/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:37:39.613+00:00"}
 ---
 
 - consider a power series approximation to a function of two variables, $f(x,y)$, about $x=a, y=b$

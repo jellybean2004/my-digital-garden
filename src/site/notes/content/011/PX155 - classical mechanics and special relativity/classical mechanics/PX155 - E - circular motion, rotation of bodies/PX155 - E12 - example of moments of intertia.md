@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/px-155-e12-example-of-moments-of-intertia/","created":"2024-10-01T18:27:09.687+01:00","updated":"2024-11-26T19:57:15.934+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/px-155-e12-example-of-moments-of-intertia/","noteIcon":"1","created":"2024-10-01T18:27:09.687+01:00","updated":"2024-11-26T19:57:15.934+00:00"}
 ---
 
 ![Pasted image 20231108063054.png](/img/user/pics/Pasted%20image%2020231108063054.png)

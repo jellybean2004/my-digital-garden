@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/c-magnetic-fields/","created":"2024-10-01T18:27:10.153+01:00","updated":"2024-11-26T20:09:13.273+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/c-magnetic-fields/","noteIcon":"1","created":"2024-10-01T18:27:10.153+01:00","updated":"2024-11-26T20:09:13.273+00:00"}
 ---
 
 [[content/011/PX157 - electricity and magnetism/PX157 - C - magnetic fields/PX157 - C1a - the lorentz force\|PX157 - C1a - the lorentz force]]

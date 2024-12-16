@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-a-vectors/px-153-a1-notation-and-geometrical-representation/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:34:25.880+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-a-vectors/px-153-a1-notation-and-geometrical-representation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:34:25.880+00:00"}
 ---
 
 ## scalar

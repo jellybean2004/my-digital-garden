@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/review-before-exam/","created":"2024-10-01T18:50:54.792+01:00","updated":"2024-11-26T19:53:03.353+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/review-before-exam/","noteIcon":"1","created":"2024-10-01T18:50:54.792+01:00","updated":"2024-11-26T19:53:03.353+00:00"}
 ---
 
 [[content/011/PX154 - physics foundations/PX154 - D - the first law of thermodynamic/PX154 - D1 - introduction#some concepts\|PX154 - D1 - introduction#some concepts]]

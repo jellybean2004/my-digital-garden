@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d3-green-s-theorem/px-275-d3c-application-of-green-s-theorem/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:05:46.826+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d3-green-s-theorem/px-275-d3c-application-of-green-s-theorem/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:05:46.826+00:00"}
 ---
 
 - choosing $P$ and $Q$ such that:

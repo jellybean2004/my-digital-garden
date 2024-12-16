@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d4-vector-surface-area/px-275-d4c-total-vector-surface-area/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T23:01:50.626+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d4-vector-surface-area/px-275-d4c-total-vector-surface-area/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T23:01:50.626+00:00"}
 ---
 
 - to evaluate the **vector area**: 

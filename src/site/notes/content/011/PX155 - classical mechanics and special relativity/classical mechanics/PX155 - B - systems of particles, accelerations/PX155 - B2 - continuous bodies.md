@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-b-systems-of-particles-accelerations/px-155-b2-continuous-bodies/","created":"2024-10-01T18:27:09.493+01:00","updated":"2024-11-26T19:55:12.100+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-b-systems-of-particles-accelerations/px-155-b2-continuous-bodies/","noteIcon":"1","created":"2024-10-01T18:27:09.493+01:00","updated":"2024-11-26T19:55:12.100+00:00"}
 ---
 
 - more common to treat bodies as continuous, not a collection of distinct points

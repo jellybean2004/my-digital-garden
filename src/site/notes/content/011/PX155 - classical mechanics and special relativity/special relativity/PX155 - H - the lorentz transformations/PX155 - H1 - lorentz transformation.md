@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-h-the-lorentz-transformations/px-155-h1-lorentz-transformation/","created":"2024-10-01T18:27:09.761+01:00","updated":"2024-11-26T19:58:29.325+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-h-the-lorentz-transformations/px-155-h1-lorentz-transformation/","noteIcon":"1","created":"2024-10-01T18:27:09.761+01:00","updated":"2024-11-26T19:58:29.325+00:00"}
 ---
 
 - from [[content/011/PX155 - classical mechanics and special relativity/special relativity/PX155 - G - foundations of special relativity/PX155 - G3 - the postulates of special relativity#^42001c\|RP1]] - linear transformations from $S$ to $S'$:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-b-atomic-stucture/px-156-b1-atoms-and-atomic-spectra/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:09:11.711+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-b-atomic-stucture/px-156-b1-atoms-and-atomic-spectra/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:09:11.711+00:00"}
 ---
 
 - to determine the wavelength of light emitted/absorbed after an electron moves between energy levels, rydberg formula:

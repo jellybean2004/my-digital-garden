@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d3-solving-the-shm-equation/","created":"2024-10-01T18:27:09.641+01:00","updated":"2024-11-26T19:55:41.141+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d3-solving-the-shm-equation/","noteIcon":"1","created":"2024-10-01T18:27:09.641+01:00","updated":"2024-11-26T19:55:41.141+00:00"}
 ---
 
 - try: $x=A\cos{\lambda t}$ 

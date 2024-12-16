@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j9-overshoot-and-gibbs-phenomenon/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:39:47.560+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/px-153-j9-overshoot-and-gibbs-phenomenon/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:39:47.560+00:00"}
 ---
 
 - at discontinuities in a function, the fourier series always overshoots the function by an amount proportional to the size of the discontinuities

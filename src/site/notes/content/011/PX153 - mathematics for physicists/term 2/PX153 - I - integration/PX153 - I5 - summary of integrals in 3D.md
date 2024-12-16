@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i5-summary-of-integrals-in-3-d/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:38:07.675+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i5-summary-of-integrals-in-3-d/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:38:07.675+00:00"}
 ---
 
 - sketch he domain, find the equations for the boundaries

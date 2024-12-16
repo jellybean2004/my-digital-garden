@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/review-before-exam/","created":"2024-10-01T18:50:56.682+01:00","updated":"2024-11-26T19:59:50.906+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/review-before-exam/","noteIcon":"1","created":"2024-10-01T18:50:56.682+01:00","updated":"2024-11-26T19:59:50.906+00:00"}
 ---
 
 [[content/011/PX155 - classical mechanics and special relativity/classical mechanics/PX155 - B - systems of particles, accelerations/PX155 - B3 - forces out of balance\|PX155 - B3 - forces out of balance]]

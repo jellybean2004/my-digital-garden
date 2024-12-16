@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/px-155-e16-using-conservation-of-momentum/","created":"2024-10-01T18:27:09.700+01:00","updated":"2024-11-26T19:57:24.358+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/px-155-e16-using-conservation-of-momentum/","noteIcon":"1","created":"2024-10-01T18:27:09.700+01:00","updated":"2024-11-26T19:57:24.358+00:00"}
 ---
 
 - if no torques act about a point then the angular momentum is conserved about that point

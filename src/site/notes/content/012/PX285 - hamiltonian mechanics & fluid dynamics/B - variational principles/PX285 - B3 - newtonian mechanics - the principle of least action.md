@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b3-newtonian-mechanics-the-principle-of-least-action/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T10:41:16.759+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/b-variational-principles/px-285-b3-newtonian-mechanics-the-principle-of-least-action/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T10:41:16.759+00:00"}
 ---
 
 ## the principle of least action

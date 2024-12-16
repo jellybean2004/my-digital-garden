@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-i-relativistic-momentum-mass-and-energy/px-155-i7-massless-particles/","created":"2024-10-01T18:27:09.808+01:00","updated":"2024-11-26T19:59:36.082+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-i-relativistic-momentum-mass-and-energy/px-155-i7-massless-particles/","noteIcon":"1","created":"2024-10-01T18:27:09.808+01:00","updated":"2024-11-26T19:59:36.082+00:00"}
 ---
 
 - if $m_{0}=0$, then, $E^{2}-p^{2}c^{2}=0$ , and $E = pc$ (or strictly, $E=|p|c$)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e2-eigenvalues-and-eigenfunctions/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-15T17:12:41.221+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-e2-eigenvalues-and-eigenfunctions/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-15T17:12:41.221+00:00"}
 ---
 
 - using spherical coordinates: 

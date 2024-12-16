@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d4-vector-surface-area/px-275-d4a-flux-of-a-vector-field-through-a-loop/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:05:58.918+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/d-vector-integration/d4-vector-surface-area/px-275-d4a-flux-of-a-vector-field-through-a-loop/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:05:58.918+00:00"}
 ---
 
 - considering a vector field, $\vec F$, describing a volume of rain falling per second, per unit area

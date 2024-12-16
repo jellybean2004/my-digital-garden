@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k8-properties-of-matrix-inverses/","created":"2024-10-01T18:27:09.427+01:00","updated":"2024-11-26T19:40:19.493+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k8-properties-of-matrix-inverses/","noteIcon":"1","created":"2024-10-01T18:27:09.427+01:00","updated":"2024-11-26T19:40:19.493+00:00"}
 ---
 
 - $(i):$ if $A$ and $B$ are *invertible* (have inverses), and have the shape, $n\times n$, then $AB$ is also invertible, and $(AB)^{-1} = B^{-1}A^{-1}$

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-i-relativistic-momentum-mass-and-energy/px-155-i5-relativistic-kinetic-energy/","created":"2024-10-01T18:27:09.801+01:00","updated":"2024-11-26T19:59:33.293+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-i-relativistic-momentum-mass-and-energy/px-155-i5-relativistic-kinetic-energy/","noteIcon":"1","created":"2024-10-01T18:27:09.801+01:00","updated":"2024-11-26T19:59:33.293+00:00"}
 ---
 
 - we have:

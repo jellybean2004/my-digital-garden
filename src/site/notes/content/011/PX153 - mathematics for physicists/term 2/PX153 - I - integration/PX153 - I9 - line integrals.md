@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i9-line-integrals/","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:38:16.085+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i9-line-integrals/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:38:16.085+00:00"}
 ---
 
 - split curve $C$ in $n$ sections, each with displacement vector: 

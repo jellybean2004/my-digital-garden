@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g7-photon-emission-from-atoms/","created":"2024-12-02T11:14:08.946+00:00","updated":"2024-12-02T20:18:06.452+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-measurement-of-angular-momentum/px-262-g7-photon-emission-from-atoms/","noteIcon":"1","created":"2024-12-02T11:14:08.946+00:00","updated":"2024-12-02T20:18:06.452+00:00"}
 ---
 
 - light emitted from atoms can be understood as emissions from electron deexcitation
