@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T00:13:58.731+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T00:33:09.991+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif'  class = 'banner'>
@@ -13,7 +13,6 @@
 
 
 
----
 ---
 ## yearly notes 🌌
 ### [[content/012/012 year 2\|012 year 2]] 🪴
@@ -38,7 +37,10 @@
 
 ---
 <img src = "https://i.pinimg.com/originals/d6/d7/08/d6d708434397d59a043343235aeb6d69.gif" class = "banner">
+
+---
 ## contact me 📫
+
 - **discord**: @jellybean2004
 - **email**: [sujayashr18@gmail.com](mailto:sujayashr18@gmail.com)
 - **linkedin**: [sujaya_shr](https://www.linkedin.com/in/sujayashr/)written on [obsidian](obsidian.md)
