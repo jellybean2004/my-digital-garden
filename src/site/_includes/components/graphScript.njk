@@ -68,11 +68,8 @@
         height = el.offsetHeight;
         const highlightNodes = new Set();
         let hoverNode = null;
-        
-        // Set graph colours to neutral tones
-        const nodeColor = '#888'; // Neutral grey for nodes
-        const linkColor = 'rgba(150, 150, 150, 0.5)'; // Semi-transparent grey for links
-
+        const color = getCssVar("--graph-main");
+        const mutedColor = getCssVar("--graph-muted");
         let Graph = ForceGraph()
         (el)
             .graphData(graphData)
@@ -81,14 +78,26 @@
             .linkSource('source')
             .linkTarget('target')
             .d3AlphaDecay(0.10)
-            .d3Force('charge', d3.forceManyBody().strength(-50)) // Adjust node repulsion
-            .d3Force('link', d3.forceLink().distance(50).strength(1)); // Control link distances
+            .d3Force('charge', d3.forceManyBody().strength(-30))  // Add repulsion force
+            .d3Force('link', d3.forceLink().distance(100).strength(0.8))  // Adjust link force
+            .d3Force('center', d3.forceCenter(width / 2, height / 2)) // Center the graph
+            .d3Force('collision', d3.forceCollide().radius(20)); // Prevent nodes from overlapping
             .width(width)
             .height(height)
-            .linkDirectionalArrowLength(2)
-            .linkDirectionalArrowRelPos(0.5)
+            .linkDirectionalArrowLength(0)  // Remove directional arrows
+            .linkDirectionalArrowRelPos(0)
             .autoPauseRedraw(false)
-            .linkColor(() => linkColor) // Update link colour here
+            .linkColor((link) => {
+                if (hoverNode == null) {
+                    return color;
+                }
+                if (link.source.id == hoverNode.id || link.target.id == hoverNode.id) {
+                    return color;
+                } else {
+                    return mutedColor;
+                }
+                
+            })
             .nodeCanvasObject((node, ctx) => {
                 const numberOfNeighbours = (node.neighbors && node.neighbors.length) || 2;
                 const scaleFactor = 0.5; // Adjust this value to scale nodes (0.5 = half size)
@@ -96,8 +105,15 @@
                 
                 ctx.beginPath();
                 ctx.arc(node.x, node.y, nodeR, 0, 2 * Math.PI, false);
-
-                ctx.fillStyle = node === hoverNode ? '#FFF' : nodeColor; // Highlight on hover
+                if (hoverNode == null) {
+                    ctx.fillStyle = color;
+                } else {
+                    if (node == hoverNode || highlightNodes.has(node.url)) {
+                        ctx.fillStyle = color;
+                    } else {
+                        ctx.fillStyle = mutedColor;
+                    }
+                }
                  
                 ctx.fill();
                 
@@ -131,7 +147,7 @@
             });
             if (fullScreen || (delay != null && graphData.nodes.length > 4)) {
                 setTimeout(() => {
-                    Graph.zoomToFit(200, 50); // Adjust zoom to fit the graph
+                    Graph.zoomToFit(5, 75);
                 }, delay || 200);
             }
         return Graph;
