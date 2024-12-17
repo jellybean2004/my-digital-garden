@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T21:35:44.046+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T21:43:38.406+00:00"}
 ---
 
 <img src = 'https://i.redd.it/3jxjy5nfxq781.gif' class = 'banner'>
