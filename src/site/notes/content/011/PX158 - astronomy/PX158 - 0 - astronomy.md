@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-0-astronomy/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T00:12:36.152+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-0-astronomy/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T21:46:18.415+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/ec/b9/c2/ecb9c2d3d68104257d36ef064f2cc1bc.gif' class = 'banner'>

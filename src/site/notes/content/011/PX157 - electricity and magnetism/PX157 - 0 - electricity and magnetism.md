@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-0-electricity-and-magnetism/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T00:12:31.511+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-0-electricity-and-magnetism/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T21:46:11.117+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/d6/e2/2b/d6e22bb1b3507ccaf82bb9b198cfc557.gif' class = 'banner'>

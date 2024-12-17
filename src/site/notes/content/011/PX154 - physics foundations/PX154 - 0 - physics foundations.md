@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-0-physics-foundations/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T00:12:16.970+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-0-physics-foundations/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T21:45:15.434+00:00"}
 ---
 
 <img src = "https://i.pinimg.com/originals/a7/68/76/a76876b05cc5767ce6ce5c59abceb7e4.gif" class = "banner">
