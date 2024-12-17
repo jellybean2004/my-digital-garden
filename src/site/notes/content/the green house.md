@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T00:33:09.991+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry","gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T19:31:40.486+00:00"}
 ---
+
 
 <img src = 'https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif'  class = 'banner'>
 
@@ -17,7 +18,6 @@
 ## yearly notes 🌌
 ### [[content/012/012 year 2\|012 year 2]] 🪴
 [[content/012/PX262 - quantum mechanics/PX262 - 0 - quantum mechanics and its applications\|PX262 - 0 - quantum mechanics and its applications]]
-:::hidden[[content/012/PX271 - physics skills/PX271 - 0 - physics skills\|PX271 - 0 - physics skills]]:::
 [[content/012/PX275 - mathematical methods/PX275 - 0 - mathematical methods\|PX275 - 0 - mathematical methods]]
 [[content/012/PX282A - stars/PX282A - 0 - stars\|PX282A - 0 - stars]]
 [[content/012/PX282B - the solar system/PX282B - 0 - solar system\|PX282B - 0 - solar system]]
