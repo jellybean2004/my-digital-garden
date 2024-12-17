@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry","gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T19:31:40.486+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","tags":["gardenEntry","gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T19:35:06.823+00:00"}
 ---
 
+
+{% include 'forest.njx' %}
 
 <img src = 'https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif'  class = 'banner'>
 
