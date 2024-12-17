@@ -96,7 +96,8 @@
             })
             .nodeCanvasObject((node, ctx) => {
                 const numberOfNeighbours = (node.neighbors && node.neighbors.length) || 2;
-                const nodeR = Math.min(7, Math.max(numberOfNeighbours / 2, 2));
+                const scaleFactor = 0.5; // Adjust this value to scale nodes (0.5 = half size)
+                const nodeR = Math.min(7 * scaleFactor, Math.max((numberOfNeighbours / 2) * scaleFactor, 2 * scaleFactor));        
                 
                 ctx.beginPath();
                 ctx.arc(node.x, node.y, nodeR, 0, 2 * Math.PI, false);
