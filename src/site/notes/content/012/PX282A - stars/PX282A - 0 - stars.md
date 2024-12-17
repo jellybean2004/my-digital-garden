@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/px-282-a-0-stars/","pinned":"true","noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-16T23:06:29.811+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/px-282-a-0-stars/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T00:11:12.227+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/d5/b0/80/d5b080e257c1e7403f9827a480042261.gif' class  = 'banner'>

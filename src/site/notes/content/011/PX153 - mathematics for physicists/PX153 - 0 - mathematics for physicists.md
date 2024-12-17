@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/px-153-0-mathematics-for-physicists/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:15:53.244+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/px-153-0-mathematics-for-physicists/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T00:12:10.755+00:00"}
 ---
 
 <img src = 'https://miro.medium.com/max/584/0*l0zoTQqaOFAFw_6H.gif' class = 'banner'>
