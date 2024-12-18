@@ -11,9 +11,11 @@ body {
     //   color: black;
     //  }
     padding-bottom:200px;
-    font-family: 'Times New Roman', Times, serif;
     background-color: #090909;
-    
+
+    h1, h2, h3, h4, h5, h6, p, li, a {
+  font-family: 'Times New Roman', Times, serif;
+}  
     
     /* Reduce spacing for the entire file tree */
     .filelist {
