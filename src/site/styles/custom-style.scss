@@ -19,6 +19,7 @@ body {
     .filelist {
         padding: 0; /* Remove unnecessary padding */
         margin: 0;  /* Remove unnecessary margin */
+        // background-color: #0f1728
     }
     
     /* Reduce spacing between notes */
@@ -41,6 +42,11 @@ body {
     }
 
     .filetree-sidebar {
-      width: 350px; /* Default width */
+        width: 350px; /* Default width */
+        background-color: #0f1728
+        
+    }
+    .sidebar{
+        background-color: #0f1728
     }
 }
