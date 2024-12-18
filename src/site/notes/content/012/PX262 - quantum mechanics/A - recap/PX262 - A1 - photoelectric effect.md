@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a1-photoelectric-effect/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:06:16.439+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/a-recap/px-262-a1-photoelectric-effect/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-18T19:46:40.196+00:00"}
 ---
 
-**[[PX156 - A4 - the photoelectric effect \| PX156 - quantum phenomena]]**
+**[[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - A - light/PX156 - A4 - the photoelectric effect\|PX156 - A4 - the photoelectric effect]]**
 
 - the experimental observation that when light strikes a metal surface, electrons are emitted
 - the energy of the emitted electrons depends on the frequency of the incident light, but not on its intensity

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-g-mechanical-waves/px-154-g4-three-dimensional-solids-bulk-waves/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:52:26.139+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-g-mechanical-waves/px-154-g4-three-dimensional-solids-bulk-waves/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T21:56:23.054+00:00"}
 ---
 
 - in solids, we need to consider both compressional (longitudinal) waves, and shear (transverse) waves
@@ -13,5 +13,5 @@
 - eg: for earth, $B = 105GPa$, $B=5GPa$ ("typical")
 		$v_{p} = 7.7\times10^{4}m^{-1}$
 		$v_{s}= 4.3\times10^{3}ms^{-1}$
-- determined earth's internal structure by studying waves - further: [[PX399\|PX399]] *the earth an its atmosphere*
+- determined earth's internal structure by studying waves
 - also, ultrasound
