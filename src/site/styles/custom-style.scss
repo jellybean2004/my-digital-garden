@@ -35,4 +35,21 @@ body {
     .folder .inner-folder {
         margin-left: 10px; /* Slight indentation for nested folders */
     }
+
+    .filetree-sidebar {
+      width: 250px; /* Default width */
+    }
+    
+    @media (max-width: 1200px) {
+      .filetree-sidebar {
+        width: 200px; /* Adjust width for smaller screens */
+      }
+    }
+    
+    @media (max-width: 768px) {
+      .filetree-sidebar {
+        width: 150px; /* Adjust further for mobile screens */
+      }
+    }
+
 }
