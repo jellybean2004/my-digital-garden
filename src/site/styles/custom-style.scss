@@ -35,16 +35,4 @@ body {
     .folder .inner-folder {
         margin-left: 10px; /* Slight indentation for nested folders */
     }
-    .sidebar {
-      width: 400px; /* Set a fixed width */
-      max-width: 450px; /* Optional: limit the maximum width */
-      min-width: 350px; /* Optional: ensure a minimum width */
-      overflow: hidden; /* Enable scrolling if content overflows */
-    }
-    
-    .sidebar-container {
-      width: inherit;
-    }
-
-    
 }
