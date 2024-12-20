@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-d1-ladder-operators/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T01:07:50.779+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/d-ladder-operators-and-angular-momentum/px-262-d1-ladder-operators/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-20T14:29:16.463+00:00"}
 ---
 
 - the hamiltonian operator: 
@@ -12,7 +12,7 @@
 - the commutation relation: 
   $$[\hat P , \hat X] = -i$$
 - the ladder operators are defined as: 
-  $$\begin{align*}
+$$\begin{align*}
 	\hat R_{+} &= (\hat P + i \hat X) \\
 	\hat R_{-} &= (\hat P - i \hat X)
 \end{align*}$$
@@ -26,7 +26,7 @@ $$\begin{align*}
 - the hamiltonian operator can rewritten as: 
   $$\hat H = \frac{1}{2} (\hat R_{+}\hat R_{-} + 1) = \frac{1}{2} (\hat R_{-}\hat R_{+} - 1)$$
 - commutation relations of the ladder operators with hamiltonian: 
-  $$\begin{gather}
+$$\begin{gather}
 	[\hat R_{+}, \hat H] = \hat R_{+} \frac{1}{2}(\hat R_{-}\hat R_{+} -1) - \frac{1}{2}(\hat R_{+}\hat R_{-} + 1) \hat R_{-} = - \hat R_{+} \\\\
 	[\hat R_{-}, \hat H] = + \hat R_{-}
 \end{gather}$$

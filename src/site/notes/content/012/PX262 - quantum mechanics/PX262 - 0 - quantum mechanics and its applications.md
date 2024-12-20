@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T21:43:24.939+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-19T18:43:41.456+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/bc/33/e6/bc33e60f91c80e7f319adb6b59f87fa7.gif' class = 'banner'>
@@ -53,9 +53,11 @@
 [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F5 - particle in a spherical potential well\|PX262 - F5 - particle in a spherical potential well]]
 [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F6 - hydrogenic atom\|PX262 - F6 - hydrogen-like atoms]]
 [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F7 - properties of hydrogen-like atoms\|PX262 - F7 - properties of hydrogen-like atoms]]
-### [[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/G - additional interactions in atoms\|G - additional interactions in atoms]]
+### [[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/G - angular momentum II\|G - angular momentum II]]
 [[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G1 - particle with angular momentum in magnetic field\|PX262 - G1 - particle with angular momentum in magnetic field]]
-[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G2 - stern-gerlach experiment\|PX262 - G2 - stern-gerlach experiment]]
+[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G2a - stern-gerlach experiment\|PX262 - G2a - stern-gerlach experiment]]
+[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G2b - spin\|PX262 - G2b - spin]]
+[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G2c - stern-gerlach results with spin\|PX262 - G2c - stern-gerlach results with spin]]
 [[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G3 - matrix representation\|PX262 - G3 - matrix representation]]
 [[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G4 - pauli spin matrices\|PX262 - G4 - pauli spin matrices]]
 [[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G5 - multielectron atoms\|PX262 - G5 - multielectron atoms]]
