@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T21:43:07.124+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-20T17:22:10.243+00:00"}
 ---
 
 
@@ -43,7 +43,7 @@
 
 - **discord**: @jellybean2004
 - **email**: [sujayashr18@gmail.com](mailto:sujayashr18@gmail.com)
-- **linkedin**: [sujaya_shr](https://www.linkedin.com/in/sujayashr/)written on [obsidian](obsidian.md)
+- **linkedin**: [sujaya_shr](https://www.linkedin.com/in/sujayashr/) written on [obsidian](https://obsidian.md)
 ---
 - created using [digital garden plugin 🏡](https://github.com/oleeskild/obsidian-digital-garden)
 

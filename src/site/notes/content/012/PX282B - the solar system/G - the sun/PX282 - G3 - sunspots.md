@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g3-sunspots/","noteIcon":"1","created":"2024-12-03T10:41:27.191+00:00","updated":"2024-12-06T16:20:55.528+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g3-sunspots/","noteIcon":"1","created":"2024-12-03T10:41:27.191+00:00","updated":"2024-12-21T14:23:50.380+00:00"}
 ---
 
 ![Pasted image 20241203104259.png|500](/img/user/pics/Pasted%20image%2020241203104259.png)
 *image: NASA/BBSO*
 - **note:** sunspots are dark as they are *relatively cooler* that the surrounding, at a temperature of $3000-4500\,K$
 
-- the cooler regions of enhanced magnetic field, revealed by [[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G6b - strong-field zeeman effect\|zeeman splitting]] of absorption lines, supress convection and allow the spot to cool
+- the cooler regions of enhanced magnetic field, revealed by [[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G7b - strong-field zeeman effect\|zeeman splitting]] of absorption lines, supress convection and allow the spot to cool
 
 ![Pasted image 20241203104637.png|500](/img/user/pics/Pasted%20image%2020241203104637.png)
 *image: NOAO*

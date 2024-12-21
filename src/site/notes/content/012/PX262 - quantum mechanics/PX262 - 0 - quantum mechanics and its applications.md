@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-19T18:43:41.456+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics-and-its-applications/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-21T14:23:49.120+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/bc/33/e6/bc33e60f91c80e7f319adb6b59f87fa7.gif' class = 'banner'>
@@ -42,7 +42,8 @@
 [[content/012/PX262 - quantum mechanics/C - the basic postulates/PX262 - C10 - the basic postulates\|PX262 - C10 - the basic postulates]]
 ### [[content/012/PX262 - quantum mechanics/D - ladder operators and angular momentum/D - ladder operators and angular momentum\|D - ladder operators and angular momentum]]
 [[content/012/PX262 - quantum mechanics/D - ladder operators and angular momentum/PX262 - D1 - ladder operators\|PX262 - D1 - ladder operators]]
-[[content/012/PX262 - quantum mechanics/D - ladder operators and angular momentum/PX262 - E1a - angular momentum operators\|PX262 - E1- angular momentum]]
+[[content/012/PX262 - quantum mechanics/D - ladder operators and angular momentum/PX262 - E1a - angular momentum operators\|PX262 - E1a - angular momentum operators]]
+[[content/012/PX262 - quantum mechanics/D - ladder operators and angular momentum/PX262 - E1b - compatibility\|PX262 - E1b - compatibility]]
 [[content/012/PX262 - quantum mechanics/D - ladder operators and angular momentum/PX262 - E2 - eigenvalues and eigenfunctions\|PX262 - E2 - eigenvalues and eigenfunctions]]
 ### [[content/012/PX262 - quantum mechanics/F - 3D systems/F - 3D systems\|F - 3D systems]]
 [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F1 - the schrödinger equation in 3D\|PX262 - F1 - the schrödinger equation in 3D]]
@@ -53,16 +54,16 @@
 [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F5 - particle in a spherical potential well\|PX262 - F5 - particle in a spherical potential well]]
 [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F6 - hydrogenic atom\|PX262 - F6 - hydrogen-like atoms]]
 [[content/012/PX262 - quantum mechanics/F - 3D systems/PX262 - F7 - properties of hydrogen-like atoms\|PX262 - F7 - properties of hydrogen-like atoms]]
-### [[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/G - angular momentum II\|G - angular momentum II]]
-[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G1 - particle with angular momentum in magnetic field\|PX262 - G1 - particle with angular momentum in magnetic field]]
-[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G2a - stern-gerlach experiment\|PX262 - G2a - stern-gerlach experiment]]
-[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G2b - spin\|PX262 - G2b - spin]]
-[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G2c - stern-gerlach results with spin\|PX262 - G2c - stern-gerlach results with spin]]
-[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G3 - matrix representation\|PX262 - G3 - matrix representation]]
-[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G4 - pauli spin matrices\|PX262 - G4 - pauli spin matrices]]
-[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G5 - multielectron atoms\|PX262 - G5 - multielectron atoms]]
-[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G6a - spin-orbit coupling\|PX262 - G6a - spin-orbit coupling]]
-[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G6b - strong-field zeeman effect\|PX262 - G6b - strong-field zeeman effect]]
-[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G6c - spin-orbit coupling\|PX262 - G6c - spin-orbit coupling]]
-[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G6d - weak-field zeeman effect\|PX262 - G6d - weak-field zeeman effect]]
-[[content/012/PX262 - quantum mechanics/G - measurement of angular momentum/PX262 - G7 - photon emission from atoms\|PX262 - G7 - photon emission from atoms]]
+### [[content/012/PX262 - quantum mechanics/G - additional interactions/G - additional interactions\|G - additional interactions]]
+[[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G1 - particle with angular momentum in magnetic field\|PX262 - G1 - particle with angular momentum in magnetic field]]
+[[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G2a - stern-gerlach experiment\|PX262 - G2a - stern-gerlach experiment]]
+[[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G2b - spin\|PX262 - G2b - spin]]
+[[PX262 - G2c - stern-gerlach results with spin\|PX262 - G2c - stern-gerlach results with spin]]
+[[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G3 - matrix representation\|PX262 - G3 - matrix representation]]
+[[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G4 - pauli spin matrices\|PX262 - G4 - pauli spin matrices]]
+[[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G5 - multielectron atoms\|PX262 - G5 - multielectron atoms]]
+[[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G6a - interactions of moments\|PX262 - G6a - interactions of moments]]
+[[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G7b - strong-field zeeman effect\|PX262 - G7b - strong-field zeeman effect]]
+[[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G7a- pure spin-orbit coupling\|PX262 - G7a- pure spin-orbit coupling]]
+[[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G7c - weak-field zeeman effect\|PX262 - G7c - weak-field zeeman effect]]
+[[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G8 - photon emission from atoms\|PX262 - G8 - photon emission from atoms]]

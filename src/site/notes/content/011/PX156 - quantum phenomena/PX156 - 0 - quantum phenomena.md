@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-0-quantum-phenomena/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T21:45:59.296+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-0-quantum-phenomena/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-20T17:17:43.921+00:00"}
 ---
 
 <img src = 'https://i.redd.it/mlo5t8m023c91.gif' class = 'banner'>
@@ -64,7 +64,7 @@
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - I - symmetries/PX156 - I3 - discrete symmetries\|PX156 - I3 - discrete symmetries]]
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - I - symmetries/PX156 - I4 - internal symmetries\|PX156 - I4 - internal symmetries]]
 ### [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - J -  particle decays & relativistic kinematics/J - particle decays & relativistic kinematics\|J - particle decays & relativistic kinematics]]
-[[[[PX156 - J1 - decays\|[[PX156 - J1 - decays]]
+[[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - J -  particle decays & relativistic kinematics/PX156 - J1 - decays\|PX156 - J1 - decays]]
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - J -  particle decays & relativistic kinematics/PX156 - J2 - decay channels\|PX156 - J2 - decay channels]]
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - J -  particle decays & relativistic kinematics/PX156 - J3 - relativistic invariants\|PX156 - J3 - relativistic invariants]]
 [[content/011/PX156 - quantum phenomena/PX156B - particle physics/PX156 - J -  particle decays & relativistic kinematics/PX156 - J4 - two body collisions\|PX156 - J4 - two body collisions]]
