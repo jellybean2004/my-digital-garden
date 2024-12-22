@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g5-solar-activity-cycle/","noteIcon":"1","created":"2024-12-05T10:25:47.506+00:00","updated":"2024-12-05T11:14:29.986+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g5-solar-activity-cycle/","noteIcon":"1","created":"2024-12-05T10:25:47.506+00:00","updated":"2024-12-22T17:10:14.167+00:00"}
 ---
 
 ![Pasted image 20241205102548.png|500](/img/user/pics/Pasted%20image%2020241205102548.png)
@@ -29,7 +29,7 @@ $$\begin{gather*}
 dm  = \rho \,dV = n_{H}m_{H}(4\pi r^{2}\,dr) \\
 \implies \frac{dm}{dt}  = 4\pi r^{2} n_{H}m_{H} v  = 3\times10^{-14}\,M_{\odot}yr^{-1} 
 \end{gather*}$$
-- this is negligible compared to the solar mass (c.f. [[content/012/PX282A - stars/E - stellar evolution/PX285 - E5e - asymptotic giant branch (AGB)\|AGB stars]], the mass loss rate is $\sim 10^{-4}\,M_{\odot}yr^{-1}$)
+- this is negligible compared to the solar mass (c.f. [[content/012/PX282A - stars/E - stellar evolution/PX282 - E5e - asymptotic giant branch (AGB)\|AGB stars]], the mass loss rate is $\sim 10^{-4}\,M_{\odot}yr^{-1}$)
 - this is still significant for the loss of angular momentum and spin is slowed down
 - the wind is force to corotate with the sun, ie. the sun exerts a torque on the wind, transferring angular momentum and slowing down solar rotation
 - the angular momentum:

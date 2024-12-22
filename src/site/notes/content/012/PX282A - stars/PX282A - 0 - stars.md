@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/px-282-a-0-stars/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-22T16:25:10.222+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/px-282-a-0-stars/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-22T17:10:28.163+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/d5/b0/80/d5b080e257c1e7403f9827a480042261.gif' class  = 'banner'>
@@ -63,15 +63,15 @@
 [[content/012/PX282A - stars/E - stellar evolution/PX282 - E1b - initial mass function\|PX282 - E1b - initial mass function]]
 [[content/012/PX282A - stars/E - stellar evolution/PX282 - E2 - protostar\|PX282 - E2 - protostar]]
 [[content/012/PX282A - stars/E - stellar evolution/PX282 - E3 - main sequence\|PX282 - E3 - main sequence]]
-[[content/012/PX282A - stars/E - stellar evolution/PX285 - E4 - turnoff points and stellar clusters\|PX285 - E4 - turnoff points and stellar clusters]]
-[[content/012/PX282A - stars/E - stellar evolution/PX285 - E5a - post-main sequence evolution\|PX285 - E5a - post-main sequence evolution]]
-[[content/012/PX282A - stars/E - stellar evolution/PX285 - E5b - red giant branch (RGB)\|PX285 - E5b - red giant branch (RGB)]]
-[[content/012/PX282A - stars/E - stellar evolution/PX285 - E5c - helium flash\|PX285 - E5c - helium flash]]
-[[content/012/PX282A - stars/E - stellar evolution/PX285 - E5d - horizontal branch\|PX285 - E5d - horizontal branch]]
-[[content/012/PX282A - stars/E - stellar evolution/PX285 - E5e - asymptotic giant branch (AGB)\|PX285 - E5e - asymptotic giant branch (AGB)]]
-[[content/012/PX282A - stars/E - stellar evolution/PX285 - E5f - post AGB\|PX285 - E5f - post AGB]]
-[[content/012/PX282A - stars/E - stellar evolution/PX285 - E6 - higher mass stars\|PX285 - E6 - higher mass stars]]
-[[content/012/PX282A - stars/E - stellar evolution/PX285 - E7 - remnants\|PX285 - E7 - remnants]]
-[[content/012/PX282A - stars/E - stellar evolution/PX285 - E8 - supernova Ia\|PX285 - E8 - supernova Ia]]
+[[content/012/PX282A - stars/E - stellar evolution/PX282 - E4 - turnoff points and stellar clusters\|PX282 - E4 - turnoff points and stellar clusters]]
+[[content/012/PX282A - stars/E - stellar evolution/PX282 - E5a - post-main sequence evolution\|PX282 - E5a - post-main sequence evolution]]
+[[content/012/PX282A - stars/E - stellar evolution/PX282 - E5b - red giant branch (RGB)\|PX282 - E5b - red giant branch (RGB)]]
+[[content/012/PX282A - stars/E - stellar evolution/PX282 - E5c - helium flash\|PX282 - E5c - helium flash]]
+[[content/012/PX282A - stars/E - stellar evolution/PX282 - E5d - horizontal branch\|PX282 - E5d - horizontal branch]]
+[[content/012/PX282A - stars/E - stellar evolution/PX282 - E5e - asymptotic giant branch (AGB)\|PX282 - E5e - asymptotic giant branch (AGB)]]
+[[content/012/PX282A - stars/E - stellar evolution/PX282 - E5f - post AGB\|PX282 - E5f - post AGB]]
+[[content/012/PX282A - stars/E - stellar evolution/PX282 - E6 - higher mass stars\|PX282 - E6 - higher mass stars]]
+[[content/012/PX282A - stars/E - stellar evolution/PX282 - E7 - remnants\|PX282 - E7 - remnants]]
+[[content/012/PX282A - stars/E - stellar evolution/PX282 - E8 - supernova Ia\|PX282 - E8 - supernova Ia]]
 ### [[content/012/PX282A - stars/F - binary stars and fundamental parameters/F - binary stars and fundamental parameters\|F - binary stars and fundamental parameters]]
 ### solar system

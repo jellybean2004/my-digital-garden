@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c10-13-radiative-transfer/px-282-c10b-understanding-the-radiative-transfer-equation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-22T15:50:51.962+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c10-13-radiative-transfer/px-282-c10b-understanding-the-radiative-transfer-equation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-22T21:35:46.028+00:00"}
 ---
 
 - the radiative transfer equation (RTE): 
@@ -27,7 +27,3 @@ $$\begin{gather*}
 - for a dense gas, $\tau'$ is large, so $I(0)\to B$ 
 - this explains the emission lines as hot gases are not dense enough for pure blackbodies
 - absorption lines: dense blackbody emitter, with cold gas in front of it
-
-![RTE.png|500](/img/user/pics/RTE.png)
-![RTE-1.png|500](/img/user/pics/RTE-1.png) 
-
