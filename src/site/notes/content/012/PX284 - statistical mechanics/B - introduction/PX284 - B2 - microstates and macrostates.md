@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/b-introduction/px-284-b2-microstates-and-macrostates/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:01:28.065+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/b-introduction/px-284-b2-microstates-and-macrostates/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T20:35:29.640+00:00"}
 ---
 
 ## microstate
@@ -28,7 +28,7 @@ $$\begin{gather*}
         \boxed0 & \boxed2 & \boxed0
     \end{matrix} & E^{(3)} = 0 \hbar \omega
 \end{gather*}$$
-- here, the total number of microstates: $\omega=6$
+- here, the total number of microstates: ${} \Omega=6 {}$
 - if a measurement is done sensitive to:
 	- $E:$ there is $1$ macrostate
 	- $E^{(1)}$ (the energy of SHO 1): there are 3 macrostates: $E^{(1)} = (2\;or\;1\;or\;0)\hbar \omega$ with 1, 2, and 3 microstates respectively

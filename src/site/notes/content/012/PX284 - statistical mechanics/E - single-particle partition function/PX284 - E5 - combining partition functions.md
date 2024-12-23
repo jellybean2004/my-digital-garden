@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/e-single-particle-partition-function/px-284-e5-combining-partition-functions/","noteIcon":"1","created":"2024-11-29T17:53:29.459+00:00","updated":"2024-11-29T18:05:11.857+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/e-single-particle-partition-function/px-284-e5-combining-partition-functions/","noteIcon":"1","created":"2024-11-29T17:53:29.459+00:00","updated":"2024-12-23T22:59:36.591+00:00"}
 ---
 
 - if the  energy depends on two independent and distinct contributions:
 $$E_{i,j} = E_{i} + E_j$$
-	where, $E_{i}$ and $E_{j}$ belong to subsystems $A$ and $B$ respectively
+	where, $E_{i}$ and $E_{j}$ belong to two subsystems, $A$ and $B$, respectively
+
 - the total partition function:
 $$\begin{align*}
 	Z_{tot} &= \sum\limits_{i} \sum\limits_{j} \exp(-\beta(E_{i}+E_{j})) \\
