@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/px-282-a-0-stars/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-22T17:10:28.163+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/px-282-a-0-stars/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T10:14:42.413+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/d5/b0/80/d5b080e257c1e7403f9827a480042261.gif' class  = 'banner'>
@@ -13,7 +13,7 @@
 [[content/012/PX282A - stars/A - introduction/PX282 - A3 - luminosity and flux\|PX282 - A3 - luminosity and flux]]
 [[content/012/PX282A - stars/A - introduction/PX282 - A4 - parallax and parsecs\|PX282 - A4 - parallax and parsecs]]
 [[content/012/PX282A - stars/A - introduction/PX282 - A5 - astrophysical observations\|PX282 - A5 - astrophysical observations]]
-[[content/012/PX282A - stars/A - introduction/PX282 - A6 - magnitudes, bandpasses, colours\|PX282 - A6 - magnitudes, bandpasses, colours]]
+[[content/012/PX282A - stars/A - introduction/PX282 - A6 - magnitudes, band passes, colours\|PX282 - A6 - magnitudes, bandpasses, colours]]
 [[content/012/PX282A - stars/A - introduction/PX282 - A7 - inside a star\|PX282 - A7 - inside a star]]
 [[content/012/PX282A - stars/A - introduction/PX282 - A8 - solid angle\|PX282 - A8 - solid angle]]
 [[content/012/PX282A - stars/A - introduction/PX282 - A9 - connection to luminosity\|PX282 - A9 - connection to luminosity]]
@@ -74,4 +74,7 @@
 [[content/012/PX282A - stars/E - stellar evolution/PX282 - E7 - remnants\|PX282 - E7 - remnants]]
 [[content/012/PX282A - stars/E - stellar evolution/PX282 - E8 - supernova Ia\|PX282 - E8 - supernova Ia]]
 ### [[content/012/PX282A - stars/F - binary stars and fundamental parameters/F - binary stars and fundamental parameters\|F - binary stars and fundamental parameters]]
-### solar system
+[[content/012/PX282A - stars/F - binary stars and fundamental parameters/PX285 - F1 - binary stars\|PX285 - F1 - binary stars]]
+[[content/012/PX282A - stars/F - binary stars and fundamental parameters/PX285 - F2 - visual binaries\|PX285 - F2 - visual binaries]]
+[[content/012/PX282A - stars/F - binary stars and fundamental parameters/PX285 - F3 - spectroscopic binaries\|PX285 - F3 - spectroscopic binaries]]
+[[content/012/PX282A - stars/F - binary stars and fundamental parameters/PX285 - F4 - eclipsing binaries\|PX285 - F4 - eclipsing binaries]]

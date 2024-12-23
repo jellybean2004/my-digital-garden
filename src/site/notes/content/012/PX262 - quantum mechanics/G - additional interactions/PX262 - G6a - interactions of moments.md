@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-additional-interactions/px-262-g6a-interactions-of-moments/","noteIcon":"1","created":"2024-11-26T11:07:58.725+00:00","updated":"2024-12-21T14:40:32.981+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/g-additional-interactions/px-262-g6a-interactions-of-moments/","noteIcon":"1","created":"2024-11-26T11:07:58.725+00:00","updated":"2024-12-23T10:27:54.140+00:00"}
 ---
 
-- from  [[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G1 - particle with angular momentum in magnetic field\|here]], an electron with an orbital momentum, $\vec l$ has a magnetic moment:
+- from [[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G1 - particle with angular momentum in magnetic field\|here]], an electron with an orbital momentum, $\vec l$ has a magnetic moment:
 $$\mu_{l} = - \frac{e}{2m_{e}}\vec l$$
 - the magnetic moment associated with the spin is found to be almost exactly twice using relativistic quantum theory/experiments:
 $$\mu_{s} = - \frac{e}{m_{e}}\vec s$$

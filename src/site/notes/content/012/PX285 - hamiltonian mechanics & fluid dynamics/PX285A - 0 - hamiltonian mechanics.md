@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-a-0-hamiltonian-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T21:44:32.927+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-a-0-hamiltonian-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T10:22:26.451+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/74/b1/5c/74b15cba6d83f1a7f158ad235a8ee812.gif' class = 'banner'>
@@ -46,3 +46,6 @@
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/G - normal modes and small oscillations/PX285 - G5 - non-diagonal inertia matrix\|PX285 - G5 - non-diagonal inertia matrix]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/G - normal modes and small oscillations/PX285 - G6 - summary\|PX285 - G6 - summary]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/G - normal modes and small oscillations/PX285 - G7 - example\|PX285 - G7 - example]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/G - normal modes and small oscillations/PX285 - G8 - diatomic molecule\|PX285 - G8 - diatomic molecule]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/G - normal modes and small oscillations/PX285 - G9 - triatomic molecule\|PX285 - G9 - triatomic molecule]]
+
