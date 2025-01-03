@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f2a-systems-with-fixed-t-and-v-or-canonical-ensemble/","noteIcon":"1","created":"2024-12-05T15:14:47.782+00:00","updated":"2024-12-05T15:42:36.211+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f2a-systems-with-fixed-t-and-v-or-canonical-ensemble/","noteIcon":"1","created":"2024-12-05T15:14:47.782+00:00","updated":"2025-01-03T13:10:26.901+00:00"}
 ---
 
 - in thermodynamics, the hemholtz free energy:
@@ -8,7 +8,7 @@ $$F = U - T_{0}S$$
 $$ dF  = dQ  + dW - T_{0}\,dS$$
 - but, $dQ \leq T_{0}\, dS$
 $$\therefore dF \leq dW \implies dF\leq 0$$
-- for a mechanically isolated system, ie. $V$ is fixed
+	for a mechanically isolated system, ie. $V$ is fixed
 - $F$ decreases until a minimum is reached at equilibrium
 
 - similarly, for fixed $S$ and $p$, the enthalpy:

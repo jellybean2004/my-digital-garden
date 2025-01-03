@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/px-284-a-0-statistical-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T22:33:07.588+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/px-284-a-0-statistical-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-03T12:35:26.223+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0b/fe/e5/0bfee5f0553195c340ed579aa2a1c0bb.gif' class = 'banner'>
@@ -30,8 +30,9 @@
 [[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E2 - two-level system (revisited)\|PX284 - E2 - two-level system (revisited)]]
 [[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E3 - harmonic oscillator in 1D\|PX284 - E3 - harmonic oscillator in 1D]]
 [[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E4 - degeneracy\|PX284 - E4 - degeneracy]]
-[[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E5 - combining partition functions\|PX284 - E5 - combining partition functions]]
-[[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E6 - harmonic oscillator in 3D\|PX284 - E6 - harmonic oscillator in 3D]]
+[[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E5b - combining partition functions\|PX284 - E5b - combining partition functions]]
+[[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E5b - harmonic oscillator in 3D\|PX284 - E5b - harmonic oscillator in 3D]]
+[[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E5c - spin-half paramagnet\|PX284 - E5c - spin-half paramagnet]]
 ### [[content/012/PX284 - statistical mechanics/F - connection between thermodynamics and statistical mechanics/F - connection between thermodynamics and statistical mechanics\|F - connection between thermodynamics and statistical mechanics]]
 [[content/012/PX284 - statistical mechanics/F - connection between thermodynamics and statistical mechanics/PX284 - F1 - isolated system or microcanonical ensemble\|PX284 - F1 - isolated system or microcanonical ensemble]]
 [[content/012/PX284 - statistical mechanics/F - connection between thermodynamics and statistical mechanics/PX284 - F2a - systems with fixed T and V or canonical ensemble\|PX284 - F2a - systems with fixed T and V or canonical ensemble]]

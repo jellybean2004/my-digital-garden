@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f1-isolated-system-or-microcanonical-ensemble/","noteIcon":"1","created":"2024-11-29T18:43:20.801+00:00","updated":"2024-12-05T15:14:12.534+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f1-isolated-system-or-microcanonical-ensemble/","noteIcon":"1","created":"2024-11-29T18:43:20.801+00:00","updated":"2025-01-03T12:55:54.569+00:00"}
 ---
 
-- in statistical mechanics:
+- from [[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX284 - C5 - general definition of entropy\|gibb's formula]]:
 $$\begin{gather*}
 	S = - k_{B} \sum\limits_{i} P_{i}\ln P_{i} \\ 
 	U = \sum\limits_{i} E_{i}P_{i} 
@@ -12,8 +12,8 @@ $$\begin{gather*}
 $$dS \geq 0$$
 	where, the equality is for **reversible changes**
 - a process is **reversible** if it:
-	- is performed **quasi-statically** (slow chances via equilibrium states)
-	- involves no dissipation (eg.: turbulence, electrical resistance)
+	- is performed **quasi-statically** (slow changes via equilibrium states)
+	- involves no dissipation (eg.: no turbulence, electrical resistance)
 
 - for a general process, $S$ increases until $dS = 0$ at equilibrium, ie. $S$ is maximized
 ## statistical mechanics
