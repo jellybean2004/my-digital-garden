@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f4-a-gyroscope/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:28:04.303+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f4-a-gyroscope/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-03T19:38:31.870+00:00"}
 ---
 
 - considering a spinning top that can rotate on a fixed point
 - it has three rotational degrees of freedom: $\theta$, $\alpha$, and $\phi$; but no translational degrees of freedom 
-![Pasted image 20241115190518.png](/img/user/pics/Pasted%20image%2020241115190518.png)
+
+![spinning gyroscope.png|500](/img/user/pics/spinning%20gyroscope.png)
+
 - **reminder:** for a uniform rod of length, $l$, spinning about its centre of mass with an angular frequency, $\omega$, the kinetic energy is given by: 
 $$T = \frac{1}{2}I\omega^{2}$$
 	where, $I=ml^{2}$ is the moment of inertia
@@ -16,24 +18,27 @@ $$T = \frac{1}{2}I\omega^{2}$$
 ## determining the lagrangian
 ### potential energy
 - suppose $l$ is the distance from the base to the centre of mass of the top, and $\theta$ is the angle with the normal
-![Pasted image 20241115195808.png](/img/user/pics/Pasted%20image%2020241115195808.png)
 - the potential energy: $$V = mgl\cos\theta$$
 ### kinetic energy
-![Pasted image 20241126185556.png](/img/user/pics/Pasted%20image%2020241126185556.png)
 - the axes of rotation for top are represented by:
-	$\hat e_{\theta} \perp$ plane of rotation
-	$\hat e_{\phi} \sim \hat z$
-	$\hat e_{\alpha} \sim \hat r$
+	$\hat e_{\theta} \perp$ plane of rotation, due to 'wobble'
+	$\hat e_{\phi} \sim \hat z$, due to rotation about $z$-axis
+	$\hat e_{\alpha} \sim \hat r$, due to spin
 - these are not orthogonal
 
-- define another unit vector, $\hat e_{\phi}'$, such that $\hat e_{\phi}' \perp \hat e_{\theta}$
+![rotation axes.png|500](/img/user/pics/rotation%20axes.png)
+
+- defining another unit vector, $\hat e_{\phi}'$, such that $\hat e_{\phi}' \perp \hat e_{\theta}$ and ${} \hat e_\alpha {}$
 - therefore, $\phi$ rotation is represented by: $\dot\phi \, \hat e_{\phi}$
-- taking its projection in the $\hat e_{\phi} : \dot\phi \sin\theta \, \hat e_{\phi}'$  
+- taking its projection in the basis $\hat e_{\phi} : \dot\phi \sin\theta \, \hat e_{\phi}'$  
+
+![PX285 - F4 - a gyroscope3.png|500](/img/user/pics/PX285%20-%20F4%20-%20a%20gyroscope3.png)
+
 - the spin frequency: $\dot\omega = \dot\alpha + \dot\phi\cos\theta$ about $\hat e_{\alpha}$
 - the theta rotation is represented by: $\dot \theta  \,\hat e_{\theta}$
 - therefore the three rotations are:
 $$\begin{gather}
-	\dot \phi \sin\theta, \, \hat e_{\phi}' & (\dot \alpha + \dot \phi \cos\theta), & \dot\theta \hat \, e_\theta
+	\dot \phi \sin\theta \, \hat e_{\phi}' \,, & (\dot \alpha + \dot \phi \cos\theta)\, \hat e_\alpha \, & \dot\theta \, \hat e_\theta
 \end{gather}$$
 - hence, the kinetic energy is given by: 
 $$T = \frac{1}{2}I\dot\theta^{2} + \frac{1}{2} I (\dot\phi\sin\theta)^{2} + \frac{1}{2}J(\dot\alpha + \dot\phi\cos\theta)^{2}$$
