@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g4-solar-atmosphere/","noteIcon":"1","created":"2024-12-05T10:07:55.492+00:00","updated":"2024-12-06T16:23:10.164+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-b-the-solar-system/g-the-sun/px-282-g4-solar-atmosphere/","noteIcon":"1","created":"2024-12-05T10:07:55.492+00:00","updated":"2025-01-05T10:10:29.203+00:00"}
 ---
+
 
 ![Pasted image 20241205100913.png|500](/img/user/pics/Pasted%20image%2020241205100913.png)
 *image: NASA*

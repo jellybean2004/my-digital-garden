@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-282-e1a-star-formation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T17:12:45.682+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/e-stellar-evolution/px-282-e1a-star-formation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-05T11:04:28.076+00:00"}
 ---
 
 ![Pasted image 20241121102048.png|500](/img/user/pics/Pasted%20image%2020241121102048.png)
 *image magnus vilhelm*
 
 - stellar evolution begins with star formation, which happens from the gravitational collapse of clouds of material
-- from [[content/012/PX282A - stars/D - stellar structure and interiors/PX282 - D4 - energy in stars#^b7947e\|the virial theorem]]: 
+- from [[content/012/PX282A - stars/D - stellar structure and interiors/PX282 - D4 - virial theorem - energy in stars#^b7947e\|the virial theorem]]: 
 $$2U + \Omega = 0$$
 - if $2U > |\Omega|$, the cloud expands, and if $2U < |\Omega|$, the cloud collapses
 $$\Omega_{tot} = - \int_{0}^{R} \frac{GM_{r}(r)}{r} \rho \, 4\pi r^{3}\,dr$$

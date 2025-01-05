@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f5-central-forces-particle-approaching-the-sun/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-05T10:06:30.794+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/f-hamilton-s-equations/px-285-f5-central-forces-particle-approaching-the-sun/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-05T10:09:18.113+00:00"}
 ---
 
 ## determining the lagrangian
@@ -75,7 +75,7 @@ $$\begin{align*}
 	\frac{p_{\theta}^{2}}{mr^{3}} - \frac{\partial V}{\partial r} &= \frac{p_{\theta}^{2}}{mr^{2}} \left[\frac{r''}{r^{2}}- \frac{2r'^{2}}{r^{3}}\right] \tag{10}
 \end{align*}$$
 ### [2] considering the inverse
-- defining ${} u$ as the inverse of $r:$
+- defining $u$ as the inverse of $r:$
 $$\begin{gather}
 u(\theta) = \frac{1}{r(\theta)} \\
 u' = \frac{d}{d\theta}\left(\frac{1}{r}\right)= - \frac{r'}{r^{2}} \\ 
@@ -131,7 +131,7 @@ $$\epsilon > \frac{m\alpha}{p_{\theta}^{2}}$$
 
 ![PX285 - F5 - central forces-4.png|500](/img/user/pics/PX285%20-%20F5%20-%20central%20forces-4.png)
 
-- $u\to0$ and ${} r\to\infty {}$ at two special angles: $\theta_{1}, \theta_{2}$
+- $u\to0$ and ${} r\to\infty$ at two special angles: $\theta_{1}, \theta_{2}$
 - therefore, this is an **unbound** orbit, or a **'scattering'** event, and the particle follows a **hyperbolic orbit**
 
 ![PX285 - F5 - central forces-5.png|500](/img/user/pics/PX285%20-%20F5%20-%20central%20forces-5.png)

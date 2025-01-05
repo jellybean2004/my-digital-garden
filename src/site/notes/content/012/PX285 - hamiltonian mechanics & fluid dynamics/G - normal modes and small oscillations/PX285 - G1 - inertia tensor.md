@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g1-inertia-tensor/","noteIcon":"1","created":"2024-11-26T12:37:58.111+00:00","updated":"2024-11-26T12:59:07.569+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g1-inertia-tensor/","noteIcon":"1","created":"2024-11-26T12:37:58.111+00:00","updated":"2025-01-05T12:26:51.431+00:00"}
 ---
 
 - **note:** from typed notes
@@ -17,7 +17,7 @@ p_{k} &= \frac{\partial L}{\partial \dot q_{k}} \\
 &= \frac{1}{2}\sum\limits_{ij} M_{ij} (\dot q_{i}\delta_{jk} + \dot q_{j}\delta_{ik}) \\
 \therefore p_{k} &= \sum\limits_{j}M_{jk} \dot q_{j}
 \end{align*}$$
-- $M_{ij}$ is the **inertia tensor** (or matrix), which relates the conical momenta to the generalised velocities
+- $M_{ij}$ is the **inertia tensor** (or matrix), which relates the canonical momenta to the generalised velocities
 - this can be used to calculate the hamiltonian
 $$\sum\limits_{i}p _{i}\dot q_{i} = \sum\limits_{i}\sum\limits_{j} M_{ij} \dot q_{j} \dot q_{i} = 2T$$
 - the hamiltonian:

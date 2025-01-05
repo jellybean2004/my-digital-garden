@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d7-pp-1-fusion-chain/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T17:10:47.949+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d7-pp-1-fusion-chain/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-05T11:27:00.140+00:00"}
 ---
 
 - considering the hydrogen-fusion reaction: 
@@ -16,7 +16,7 @@ $$2\,{}_{1}^{1} \text{H} \to {}_{1}^{2} \text{H} + e^{+} + \nu_{e}$$
 $$p \to n + e^{+} + \nu_{e}$$
 - next: 
 $$\begin{gather}
-	{}_{1}^{2} \text{H} + {}_{1}^{1} \text{H} \to {}_{2}^{2} \text{He} + \gamma \\\\
+	{}_{1}^{2} \text{H} + {}_{1}^{1} \text{H} \to {}_{2}^{3} \text{He} + \gamma \\\\
 	 2\,{}_{2}^{3} \text{He} \to {}_{2}^{4} \text{He} + 2{}_{1}^{1} \text{H} 
 \end{gather}$$
 - overall: 
@@ -27,7 +27,7 @@ $$\begin{gather}
 - energy is needed to overcome the strong nuclear force and escape the coulomb potential well
 - comparing the thermal and the coulomb energy: 
 $$\frac{3}{2}k_{B}T = \frac{Z_{1}Z_{2}e^{2}}{4\pi\epsilon_{0}r}$$
-- the required temperature for this case would be: $T\approx 1.1\times10^{10}\,K$, this is too high, and it can be concluded that the thermal energy is not enough
+- the required temperature for this case would be $T\approx 1.1\times10^{10}\,K$, this is too high, and it can be concluded that the thermal energy is not enough
 
 - the only way this can happen is due to [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B5 - quantum tunnelling\|quantum tunnelling]] 
 - according to [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A7 - the uncertainty principle\|the uncertainty principle]] 

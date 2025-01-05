@@ -1,24 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g2-stiffness-matrix/","noteIcon":"1","created":"2024-11-26T12:40:36.599+00:00","updated":"2024-11-26T12:59:18.993+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g2-stiffness-matrix/","noteIcon":"1","created":"2024-11-26T12:40:36.599+00:00","updated":"2025-01-05T12:33:02.847+00:00"}
 ---
 
 - **note:** from typed notes
 
 ## equilibrium conditions
 - considering the equilibrium position:
-$$\dot q_{i}=0 \; \forall \; q_{i} = constant$$
+$$\dot q_{i}=0 \; \forall \; q_{i}$$
 - this requires $\vec p =0$ and the system remains at equilibrium only if $\dot {\vec p} =0$
-- from hamilton's equation, this is only possible id the generalized forces also vanish, ie: $-\frac{\partial H}{\partial q_{i}}=0$
-- since all generalized momenta vanish at equilibrium, $T=0$
-- thus:
+- from hamilton's equation, this is only possible if the generalized forces also vanish, ie: $-\cfrac{\partial H}{\partial q_{i}}=0$
+- since all generalized momenta vanish at equilibrium, $T=0:$
 $$\frac{\partial V}{\partial q_{i}}= 0 \tag{1}$$
 - this corresponds to the newtonian condition of forces vanishing at equilibrium
 ## examining the motion
 - the equilibrium position:
-$$\vec q^{(o)} = \{ q_{1}^{(o)}, q_{2}^{(o)} \dots, q_{i}^{(o)} \dots \}$$
-	where, $\frac{\partial V}{\partial q_{i}}\big|_{\vec q^{(o)}} = 0$
+$$\vec q^{(0)} = \{ q_{1}^{(0)}, q_{2}^{(o)} \dots, q_{i}^{(0)} \dots \}$$
+	where, $\cfrac{\partial V}{\partial q_{i}}\bigg|_{\vec q^{(0)}} = 0$ 
 - changing the coordinate variables by the translation:
-$$x = \vec q - \vec q^{(o)} \iff x_{i} = q_{i}- q_{i}^{(o)} \;\forall\;i$$
+$$x = \vec q - \vec q^{(0)} \iff x_{i} = q_{i}- q_{i}^{(0)} \;\forall\;i$$
 - here, $\dot{\vec x} = \dot{\vec q}$, so the definitions of momentum are unchanged
 - the taylor expansion of the potential: 
 $$ V(x) = V(0) + \sum\limits_{i}x_{i}\frac{\partial V}{\partial x_{i}}\bigg|_{0} + \frac{1}{2}\sum\limits_{ij}x_{i}x_{j} \frac{\partial^{2} {V}}{\partial {x_{i}} \partial x_{j}} \bigg|_{0} +\dots$$

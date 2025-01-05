@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d6-nuclear-binding-energies/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T17:04:28.879+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d6-nuclear-binding-energies/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-05T11:17:02.420+00:00"}
 ---
 
 - the energy of an atom: 
@@ -15,8 +15,9 @@ $$E_{binding} = (Z\,m_{p} + N\,m_{n} - m_{nucleus}) \, c^{2}$$
 - consider a fusion reaction: 
 $$4 \, {}_{1}^{1}\text{H} \to {}_{2}^{4} \text{He}$$
 - the energy released: $\Delta E = 0.0084\,m_{H}$ per nucleon
-- going past $He$ gives energy, whereas going past $Fe$ costs energy
-- $Fe$ is the most tightly bound per nucleon
+- going past He gives energy, whereas going past Fe costs energy
+- Fe is the most tightly bound per nucleon
+
 - eg: ${}_{6}^{12}C,\; 6p,\; 6n$
 	- using the atomic mass unit: $u = 931.494\,MeV\,c^{-2} = 1.6605\times10^{-27}\,kg$
 	- $m_{p} = 1.007276\,u$ and $m_{n} = 1.008665\,u$
@@ -24,8 +25,7 @@ $$4 \, {}_{1}^{1}\text{H} \to {}_{2}^{4} \text{He}$$
 	- the mass of the atom: $m_{atom} = 11.9967\,u$
 	- the mass difference: $\Delta = 0.09895\,u = 92.2\,MeV\,c^{-2}$
 	- the binding energy: $BE = 92.2\,MeV$
-- eg: 
-$$3\,{}_{2}^{4} \text{He} \to {}_{6}^{12}\text{C}$$
-	- $\Delta = 0.0111\,u$
-	- $BE = 10.3\,MeV$
 
+- eg: $3\,{}_{2}^{4} \text{He} \to {}_{6}^{12}\text{C}$
+	- the mass difference: $\Delta = 0.0111\,u$
+	- the binding energy: $BE = 10.3\,MeV$
