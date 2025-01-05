@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-a-0-hamiltonian-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T23:03:36.507+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-a-0-hamiltonian-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-05T10:06:42.812+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/74/b1/5c/74b15cba6d83f1a7f158ad235a8ee812.gif' class = 'banner'>
@@ -38,7 +38,7 @@
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - F3a - a particle in 1D\|PX285 - F3a - a particle in 1D]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - F3b - a pendulum\|PX285 - F3b - a pendulum]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - F4 - a gyroscope\|PX285 - F4 - a gyroscope]]
-[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - F5 - central forces\|PX285 - F5 - central forces]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - F5 - central forces - particle approaching the sun\|PX285 - F5 - central forces - particle approaching the sun]]
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/G - normal modes and small oscillations/G - normal modes and small oscillations\|G - normal modes and small oscillations]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/G - normal modes and small oscillations/PX285 - G1 - inertia tensor\|PX285 - G1 - inertia tensor]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/G - normal modes and small oscillations/PX285 - G2 - stiffness matrix\|PX285 - G2 - stiffness matrix]]
