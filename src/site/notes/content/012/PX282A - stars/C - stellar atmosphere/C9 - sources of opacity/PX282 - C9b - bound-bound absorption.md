@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c9-sources-of-opacity/px-282-c9b-bound-bound-absorption/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-22T13:56:46.697+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/c-stellar-atmosphere/c9-sources-of-opacity/px-282-c9b-bound-bound-absorption/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-06T18:15:15.444+00:00"}
 ---
 
 ## bound-bound absorption
@@ -14,7 +14,7 @@ $$\kappa_{\lambda}^{bb} \propto g_{m} N_{n} \psi(\lambda)$$
 $$E_{m}-E_{n} = \Delta E = h\nu \implies \lambda = \frac{hc}{\Delta E}$$
 - line broadening can occur due to several reasons
 ## natural broadening
-- it arises from [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A7 - the uncertainty principle\|the uncertainty principle]]: 
+- it arises from [[content/012/PX262 - quantum mechanics/term 1/A - recap/PX262 - A7 - the uncertainty principle\|the uncertainty principle]]: 
 $$\Delta E \Delta t \geq \hbar \tag{1}$$
 - the electron is in an excited state for a finite time, so the energy can only have an uncertain value: 
 $$\begin{gather*}
@@ -42,7 +42,7 @@ $$\therefore \Delta\lambda = 0.043\,nm$$
 ## pressure broadening
 - it arises from the uncertainty principle again
 - collisions shorten the lifetime of electron in a state
-- from the [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A7 - the uncertainty principle\|uncertainty principle]]:
+- from the [[content/012/PX262 - quantum mechanics/term 1/A - recap/PX262 - A7 - the uncertainty principle\|uncertainty principle]]:
 $$\Delta E \sim \frac{\hbar}{\Delta t}$$
 - if $\Delta t \downarrow: \Delta E \uparrow \; \implies \Delta\lambda \uparrow$ 
 - estimate for $\Delta t:$ 

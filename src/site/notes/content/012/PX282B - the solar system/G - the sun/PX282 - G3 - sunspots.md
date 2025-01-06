@@ -6,7 +6,7 @@
 *image: NASA/BBSO*
 - **note:** sunspots are dark as they are *relatively cooler* that the surrounding, at a temperature of $3000-4500\,K$
 
-- the cooler regions of enhanced magnetic field, revealed by [[content/012/PX262 - quantum mechanics/G - additional interactions/PX262 - G7b - strong-field zeeman effect\|zeeman splitting]] of absorption lines, supress convection and allow the spot to cool
+- the cooler regions of enhanced magnetic field, revealed by [[content/012/PX262 - quantum mechanics/term 1/G - additional interactions/PX262 - G7b - strong-field zeeman effect\|zeeman splitting]] of absorption lines, supress convection and allow the spot to cool
 
 ![Pasted image 20241203104637.png|500](/img/user/pics/Pasted%20image%2020241203104637.png)
 *image: NOAO*

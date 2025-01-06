@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d3-equations-of-state/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-05T10:55:30.379+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d3-equations-of-state/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-06T18:15:15.884+00:00"}
 ---
 
 - they relate pressure, density, and temperature 
@@ -30,7 +30,7 @@ $$P = \frac{1}{3}aT^{4} \tag{2}$$
 ## the equation of state for a degenerate gas
 - for an ideal gas, $T\to0$ as $P\to0$
 - consequently, the average particle speed, and hence the average momentum also tend to zero
-- from [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A7 - the uncertainty principle\|the uncertainty principle]]: 
+- from [[content/012/PX262 - quantum mechanics/term 1/A - recap/PX262 - A7 - the uncertainty principle\|the uncertainty principle]]: 
 $$\Delta x \Delta p \simeq \hbar$$
 - so, as $\Delta p \to 0, \; \Delta x \to \infty$, which is impossible
 - hence, there is a minimum $\Delta p$

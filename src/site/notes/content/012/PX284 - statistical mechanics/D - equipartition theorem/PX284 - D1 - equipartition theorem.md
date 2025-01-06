@@ -21,7 +21,7 @@ $$\langle{E}\rangle = \frac{n}{2}k_{B}T$$
 >for a system in contact with a reservoir at temperature $T$, each independent quadratic energy term in the energy (mode) contributes $\frac{1}{2}k_{B}T$ to the average energy
 
 - eg:
-	- for the energy of a [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B6 - 1D harmonic oscillator\|1D harmonic oscillator]], there are two quadratic terms:
+	- for the energy of a [[content/012/PX262 - quantum mechanics/term 1/B - introduction/PX262 - B6 - 1D harmonic oscillator\|1D harmonic oscillator]], there are two quadratic terms:
 $$ E = kx^{2} + \frac{1}{2}mv^{2}$$
 	- therefore there are two modes of freedom, and the average energy:
 $$\langle{E }\rangle =k_{B}T$$

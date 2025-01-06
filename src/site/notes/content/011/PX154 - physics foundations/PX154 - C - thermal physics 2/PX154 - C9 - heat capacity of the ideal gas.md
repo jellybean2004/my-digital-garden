@@ -68,7 +68,7 @@ $$C_{V}= \frac{1}{n}\frac{dQ}{dT}=\frac{3}{2}R$$
 	- contribution to $C_{V}$ is $R \; per \; mole$ 
 - at room temperature, vibration doesn't contribute to the heat capacity
 - vibration is quantized
-	- requires a quantum mechanical model [[content/012/PX262 - quantum mechanics/PX262A - 0 - quantum mechanics\|PX262 - 0 - quantum mechanics and its applications]]
+	- requires a quantum mechanical model [[content/012/PX262 - quantum mechanics/term 1/PX262A - 0 - quantum mechanics\|PX262 - 0 - quantum mechanics and its applications]]
 	- eg: for $N_2$, minimum energy to be absorbed to increase vibration is $0.3 eV$
 	- using $k_BT$, this corresponds to a temperature of $3000K$
 - ![Pasted image 20231101093653.png](/img/user/pics/Pasted%20image%2020231101093653.png) [YF fig 18.19] 

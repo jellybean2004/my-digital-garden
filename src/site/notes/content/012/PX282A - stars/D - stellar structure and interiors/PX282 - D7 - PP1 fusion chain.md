@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d7-pp-1-fusion-chain/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-05T11:27:00.140+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-a-stars/d-stellar-structure-and-interiors/px-282-d7-pp-1-fusion-chain/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-06T18:15:16.198+00:00"}
 ---
 
 - considering the hydrogen-fusion reaction: 
@@ -29,8 +29,8 @@ $$\begin{gather}
 $$\frac{3}{2}k_{B}T = \frac{Z_{1}Z_{2}e^{2}}{4\pi\epsilon_{0}r}$$
 - the required temperature for this case would be $T\approx 1.1\times10^{10}\,K$, this is too high, and it can be concluded that the thermal energy is not enough
 
-- the only way this can happen is due to [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B5 - quantum tunnelling\|quantum tunnelling]] 
-- according to [[content/012/PX262 - quantum mechanics/A - recap/PX262 - A7 - the uncertainty principle\|the uncertainty principle]] 
+- the only way this can happen is due to [[content/012/PX262 - quantum mechanics/term 1/B - introduction/PX262 - B5 - quantum tunnelling\|quantum tunnelling]] 
+- according to [[content/012/PX262 - quantum mechanics/term 1/A - recap/PX262 - A7 - the uncertainty principle\|the uncertainty principle]] 
 $$\Delta p \, \Delta x > \hbar$$
 - $\Delta x$ can be large enough to 'cross the gap'
 - reaction ratios: 

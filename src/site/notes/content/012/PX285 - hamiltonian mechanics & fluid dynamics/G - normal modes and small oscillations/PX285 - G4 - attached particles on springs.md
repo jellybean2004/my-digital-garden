@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g4-attached-particles-on-springs/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-05T13:17:28.980+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/g-normal-modes-and-small-oscillations/px-285-g4-attached-particles-on-springs/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-05T13:18:35.443+00:00"}
 ---
 
 - consider two masses $(m)$ connected to a fixed wall is connected with a spring such that all springs are at rest in equilibrium conjugation, and are at equilibrium extension 
@@ -32,7 +32,7 @@ $$\vec x(t) = A \begin{pmatrix}1 \\ 1\end{pmatrix} \exp(i\omega t)$$
 
 - this is equivalent to cutting the system in half, and fixing it to a wall as the centre of the middle spring is stationary
 
-![PX285 - G4 - attached particles on springs-6.png|500](/img/user/pics/PX285%20-%20G4%20-%20attached%20particles%20on%20springs-6.png)
+![PX285 - G4 - attached particles on springs-7.png|500](/img/user/pics/PX285%20-%20G4%20-%20attached%20particles%20on%20springs-7.png)
 
 - if the mass is moved a distance, $x_1$, the central (cut) spring is compressed by $2x_1$
 - the energies:

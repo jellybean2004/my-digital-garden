@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/b-introduction/px-284-b1-the-system/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T17:54:24.831+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/b-introduction/px-284-b1-the-system/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-06T18:15:16.578+00:00"}
 ---
 
 - statistical mechanics is concerned with understanding and predicting the properties of a '*system*'
@@ -13,7 +13,7 @@
 - **isolated systems:** not connected to a reservoir, therefore the energy $(E)$, the number of particles $(N)$, and the volume $(V)$ are fixed
 
 ### model system
-- the [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B6 - 1D harmonic oscillator\|simple harmonic oscillator]]
+- the [[content/012/PX262 - quantum mechanics/term 1/B - introduction/PX262 - B6 - 1D harmonic oscillator\|simple harmonic oscillator]]
 - **potential energy:** 
 $$V = \frac{1}{2} m\omega^{2}x^{2}$$
 - **solution:** 

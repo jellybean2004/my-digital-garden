@@ -6,7 +6,7 @@
 - the laplacian or the grad-squared operator is given by: 
 $$\nabla^{2}f = \frac{\partial^{2} {f}}{\partial {x}^{2}} + \frac{\partial^{2} {f}}{\partial {y}^{2}} + \frac{\partial^{2}{f}}{\partial {z}^{2}}$$
 - $\nabla^{2}$ acts as a scalar, giving a scalar result
-- eg: in [[content/012/PX262 - quantum mechanics/B - introduction/PX262 - B1 - schrödinger equation\|the schrödinger equation]]: 
+- eg: in [[content/012/PX262 - quantum mechanics/term 1/B - introduction/PX262 - B1 - schrödinger equation\|the schrödinger equation]]: 
 $$\frac{-\hbar^{2}}{2m} \nabla^{2}\psi + V \psi = E\psi$$
 		where, $\psi=$ the wavefunction, $E=$ eigen value, $V=$ the potential function
 	- the hamiltonian operators:

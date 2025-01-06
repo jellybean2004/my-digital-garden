@@ -9,7 +9,7 @@ $$\sigma_{R} \propto \frac{1}{\lambda^{4}}$$
 	where, $\sigma$ is the cross-section
 - it causes the sky to be blue during the day, and red/yellow during dawn/dusk
 ## compton scattering
-[[content/012/PX262 - quantum mechanics/A - recap/PX262 - A2 - compton scattering\|PX262 - A2 - compton scattering]]
+[[content/012/PX262 - quantum mechanics/term 1/A - recap/PX262 - A2 - compton scattering\|PX262 - A2 - compton scattering]]
 - on electrons
 - inelastic, ie: $E_\gamma$ changes
 ## thomson scattering
