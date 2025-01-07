@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/px-262-a-0-quantum-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-06T18:15:15.108+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/px-262-a-0-quantum-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-07T12:27:06.515+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/bc/33/e6/bc33e60f91c80e7f319adb6b59f87fa7.gif' class = 'banner'>

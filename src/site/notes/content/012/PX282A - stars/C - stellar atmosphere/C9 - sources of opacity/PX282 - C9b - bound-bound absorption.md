@@ -3,7 +3,7 @@
 ---
 
 ## bound-bound absorption
-- discrete wavelengths would be absorbed, so a [[content/012/PX275 - mathematical methods/E - stoke's theorem and the divergence theorem/PX275 - E2b - dirac delta\|delta function]] is expected in a $\kappa_{\lambda}$-$\lambda$ plot
+- discrete wavelengths would be absorbed, so a [[content/012/PX275 - mathematical methods/term 1/E - stoke's theorem and the divergence theorem/PX275 - E2b - dirac delta\|delta function]] is expected in a $\kappa_{\lambda}$-$\lambda$ plot
 - in reality, there is a '**broadening**' in the line: 
 $$\kappa_{\lambda}^{bb} \propto g_{m} N_{n} \psi(\lambda)$$
 	where, 
