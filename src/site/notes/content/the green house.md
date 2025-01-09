@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-30T16:29:07.178+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-09T14:08:31.142+00:00"}
 ---
 
 
@@ -18,7 +18,7 @@
 ## yearly notes 🌌
 ### [[content/012/012 year 2\|012 year 2]] 🪴
 [[content/012/PX262 - quantum mechanics/term 1/PX262A - 0 - quantum mechanics\|PX262 - 0 - quantum mechanics and its applications]]
-[[content/012/PX275 - mathematical methods/PX275A - 0 - mathematical methods I\|PX275 - 0 - mathematical methods]]
+[[content/012/PX275 - mathematical methods/PX275 - 0 - mathematical methods\|PX275 - 0 - mathematical methods]]
 [[content/012/PX282A - stars/PX282A - 0 - stars\|PX282A - 0 - stars]]
 [[content/012/PX282B - the solar system/PX282B - 0 - solar system\|PX282B - 0 - solar system]]
 [[content/012/PX284 - statistical mechanics/PX284A - 0 - statistical mechanics\|PX284A - 0 - statistical mechanics]]

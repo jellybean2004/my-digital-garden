@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/g-fluctuations/px-284-g2-large-systems/","noteIcon":"1","created":"2024-12-06T10:16:46.375+00:00","updated":"2024-12-06T10:27:23.906+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/g-fluctuations/px-284-g2-large-systems/","noteIcon":"1","created":"2024-12-06T10:16:46.375+00:00","updated":"2025-01-09T15:08:06.108+00:00"}
 ---
 
 - for $N$ independent and distinct particles:
@@ -25,4 +25,3 @@ $$\frac{\sigma_{E}}{\langle{E}\rangle} \propto \frac{\sqrt{N}}{N} \propto \frac{
 	- near the critical point, $C_V$ can diverge
 	- fluctuations become significant
 	- fluctuations in density can be observed - **critical opalescence**
-	
