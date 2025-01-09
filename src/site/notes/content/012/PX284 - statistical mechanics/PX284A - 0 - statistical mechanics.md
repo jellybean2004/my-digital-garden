@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/px-284-a-0-statistical-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-03T12:35:26.223+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/px-284-a-0-statistical-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-09T15:10:40.132+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0b/fe/e5/0bfee5f0553195c340ed579aa2a1c0bb.gif' class = 'banner'>
@@ -38,3 +38,6 @@
 [[content/012/PX284 - statistical mechanics/F - connection between thermodynamics and statistical mechanics/PX284 - F2a - systems with fixed T and V or canonical ensemble\|PX284 - F2a - systems with fixed T and V or canonical ensemble]]
 [[content/012/PX284 - statistical mechanics/F - connection between thermodynamics and statistical mechanics/PX284 - F2b - aside on lagrange multipliers\|PX284 - F2b - aside on lagrange multipliers]]
 ### [[content/012/PX284 - statistical mechanics/G - fluctuations/G - fluctuations\|G - fluctuations]]
+[[content/012/PX284 - statistical mechanics/G - fluctuations/PX284 - G1 - energy deviation\|PX284 - G1 - energy deviation]]
+[[content/012/PX284 - statistical mechanics/G - fluctuations/PX284 - G2 - large systems\|PX284 - G2 - large systems]]
+### [[content/012/PX284 - statistical mechanics/H - gases/H - gases\|H - gases]]

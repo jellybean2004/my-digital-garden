@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g3a-diffusion-equation/","noteIcon":"1","created":"2025-01-07T12:41:44.605+00:00","updated":"2025-01-09T12:53:20.916+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g3a-diffusion-equation/","noteIcon":"1","created":"2025-01-07T12:41:44.605+00:00","updated":"2025-01-09T17:07:29.665+00:00"}
 ---
 
 - considering the **diffusion problem**: spatial and temporal variation of a density function, $\rho(x,t)$
@@ -48,9 +48,7 @@ $$\lim_{\Delta x, \Delta t \to 0} \frac{\partial j}{\partial x} = - \frac{\parti
 $$\boxed{\frac{\partial c}{\partial t} = D \frac{\partial^{2} {c}}{\partial {x}^{2}}}$$
 - this is the diffusion equation for a 1D concentration field, $c(x,t)$, in a medium with a constant diffusivity, $D$
 
-- at maxima, $\cfrac{\partial^{2} {c}}{\partial {x}^{2}} \neq 0 \implies \cfrac{\partial c}{\partial t} \neq 0$ 
-- #incomplete #fig
-
+![PX275 - G4 - wave equation.png|500](/img/user/pics/PX275%20-%20G4%20-%20wave%20equation.png)
 ## dimensions of the diffusion constant
 $$\left[\frac{\partial c}{\partial t}\right] = [T]^{-1} \; and \; \left[\frac{\partial^{2} {c}}{\partial {x}^{2}}\right] = [L]^{-2}$$
 $$\therefore [D] = [L]^{2}[T]^{-1}$$

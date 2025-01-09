@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g4-wave-equation/","noteIcon":"1","created":"2025-01-09T12:36:24.874+00:00","updated":"2025-01-09T12:50:43.069+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g4-wave-equation/","noteIcon":"1","created":"2025-01-09T12:36:24.874+00:00","updated":"2025-01-09T17:07:52.837+00:00"}
 ---
 
 - **caveat:** 
@@ -7,8 +7,7 @@
 	- so, only well posed problems with sufficient constraints are considered to get solutions
 	- considering examples that produce 'separable solutions'
 
-
-#fig 
+![PX275 - G4 - wave equation-1.png|500](/img/user/pics/PX275%20-%20G4%20-%20wave%20equation-1.png)
 
 - considering the displacement of a vibrating spring, $u(x,t)$
 	- density waves in a medium, $\rho(x,t)$
