@@ -3,5 +3,5 @@
 ---
 
 ### [[ A -  introduction\| A -  introduction]]
-### [[B - light and matter\|B - light and matter]]
+### [[content/012/PX280 B - environmental physics/B - light and matter/B - light and matter\|B - light and matter]]
 ### [[C - climate and climate change\|C - climate and climate change]]
