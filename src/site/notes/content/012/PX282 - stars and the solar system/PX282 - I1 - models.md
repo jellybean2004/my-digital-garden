@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/px-282-i1-models/","noteIcon":"1","created":"2025-01-10T16:39:18.920+00:00","updated":"2025-01-10T16:56:02.338+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-the-solar-system/px-282-i1-models/","noteIcon":"1","created":"2025-01-10T16:39:18.920+00:00","updated":"2025-01-13T10:07:51.613+00:00"}
 ---
 
 ## greeks
@@ -8,9 +8,9 @@
  ![PX282 - I1 -.png|500](/img/user/pics/PX282%20-%20I1%20-.png)
 *image: stellarium*
 
-- this was explaied by ptolemy with **epicycles***, which is the circular motion around an average circular motion
+- this was explained by ptolemy with **epicycles***, which is the circular motion around an average circular motion
 
-![PX282 - I1 --1.png](/img/user/pics/PX282%20-%20I1%20--1.png)
+![PX282 - I1 --1.png|500](/img/user/pics/PX282%20-%20I1%20--1.png)
 *image: university of viginia*
 
 ![PX282 - I1 - models.png|500](/img/user/pics/PX282%20-%20I1%20-%20models.png)

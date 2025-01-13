@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/px-262-h3-free-electron-model-of-a-metal/","noteIcon":"1","created":"2025-01-09T17:19:33.338+00:00","updated":"2025-01-09T18:20:04.145+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/px-262-h3-free-electron-model-of-a-metal/","noteIcon":"1","created":"2025-01-09T17:19:33.338+00:00","updated":"2025-01-13T13:56:02.932+00:00"}
 ---
 
 - loosely bound valence electrons $(\sim 10^{24})$ in a metal are modelled as non-interacting fermions in a potential form a uniform, positively charged background
@@ -29,8 +29,6 @@ $$E_{n} = \frac{\hbar^{2}}{2m_{e}}k_{n}^{2}$$
 - and the states are:
 $$\phi_{n}(x) = Ae^{ik_{n}x}$$
 - the wavenumbers are separated by $\frac{2\pi}{L}$
-
-#review
 $$N = 2 \times 2 n_{F} = 4n_{F}$$
 $$\begin{gather}
 k_{F} = \frac{N}{4} \frac{2\pi}{L} = \frac{\pi}{2}\rho_{e} \\\\
@@ -60,4 +58,4 @@ E_{TOT} &= \int_{0}^{E_{F}} E\,n(E) \,dE \; \left(=\sum\limits_{n+1}^{N/2} E_{n+
 &= \frac{L}{\pi} \left(\frac{2m_{e}}{\hbar}\right)^{1/2} \frac{2}{3}E_{F}^{3/2} 
 \end{align*}$$
 - the average energy per electron:
-$$\frac{E_{TOT}}{N} = \frac{E_{F}}{3}$$
+$$E_{ev}= \frac{E_{TOT}}{N} = \frac{E_{F}}{3}$$
