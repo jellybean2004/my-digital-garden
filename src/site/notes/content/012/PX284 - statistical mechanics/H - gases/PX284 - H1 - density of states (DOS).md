@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/h-gases/px-284-h1-density-of-states-dos/","noteIcon":"1","created":"2025-01-09T15:13:21.746+00:00","updated":"2025-01-13T13:57:36.600+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/h-gases/px-284-h1-density-of-states-dos/","noteIcon":"1","created":"2025-01-09T15:13:21.746+00:00","updated":"2025-01-13T17:20:48.393+00:00"}
 ---
 
-- also in [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H3 - free electron model of a metal\|PX262 - H3 - free electron model of a metal]]
+- also in [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H3a - free electron model (1D)\|PX262 - H3a - free electron model (1D)]]
 
 - considering a cloud of particles contained inside a cubic box of side, $L$
 - the box is bounded by: $-L/2 \leq x,y,z \le +L/2$
