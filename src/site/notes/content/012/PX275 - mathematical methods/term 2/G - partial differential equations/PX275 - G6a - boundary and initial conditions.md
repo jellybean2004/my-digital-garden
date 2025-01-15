@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g6a-boundary-and-initial-conditions/","noteIcon":"1","created":"2025-01-15T17:40:16.042+00:00","updated":"2025-01-15T18:34:08.798+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g6a-boundary-and-initial-conditions/","noteIcon":"1","created":"2025-01-15T17:40:16.042+00:00","updated":"2025-01-15T18:52:15.200+00:00"}
 ---
 
 ## initial conditions
@@ -57,3 +57,4 @@ $$u(x,t) = \sum\limits_{n} \sin\left(\frac{n\pi x}{L}\right) \left( C_{n}' \cos\
 - initial conditions can describe:
 	- the shape of the string at $t=0:$ $u(x,0) = f(x)$
 	- the string is released at $t=0$, ie. fully at rest at $t=0:$ $\cfrac{\partial u(x,t)}{\partial t} \bigg|_{t=0}  =0$
+
