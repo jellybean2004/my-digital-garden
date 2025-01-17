@@ -19,7 +19,7 @@
 ### [[content/012/012 year 2\|012 year 2]] 🪴
 [[content/012/PX262 - quantum mechanics/term 1/PX262A - 0 - quantum mechanics\|PX262 - 0 - quantum mechanics and its applications]]
 [[content/012/PX275 - mathematical methods/PX275 - 0 - mathematical methods\|PX275 - 0 - mathematical methods]]
-[[content/012/PX282 - stars and the solar system/PX282A - 0 - stars\|PX282A - 0 - stars]]
+[[content/012/PX275 - mathematical methods/PX282A - 0 - stars\|PX282A - 0 - stars]]
 [[PX282B - 0 - solar system\|PX282B - 0 - solar system]]
 [[content/012/PX284 - statistical mechanics/PX284A - 0 - statistical mechanics\|PX284A - 0 - statistical mechanics]]
 [[content/012/PX284 - statistical mechanics/PX284B  - 0 - electromagnetic theory and optics\|PX284B  - 0 - electromagnetic theory and optics]]

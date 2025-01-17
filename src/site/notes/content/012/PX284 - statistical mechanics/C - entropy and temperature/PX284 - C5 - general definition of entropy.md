@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-284-c5-general-definition-of-entropy/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T21:26:04.792+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-statistical-mechanics/c-entropy-and-temperature/px-284-c5-general-definition-of-entropy/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-17T16:06:56.917+00:00"}
 ---
 
 - the entropy is given by the **gibb's entropy formula**: 
