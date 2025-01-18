@@ -32,7 +32,7 @@ W(\omega) = \frac{A_{21}N_{2}}{B_{12}N_{1}-B_{21}N_{2}}
 - from equation $(3):$
 $$W(\omega) = \frac{\hbar\omega^{3}}{\pi^{2}c^{3}}  \frac{1}{e^{E-k_{B}T}-1}$$
 
-- using the [[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX284 - C3 - boltzmann distribution\|boltzmann distribution]] to find the probability of the system being in a state with energy, $E_i:$
+- using the [[content/012/PX284 - SMETO/part 1 - statistical mechanics/C - entropy and temperature/PX284 - C3 - boltzmann distribution\|boltzmann distribution]] to find the probability of the system being in a state with energy, $E_i:$
 $$\begin{gather}
 N_{1} \propto \exp(-E_{1}/k_{B}T) \\
 N_{2} \propto \exp(-E_{2}/k_{B}T) \\\\

@@ -10,4 +10,4 @@
 	$$dU = T\,dS - p\,dV$$
 	where, $T$ is temperature, ${} S$ is entropy, $p$ is pressure, and $V$ is volume
 
-[[content/012/PX284 - statistical mechanics/C - entropy and temperature/PX284 - C2 - temperature\|PX284 - C2 - temperature]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/C - entropy and temperature/PX284 - C2 - temperature\|PX284 - C2 - temperature]]

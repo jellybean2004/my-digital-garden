@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c9-heat-capacity-of-the-ideal-gas/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T10:15:20.457+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c9-heat-capacity-of-the-ideal-gas/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-18T13:07:42.382+00:00"}
 ---
 
 [YF 18.6]
@@ -68,7 +68,7 @@ $$C_{V}= \frac{1}{n}\frac{dQ}{dT}=\frac{3}{2}R$$
 	- contribution to $C_{V}$ is $R \; per \; mole$ 
 - at room temperature, vibration doesn't contribute to the heat capacity
 - vibration is quantized
-	- requires a quantum mechanical model [[content/012/PX262 - quantum mechanics/term 1/PX262A - 0 - quantum mechanics\|PX262 - 0 - quantum mechanics and its applications]]
+	- requires a quantum mechanical model [[content/012/PX262 - quantum mechanics/PX262 - 0 - quantum mechanics\|PX262 - 0 - quantum mechanics and its applications]]
 	- eg: for $N_2$, minimum energy to be absorbed to increase vibration is $0.3 eV$
 	- using $k_BT$, this corresponds to a temperature of $3000K$
 - ![Pasted image 20231101093653.png](/img/user/pics/Pasted%20image%2020231101093653.png) [YF fig 18.19] 

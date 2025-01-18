@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-09T14:08:31.142+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-18T13:08:09.276+00:00"}
 ---
 
 
@@ -17,14 +17,12 @@
 ---
 ## yearly notes 🌌
 ### [[content/012/012 year 2\|012 year 2]] 🪴
-[[content/012/PX262 - quantum mechanics/term 1/PX262A - 0 - quantum mechanics\|PX262 - 0 - quantum mechanics and its applications]]
+[[content/012/PX262 - quantum mechanics/PX262 - 0 - quantum mechanics\|PX262 - 0 - quantum mechanics]]
 [[content/012/PX275 - mathematical methods/PX275 - 0 - mathematical methods\|PX275 - 0 - mathematical methods]]
-[[content/012/PX275 - mathematical methods/PX282A - 0 - stars\|PX282A - 0 - stars]]
-[[PX282B - 0 - solar system\|PX282B - 0 - solar system]]
-[[content/012/PX284 - statistical mechanics/PX284A - 0 - statistical mechanics\|PX284A - 0 - statistical mechanics]]
-[[content/012/PX284 - statistical mechanics/PX284B  - 0 - electromagnetic theory and optics\|PX284B  - 0 - electromagnetic theory and optics]]
-[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/PX285A - 0 - hamiltonian mechanics\|PX285A - 0 - hamiltonian mechanics]]
-[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/PX285B - 0 - fluid dynamics\|PX285B - 0 - fluid dynamics]]
+:::hidden [[content/012/PX280 - environmental physics/PX280 - 0 - environmental physics\|PX280 - 0 - environmental physics]] :::
+[[content/012/PX282 - stars and solar system/PX282 - 0 - stars & solar system\|PX282 - 0 - stars & solar system]]
+[[content/012/PX284 - SMETO/PX284 - 0 - statistical mechanics, electromagnetic theory & optics\|PX284 - 0 - statistical mechanics, electromagnetic theory & optics]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/PX285 - 0 - hamiltonian mechanics & fluid dynamics\|PX285 - 0 - hamiltonian mechanics & fluid dynamics]]
 
 ---
 ### [[content/011/011 year 1\|011 year 1]] 🌱

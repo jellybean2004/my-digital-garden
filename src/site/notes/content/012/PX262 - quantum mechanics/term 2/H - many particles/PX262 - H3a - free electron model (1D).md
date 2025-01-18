@@ -46,7 +46,7 @@ $$N(E_{n}) = \frac{2L}{\pi}k_{n} = \frac{2L}{\pi}\left(\frac{2m_{e}}{\hbar^{2}}\
 $$N(E+\Delta E) \simeq N(E) + \frac{dN}{dt}\Delta E = N(E) + n(E) \Delta E$$
 	where, $n(E)$ is the **density of states (DOS)**
 
-[[content/012/PX284 - statistical mechanics/H - gases/PX284 - H1 - density of states (DOS)\|PX284 - H1 - density of states (DOS)]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/H - gases/PX284 - H1 - density of states (DOS)\|PX284 - H1 - density of states (DOS)]]
 
 - sometimes, $g(E)$ is used to denote the DOS
 $$n(E) = \frac{L}{\pi}\left(\frac{2m_{e}}{\hbar^{2}}\right)^{1/2}\sqrt{E_F}$$

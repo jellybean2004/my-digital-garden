@@ -1,0 +1,56 @@
+---
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics-and-fluid-dynamics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-18T13:07:21.682+00:00"}
+---
+
+<img src = 'https://i.pinimg.com/originals/74/b1/5c/74b15cba6d83f1a7f158ad235a8ee812.gif' class = 'banner'>
+## hamiltonian mechanics
+### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/A - introduction/A - introduction\|A - introduction]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/A - introduction/PX285 - A1 - newton's laws\|PX285 - A1 - newton's laws]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/A - introduction/PX285 - A2a - conservation laws\|PX285 - A2a - conservation laws]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/A - introduction/PX285 - A2b - angular momentum\|PX285 - A2b - angular momentum]]
+### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/B - variational principles/B - variational principles\|B - variational principles]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/B - variational principles/PX285 - B1 - variational principles\|PX285 - B1 - variational principles]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/B - variational principles/PX285 - B2 - fermat's law in optics\|PX285 - B2 - fermat's law in optics]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/B - variational principles/PX285 - B3 - newtonian mechanics - the principle of least action\|PX285 - B3 - newtonian mechanics - the principle of least action]]
+### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/C - calculus of variations\|C - calculus of variations]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/PX285 - C1 - the euler-lagrange equation\|PX285 - C1 - the euler-lagrange equation]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/PX285 - C2 - coordinate change\|PX285 - C2 - coordinate change]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/PX285 - C3 - newton's second law\|PX285 - C3 - newton's second law]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/PX285 - C4 - simple pendulum\|PX285 - C4 - simple pendulum]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/PX285 - C5 - a roller-coaster\|PX285 - C5 - a roller-coaster]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/PX285 - C6a - multi-coordinate problems\|PX285 - C6a - multi-coordinate problems]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/PX285 - C6b - a particle in a cartesian plane\|PX285 - C6b - a particle in a cartesian plane]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/PX285 - C6c - two particles in 1D\|PX285 - C6c - two particles in 1D]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/C - calculus of variations/PX285 - C6d - two particles in 3D\|PX285 - C6d - two particles in 3D]]
+### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/D - the hamiltonian/D - the hamiltonian\|D - the hamiltonian]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/D - the hamiltonian/PX285 - D1 - the hamiltonian\|PX285 - D1 - the hamiltonian]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/D - the hamiltonian/PX285 - D2 - a constant of the motion\|PX285 - D2 - a constant of the motion]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/D - the hamiltonian/PX285 - D3 - the conservation of energy\|PX285 - D3 - the conservation of energy]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/D - the hamiltonian/PX285 - D4 - roller-coaster revisited\|PX285 - D4 - roller-coaster revisited]]
+### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/E - conservation laws and symmetries/E - conservation laws and symmetries\|E - conservation laws and symmetries]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/E - conservation laws and symmetries/PX285 - E1 - noether's theorem\|PX285 - E1 - noether's theorem]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/E - conservation laws and symmetries/PX285 - E2 - translation of space\|PX285 - E2 - translation of space]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/E - conservation laws and symmetries/PX285 - E3 - translation in time\|PX285 - E3 - translation in time]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/E - conservation laws and symmetries/PX285 - E4 - rotation of space\|PX285 - E4 - rotation of space]]
+### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/F - hamilton's equations\|F - hamilton's equations]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - F1 - hamilton's equations\|PX285 - F1 - hamilton's equations]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - F2 - phase space\|PX285 - F2 - phase space]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - F3a - a particle in 1D\|PX285 - F3a - a particle in 1D]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - F3b - a pendulum\|PX285 - F3b - a pendulum]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/F - hamilton's equations/PX285 - F4 - a gyroscope\|PX285 - F4 - a gyroscope]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/F - hamilton's equations/PX285 - F5 - central forces - particle approaching the sun\|PX285 - F5 - central forces - particle approaching the sun]]
+### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/G - normal modes and small oscillations\|G - normal modes and small oscillations]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G1 - inertia tensor\|PX285 - G1 - inertia tensor]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G2 - stiffness matrix\|PX285 - G2 - stiffness matrix]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G3 - derivation from examples\|PX285 - G3 - derivation from examples]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G4 - attached particles on springs\|PX285 - G4 - attached particles on springs]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G5 - non-diagonal inertia matrix\|PX285 - G5 - non-diagonal inertia matrix]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G6 - summary\|PX285 - G6 - summary]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G7 - example\|PX285 - G7 - example]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G8 - diatomic molecule\|PX285 - G8 - diatomic molecule]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G9 - triatomic molecule\|PX285 - G9 - triatomic molecule]]
+
+## fluid dynamics
+### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/H - introduction to fluids\|H - introduction to fluids]]
+
+<img src = 'https://www.thisiscolossal.com/wp-content/uploads/2018/12/agifcolossalflow2.gif'  class = 'banner'>

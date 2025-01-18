@@ -70,7 +70,7 @@ $$\begin{align*}
   $$\hbar^{2} \frac{d}{dv}\left[ (1-v^{2})^{\frac{1}{2}} \frac{dP(v)}{dv}\right] + \left[\lambda - \frac{\hbar^{2}m^{2}}{1-v^{2}}\right] = 0$$
 - solving explicitly for $m=0$, looking at the solution in the form: 
 $$P(v) = \sum\limits_{p=0}^{\infty} a_{p}v^{p}$$
-- following the same logic as for the [[content/012/PX284 - statistical mechanics/E - single-particle partition function/PX284 - E3 - harmonic oscillator in 1D\|harmonic oscillator]], substituting $P$ into the differential equation will lead to a recursive relation between coefficients
+- following the same logic as for the [[content/012/PX284 - SMETO/part 1 - statistical mechanics/E - single-particle partition function/PX284 - E3 - harmonic oscillator in 1D\|harmonic oscillator]], substituting $P$ into the differential equation will lead to a recursive relation between coefficients
 - it will be found that the expansion diverges at $v=1$, so, the coefficients after some value of $p$ must be cut off
 - this can be done by setting:
   $$\lambda = \hbar^{2}l(l+1)$$
