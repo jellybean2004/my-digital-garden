@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-18T13:08:09.276+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-19T10:25:52.421+00:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 ### [[content/012/012 year 2\|012 year 2]] 🪴
 [[content/012/PX262 - quantum mechanics/PX262 - 0 - quantum mechanics\|PX262 - 0 - quantum mechanics]]
 [[content/012/PX275 - mathematical methods/PX275 - 0 - mathematical methods\|PX275 - 0 - mathematical methods]]
-:::hidden [[content/012/PX280 - environmental physics/PX280 - 0 - environmental physics\|PX280 - 0 - environmental physics]] :::
+
 [[content/012/PX282 - stars and solar system/PX282 - 0 - stars & solar system\|PX282 - 0 - stars & solar system]]
 [[content/012/PX284 - SMETO/PX284 - 0 - statistical mechanics, electromagnetic theory & optics\|PX284 - 0 - statistical mechanics, electromagnetic theory & optics]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/PX285 - 0 - hamiltonian mechanics & fluid dynamics\|PX285 - 0 - hamiltonian mechanics & fluid dynamics]]
