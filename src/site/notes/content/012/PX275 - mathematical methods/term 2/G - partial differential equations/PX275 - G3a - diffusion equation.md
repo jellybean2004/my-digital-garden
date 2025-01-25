@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g3a-diffusion-equation/","noteIcon":"1","created":"2025-01-07T12:41:44.605+00:00","updated":"2025-01-09T17:07:29.665+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g3a-diffusion-equation/","noteIcon":"1","created":"2025-01-07T12:41:44.605+00:00","updated":"2025-01-23T18:52:21.394+00:00"}
 ---
 
 - considering the **diffusion problem**: spatial and temporal variation of a density function, $\rho(x,t)$
@@ -28,7 +28,7 @@ $$N = \int_{0}^{L} c(x,t)\,dx$$
 $$j(x)\propto - \frac{\partial c}{\partial x}$$
 
 	where, ${} j(x)$ is the local flux at $x$, and the negative sign works to reduce the gradient, $\frac{\partial c}{\partial x}$
-- the proportionality constant is defined to be $D$, so the diffusivity of the medium:
+- the proportionality constant is defined to be $D$, the diffusivity of the medium:
 $$j(x) = - D \frac{\partial c}{\partial x}$$
 - the continuity must be satisfied
 - considering a small part, $\Delta x$
@@ -56,4 +56,5 @@ $$\therefore [D] = [L]^{2}[T]^{-1}$$
 - it has been assumed that $D$ is constant
 - if $D$ is not constant:
 $$\frac{\partial c}{\partial t} = \frac{\partial }{\partial x}\left(D(x) \frac{\partial c}{\partial x}\right)$$
-\1\n\2\n
+- if there is a source or sink of particles:
+$$\frac{\partial c}{\partial t} = \frac{\partial }{\partial x}\left(D\frac{\partial c}{\partial x}\right) + S(x,t)$$

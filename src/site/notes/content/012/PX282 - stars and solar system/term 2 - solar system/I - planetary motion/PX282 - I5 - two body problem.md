@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i5-two-body-problem/","noteIcon":"1","created":"2025-01-17T16:24:15.624+00:00","updated":"2025-01-17T16:28:03.764+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i5-two-body-problem/","noteIcon":"1","created":"2025-01-17T16:24:15.624+00:00","updated":"2025-01-24T11:09:25.771+00:00"}
 ---
 
 - for the **one body problem** (where mass of one object dominates), considering the sun in the origin, and planet at a position given by $\vec r$
@@ -20,7 +20,7 @@ $$\begin{align*}
 $$\begin{align*}
 \frac{d^{2}\vec{r}}{dt^{2}}&= \frac{d^{2}\vec{r_{2}}}{dt^{2}} - \frac{d^{2}\vec{r_{1}}}{dt^{2}} \\
 &= - \frac{Gm_{1}}{r^{2}} \hat r - \frac{Gm_{2}}{r^{2}}\hat r \\
-&= \frac{G(m_{1}+ m_{2})}{r^{2}}
+&= -\frac{G(m_{1}+ m_{2})}{r^{2}}
 \end{align*}$$
 - this is mathematically identical to the one-body problem
 

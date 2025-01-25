@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g3b-heat-equation/","noteIcon":"1","created":"2025-01-09T12:36:54.775+00:00","updated":"2025-01-09T12:37:00.817+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g3b-heat-equation/","noteIcon":"1","created":"2025-01-09T12:36:54.775+00:00","updated":"2025-01-23T18:56:36.472+00:00"}
 ---
 
-
 - a similar mechanism is heat transport, where the diffusion PDE is applicable
-- considering the density of heat $Q(x,t):$
+- considering the density of heat, $Q(x,t):$
 $$\frac{\partial Q}{\partial t} \propto \frac{\partial^{2} {Q}}{\partial {x}^{2}}$$
 - since there is a local heat flux $\propto \cfrac{\partial Q}{\partial x}$ (fick's law again)
 

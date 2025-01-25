@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g7-dirac-delta-function/","noteIcon":"1","created":"2025-01-16T12:07:36.046+00:00","updated":"2025-01-16T12:37:03.661+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g7-dirac-delta-function/","noteIcon":"1","created":"2025-01-16T12:07:36.046+00:00","updated":"2025-01-23T22:22:47.637+00:00"}
 ---
 
 [[content/012/PX275 - mathematical methods/term 1/E - stoke's theorem and the divergence theorem/PX275 - E2b - dirac delta\|PX275 - E2b - dirac delta]]
@@ -38,7 +38,7 @@ $$\int\delta(x-x_{0}) = \begin{cases}
 0 & \text{otherwise}
 \end{cases}$$
 - this can be used for:
-$$\int f(x\delta(x-x_{0}) = \begin{cases}
+$$\int f(x)\delta(x-x_{0}) = \begin{cases}
 f(x_0) & \text{if integration range includes $x_0$},\\
 0 & \text{otherwise}
 \end{cases}$$

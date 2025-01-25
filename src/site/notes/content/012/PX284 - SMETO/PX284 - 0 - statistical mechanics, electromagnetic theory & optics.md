@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-18T13:06:41.853+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-23T15:11:28.882+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0b/fe/e5/0bfee5f0553195c340ed579aa2a1c0bb.gif' class = 'banner'>
@@ -48,3 +48,12 @@
 [[content/012/PX284 - SMETO/part 1 - statistical mechanics/H - gases/PX284 - H4 - ideal gas\|PX284 - H4 - ideal gas]]
 [[content/012/PX284 - SMETO/part 1 - statistical mechanics/H - gases/PX284 - H5 - gibbs paradox\|PX284 - H5 - gibbs paradox]]
 ### [[content/012/PX284 - SMETO/part 1 - statistical mechanics/I - chemical potential/I - chemical potential\|I - chemical potential]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/I - chemical potential/PX284 - I1 - definition\|PX284 - I1 - definition]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/I - chemical potential/PX284 - I2 - significance\|PX284 - I2 - significance]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/I - chemical potential/PX284 - I3 - grand canonical ensemble\|PX284 - I3 - grand canonical ensemble]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/I - chemical potential/PX284 - I4 - conservation laws\|PX284 - I4 - conservation laws]]
+### [[content/012/PX284 - SMETO/part 1 - statistical mechanics/J - photons/J - photons\|J - photons]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/J - photons/PX284 - J1 - blackbody radiation\|PX284 - J1 - blackbody radiation]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/J - photons/PX284 - J2 - statistical mechanics of photons\|PX284 - J2 - statistical mechanics of photons]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/J - photons/PX284 - J3 - cosmic microwave background\|PX284 - J3 - cosmic microwave background]]
+### [[content/012/PX284 - SMETO/part 1 - statistical mechanics/K - phonons/K - phonons\|K - phonons]]

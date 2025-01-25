@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics-and-fluid-dynamics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-19T10:33:37.463+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics-and-fluid-dynamics/","pinned":true,"noteIcon":"2","created":"2025-01-19T11:00:48.547+00:00","updated":"2025-01-23T15:10:05.111+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/74/b1/5c/74b15cba6d83f1a7f158ad235a8ee812.gif' class = 'banner'>
@@ -32,9 +32,9 @@
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/F - hamilton's equations/F - hamilton's equations\|F - hamilton's equations]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/F - hamilton's equations/PX285 - F1 - hamilton's equations\|PX285 - F1 - hamilton's equations]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/F - hamilton's equations/PX285 - F2 - phase space\|PX285 - F2 - phase space]]
-[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/F - hamilton's equations/PX285 - F3a - a particle in 1D\|PX285 - F3a - a particle in 1D]]
-[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/F - hamilton's equations/PX285 - F3b - a pendulum\|PX285 - F3b - a pendulum]]
-[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/F - hamilton's equations/PX285 - F4 - a gyroscope\|PX285 - F4 - a gyroscope]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/F - hamilton's equations/PX285 - F3a - particle in 1D\|PX285 - F3a - particle in 1D]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/F - hamilton's equations/PX285 - F3b - pendulum\|PX285 - F3b - pendulum]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/F - hamilton's equations/PX285 - F4 - gyroscope\|PX285 - F4 - gyroscope]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/F - hamilton's equations/PX285 - F5 - central forces - particle approaching the sun\|PX285 - F5 - central forces - particle approaching the sun]]
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/G - normal modes and small oscillations\|G - normal modes and small oscillations]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G1 - inertia tensor\|PX285 - G1 - inertia tensor]]
@@ -48,5 +48,16 @@
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G9 - triatomic molecule\|PX285 - G9 - triatomic molecule]]
 ## fluid dynamics
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/H - introduction to fluids\|H - introduction to fluids]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/PX285 - H1 - fluids\|PX285 - H1 - fluids]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/PX285 - H2 - fluid approach\|PX285 - H2 - fluid approach]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/PX285 - H3 - mechanical perspective of fluids\|PX285 - H3 - mechanical perspective of fluids]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/PX285 - H4 - newton's law of viscosity\|PX285 - H4 - newton's law of viscosity]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/PX285 - H5 - fluid element\|PX285 - H5 - fluid element]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/PX285 - H6a - stream line\|PX285 - H6a - stream line]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/PX285 - H6b - example of a flow\|PX285 - H6b - example of a flow]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/PX285 - H6c - example in a cylinder\|PX285 - H6c - example in a cylinder]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/PX285 - H7 - quantifying the effects of viscosity\|PX285 - H7 - quantifying the effects of viscosity]]
+### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/I - navier-stokes equation/I - navier-stokes equation\|I - navier-stokes equation]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/I - navier-stokes equation/PX285 - I1 - governing equations of fluids\|PX285 - I1 - governing equations of fluids]]
 
 <img src = 'https://www.thisiscolossal.com/wp-content/uploads/2018/12/agifcolossalflow2.gif'  class = 'banner'>
