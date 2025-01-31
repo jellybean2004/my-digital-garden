@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g6-boundary-and-initial-conditions/","noteIcon":"1","created":"2025-01-15T17:40:16.042+00:00","updated":"2025-01-16T12:34:41.603+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g6-boundary-and-initial-conditions/","noteIcon":"1","created":"2025-01-15T17:40:16.042+00:00","updated":"2025-01-29T10:13:40.117+00:00"}
 ---
 
 ## initial conditions
@@ -48,7 +48,7 @@ C_{n}' = B_{n}C_{n} \\
 D_{n}' = B_{n}D_{n}
 \end{gather}$$
 
-$$u(x,t) = \sum\limits_{n} \sin\left(\frac{n\pi x}{L}\right) \left( C_{n}' \cos\left(\frac{n\pi t}{L}\right)+ D_{n}' \sin\left(\frac{n\pi t}{L}\right)\right)$$
+$$u(x,t) = \sum\limits_{n}\sin\left(\frac{n\pi x}{L}\right) \left( C_{n}' \cos\left(\frac{n\pi c t}{L}\right)+ D_{n}' \sin\left(\frac{n\pi c t}{L}\right)\right)$$
 
 ![PX275 - G6a - boundary and initial conditions-1.png|500](/img/user/pics/PX275%20-%20G6a%20-%20boundary%20and%20initial%20conditions-1.png)
 

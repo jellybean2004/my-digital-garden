@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/px-262-h1-current/","noteIcon":"1","created":"2025-01-06T18:16:36.405+00:00","updated":"2025-01-06T19:44:47.848+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/px-262-h1-current/","noteIcon":"1","created":"2025-01-06T18:16:36.405+00:00","updated":"2025-01-29T14:49:11.105+00:00"}
 ---
 
 - current can be analogised with conservation of mass in a fluid
@@ -9,6 +9,7 @@
 - flux through the surface is equal to the rate of decrease of mass inside it:
 $$ \iint \vec j \cdot d\vec S = - \iiint_{V} \frac{\partial \rho}{\partial t}\,dV$$
 	where, $\vec j$ is the current density vector
+
 - using the [[content/012/PX275 - mathematical methods/term 1/E - stoke's theorem and the divergence theorem/PX275 - E2a - divergence theorem\|divergence theorem]]:
 $$\vec\nabla\cdot \vec j = - \frac{\partial \rho}{\partial t} \tag{1}$$
 

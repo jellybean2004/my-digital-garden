@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g5-method-of-separation-of-variables/","noteIcon":"1","created":"2025-01-09T12:50:46.338+00:00","updated":"2025-01-23T22:01:36.124+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g5-method-of-separation-of-variables/","noteIcon":"1","created":"2025-01-09T12:50:46.338+00:00","updated":"2025-01-29T10:04:41.399+00:00"}
 ---
 
 - assuming that solutions can be found of the form $u(x,t) = X(x) \, Y(t)$
@@ -48,9 +48,9 @@ $$\frac{1}{X} \frac{d^{2}X}{dx^{2}}= -k^{2} \implies \frac{d^{2}X}{dx^{2}} = -k^
 $$X(x) = A \cos kx + B\sin kx$$
 - now, the $y$-dependent term:
 $$\frac{1}{c^{2}Y} \frac{d^{2}Y}{dt^{2}}= -k^{2} \implies \frac{d^{2}Y}{dt^{2}} = -  (kc)^{2}Y$$
-$$Y(t) = C\cos kcx + D\sin kct$$
+$$Y(t) = C\cos kct + D\sin kct$$
 - the wavenumber:
 $$k = \frac{2\pi}{\lambda}$$
 ## conclusion
 - combining the first and the third cases:
-$$u(x,t) =( A_{0}x + B_{0})(C_{0}t + D_{0}) + (A \cos kx + B\sin kx)(C\cos kcx + D\sin kct)$$
+$$u(x,t) =( A_{0}x + B_{0})(C_{0}t + D_{0}) + (A \cos kx + B\sin kx)(C\cos kct + D\sin kct)$$

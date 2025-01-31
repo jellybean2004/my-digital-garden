@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/k-phonons/px-284-k2-the-debye-model/","noteIcon":"1","created":"2025-01-23T15:33:31.697+00:00","updated":"2025-01-23T17:04:58.567+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/k-phonons/px-284-k2-the-debye-model/","noteIcon":"1","created":"2025-01-23T15:33:31.697+00:00","updated":"2025-01-27T10:54:51.267+00:00"}
 ---
 
 ## assumptions
@@ -32,4 +32,4 @@ $$C_{V}= \frac{9N\hbar}{\omega_{D}} \int_{0}^{x_{D}} \frac{x^{4}\exp(x)}{(\exp(x
 $$C_{V} = \frac{12\pi^{4}}{5} Nk_{B} \left(\frac{T}{\theta_{D}}\right)^{3}$$
 - ie: $C_{V}\sim T^{4}$ at low temperatures
 
-- $T \to \infty$ #incomplete 
+\1\n\2\n

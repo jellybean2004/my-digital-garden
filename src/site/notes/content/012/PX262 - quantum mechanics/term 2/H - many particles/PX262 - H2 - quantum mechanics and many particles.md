@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/px-262-h2-quantum-mechanics-and-many-particles/","noteIcon":"1","created":"2025-01-06T19:08:47.143+00:00","updated":"2025-01-09T17:18:32.636+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/px-262-h2-quantum-mechanics-and-many-particles/","noteIcon":"1","created":"2025-01-06T19:08:47.143+00:00","updated":"2025-01-29T14:57:21.876+00:00"}
 ---
 
 - in classical mechanics, for several particles $(N)$, the kinetic and the potential energies are given by:
@@ -18,11 +18,17 @@ $$\hat H = \sum\limits_{i=1}^{N }\left(\frac{\hat{p}_{i}^{2}}{2m} + \hat V\right
 - for identical particles, $\psi$ is either symmetric or antisymmetric
 
 - it is symmetric when the coordinates of any two particles are swapped if they are bosons (eg: $\pi$-mesons, phonons, photons, etc)
-$$\psi(\vec r_{1}, \sigma_{1} ; \dots\vec r_{a}, \sigma_{a};\dots \dots\vec r_{b}, \sigma_{b}; \dots \vec r_{N ,}\sigma_{N}, t) = \psi(\vec r_{1}, \sigma_{1} ; \dots\vec r_{b}, \sigma_{b};\dots \dots\vec r_{a}, \sigma_{a}; \dots \vec r_{N ,}\sigma_{N}, t)$$
+$$\begin{multlined}
+\psi(\vec r_{1}, \sigma_{1} ; \dots\vec r_{a}, \sigma_{a};\dots \dots\vec r_{b}, \sigma_{b}; \dots \vec r_{N ,}\sigma_{N}, t) \\
+= \psi(\vec r_{1}, \sigma_{1} ; \dots\vec r_{b}, \sigma_{b};\dots \dots\vec r_{a}, \sigma_{a}; \dots \vec r_{N ,}\sigma_{N}, t)
+\end{multlined}$$
 - and it is antisymmetric when the particles are fermions (eg: electrons, protons, etc)
-$$\psi(\vec r_{1}, \sigma_{1} ; \dots\vec r_{a}, \sigma_{a};\dots \dots\vec r_{b}, \sigma_{b}; \dots \vec r_{N ,}\sigma_{N}, t) = -\psi(\vec r_{1}, \sigma_{1} ; \dots\vec r_{b}, \sigma_{b};\dots \dots\vec r_{a}, \sigma_{a}; \dots \vec r_{N ,}\sigma_{N}, t)$$
+$$\begin{multlined}
+\psi(\vec r_{1}, \sigma_{1} ; \dots\vec r_{a}, \sigma_{a};\dots \dots\vec r_{b}, \sigma_{b}; \dots \vec r_{N ,}\sigma_{N}, t) \\
+= -\psi(\vec r_{1}, \sigma_{1} ; \dots\vec r_{b}, \sigma_{b};\dots \dots\vec r_{a}, \sigma_{a}; \dots \vec r_{N ,}\sigma_{N}, t)
+\end{multlined}$$
 
-- this captures the **pauli exclusion principle:** no two electrons can occupy the same state
+- this captures the [[content/012/PX284 - SMETO/part 1 - statistical mechanics/L - exchange symmetry/PX284 - L2 - pauli exclusion principle\|pauli exclusion principle]]: no two electrons can occupy the same state
 
 - eg: putting several non-interacting electrons in a box (1D)
 - the single electron is bound by: $0<x<L$
@@ -37,7 +43,7 @@ $$\phi(x) = Ae^{ikx} + B e^{-ikx} = C\cos(kx) + D\sin(kx)$$
 - therefore, the wavenumbers:
 $$k_{n} = \frac{n\pi}{L}$$
 - and the energies:
-$$E+n  = \frac{\hbar}{2m_{e}}\left(\frac{n\pi}{L}\right)^{2}$$
+$$E_n  = \frac{\hbar}{2m_{e}}\left(\frac{n\pi}{L}\right)^{2}$$
 - the states:
 $$\phi_{n} = D\sin\left(\frac{n\pi x}{L}\right)$$
 

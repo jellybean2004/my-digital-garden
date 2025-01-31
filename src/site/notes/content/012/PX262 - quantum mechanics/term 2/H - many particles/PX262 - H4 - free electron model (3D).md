@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/px-262-h4-free-electron-model-3-d/","noteIcon":"1","created":"2025-01-13T11:11:53.829+00:00","updated":"2025-01-16T10:41:26.673+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/px-262-h4-free-electron-model-3-d/","noteIcon":"1","created":"2025-01-13T11:11:53.829+00:00","updated":"2025-01-29T16:47:31.158+00:00"}
 ---
 
 - considering a box of dimensions: $L_{x} \times L_{y} \times L_{z}$
@@ -29,6 +29,7 @@ $$\vec k = \left( \frac{2\pi n_{x}}{L_{x}}, \frac{2\pi n_{y}}{L_{y}}, \frac{2\pi
 	where, $n_{x}, n_{y}, n_{z} \in \mathbb{Z}$
 
 - the allowed states sit on a grid in wavevector-space
+- 
 ![PX262 - H4 - free electrons in 3D.png|500](/img/user/pics/PX262%20-%20H4%20-%20free%20electrons%20in%203D.png)
 
 - each block, contains one allowed $\vec k$ vector (each corner shared between eight blocks)
@@ -52,11 +53,11 @@ $$E_{F} = \frac{\hbar^{2}}{2m_{e}} (3\pi ^{2}\rho_{e})^{2/3}$$
 - also, the fermi velocity:
 $$\vec v_{F} = \vec\nabla \omega(\vec k) = \frac{\hbar \vec k}{m_{e}}$$
 - and the fermi speed: $\hbar k_F /m_e$
-- this is the group velocity of the wavepacket with $\vec  k$ grouped around $\vec k_F$
+- this is the group velocity of the wave packet with $\vec  k$ grouped around $\vec k_F$
 
 ## density of states
 - for a large $V$, it is expected that: $\Delta k_{x,y,z} \to 0$, and a continuum of states in the space of $\vec k$ (k-space)
-- the number of states with an energy below $E = \hbar^{2}k^{2}/2m_{e}$
+- the number of states with an energy below $E = \hbar^{2}k^{2}/2m_{e}:$
 $$N(E) = \frac{Vk^{3}}{3\pi^{2}} = \frac{V}{3\pi^{2}} \left(\frac{2m_{e}E}{\hbar^{2}}\right)^{3/2}$$
 
 and the number between $E$ and $\Delta E + dE$

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/h-many-particles/","noteIcon":"1","created":"2025-01-06T18:16:21.763+00:00","updated":"2025-01-23T17:40:45.883+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/h-many-particles/","noteIcon":"1","created":"2025-01-06T18:16:21.763+00:00","updated":"2025-01-30T10:30:04.945+00:00"}
 ---
 
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H1 - current\|PX262 - H1 - current]]
@@ -11,3 +11,5 @@
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H7 - implications for nature of nuclear forces\|PX262 - H7 - implications for nature of nuclear forces]]
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H8 - liquid drop model of nucleus\|PX262 - H8 - liquid drop model of nucleus]]
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H9 - electrons in atoms and molecules\|PX262 - H9 - electrons in atoms and molecules]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H10 - electronic configurations\|PX262 - H10 - electronic configurations]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H11 - molecules\|PX262 - H11 - molecules]]

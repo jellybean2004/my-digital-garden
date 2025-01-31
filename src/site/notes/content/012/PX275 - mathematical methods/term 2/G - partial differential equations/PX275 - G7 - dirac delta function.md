@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g7-dirac-delta-function/","noteIcon":"1","created":"2025-01-16T12:07:36.046+00:00","updated":"2025-01-23T22:22:47.637+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g7-dirac-delta-function/","noteIcon":"1","created":"2025-01-16T12:07:36.046+00:00","updated":"2025-01-29T13:01:10.923+00:00"}
 ---
 
 [[content/012/PX275 - mathematical methods/term 1/E - stoke's theorem and the divergence theorem/PX275 - E2b - dirac delta\|PX275 - E2b - dirac delta]]
@@ -16,9 +16,13 @@ V_{0} & x_{0} - \frac{w}{2}<x<x_{0} + w/2 ,\\
 
 - making the hammer narrower and narrower, ie: $w\to 0$, for a constant ${} V_0: {}$
 $$\int \frac{\partial u(x,0)}{\partial t}\,dx \to 0$$
+
+![PX275 - G7 - dirac delta function.png|500](/img/user/pics/PX275%20-%20G7%20-%20dirac%20delta%20function.png)
+
 - but if $V_{0} \propto 1/w$, ${} \lim_{w\to0} V_{0} \to \infty: {}$
 $$\int \frac{\partial u(x,0)}{\partial t}\,dx = \text{const}$$
 
+![PX275 - G7 - dirac delta function-1.png|500](/img/user/pics/PX275%20-%20G7%20-%20dirac%20delta%20function-1.png)
 
 - the limit of a step function is the **dirac delta function**, $\delta(x)$
 - it is normalized, ie:
@@ -26,9 +30,11 @@ $$\int_{-\infty}^{\infty} \delta(x )\,dx = 1$$
 - in the limit, the function has **zero width**, and **infinite height**
 - the function is non-zero only at a single $x$ value
 ## definition 1
+- only non-zero at a single $x$
 $$\delta(x) = \begin{cases} 0 & |x|>w/2, \\ 1/w & |x|\leq w/2\end{cases}$$
 
 ## definition 2
+- the limit of a gaussian:
 $$\lim_{w\to0} \delta(x) = N\exp\left(- \frac{x^{2}}{w^{2}}\right)$$
 - this can be normalized
 - it is arbitrarily narrow
@@ -54,6 +60,6 @@ $$\begin{gather}
 $$u(x,t) = \sum\limits_{n} \sin\left(\frac{n\pi x}{L}\right) \left( C_{n}' \cos\left(\frac{n\pi t}{L}\right)+ D_{n}' \sin\left(\frac{n\pi t}{L}\right)\right)$$
 $$u(x,0) = \sum \sin \left(\frac{n\pi x}{L}\right) C'_{n} \; \forall x$$
 $$\implies C'_{n} = 0 \; \forall n$$
-$$\frac{\partial u(x,t)}{\partial t} = \sum\limits_{n} \sin\left(\frac{n\pi x}{L}\right) D_{n}'  \frac{n\pi c}{L}\cos\left(\frac{n\pi t}{L}\right)$$
+$$\frac{\partial u(x,t)}{\partial t} = \sum\limits_{n} \sin\left(\frac{n\pi x}{L}\right) D_{n}'  \frac{n\pi c}{L}\cos\left(\frac{n\pi ct}{L}\right)$$
 - at $t = 0:$
 $$\sum\limits_{n} \sin\left(\frac{n\pi x}{L}\right) D_{n}'  \frac{n\pi c}{L} = V_{0} \; \delta(x-x_{0})$$

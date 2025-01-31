@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g8-complex-exponential-form-of-solution-in-3-d/","noteIcon":"1","created":"2025-01-16T12:37:23.168+00:00","updated":"2025-01-16T12:54:11.196+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g8-complex-exponential-form-of-solution-in-3-d/","noteIcon":"1","created":"2025-01-16T12:37:23.168+00:00","updated":"2025-01-29T10:37:24.637+00:00"}
 ---
 
 ## 1D case
@@ -16,8 +16,8 @@ $$C\, e^{ikx}  = C(\cos kx  + i \sin kx) = |C| e^{i(kx + \phi)}$$
 - **note:** $\mathbf Re (|C|e^{i(kx+ \phi)}) = |C|\cos(kx + \phi)$
 
 - same applies to the time part:
-$$u(x,t) = Ce^{i(kx-\omega t)} = |C| e^{i(kx - \omega t + \phi)}$$
-- physical solutions are represented by the real pert
+$$u(x,t) = Ce^{i(kx-\omega t)} = |C| e^{i(kx + \omega t + \phi)}$$
+- physical solutions are represented by the real part
 
 - **note:** $Ce^{i(kx+\omega t)}$ also works!
 - therefore, the full solution:
@@ -29,12 +29,10 @@ $$u(x,t) = C_{1}e^{i(kx-\omega t)} + C_{2} e^{i(kx+\omega t)}$$
 $$\vec r = (x,y,z)$$
 
 - the wave equation: 
-$$\frac{\partial^{2} {u(\vec r, t)}}{\partial {t}^{2}} = \vec\nabla u(\vec r,t)$$
+$$\frac{\partial^{2} {u(\vec r, t)}}{\partial {t}^{2}} = c^{2} \nabla^{2} u(\vec r,t)$$
 
 $$u(\vec r, t) = C_{1} \exp(i(k_{x} x + k_{y} y + k_{z}z - \omega t)) + C_{2}\exp(i(k_{x} x + k_{y} y + k_{z}z + \omega t) )$$
 - defining the wavevector:
 $$\vec k = (k_{x}, k_{y}, k_{z})$$
 $$\implies u(\vec r, t) = C_{1}\exp(i(\vec k \cdot \vec r - \omega t)) + C_{2}\exp(i(\vec k \cdot \vec r + \omega t))$$
-
-
-
+	where, $\omega^{2} = c^{2} |\vec k|^{2}$

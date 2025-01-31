@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/g-partial-differential-equations/","noteIcon":"1","created":"2025-01-07T12:41:23.905+00:00","updated":"2025-01-23T10:45:34.961+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/g-partial-differential-equations/","noteIcon":"1","created":"2025-01-07T12:41:23.905+00:00","updated":"2025-01-29T12:56:31.349+00:00"}
 ---
 
 [[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G1 - functions of a single variable\|PX275 - G1 - functions of a single variable]]
@@ -12,4 +12,6 @@
 [[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G7 - dirac delta function\|PX275 - G7 - dirac delta function]]
 [[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G8 - complex exponential form of solution in 3D\|PX275 - G8 - complex exponential form of solution in 3D]]
 [[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G9 - orthogonality relations\|PX275 - G9 - orthogonality relations]]
-[[PX275 - G10 - \|PX275 - G10 - ]]
+[[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G10 - plane waves\|PX275 - G10 - plane waves]]
+[[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G11a - schrödinger equation\|PX275 - G11a - schrödinger equation]]
+[[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 -G11b - other examples\|PX275 -G11b - other examples]]

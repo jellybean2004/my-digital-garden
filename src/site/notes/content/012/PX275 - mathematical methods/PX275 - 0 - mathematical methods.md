@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-09T12:37:05.339+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-29T13:25:03.575+00:00"}
 ---
 
 <img src = 'https://i.redd.it/3jxjy5nfxq781.gif' class = 'banner'>
@@ -88,3 +88,14 @@
 [[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G1 - functions of a single variable\|PX275 - G1 - functions of a single variable]]
 [[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G2 - functions of a multiple variables\|PX275 - G2 - functions of a multiple variables]]
 [[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G3a - diffusion equation\|PX275 - G3a - diffusion equation]]
+[[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G3b - heat equation\|PX275 - G3b - heat equation]]
+[[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G4 - wave equation\|PX275 - G4 - wave equation]]
+[[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G5 - method of separation of variables\|PX275 - G5 - method of separation of variables]]
+[[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G6 - boundary and initial conditions\|PX275 - G6 - boundary and initial conditions]]
+[[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G7 - dirac delta function\|PX275 - G7 - dirac delta function]]
+[[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G8 - complex exponential form of solution in 3D\|PX275 - G8 - complex exponential form of solution in 3D]]
+[[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G9 - orthogonality relations\|PX275 - G9 - orthogonality relations]]
+[[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G10 - plane waves\|PX275 - G10 - plane waves]]
+[[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G11a - schrödinger equation\|PX275 - G11a - schrödinger equation]]
+[[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 -G11b - other examples\|PX275 -G11b - other examples]]
+### [[content/012/PX275 - mathematical methods/term 2/H - fourier series and transforms/H - fourier series and transforms\|H - fourier series and transforms]]
