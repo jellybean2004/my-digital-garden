@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h1-fluids/","noteIcon":"1","created":"2025-01-09T14:14:03.983+00:00","updated":"2025-01-09T14:37:39.656+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h1-fluids/","noteIcon":"1","created":"2025-01-09T14:14:03.983+00:00","updated":"2025-02-01T16:04:04.376+00:00"}
 ---
 
 ## definition
@@ -23,7 +23,6 @@ $$\rho = \lim_{\Delta V \to 0} \frac{\Delta m}{\Delta V}$$
 
 ![PX285 - H1 - fluids.png|500](/img/user/pics/PX285%20-%20H1%20-%20fluids.png)
 
-- in fluid mechanics, #incomplete 
 - for water, air, etc, in atmospheric pressure, $(\Delta V^{*})^{1/3} \simeq 10^{-9}$ mm
 - for scales smaller than $10^{-9}$ mm, fluid mechanics works
 
