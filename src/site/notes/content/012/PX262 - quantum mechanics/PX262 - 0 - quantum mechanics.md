@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-18T12:59:22.379+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-03T11:44:41.762+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/bc/33/e6/bc33e60f91c80e7f319adb6b59f87fa7.gif' class = 'banner'>
@@ -71,3 +71,16 @@
 
 ## term 2
 ### [[content/012/PX262 - quantum mechanics/term 2/H - many particles/H - many particles\|H - many particles]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H1 - current\|PX262 - H1 - current]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H2 - quantum mechanics and many particles\|PX262 - H2 - quantum mechanics and many particles]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H3 - free electron model (1D)\|PX262 - H3 - free electron model (1D)]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H4 - free electron model (3D)\|PX262 - H4 - free electron model (3D)]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H5 - metals in a magnetic field\|PX262 - H5 - metals in a magnetic field]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H6 - nuclear matter and the liquid drop model\|PX262 - H6 - nuclear matter and the liquid drop model]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H7 - implications for nature of nuclear forces\|PX262 - H7 - implications for nature of nuclear forces]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H8 - liquid drop model of nucleus\|PX262 - H8 - liquid drop model of nucleus]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H9 - electrons in atoms and molecules\|PX262 - H9 - electrons in atoms and molecules]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H10 - electronic configurations\|PX262 - H10 - electronic configurations]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H11 - molecules\|PX262 - H11 - molecules]]
+[[content/012/PX262 - quantum mechanics/PX262 - H12 - interacting electrons and nuclei in matter\|PX262 - H12 - interacting electrons and nuclei in matter]]
+[[content/012/PX262 - quantum mechanics/PX262 - H13 - density functional theory\|PX262 - H13 - density functional theory]]
