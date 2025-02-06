@@ -74,7 +74,7 @@ n=4,8,12,... &: \cos(2\pi)=0 & b_{n}=0 \\
 ## Q4
 $f(x) = x$ in $[-\pi,\pi)$
 - **sketch**: 
-	![Pasted image 20240205141021.png](/img/user/pics/Pasted%20image%2020240205141021.png)
+	![[Pasted image 20240205141021.png]]
 - **convergence**: point-wise (disconitinous at $x=-\pi$)
 - **symmetries**: anti-symmetric, ie: $a_{0}=0$, $a_{n}=0$
 - **coefficients and series**: $$\begin{align*}

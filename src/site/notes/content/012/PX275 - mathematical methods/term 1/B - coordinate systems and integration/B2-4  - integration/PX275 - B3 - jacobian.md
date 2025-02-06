@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/b-coordinate-systems-and-integration/b2-4-integration/px-275-b3-jacobian/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:49.574+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/b-coordinate-systems-and-integration/b2-4-integration/px-275-b3-jacobian/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-05T13:32:34.378+00:00"}
 ---
 
 - the change of variables have been made geometrically, but this can be done in a more generalized way via a method using a construct called a *jacobian*
@@ -22,7 +22,7 @@ $$ J = \left| \begin{matrix} \frac{\partial x}{\partial r} & \frac{\partial x}{\
 		$y = r\sin\theta\sin\phi$
 		$z = r\cos\theta$
 $$\begin{gather}
-	J  = r^{2}\sin\theta \\
+	J  = -r^{2}\sin\theta \\
 	dV = r^{2}\sin\theta \,dr\,d\theta\,d\phi
 \end{gather}$$
 

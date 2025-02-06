@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/b-coordinate-systems-and-integration/b2-4-integration/px-275-b3a-hyperbolic-coordinates/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:53.108+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/b-coordinate-systems-and-integration/b2-4-integration/px-275-b3a-hyperbolic-coordinates/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-05T14:16:59.124+00:00"}
 ---
 
 - consider the thermodynamics of an ideal gas: $pV = nRT$
 ![Pasted image 20241021124456.png](/img/user/pics/Pasted%20image%2020241021124456.png)
 - whilst, it can be integrated over the area, $\Omega$, it would be better to find another region
 - the problem is simplified with hyperbolic coordinates: 
-$$pV = R \;;\;\frac{p}{V}= s$$
+$$pV = r \;;\;\frac{p}{V}= s$$
 - in $(r,s)$ space, the problem is:
 ![Pasted image 20241021125012.png](/img/user/pics/Pasted%20image%2020241021125012.png)
 - going from $A$ to $B: \frac{P}{V}= c_{1} = \text{constant} \implies s$ is constant

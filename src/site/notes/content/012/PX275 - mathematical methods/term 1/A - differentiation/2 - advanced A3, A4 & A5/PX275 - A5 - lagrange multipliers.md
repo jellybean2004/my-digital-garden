@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a5-lagrange-multipliers/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:13.382+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a5-lagrange-multipliers/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-05T12:29:43.021+00:00"}
 ---
 
 -  typically, given a function, $f(x,y)$, a maxima or a minima can be found via the partial derivatives, ie: 
@@ -10,7 +10,8 @@ $$df = \frac{\partial f}{\partial x}dx + \frac{\partial f}{\partial y}dy$$
 - **note:** the constraint being exactly equal to a constant is critical for this method
 
 - at the max of $f(x,y)$ subject to the constraint, $\frac{\partial f}{\partial x}\neq0;\, \frac{\partial f}{\partial y}\neq0$, but because $g(x,y)=constant$, it can be said that $dg = \frac{\partial g}{\partial x}dx+ \frac{\partial g}{\partial y}dy=0$
-- without a formal proof, a statement for the minimum/maximum condition is: $$d(f+\lambda g)=0$$
+- without a formal proof, a statement for the minimum/maximum condition is: 
+$$d(f+\lambda g)=0$$
 	where, $\lambda$ is an undetermined constant, called the *lagrange multiplier*
 - the total differential will be: 
 $$\begin{gather} 

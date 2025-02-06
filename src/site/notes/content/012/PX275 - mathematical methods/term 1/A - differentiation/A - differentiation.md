@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/a-differentiation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-07T19:11:14.162+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/a-differentiation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-05T12:30:03.909+00:00"}
 ---
 
-[[content/012/PX275 - mathematical methods/term 1/A - differentiation/1 - introduction A1 & A2/PX275 - A1 - partial differentiation\|PX275 - A1 - partial differentiation]]
-[[content/012/PX275 - mathematical methods/term 1/A - differentiation/1 - introduction A1 & A2/PX275 - A1a - total differentiation\|PX275 - A1a - total differentiation]]
+[[content/012/PX275 - mathematical methods/term 1/A - differentiation/1 - introduction A1 & A2/PX275 - A1a - partial differentiation\|PX275 - A1 - partial differentiation]]
+[[content/012/PX275 - mathematical methods/term 1/A - differentiation/1 - introduction A1 & A2/PX275 - A1b - total differentiation\|PX275 - A1a - total differentiation]]
 [[content/012/PX275 - mathematical methods/term 1/A - differentiation/1 - introduction A1 & A2/PX275 - A2 - exact and inexact differentials\|PX275 - A2 - exact and inexact differentials]]
 [[content/012/PX275 - mathematical methods/term 1/A - differentiation/1 - introduction A1 & A2/PX275 - A2a - inexact differentials\|PX275 - A2a - inexact differentials]]
 [[content/012/PX275 - mathematical methods/term 1/A - differentiation/1 - introduction A1 & A2/PX275 - A2b - testing for exact differentials\|PX275 - A2b - testing for exact differentials]]

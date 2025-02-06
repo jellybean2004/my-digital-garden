@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-03T11:44:41.762+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-06T10:39:08.586+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/bc/33/e6/bc33e60f91c80e7f319adb6b59f87fa7.gif' class = 'banner'>
@@ -82,5 +82,7 @@
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H9 - electrons in atoms and molecules\|PX262 - H9 - electrons in atoms and molecules]]
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H10 - electronic configurations\|PX262 - H10 - electronic configurations]]
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H11 - molecules\|PX262 - H11 - molecules]]
-[[content/012/PX262 - quantum mechanics/PX262 - H12 - interacting electrons and nuclei in matter\|PX262 - H12 - interacting electrons and nuclei in matter]]
-[[content/012/PX262 - quantum mechanics/PX262 - H13 - density functional theory\|PX262 - H13 - density functional theory]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H12 - interacting electrons and nuclei in matter\|PX262 - H12 - interacting electrons and nuclei in matter]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H13 - density functional theory\|PX262 - H13 - density functional theory]]
+[[content/012/PX262 - quantum mechanics/PX262 - H14 -electrons in crystalline solids\|PX262 - H14 -electrons in crystalline solids]]
+[[content/012/PX262 - quantum mechanics/PX262 - H15 - reciprocal lattice and reciprocal space\|PX262 - H15 - reciprocal lattice and reciprocal space]]
