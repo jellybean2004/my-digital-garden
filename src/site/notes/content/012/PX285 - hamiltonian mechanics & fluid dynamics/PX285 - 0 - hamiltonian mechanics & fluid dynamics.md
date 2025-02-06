@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics-and-fluid-dynamics/","noteIcon":"2","created":"2025-01-31T13:26:07.431+00:00","updated":"2025-02-03T11:09:31.618+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics-and-fluid-dynamics/","noteIcon":"2","created":"2025-02-06T16:42:01.006+00:00","updated":"2025-02-06T16:51:45.606+00:00"}
 ---
 
 
@@ -20,6 +20,7 @@
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/C - calculus of variations/PX285 - C4 - simple pendulum\|PX285 - C4 - simple pendulum]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/C - calculus of variations/PX285 - C5 - a roller-coaster\|PX285 - C5 - a roller-coaster]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/C - calculus of variations/PX285 - C6a - multi-coordinate problems\|PX285 - C6a - multi-coordinate problems]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/C - calculus of variations/PX285 - C6b - a particle in a cartesian plane\|PX285 - C6b - a particle in a cartesian plane]]
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/D - the hamiltonian/D - the hamiltonian\|D - the hamiltonian]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/D - the hamiltonian/PX285 - D1 - the hamiltonian\|PX285 - D1 - the hamiltonian]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/D - the hamiltonian/PX285 - D2 - a constant of the motion\|PX285 - D2 - a constant of the motion]]
@@ -47,6 +48,7 @@
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G7 - example\|PX285 - G7 - example]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G8 - diatomic molecule\|PX285 - G8 - diatomic molecule]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G9 - triatomic molecule\|PX285 - G9 - triatomic molecule]]
+
 ## fluid dynamics
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/H - introduction to fluids\|H - introduction to fluids]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/PX285 - H1 - fluids\|PX285 - H1 - fluids]]
@@ -64,7 +66,13 @@
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/I - navier-stokes equation/PX285 - I2b - advective derivative\|PX285 - I2b - advective derivative]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/I - navier-stokes equation/PX285 - I3 - pressure equation\|PX285 - I3 - pressure equation]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/I - navier-stokes equation/PX285 - I4 - core equations\|PX285 - I4 - core equations]]
-[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/I - navier-stokes equation/PX285 - I5 - inital and boundary conditions\|PX285 - I5 - inital and boundary conditions]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/I - navier-stokes equation/PX285 - I5 - initial and boundary conditions\|PX285 - I5 - initial and boundary conditions]]
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/J - some approximate solutions\|J - some approximate solutions]]
-
-<img src = 'https://www.thisiscolossal.com/wp-content/uploads/2018/12/agifcolossalflow2.gif'  class = 'banner'>
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J1a - bernoulli's principle from conservation of energy\|PX285 - J1a - bernoulli's principle from conservation of energy]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J1b - bernoulli's principle from navier-stokes equation\|PX285 - J1b - bernoulli's principle from navier-stokes equation]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J2 - hydrostatic limit and archimedes' principle\|PX285 - J2 - hydrostatic limit and archimedes' principle]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J3 - water drain\|PX285 - J3 - water drain]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J4 - venturi pipe\|PX285 - J4 - venturi pipe]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J5 - stagnation point\|PX285 - J5 - stagnation point]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J6 - pitot pipe\|PX285 - J6 - pitot pipe]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J7- surface waves\|PX285 - J7- surface waves]]

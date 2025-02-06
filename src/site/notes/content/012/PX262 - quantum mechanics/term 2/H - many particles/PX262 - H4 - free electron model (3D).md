@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/px-262-h4-free-electron-model-3-d/","noteIcon":"1","created":"2025-01-13T11:11:53.829+00:00","updated":"2025-01-29T16:47:31.158+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/px-262-h4-free-electron-model-3-d/","noteIcon":"1","created":"2025-01-13T11:11:53.829+00:00","updated":"2025-02-06T11:09:27.671+00:00"}
 ---
 
 - considering a box of dimensions: $L_{x} \times L_{y} \times L_{z}$
@@ -64,7 +64,7 @@ and the number between $E$ and $\Delta E + dE$
 $$n(E)\,dE = \frac{dN}{dE} \,dE = \frac{3}{2} \frac{V}{3\pi^{2}} \left(\frac{2m_{e}}{\hbar^{2}}\right)^{3/2}E^{1/2}\,dE$$
 ie. the density of states:
 $$n(E) = \frac{V}{2\pi^{2}} \frac{2m_{e}}{\hbar^{2}}^{3/2} E^{1/2}$$
-- let $\alpha = \cfrac{1}{2\pi^{2}} \cfrac{2m_{e}}{\hbar^{2}}^{3/2} {}$
+- let ${} \alpha = \cfrac{1}{2\pi^{2}} (\cfrac{2m_{e}}{\hbar^{2}})^{3/2} {}$
 $$N = \int_{0}^{E_{F}} n(E)\,dE = V \alpha E_{F}^{3/2} \frac{2}{3}$$
 - $n(E)$ can be used to compute some properties
 - the simplest is the total energy:

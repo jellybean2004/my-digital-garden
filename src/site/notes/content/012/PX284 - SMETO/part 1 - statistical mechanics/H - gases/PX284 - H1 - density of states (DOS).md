@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/h-gases/px-284-h1-density-of-states-dos/","noteIcon":"1","created":"2025-01-09T15:13:21.746+00:00","updated":"2025-01-20T11:52:21.519+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/h-gases/px-284-h1-density-of-states-dos/","noteIcon":"1","created":"2025-01-09T15:13:21.746+00:00","updated":"2025-02-06T12:03:25.619+00:00"}
 ---
 
 - also in [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H3 - free electron model (1D)\|PX262 - H3 - free electron model (1D)]]
@@ -31,6 +31,6 @@ k_{z} = \cfrac{2\pi}{L} n_{z}
 
 - in 3D, this must be given by the volume of spherical shell of thickness, $dk$, and radius, $k$, divided by the volume of one $k$-state:
 $$g(k)\, dk = 4\pi k^{2}\,\frac{dk}{(2\pi/L)^{3}}$$
-$$\boxed{g(k)\,dk = \frac{Vk^{2}}{2\pi}dk}$$
+$$\boxed{g(k)\,dk = \frac{Vk^{2}}{2\pi^{2}}dk}$$
 	where, $V$ is the volume of the container
 

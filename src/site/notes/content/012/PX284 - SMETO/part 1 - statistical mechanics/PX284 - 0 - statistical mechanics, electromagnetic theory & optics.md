@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-03T19:27:00.194+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-06T15:17:40.853+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0b/fe/e5/0bfee5f0553195c340ed579aa2a1c0bb.gif' class = 'banner'>
@@ -62,3 +62,5 @@
 ### [[content/012/PX284 - SMETO/part 1 - statistical mechanics/L - exchange symmetry/L - exchange symmetry\|L - exchange symmetry]]
 
 ### [[content/012/PX284 - SMETO/part 1 - statistical mechanics/M - fermions/M - fermions\|M - fermions]]
+
+### [[content/012/PX284 - SMETO/part 1 - statistical mechanics/N - bosons\|N - bosons]]

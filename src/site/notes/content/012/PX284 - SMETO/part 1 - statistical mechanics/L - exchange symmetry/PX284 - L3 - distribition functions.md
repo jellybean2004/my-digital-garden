@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/l-exchange-symmetry/px-284-l3-distribition-functions/","noteIcon":"1","created":"2025-01-27T10:34:01.282+00:00","updated":"2025-01-30T15:14:49.243+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/l-exchange-symmetry/px-284-l3-distribition-functions/","noteIcon":"1","created":"2025-01-27T10:34:01.282+00:00","updated":"2025-02-06T14:20:59.791+00:00"}
 ---
 
 - considering a many-particle system with a single state at energy, $E$
@@ -46,3 +46,4 @@ $$f_{BE}(E) = \frac{1}{\exp(\beta (E - \mu))-1}$$
 $$N = \int_{0}^{\infty} g(E)\, f(E)\, dE$$
 - and, the internal energy:
 $$U = \int_{0}^{\infty} E\, g(E)\, f(E)\, dE$$
+

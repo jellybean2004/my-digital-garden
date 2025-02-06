@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h4-example-of-fourier-transform/","noteIcon":"1","created":"2025-02-04T18:06:38.830+00:00","updated":"2025-02-04T18:32:35.892+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h4-example-of-fourier-transform/","noteIcon":"1","created":"2025-02-04T18:06:38.830+00:00","updated":"2025-02-06T14:21:25.186+00:00"}
 ---
-
 
 - eg: $f(x) = \delta(x-y)$
 $$\tilde f(k) = \int_{-\infty}^{\infty} \delta(x-y) e^{-ikx}\,dx = e^{-iky}$$
