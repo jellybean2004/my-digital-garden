@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics-and-fluid-dynamics/","noteIcon":"2","created":"2025-02-06T16:42:01.006+00:00","updated":"2025-02-06T16:51:45.606+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics-and-fluid-dynamics/","pinned":true,"noteIcon":"2","created":"2025-02-06T16:42:01.006+00:00","updated":"2025-02-06T16:58:45.348+00:00"}
 ---
 
 
 <img src = 'https://i.pinimg.com/originals/74/b1/5c/74b15cba6d83f1a7f158ad235a8ee812.gif' class = 'banner'>
+
 ## hamiltonian mechanics
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/A - introduction/A - introduction\|A - introduction]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/A - introduction/PX285 - A1 - newton's laws\|PX285 - A1 - newton's laws]]
@@ -21,6 +22,8 @@
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/C - calculus of variations/PX285 - C5 - a roller-coaster\|PX285 - C5 - a roller-coaster]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/C - calculus of variations/PX285 - C6a - multi-coordinate problems\|PX285 - C6a - multi-coordinate problems]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/C - calculus of variations/PX285 - C6b - a particle in a cartesian plane\|PX285 - C6b - a particle in a cartesian plane]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/C - calculus of variations/PX285 - C6c - two particles in 1D\|PX285 - C6c - two particles in 1D]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/C - calculus of variations/PX285 - C6d - two particles in 3D\|PX285 - C6d - two particles in 3D]]
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/D - the hamiltonian/D - the hamiltonian\|D - the hamiltonian]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/D - the hamiltonian/PX285 - D1 - the hamiltonian\|PX285 - D1 - the hamiltonian]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/D - the hamiltonian/PX285 - D2 - a constant of the motion\|PX285 - D2 - a constant of the motion]]
