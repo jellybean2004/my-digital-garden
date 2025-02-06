@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h6-fourier-transforms-in-the-time-domain/","noteIcon":"1","created":"2025-02-06T14:42:04.218+00:00","updated":"2025-02-06T17:38:07.731+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h6-fourier-transforms-in-the-time-domain/","noteIcon":"1","created":"2025-02-06T14:42:04.218+00:00","updated":"2025-02-06T18:20:46.299+00:00"}
 ---
 
 - considering a time dependent function, $f(t)$
@@ -9,7 +9,7 @@ e^{i\omega t}e^{-\gamma t} & t\geq 0
 \end{cases}$$
 - so, it has an oscillating term, and a damping term
 
-
+![PX275 - H6 - fourier transforms in the time domain.png|500](/img/user/pics/PX275%20-%20H6%20-%20fourier%20transforms%20in%20the%20time%20domain.png)
 
 - a useful function is the heavyside (step) function:
 $$H(t) = \begin{cases}
@@ -17,11 +17,11 @@ $$H(t) = \begin{cases}
 0 & t < 0
 \end{cases}$$
 
-
+![PX275 - H6 - fourier transforms in the time domain-1.png|500](/img/user/pics/PX275%20-%20H6%20-%20fourier%20transforms%20in%20the%20time%20domain-1.png)
 
 - rewriting the amplitude as:
 $$f(t) = H(t) e^{i\omega_{0}t}e^{-\gamma t}$$
-- the total power:
+- so, the total power:
 $$I_{tot} = \int_{-\infty}^{\infty} |f(t)|^{2} \, dt = \frac{1}{2\pi} \int_{-\infty}^{\infty}|\tilde f(\omega)|^{2}\,d\omega$$
 - this is [[content/012/PX275 - mathematical methods/term 2/H - fourier series and transforms/PX275 - H5 - parseval's theorem\|parseval's theorem]] in time domain: $f(t) \to \tilde f(\omega)$ instead of  $f(x) \to \tilde f(k)$
 

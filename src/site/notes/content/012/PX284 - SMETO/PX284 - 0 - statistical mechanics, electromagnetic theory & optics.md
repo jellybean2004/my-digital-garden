@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-06T16:56:34.584+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-06T18:19:20.952+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/0b/fe/e5/0bfee5f0553195c340ed579aa2a1c0bb.gif' class = 'banner'>
 
+## statistical mechanics
 ### [[content/012/PX284 - SMETO/part 1 - statistical mechanics/A - probability/A - probability\|A - probability]]
 [[content/012/PX284 - SMETO/part 1 - statistical mechanics/A - probability/PX283 - A1 - discrete probability distributions\|PX283 - A1 - discrete probability distributions]]
 [[content/012/PX284 - SMETO/part 1 - statistical mechanics/A - probability/PX284 - A2 - continuous probability distributions\|PX284 - A2 - continuous probability distributions]]
@@ -60,7 +61,16 @@
 [[content/012/PX284 - SMETO/part 1 - statistical mechanics/K - phonons/PX284 - K1 - einstein model\|PX284 - K1 - einstein model]]
 [[content/012/PX284 - SMETO/part 1 - statistical mechanics/K - phonons/PX284 - K2 - debye model\|PX284 - K2 - debye model]]
 ### [[content/012/PX284 - SMETO/part 1 - statistical mechanics/L - exchange symmetry/L - exchange symmetry\|L - exchange symmetry]]
-
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/L - exchange symmetry/PX284 - L1 - exchange symmetry\|PX284 - L1 - exchange symmetry]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/L - exchange symmetry/PX284 - L2 - pauli exclusion principle\|PX284 - L2 - pauli exclusion principle]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/L - exchange symmetry/PX284 - L3 - distribution functions\|PX284 - L3 - distribution functions]]
 ### [[content/012/PX284 - SMETO/part 1 - statistical mechanics/M - fermions/M - fermions\|M - fermions]]
-
-### [[content/012/PX284 - SMETO/part 1 - statistical mechanics/N - bosons\|N - bosons]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/M - fermions/PX284 - M1 - electron gas\|PX284 - M1 - electron gas]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/M - fermions/PX284 - M2 - fermi energy\|PX284 - M2 - fermi energy]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/M - fermions/PX284 - M3 - degeneracy pressure\|PX284 - M3 - degeneracy pressure]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/M - fermions/PX284 - M4 - heat capacity\|PX284 - M4 - heat capacity]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/M - fermions/PX284 - M5 - neutron stars\|PX284 - M5 - neutron stars]]
+### [[content/012/PX284 - SMETO/part 1 - statistical mechanics/N - bosons/N - bosons\|N - bosons]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/N - bosons/PX284 - N1 - recap\|PX284 - N1 - recap]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/N - bosons/PX284 - N2 - boson gases\|PX284 - N2 - boson gases]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/N - bosons/PX284 - N3 - bose-einstein condensation\|PX284 - N3 - bose-einstein condensation]]
