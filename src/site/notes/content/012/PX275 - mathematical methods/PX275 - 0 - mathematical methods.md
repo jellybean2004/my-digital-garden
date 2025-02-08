@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-05T12:30:03.212+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-08T16:05:58.369+00:00"}
 ---
 
 <img src = 'https://i.redd.it/3jxjy5nfxq781.gif' class = 'banner'>
@@ -47,7 +47,7 @@
 [[content/012/PX275 - mathematical methods/term 1/C - vector calculus/PX275 - C1c - interpretation of div\|PX275 - C1c - interpretation of div]]
 [[content/012/PX275 - mathematical methods/term 1/C - vector calculus/PX275 - C1d - curl\|PX275 - C1d - curl]]
 [[content/012/PX275 - mathematical methods/term 1/C - vector calculus/PX275 - C1e - examples of curl\|PX275 - C1e - examples of curl]]
-[[content/012/PX275 - mathematical methods/term 1/C - vector calculus/PX275 - C1f - example\|PX275 - C1f - example]]
+[[content/012/PX275 - mathematical methods/term 1/C - vector calculus/PX275 - C1f - example of curl II\|PX275 - C1f - example]]
 [[content/012/PX275 - mathematical methods/term 1/C - vector calculus/PX275 - C1g - interpretation of curl\|PX275 - C1g - interpretation of curl]]
 [[content/012/PX275 - mathematical methods/term 1/C - vector calculus/PX275 - C2a - grad squared\|PX275 - C2a - grad squared]]
 [[content/012/PX275 - mathematical methods/term 1/C - vector calculus/PX275 - C2b - examples of using the laplacian\|PX275 - C2b - examples of using the laplacian]]
@@ -60,7 +60,7 @@
 [[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3b - proof of green's theorem\|PX275 - D3b - proof of green's theorem]]
 [[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3c - application of green's theorem\|PX275 - D3c - application of green's theorem]]
 [[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3d - area of an ellipse\|PX275 - D3d - area of an ellipse]]
-[[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3e - the divergence theorem in 2D\|PX275 - D3e - the divergence theorem in 2D]]
+[[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3e - divergence theorem in 2D\|PX275 - D3e - the divergence theorem in 2D]]
 [[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3f - physical significance of the divergence theorem\|PX275 - D3f - physical significance of the divergence theorem]]
 [[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3g - the physical significance of green's theorem in the plane\|PX275 - D3g - the physical significance of green's theorem in the plane]]
 #### vector surface integrals

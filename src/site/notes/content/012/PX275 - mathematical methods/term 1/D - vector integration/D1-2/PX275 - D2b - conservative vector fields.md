@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d1-2/px-275-d2b-conservative-vector-fields/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:05:39.062+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d1-2/px-275-d2b-conservative-vector-fields/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-08T14:58:43.281+00:00"}
 ---
 
 ## conditions
@@ -51,8 +51,8 @@ $$\begin{align*}
 	\vec\nabla \times \vec F&= 0
 \end{align*}$$
 $$\begin{align*}
-	\oint_{C} \vec F\cdot d\vec r &= \oint \left(\frac{-y}{x^{2}+y^{2}} \hat i + \frac{x}{x^{2}+y^{2}}\hat j\right) \cdot (-\sin\phi\,dx\, \hat i + \cos\phi \,dy\, \hat j) \\
-	&= \oint \left(\frac{y\sin\phi}{x^{2}+y^{2}}dx + \frac{x\cos\phi}{x^{2}+y^{2}}dy\right) \\
-	&= \oint 1\\
+	\oint_{C} \vec F\cdot d\vec r &= \oint \left(\frac{-y}{x^{2}+y^{2}} \hat i + \frac{x}{x^{2}+y^{2}}\hat j\right) \cdot (-r\sin\phi\,dphi\, \hat i + r\cos\phi \,d\phi\, \hat j) \\
+	&= \oint \left(\frac{y\sin\phi}{x^{2}+y^{2}} + \frac{x\cos\phi}{x^{2}+y^{2}}\right)  \, r d\phi\\
+	&= \oint d\phi\\
 	&= 2\pi 
 \end{align*}$$

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d-vector-integration/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-07T19:11:15.227+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d-vector-integration/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-08T16:05:59.433+00:00"}
 ---
 
 [[content/012/PX275 - mathematical methods/term 1/D - vector integration/D1-2/PX275 - D1 - vector displacements\|PX275 - D1 - vector displacements]]
@@ -10,7 +10,7 @@
 [[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3b - proof of green's theorem\|PX275 - D3b - proof of green's theorem]]
 [[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3c - application of green's theorem\|PX275 - D3c - application of green's theorem]]
 [[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3d - area of an ellipse\|PX275 - D3d - area of an ellipse]]
-[[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3e - the divergence theorem in 2D\|PX275 - D3e - the divergence theorem in 2D]]
+[[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3e - divergence theorem in 2D\|PX275 - D3e - the divergence theorem in 2D]]
 [[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3f - physical significance of the divergence theorem\|PX275 - D3f - physical significance of the divergence theorem]]
 [[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3g - the physical significance of green's theorem in the plane\|PX275 - D3g - the physical significance of green's theorem in the plane]]
 ### vector surface integrals

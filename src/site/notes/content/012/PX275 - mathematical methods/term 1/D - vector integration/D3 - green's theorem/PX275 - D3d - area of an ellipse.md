@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d3-green-s-theorem/px-275-d3d-area-of-an-ellipse/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:05:47.954+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d3-green-s-theorem/px-275-d3d-area-of-an-ellipse/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-08T15:57:09.291+00:00"}
 ---
 
 ![Pasted image 20241114121218.png](/img/user/pics/Pasted%20image%2020241114121218.png)
@@ -7,7 +7,7 @@
 $$\begin{align*}
 	x &= a\cos\phi \\
 	y &= b\sin\phi \\
-	&0 \leq \phi\leq 2
+	&0 \leq \phi\leq 2\pi
 \end{align*}$$
 taking the differentials of $x$ and $y:$ 
 $$\begin{align*}
