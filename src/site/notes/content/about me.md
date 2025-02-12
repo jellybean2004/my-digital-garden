@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/about-me/","noteIcon":"1","created":"2025-02-12T16:08:30.067+00:00","updated":"2025-02-12T17:06:38.253+00:00"}
+{"dg-publish":true,"permalink":"/content/about-me/","noteIcon":"2","created":"2025-02-12T16:08:30.067+00:00","updated":"2025-02-12T17:09:05.149+00:00"}
 ---
 
 # hello!
@@ -15,7 +15,7 @@ other than that, you will mostly find me being chronically online. often, you wi
 
 the field of physics i find myself most interested in is cosmology. it is incredibly hard, but i love the beauty it enshrines. i also highly enjoy astrophysics and particle physics. i am still on the fence about where i would like to go; perhaps it is not even physics!  publishing my university notes is one of the projects i started in year 2; do check out [[content/the green house\|my digital garden]].
 
-an interesting fact about is is that i know quite a few languages. the reason i hesitate to state a number is because i am not proficient in all of them. my native tongue is nepali, but i would consider myself more fluent in english. i picked up hindi, urdu and newari along the way from tv and my parents, but i am not confident in conversing in them. i can read hindi, as it is written using the same letters as nepali, but not newari and urdu. i am currently learning french... on duolingo.... yah, not as impressive, but ask me how long my streak is! although i highly doubt that i will ever be able to understand people speaking the language, unless i relocate to a francophone country. i was also learning dutch a while ago, and if you speak it reeeally slowly,  exclusively using basic words, there is a highly likelyhood of me getting you. once upon a time, i also tried learning danish, but it didn't go very far.
+an interesting fact about is is that i know quite a few languages. the reason i hesitate to state a number is because i am not proficient in all of them. my native tongue is nepali, but i would consider myself more fluent in english. i picked up hindi, urdu and newari along the way from tv and my parents, but i am not confident in conversing in them. i can read hindi, as it is written using the same letters as nepali, but not newari and urdu. i am currently learning french... on duolingo.... yah, not as impressive, but ask me how long my streak is! although i highly doubt that i will ever be able to understand people speaking the language, unless i relocate to a francophone country. i was also learning dutch a while ago, and if you speak it reeeally slowly,  exclusively using basic words, there is a high likelyhood of me getting you. once upon a time, i also tried learning danish, but it didn't go very far.
 
 that's about it really...
 
