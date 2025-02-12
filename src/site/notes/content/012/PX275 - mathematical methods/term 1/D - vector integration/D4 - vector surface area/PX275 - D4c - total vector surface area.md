@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d4-vector-surface-area/px-275-d4c-total-vector-surface-area/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-27T23:01:50.626+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d4-vector-surface-area/px-275-d4c-total-vector-surface-area/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-10T13:03:35.969+00:00"}
 ---
 
 - to evaluate the **vector area**: 
@@ -18,12 +18,14 @@ $$\begin{align*}
 - considering the $\hat i, \hat j, \hat k$ components individually for the hemisphere
 #### the $\hat k$-component
 $$\begin{align*}
-	\vec S_{2(k)} &= \iint r^{2} \sin\theta \, d\theta\, d\phi \cos\theta \, \hat k \\
+	\vec S_{2(k)} &= \int dA\cos\theta \hat k \\
+	&= \iint r^{2} \sin\theta \, d\theta\, d\phi \cos\theta \, \hat k \\
 	&= \int_{0}^{\frac{\pi}{2}} \int_{0}^{2\pi} a^{2} \sin\theta \cos\theta\, d\phi \, d\theta \, \hat k \\
 	&= 2\pi a^{2}\, \hat k \int_{0}^{\frac{\pi}{2}} \sin\theta\cos\theta\, d\theta \\
 	&= 2\pi a^{2} \left[\frac{\sin^{2}\theta}{2}\right]_{0}^{\frac{\pi}{2}}\, \hat k \\
 	&= \pi a^{2} \, \hat k 
 \end{align*}$$
+- **note:** $\cos\theta$ because this is the projection of $\hat n$ on $\hat k$
 #### the $\hat i$-component
 - the $\hat i$-component of ${} \hat e_{r}$ is $\sin\theta\cos\phi$
 $$\begin{align*}

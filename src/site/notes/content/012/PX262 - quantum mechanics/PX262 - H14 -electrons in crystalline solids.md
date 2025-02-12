@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-h14-electrons-in-crystalline-solids/","noteIcon":"1","created":"2025-02-06T10:07:40.612+00:00","updated":"2025-02-06T10:38:42.330+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-h14-electrons-in-crystalline-solids/","noteIcon":"1","created":"2025-02-06T10:07:40.612+00:00","updated":"2025-02-10T16:22:26.882+00:00"}
 ---
 
 - in many solid materials, the nuclei are arranged into ordered structures, ie. **crystal lattices**
@@ -20,6 +20,9 @@
 - they are in seven groups: cubic, tetragonal, orthorhombic, hexagonal, trigonal, monoclinic, and triclinic
 
 ## wigner-seitz cell
+{ #c1c48b}
+
+
 - this is a cell which is constructed around a lattice point
 - it is the space enclosed by the planes that bisect, and are perpendicular to the vectors connecting the point to each of the nearest neighbours
 
