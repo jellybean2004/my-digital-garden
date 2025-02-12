@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics-and-fluid-dynamics/","pinned":true,"noteIcon":"2","created":"2025-02-06T16:42:01.006+00:00","updated":"2025-02-06T16:58:45.348+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics-and-fluid-dynamics/","pinned":true,"noteIcon":"2","created":"2025-02-06T16:42:01.006+00:00","updated":"2025-02-12T16:47:00.636+00:00"}
 ---
 
 
 <img src = 'https://i.pinimg.com/originals/74/b1/5c/74b15cba6d83f1a7f158ad235a8ee812.gif' class = 'banner'>
+
+*image: [stallfish](https://steamcommunity.com/sharedfiles/filedetails/?id=453141734) *
 
 ## hamiltonian mechanics
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/A - introduction/A - introduction\|A - introduction]]

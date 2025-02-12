@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-06T18:21:24.697+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-12T16:50:54.060+00:00"}
 ---
 
 
 <img src = 'https://i.pinimg.com/originals/0a/12/e1/0a12e130650543cf5b165a008d1604e3.gif'  class = 'banner'>
 
-# my digital garden  
+*image: [minimoss](https://mini-moss.tumblr.com/)*
+
+# the green house  
 ---
 ## hello world! 🌍
 
 - welcome to my digital garden. this is a collection of my university notes.
-- you may occasionally find some broken latex codes. if you do, please help me out by letting me know. 
-
-
+- if you don't know me, or want to giggle at my painfully written bio, please go to [[content/about me\|about me]]
 
 ---
 ## yearly notes 🌌
@@ -36,6 +36,9 @@
 ---
 <img src = "https://i.pinimg.com/originals/d6/d7/08/d6d708434397d59a043343235aeb6d69.gif" class = "banner">
 
+*image: [moertel](https://moer.tel/)*
+
+- you may occasionally find some broken latex codes. if you do, please help me out by letting me know. 
 ---
 ## contact me 📫
 

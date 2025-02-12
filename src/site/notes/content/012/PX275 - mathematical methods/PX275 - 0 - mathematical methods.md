@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-08T16:05:58.369+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-12T16:45:47.288+00:00"}
 ---
 
 <img src = 'https://i.redd.it/3jxjy5nfxq781.gif' class = 'banner'>
 
-[[content/012/PX275 - mathematical methods/PX275 - formula sheet\|PX275 - formula sheet]]
+*image: [sleepy neno](https://www.reddit.com/r/calculus/comments/rogmxb/some_calculus_formulae_put_into_pixel_art/) *
 ## term 1
 ### [[content/012/PX275 - mathematical methods/term 1/A - differentiation/A - differentiation\|A - differentiation]]
 [[content/012/PX275 - mathematical methods/term 1/A - differentiation/1 - introduction A1 & A2/PX275 - A1a - partial differentiation\|PX275 - A1 - partial differentiation]]

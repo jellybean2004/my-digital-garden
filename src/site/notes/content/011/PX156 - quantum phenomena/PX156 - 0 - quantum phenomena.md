@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-0-quantum-phenomena/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-20T17:17:43.921+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-0-quantum-phenomena/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-12T16:49:15.809+00:00"}
 ---
-
-<img src = 'https://i.redd.it/mlo5t8m023c91.gif' class = 'banner'>
 
 ## quantum phenomena
 ### [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - A - light/A - light\|A - light]]

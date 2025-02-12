@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-11T09:49:41.714+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-12T16:45:58.324+00:00"}
 ---
-
-<img src = 'https://i.pinimg.com/originals/0b/fe/e5/0bfee5f0553195c340ed579aa2a1c0bb.gif' class = 'banner'>
 
 ## statistical mechanics
 ### [[content/012/PX284 - SMETO/part 1 - statistical mechanics/A - probability/A - probability\|A - probability]]

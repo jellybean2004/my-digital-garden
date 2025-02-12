@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/px-282-0-stars-and-solar-system/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-07T11:03:57.830+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/px-282-0-stars-and-solar-system/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-12T16:45:27.266+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/d5/b0/80/d5b080e257c1e7403f9827a480042261.gif' class  = 'banner'>
+
+*image: [aaron warner](https://in.pinterest.com/pin/795589090457241350/) *
 
 ## stars
 ### [[content/012/PX282 - stars and solar system/term 1 - stars/A - introduction/A - introduction\|A - introduction]]
