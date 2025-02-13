@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics-and-fluid-dynamics/","pinned":true,"noteIcon":"2","created":"2025-02-06T16:42:01.006+00:00","updated":"2025-02-12T16:47:00.636+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics-and-fluid-dynamics/","pinned":true,"noteIcon":"2","created":"2025-02-06T16:42:01.006+00:00","updated":"2025-02-13T14:15:55.992+00:00"}
 ---
 
 
@@ -81,3 +81,5 @@
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J5 - stagnation point\|PX285 - J5 - stagnation point]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J6 - pitot pipe\|PX285 - J6 - pitot pipe]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J7- surface waves\|PX285 - J7- surface waves]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J8 - aerofoil\|PX285 - J8 - aerofoil]]
+### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/K - circulation and vorticity\|K - circulation and vorticity]]

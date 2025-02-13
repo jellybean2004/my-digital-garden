@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/h-many-particles/","noteIcon":"1","created":"2025-01-06T18:16:21.763+00:00","updated":"2025-02-10T16:45:48.387+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-many-particles/h-many-particles/","noteIcon":"1","created":"2025-01-06T18:16:21.763+00:00","updated":"2025-02-13T10:07:44.786+00:00"}
 ---
 
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H1 - current\|PX262 - H1 - current]]
@@ -20,3 +20,4 @@
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H16 - wavevector space and brillouin zone\|PX262 - H16 - wavevector space and brillouin zone]]
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H17 - electrons in crystalline solids\|PX262 - H17 - electrons in crystalline solids]]
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H18 - block wavefunctions, electronic energy bands and gaps\|PX262 - H18 - block wavefunctions, electronic energy bands and gaps]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H19 - energy gaps\|PX262 - H19 - energy gaps]]

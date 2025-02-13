@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/h-fourier-series-and-transforms/","noteIcon":"1","created":"2025-01-29T13:25:08.606+00:00","updated":"2025-02-12T15:50:54.332+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/h-fourier-series-and-transforms/","noteIcon":"1","created":"2025-01-29T13:25:08.606+00:00","updated":"2025-02-13T12:31:37.489+00:00"}
 ---
 
 [[content/012/PX275 - mathematical methods/term 2/H - fourier series and transforms/PX275 - H1 - complex fourier series\|PX275 - H1 - complex fourier series]]
@@ -11,3 +11,5 @@
 [[content/012/PX275 - mathematical methods/term 2/H - fourier series and transforms/PX275 - H7a - convolutions\|PX275 - H7a - convolutions]]
 [[content/012/PX275 - mathematical methods/term 2/H - fourier series and transforms/PX275 - H7b - examples of convolutions\|PX275 - H7b - examples of convolutions]]
 [[content/012/PX275 - mathematical methods/term 2/H - fourier series and transforms/PX275 - H8 - multidimensional convolutions\|PX275 - H8 - multidimensional convolutions]]
+[[content/012/PX275 - mathematical methods/term 2/H - fourier series and transforms/PX275 - H9 - fourier transforms and differential equations\|PX275 - H9 - fourier transforms and differential equations]]
+[[content/012/PX275 - mathematical methods/term 2/H - fourier series and transforms/PX275 - H10 - fourier transforms and partial differential equations\|PX275 - H10 - fourier transforms and partial differential equations]]
