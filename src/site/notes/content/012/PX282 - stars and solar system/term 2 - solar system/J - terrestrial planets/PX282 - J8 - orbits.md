@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j8-orbits/","noteIcon":"1","created":"2025-02-14T11:32:52.259+00:00","updated":"2025-02-14T11:57:03.986+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j8-orbits/","noteIcon":"1","created":"2025-02-14T11:32:52.259+00:00","updated":"2025-02-14T16:06:51.056+00:00"}
 ---
 
 - planets show ***secular resonances***, which are oscillations in eccentricity and inclination
@@ -18,8 +18,9 @@ $$\frac{1}{P_{solar}}= \frac{1}{P_{spin}} - \frac{1}{P_{orbit}}$$
 
 - mercury's rotation is stuck in $3:2$ resonance with its eccentric orbit (spins $1.5$ times per orbit), keeping its small permanent deformation aligned with the sun at perihelion (where tidal forces are the strongest)
 ## obliquity
-- it is the angle at which the spin axis is tipped
+- **obliquity** is the angle at which the spin axis is tipped
+
 - mercury and venus have very small obliquities due to tidal synchronizations
 - earth and mars have an obliquity $\sim 23\degree$
 - this is the reason for seasons
-- 
+
