@@ -82,4 +82,4 @@
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J6 - pitot pipe\|PX285 - J6 - pitot pipe]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J7- surface waves\|PX285 - J7- surface waves]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J8 - aerofoil\|PX285 - J8 - aerofoil]]
-### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/K - circulation and vorticity\|K - circulation and vorticity]]
+### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/K - circulation and vorticity/K - circulation and vorticity\|K - circulation and vorticity]]

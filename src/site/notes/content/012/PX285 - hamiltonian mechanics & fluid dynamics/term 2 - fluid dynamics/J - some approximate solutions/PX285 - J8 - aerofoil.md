@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j8-aerofoil/","noteIcon":"1","created":"2025-02-13T14:07:26.936+00:00","updated":"2025-02-13T14:15:38.945+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j8-aerofoil/","noteIcon":"1","created":"2025-02-13T14:07:26.936+00:00","updated":"2025-02-14T14:22:46.287+00:00"}
 ---
 
-#fig ![PX285 - J8 - aerofoil.png](/img/user/pics/PX285%20-%20J8%20-%20aerofoil.png)
+![PX285 - J8 - aerofoil-1.png|500](/img/user/pics/PX285%20-%20J8%20-%20aerofoil-1.png)
 
 - in the reference frame of aerofoil
 - assuming air is incompressible
