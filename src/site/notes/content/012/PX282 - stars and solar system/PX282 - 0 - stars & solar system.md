@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/px-282-0-stars-and-solar-system/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-12T16:45:27.266+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/px-282-0-stars-and-solar-system/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-14T16:47:59.664+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/d5/b0/80/d5b080e257c1e7403f9827a480042261.gif' class  = 'banner'>
@@ -101,3 +101,16 @@
 [[content/012/PX282 - stars and solar system/term 2 - solar system/I - planetary motion/PX282 - I6a - three body problem I\|PX282 - I6a - three body problem I]]
 [[content/012/PX282 - stars and solar system/term 2 - solar system/I - planetary motion/PX282 - I6b - three body problem II\|PX282 - I6b - three body problem II]]
 ### [[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/J - terrestrial planets\|J - terrestrial planets]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J1 - mercury\|PX282 - J1 - mercury]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J2 - venus\|PX282 - J2 - venus]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J3 - earth\|PX282 - J3 - earth]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J4 - mars\|PX282 - J4 - mars]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J5 - interiors\|PX282 - J5 - interiors]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J6 - surfaces\|PX282 - J6 - surfaces]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J7a - atmospheres\|PX282 - J7a - atmospheres]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J7b - greenhouse effect\|PX282 - J7b - greenhouse effect]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J7c - earth and venus\|PX282 - J7c - earth and venus]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J7d - atmospheric escape\|PX282 - J7d - atmospheric escape]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J8 - orbits\|PX282 - J8 - orbits]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J9 - moons\|PX282 - J9 - moons]]
+### [[content/012/PX282 - stars and solar system/K - giant planets\|K - giant planets]]
