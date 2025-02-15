@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-13T22:40:48.194+00:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-15T12:57:13.590+00:00"}
 ---
 
 
@@ -10,10 +10,8 @@
 # the green house  
 ---
 ## hello world! 🌍
-
 - welcome to my digital garden. this is a collection of my university notes.
-- if you don't know me, or want to giggle at my painfully written bio, please go to [[content/about me\|about me]]
-- you may also want to check out my creative work at [[content/bagaicha\|bagaicha]]
+- if you don't know me, or if you know me and want to giggle at my painfully written bio, please go to [[content/about me\|about me]]
 
 ---
 ## yearly notes 🌌
