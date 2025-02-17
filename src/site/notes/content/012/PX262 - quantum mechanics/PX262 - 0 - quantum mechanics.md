@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics/","noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-12T16:42:02.394+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics/","noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-17T13:04:40.680+00:00"}
 ---
 
 
@@ -83,5 +83,10 @@
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H11 - molecules\|PX262 - H11 - molecules]]
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H12 - interacting electrons and nuclei in matter\|PX262 - H12 - interacting electrons and nuclei in matter]]
 [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H13 - density functional theory\|PX262 - H13 - density functional theory]]
-[[content/012/PX262 - quantum mechanics/PX262 - H14 -electrons in crystalline solids\|PX262 - H14 -electrons in crystalline solids]]
-[[content/012/PX262 - quantum mechanics/PX262 - H15 - reciprocal lattice and reciprocal space\|PX262 - H15 - reciprocal lattice and reciprocal space]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H14 -electrons in crystalline solids\|PX262 - H14 -electrons in crystalline solids]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H15 - reciprocal lattice and reciprocal space\|PX262 - H15 - reciprocal lattice and reciprocal space]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H16 - wavevector space and brillouin zone\|PX262 - H16 - wavevector space and brillouin zone]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H17 - electrons in crystalline solids\|PX262 - H17 - electrons in crystalline solids]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H18 - block wavefunctions, electronic energy bands and gaps\|PX262 - H18 - block wavefunctions, electronic energy bands and gaps]]
+[[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H19 - energy gaps\|PX262 - H19 - energy gaps]]
+### [[content/012/PX262 - quantum mechanics/term 2/I - semiconductors/I - semiconductors\|I - semiconductors]]

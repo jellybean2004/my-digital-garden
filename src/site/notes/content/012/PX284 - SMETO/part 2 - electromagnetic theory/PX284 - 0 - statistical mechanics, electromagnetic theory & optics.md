@@ -74,10 +74,10 @@
 [[content/012/PX284 - SMETO/part 1 - statistical mechanics/N - bosons/PX284 - N3 - bose-einstein condensation\|PX284 - N3 - bose-einstein condensation]]
 
 ## electromagnetic theory
-### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/O - introduction to EMT\|O - introduction to EMT]]
-[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/PX284 - O1 - required maths\|PX284 - O1 - required maths]]
-[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/PX284 - O2 - electric and magnetic fields\|PX284 - O2 - electric and magnetic fields]]
-[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/PX284 - O3 - charge\|PX284 - O3 - charge]]
-[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/PX284 - O4 - maxwell's equations in differential form\|PX284 - O4 - maxwell's equations in differential form]]
-[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/PX284 - O5 - electrostatics\|PX284 - O5 - electrostatics]]
-### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/P - elecromagnetic waves\|P - elecromagnetic waves]]
+### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/O - introduction to EMT/O - introduction to EMT\|O - introduction to EMT]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/O - introduction to EMT/PX284 - O1 - required maths\|PX284 - O1 - required maths]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/O - introduction to EMT/PX284 - O2 - electric and magnetic fields\|PX284 - O2 - electric and magnetic fields]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/O - introduction to EMT/PX284 - O3 - charge\|PX284 - O3 - charge]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/O - introduction to EMT/PX284 - O4 - maxwell's equations in differential form\|PX284 - O4 - maxwell's equations in differential form]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/O - introduction to EMT/PX284 - O5 - electrostatics\|PX284 - O5 - electrostatics]]
+### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/P - EM waves/P - elecromagnetic waves\|P - elecromagnetic waves]]

@@ -113,4 +113,4 @@
 [[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J7d - atmospheric escape\|PX282 - J7d - atmospheric escape]]
 [[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J8 - orbits\|PX282 - J8 - orbits]]
 [[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J9 - moons\|PX282 - J9 - moons]]
-### [[content/012/PX282 - stars and solar system/K - giant planets\|K - giant planets]]
+### [[content/012/PX282 - stars and solar system/term 2 - solar system/K - giant planets/K - giant planets\|K - giant planets]]

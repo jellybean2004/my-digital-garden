@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/l-exchange-symmetry/px-284-l3-distribution-functions/","noteIcon":"1","created":"2025-01-27T10:34:01.282+00:00","updated":"2025-02-06T14:20:59.791+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/l-exchange-symmetry/px-284-l3-distribution-functions/","noteIcon":"1","created":"2025-01-27T10:34:01.282+00:00","updated":"2025-02-17T13:01:59.909+00:00"}
 ---
 
 - considering a many-particle system with a single state at energy, $E$
@@ -34,6 +34,8 @@ $$\begin{align*}
 - defining the **distribution function**, $f(E)$, as the mean occupation of a single-particle system $\langle{n}\rangle$ in such a system
 - for fermions:
 $$f_{FD}(E) = \frac{1}{\exp(\beta (E - \mu))+1}$$
+{ #e2328b}
+
 - this is called the **fermi-dirac distribution**, which runs from $0 \to 1$
 
 - for bosons:
