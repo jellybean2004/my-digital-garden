@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-semiconductors/px-262-i2-n-and-p-type-semiconductors/","noteIcon":"1","created":"2025-02-17T11:33:09.125+00:00","updated":"2025-02-17T13:03:43.648+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-semiconductors/px-262-i2-n-and-p-type-semiconductors/","noteIcon":"1","created":"2025-02-17T11:33:09.125+00:00","updated":"2025-02-20T10:25:21.263+00:00"}
 ---
 
 - these include semiconductors, such as Si and Ge, doped with a very low concentration of impurities (1 part in $10^5$) such as P, As or B, Ga, which have either one more or one less valence electron per atom
@@ -27,3 +27,18 @@
 
 - $E_a-E_v$ is the energy needed to excite an electron from the top of the valence bands into an acceptor energy level filling a 'hole' near one of the acceptor impurities
 - it makes a free 'hole' / positively charged in the valence band
+
+![PX262 - I2 - n- and p-type semiconductors-2.png|500](/img/user/pics/PX262%20-%20I2%20-%20n-%20and%20p-type%20semiconductors-2.png)
+![PX262 - I2 - n- and p-type semiconductors-3.png|500](/img/user/pics/PX262%20-%20I2%20-%20n-%20and%20p-type%20semiconductors-3.png)
+
+- the difference between the n- and p-type semiconductors is the position of the chemical potential, $\mu$ ($E_F$ at $T=0$ K)
+
+- in p-type semiconductors, the majority carriers are 'holes', where the number of holes $\propto \exp(-(E_{a}-E_v)/k_{B}T)$
+- the minority carriers are electrons, their number $\propto \exp(-(E_{c}-E_v)/k_{B}T)$
+
+- in n-type semiconductors, the majority carriers are electrons, their number $\propto \exp(-(E_{c}-E_{d})/k_{B}T)$
+- the minority carriers are holes, their number $\propto \exp(-(E_{c}-E_{v})/k_{B}T)$
+
+- dopants in Si: $\Delta =1.1$ eV
+	- $E_{c} = E_{d} = 0.044$ eV (P), $= 0.049$ eV (As)
+	- $E_{a}-E_{v} = 0.046$ eV (B), $=0.065$ eV (Ga)
