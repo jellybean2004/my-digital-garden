@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/k-circulation-and-vorticity/px-285-k3-potential-flows/","noteIcon":"1","created":"2025-02-14T12:06:40.234+00:00","updated":"2025-02-14T14:20:07.502+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/k-circulation-and-vorticity/px-285-k3-potential-flows/","noteIcon":"1","created":"2025-02-14T12:06:40.234+00:00","updated":"2025-02-20T14:08:30.196+00:00"}
 ---
 
 - considering a flow that is irrotational, ie: $\vec\nabla \times \vec u = 0$, and incompressible, ie: $\vec\nabla\cdot\vec u = 0$
@@ -77,3 +77,4 @@ $$\begin{gather}
 - as $p(r = \infty) = p_{atm}:$
 $$p = p_{atm}- \frac{K^{2}\rho^{2}}{8\pi r^{2}}$$
 - ie. $p$ decreases towards the tornado
+- 

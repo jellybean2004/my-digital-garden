@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/p-em-waves/px-284-p1-introduction-to-em-waves/","noteIcon":"1","created":"2025-02-13T17:28:35.091+00:00","updated":"2025-02-17T10:35:43.970+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/p-em-waves/px-284-p1-introduction-to-em-waves/","noteIcon":"1","created":"2025-02-13T17:28:35.091+00:00","updated":"2025-02-23T13:23:57.731+00:00"}
 ---
 
 - starting from maxwell's equations with no sources, and vector identities:
@@ -16,8 +16,8 @@ $$u = u_{0} \exp(i(\vec k \cdot \vec x - \omega t))$$
 - it is propagating in the direction, $\hat k$, with wavevector, $\vec k$, and angular frequency, $\omega$
 - for a plane wave:
 $$\begin{gather}
-\vec\nabla u = + i\vec k \vec u \\
-\nabla^{2}u = - k^{2}\vec u \\
+\vec\nabla u = + i\vec k\, u \\
+\nabla^{2}u = - k^{2} u \\
 \frac{\partial u}{\partial t} = -i\omega u \\
 \frac{\partial^{2} {u}}{\partial {t}^{2}} = -\omega^{2}u \\
 \nabla^{2} u = \frac{1}{c^{2}} \frac{\partial^{2} {u}}{\partial {t}^{2}}

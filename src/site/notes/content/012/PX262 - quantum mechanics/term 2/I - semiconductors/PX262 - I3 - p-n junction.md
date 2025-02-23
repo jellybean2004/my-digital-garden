@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-semiconductors/px-262-i3-p-n-junction/","noteIcon":"1","created":"2025-02-20T10:25:56.633+00:00","updated":"2025-02-20T10:55:07.029+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-semiconductors/px-262-i3-p-n-junction/","noteIcon":"1","created":"2025-02-20T10:25:56.633+00:00","updated":"2025-02-20T12:00:35.349+00:00"}
 ---
 
 - it occurs at the boundary of one region doped with p-type impurities and another with n-type impurities
@@ -9,12 +9,12 @@
 - the current flow is given by: 
 $$I = i_{s} \left(\exp\left(\frac{eV}{k_{B}T}\right) - 1 \right)$$
 	where, $i_s$ is the saturation current
-
 - this acts as a one way device
 
 - when two regions are in equilibrium, they must have the same chemical potential
 
 ![PX262 - I3 - p-n junction.png|500](/img/user/pics/PX262%20-%20I3%20-%20p-n%20junction.png)
+
 ![PX262 - I3 - p-n junction-2.png|500](/img/user/pics/PX262%20-%20I3%20-%20p-n%20junction-2.png)
 
 - in equilibrium, no net current flows through the junction but carriers cross back and forth
