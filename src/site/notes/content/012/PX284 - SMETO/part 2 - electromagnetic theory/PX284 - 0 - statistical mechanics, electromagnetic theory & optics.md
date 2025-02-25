@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-13T17:28:18.307+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-24T12:15:48.351+00:00"}
 ---
 
 ## statistical mechanics
@@ -80,4 +80,8 @@
 [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/O - introduction to EMT/PX284 - O3 - charge\|PX284 - O3 - charge]]
 [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/O - introduction to EMT/PX284 - O4 - maxwell's equations in differential form\|PX284 - O4 - maxwell's equations in differential form]]
 [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/O - introduction to EMT/PX284 - O5 - electrostatics\|PX284 - O5 - electrostatics]]
-### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/P - EM waves/P - elecromagnetic waves\|P - elecromagnetic waves]]
+### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/P - EM waves/P - electromagnetic waves in free space\|P - electromagnetic waves in free space]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/P - EM waves/PX284 - P1 - introduction to EM waves\|PX284 - P1 - introduction to EM waves]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/P - EM waves/PX284 - P2 - energy in EM fields\|PX284 - P2 - energy in EM fields]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/P - EM waves/PX284 - P3 - flux in EM waves\|PX284 - P3 - flux in EM waves]]
+### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/Q - maxwell's equations in matter\|Q - maxwell's equations in matter]]
