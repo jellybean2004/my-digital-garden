@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/p-em-waves/px-284-p6-maxwell-s-equations-in-matter/","noteIcon":"1","created":"2025-02-24T10:20:07.508+00:00","updated":"2025-02-24T11:11:55.132+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/p-em-waves/px-284-p6-maxwell-s-equations-in-matter/","noteIcon":"1","created":"2025-02-24T10:20:07.508+00:00","updated":"2025-02-27T13:00:31.511+00:00"}
 ---
 
 - the charge density can be separated into two components: free and bound
@@ -71,10 +71,13 @@ $$\vec B = \mu_{0}(\vec H + \vec M) = \mu_{0}(1 + \chi_{M})\vec M = \mu_{0}\mu_{
 - $\chi$ and $\chi_M$ may be freqency dependent
 - eg: water molecules (H$_2$O)
 - the atoms are aligned at an angle, so there is a dipole
-#fig
+
+![PX284 - P6 - maxwell's equations in matter.png|500](/img/user/pics/PX284%20-%20P6%20-%20maxwell's%20equations%20in%20matter.png)
+
 - in the absence of an electric field, the dipole moments have random orientations due to thermal motion, giving a net zero dipole moment
 - when an external field is applied, $\vec E$, the diploes align with the field, giving a net polarization along the direction of $\vec E$
-#fig 
+
+![PX284 - P6 - maxwell's equations in matter-1.png|500](/img/user/pics/PX284%20-%20P6%20-%20maxwell's%20equations%20in%20matter-1.png)
+
 - if $\vec E$ is oscillating, molecules/ions need time to reorient themselves, which is les possible at high $\omega$
 - therefore, $\chi = \chi(\omega)$ and $\varepsilon_{r} = \varepsilon_{r}(\omega)$, and $\chi_{M} = \chi_{M}(\omega)$ and $\mu_{r} = \mu_{r}(\omega)$
-

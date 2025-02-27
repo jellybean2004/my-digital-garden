@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i4-key-geometry/","noteIcon":"1","created":"2025-02-25T12:07:00.164+00:00","updated":"2025-02-25T12:41:53.827+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i4-key-geometry/","noteIcon":"1","created":"2025-02-25T12:07:00.164+00:00","updated":"2025-02-27T13:03:42.791+00:00"}
 ---
 
-#fig
+![PX275 - I4 - key geometry.png|500](/img/user/pics/PX275%20-%20I4%20-%20key%20geometry.png)
+
 - an aperture and a detector screens are in parallel, separated by a distance, $D$
 - calling the direction connecting the screens $z$, so $\hat z = (0,0,1)$
 - using $\vec y = (y_{1}, y_{2}, y_{3})$ to describe points on the aperture screen, such that $y_{3}$ is in $\hat z$ direction
@@ -22,18 +23,23 @@ $$u(x,t) = \frac{A}{r} \exp(ik(r-ct)) = \frac{A}{|\vec x-\vec y|} \exp(ik(|\vec 
 - the amplitude at $\vec x = (0,0,D):$
 $$u = \frac{A}{D} \exp(ik(D-ct ))$$
 
-#fig 
+![PX275 - I4 - key geometry-1.png|500](/img/user/pics/PX275%20-%20I4%20-%20key%20geometry-1.png)
 
 - away from the pinhole, the path length is longer, so the intensity falls as $1/r^{2}$
 
 - now, considering two pinholes
 
+![PX275 - I4 - key geometry-3.png|500](/img/user/pics/PX275%20-%20I4%20-%20key%20geometry-3.png)
 
 $$u(\vec x, t) = \frac{A^{1}}{|\vec x - \vec y^{1}|}\exp(ik(|\vec x - \vec y^{1}| - ct)) + \frac{A^{2}}{|\vec x - \vec y^{2}|}\exp(ik(|\vec x - \vec y^{2}| - ct))$$
 
 - the path length differences lead to phase differences between the two secondary sources, causing interference
 - different path lengths are seen in $\hat y_{1}$, but there is no difference in $\hat y_{2}$
-#fig #fig 
+
+![PX275 - I4 - key geometry-4.png|500](/img/user/pics/PX275%20-%20I4%20-%20key%20geometry-4.png)
+![PX275 - I4 - key geometry-5.png|500](/img/user/pics/PX275%20-%20I4%20-%20key%20geometry-5.png)
+
+![PX275 - I4 - key geometry-2.png|500](/img/user/pics/PX275%20-%20I4%20-%20key%20geometry-2.png)
 
 - for a general case: considering $N$ sources at positions, $\vec y^{j}$
 - if not all at the same amplitude, say $A^{j}$
