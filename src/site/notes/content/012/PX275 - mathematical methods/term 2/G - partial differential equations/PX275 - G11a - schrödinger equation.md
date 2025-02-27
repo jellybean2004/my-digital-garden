@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g11a-schroedinger-equation/","noteIcon":"1","created":"2025-01-29T12:14:17.297+00:00","updated":"2025-01-29T12:55:51.118+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g11a-schroedinger-equation/","noteIcon":"1","created":"2025-01-29T12:14:17.297+00:00","updated":"2025-02-27T12:58:33.480+00:00"}
 ---
 
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - C - quantum mechanics/PX156 - C1 - the schrodinger equation\|PX156 - C1 - the schrodinger equation]]
@@ -26,7 +26,8 @@ $$\begin{gather}
 \end{gather}$$
 - the spatial part, for ${} E>V$:
 $$\frac{1}{R}\nabla^{2} R = - \frac{2m}{\hbar^{2}}(E - V) = -k^{2}$$
-- trial solution: $$\begin{gather}
+- trial solution: 
+$$\begin{gather}
 R = C\exp(i\vec k \cdot \vec r) \\\\
 \nabla^{2} R = - k^{2}R \\
 \implies\frac{\hbar^{2}k^{2}}{2m} +V = E \\

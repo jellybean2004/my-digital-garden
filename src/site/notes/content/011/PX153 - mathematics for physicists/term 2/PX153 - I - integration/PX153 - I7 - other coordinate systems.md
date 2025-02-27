@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i7-other-coordinate-systems/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:38:13.607+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i7-other-coordinate-systems/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-27T12:57:46.105+00:00"}
 ---
 
 ## spherical coordinates
@@ -20,7 +20,8 @@ z &= r \cos\theta
 	$$S.A. = \frac{\Delta V}{\Delta a} = \frac{d}{da}\left(\frac{4\pi}{3}a^{3}\right)= 4\pi a^{2}$$
 ## cylindrical coordinates
 ![Pasted image 20240116122754.png](/img/user/pics/Pasted%20image%2020240116122754.png)
-- coordinate transformations: $$\begin{align}
+- coordinate transformations: 
+$$\begin{align}
 x &= r \cos\theta \\
 y &= r \sin\theta\\
 z &= z
@@ -29,7 +30,7 @@ z &= z
 	$dV = r \, dr \, d\theta \, dz$
 	
 - eg: what is the volume of a cylinder with height, $L$, and radius, $a$?
-	$$I = \int_{0}^{L} \int_{0}^{a} \int_{0}^{2\pi} r \, dr \, d\theta \, dz = \pi a^{2}L$$
+$$I = \int_{0}^{L} \int_{0}^{a} \int_{0}^{2\pi} r \, dr \, d\theta \, dz = \pi a^{2}L$$
 ## 2D polar coordinates
 ![Pasted image 20240116123420.png](/img/user/pics/Pasted%20image%2020240116123420.png)
 - coordinate transformations: 
@@ -38,16 +39,19 @@ x &= r \cos\theta \\
 y &= r \sin\theta
 \end{align}$$
 - eg: integrate the gaussian function over all space.
-	- gaussian function: $$f(x) = e^{-x^{2}}$$
-	$$I = \int_{-\infty}^{+\infty} e^{-x^{2}} \, dx$$
-	- trick: $$\begin{align}
-	I^{2} &= \int_{-\infty}^{+\infty} e^{-x^{2}} \, dx \int_{-\infty}^{+\infty} e^{-y^{2}} \, dy \\
-	&= \int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty} e^{-y^{2}} \, dy \, dx \\
-	\end{align}$$
-	- switching to polar coordinates: $$\begin{align}
-	I^{2} &= \int_{0}^{\infty} \int_{0}^{2\pi} r e^{-r^{2}} \, d\theta \, dr \\
-	&= 2\pi  \int_{0}^{\infty} r e^{-r^{2}} \, dr \\
-	&= 2\pi \left[ - \frac{1}{2} e^{-r^{2}} \right]_{0}^{\infty}\\
-	&= \pi \\
-	\therefore I &= \sqrt{\pi}
-	\end{align}$$
+	- gaussian function: 
+$$f(x) = e^{-x^{2}}$$
+$$I = \int_{-\infty}^{+\infty} e^{-x^{2}} \, dx$$
+	- trick: 
+$$\begin{align}
+I^{2} &= \int_{-\infty}^{+\infty} e^{-x^{2}} \, dx \int_{-\infty}^{+\infty} e^{-y^{2}} \, dy \\
+&= \int_{-\infty}^{+\infty} \int_{-\infty}^{+\infty} e^{-y^{2}} \, dy \, dx \\
+\end{align}$$
+	- switching to polar coordinates: 
+$$\begin{align}
+I^{2} &= \int_{0}^{\infty} \int_{0}^{2\pi} r e^{-r^{2}} \, d\theta \, dr \\
+&= 2\pi  \int_{0}^{\infty} r e^{-r^{2}} \, dr \\
+&= 2\pi \left[ - \frac{1}{2} e^{-r^{2}} \right]_{0}^{\infty}\\
+&= \pi \\
+\therefore I &= \sqrt{\pi}
+\end{align}$$
