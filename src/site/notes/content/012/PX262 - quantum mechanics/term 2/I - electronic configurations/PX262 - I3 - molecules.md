@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-electronic-configurations/px-262-i3-molecules/","noteIcon":"1","created":"2025-01-30T10:30:05.368+00:00","updated":"2025-02-03T11:20:55.899+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-electronic-configurations/px-262-i3-molecules/","noteIcon":"1","created":"2025-01-30T10:30:05.368+00:00","updated":"2025-03-01T15:54:08.540+00:00"}
 ---
 
-- **approximation:** neglecting the kinetic energy o the nuclei and solving the electronic problem
-- nuclei take the positions where the sum of electronic energy and nuclear coulomb energy is minimized, electrons bond the nuclei
+- **approximation:** neglecting the kinetic energy of the nuclei and solving the electronic problem
+- nuclei take the positions where the sum of electr
+- onic energy and nuclear coulomb energy is minimized, electrons bond the nuclei
 - types of bonding:
 	- covalent
 	- ionic

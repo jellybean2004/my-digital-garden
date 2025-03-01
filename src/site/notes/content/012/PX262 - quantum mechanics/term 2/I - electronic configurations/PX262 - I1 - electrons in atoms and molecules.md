@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-electronic-configurations/px-262-i1-electrons-in-atoms-and-molecules/","noteIcon":"1","created":"2025-01-23T17:40:48.914+00:00","updated":"2025-01-30T10:23:30.410+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-electronic-configurations/px-262-i1-electrons-in-atoms-and-molecules/","noteIcon":"1","created":"2025-01-23T17:40:48.914+00:00","updated":"2025-03-01T15:36:44.040+00:00"}
 ---
 
 - the schrödinger equation for a single particle:
@@ -21,8 +21,8 @@ $$\begin{gather}
 
 - graft on spin (electrons  = $1/2$, fermions): $\phi_{nlm_{l} \uparrow} (r, \theta, \varphi) \; , \;\phi_{nlm_{l} \downarrow} (r, \theta, \varphi)$
 - for $n=2:$ 
-	- ${} l=0, \; m_{l}= 0, \; \uparrow \downarrow {}$
-	- $l=2, \; m_{l}= -1,0,1 \; ,\; \uparrow \downarrow$
+	- $l=0, \; m_{l}= 0, \; \uparrow \downarrow$
+	- $l=1, \; m_{l}= -1,0,1 \; ,\; \uparrow \downarrow$
 	- this is eight fold degenerate
 - for a many-electron system, electrons cannot occupy the same state in space unless they have different spin states - [[content/012/PX284 - SMETO/part 1 - statistical mechanics/L - exchange symmetry/PX284 - L2 - pauli exclusion principle\|pauli exclusion principle]]
 

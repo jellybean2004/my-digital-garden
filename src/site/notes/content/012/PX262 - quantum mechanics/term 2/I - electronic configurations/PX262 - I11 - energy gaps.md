@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-electronic-configurations/px-262-i11-energy-gaps/","noteIcon":"1","created":"2025-02-13T10:07:46.655+00:00","updated":"2025-02-13T10:56:42.085+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-electronic-configurations/px-262-i11-energy-gaps/","noteIcon":"1","created":"2025-02-13T10:07:46.655+00:00","updated":"2025-03-01T17:20:43.091+00:00"}
 ---
 
 
@@ -14,7 +14,7 @@ $$E_{k} = \frac{\hbar^{2}k^{2}}{2m_{e}}$$
 - looking at the free electron wavefunctions' intensities with $k = \pm \pi/a$ (values at the edges of the BZ): $|\phi_{\pi/a}^{+}|^{2}$ and $|\phi_{\pi/a}^{-}|^{2}$
 
 ![PX262 - H19 - energy gaps.png|500](/img/user/pics/PX262%20-%20H19%20-%20energy%20gaps.png)
-- when potentials are laced on each of the lattice points, the energy degeneracy is broken, since $|\phi_{\pi/a}^{+}|^{2}$ is distributed more closely to the potentials than the $|\phi_{\pi/a}^{-}|^{2}$ solution
+- when potentials are placed on each of the lattice points, the energy degeneracy is broken, since $|\phi_{\pi/a}^{+}|^{2}$ is distributed more closely to the potentials than the $|\phi_{\pi/a}^{-}|^{2}$ solution
 - energy gaps at $k = \pm \pi/a$ are produced in general at these BZ boundaries
 
 - if the [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H3 - free electron model (1D)\|free electron model (1D)]] is perturbed by a weak crystalline potential, the electronic states change from 
@@ -27,9 +27,6 @@ $$E_{k} = \frac{\hbar^{2}k^{2}}{2m_{e}}$$
 
 - a complementary insight can be obtained by starting with a model of a large number, $N$, of identical atoms, which are well separated. eg: Li: $1s^{2}\; 2s^{1}$
 - each atom potential has a set of electronic energy levels for the valence electrons, eg: $2s\,2p \; 3s \dots$
-
-![PX262 - H19 - energy gaps-3.png|500](/img/user/pics/PX262%20-%20H19%20-%20energy%20gaps-3.png)
-
 - the energy level diagram for the whole system is set by that of a single atom, but the [[content/012/PX284 - SMETO/part 1 - statistical mechanics/L - exchange symmetry/PX284 - L2 - pauli exclusion principle\|pauli exclusion principle]] for the entire system permits each state to be occupied by up to $2N$ (2 for spin) electrons
 
 ![PX262 - H19 - energy gaps-4.png|500](/img/user/pics/PX262%20-%20H19%20-%20energy%20gaps-4.png)
