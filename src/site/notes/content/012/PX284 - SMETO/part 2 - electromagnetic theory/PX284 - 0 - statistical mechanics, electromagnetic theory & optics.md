@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-24T12:15:48.351+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-27T15:51:16.869+00:00"}
 ---
 
 ## statistical mechanics
@@ -84,4 +84,10 @@
 [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/P - EM waves/PX284 - P1 - introduction to EM waves\|PX284 - P1 - introduction to EM waves]]
 [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/P - EM waves/PX284 - P2 - energy in EM fields\|PX284 - P2 - energy in EM fields]]
 [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/P - EM waves/PX284 - P3 - flux in EM waves\|PX284 - P3 - flux in EM waves]]
-### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/Q - maxwell's equations in matter\|Q - maxwell's equations in matter]]
+### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/Q - maxwell's equations in matter/Q - maxwell's equations in matter\|Q - maxwell's equations in matter]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/Q - maxwell's equations in matter/PX284 - Q1a - polarization\|PX284 - Q1a - polarization]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/Q - maxwell's equations in matter/PX284 - Q1b - polarization of a slab\|PX284 - Q1b - polarization of a slab]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/Q - maxwell's equations in matter/PX284 - Q2 - magnetization\|PX284 - Q2 - magnetization]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/Q - maxwell's equations in matter/PX284 - Q3 - maxwell's equations in matter\|PX284 - Q3 - maxwell's equations in matter]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/Q - maxwell's equations in matter/PX284 - Q4 - boundary conditions\|PX284 - Q4 - boundary conditions]]
+### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/R - dielectrics/R - dielectrics\|R - dielectrics]]
