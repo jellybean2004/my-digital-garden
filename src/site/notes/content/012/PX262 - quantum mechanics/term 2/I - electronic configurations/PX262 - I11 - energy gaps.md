@@ -1,27 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-electronic-configurations/px-262-i11-energy-gaps/","noteIcon":"1","created":"2025-02-13T10:07:46.655+00:00","updated":"2025-03-01T17:20:43.091+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-electronic-configurations/px-262-i11-energy-gaps/","noteIcon":"1","created":"2025-02-13T10:07:46.655+00:00","updated":"2025-03-02T11:53:57.264+00:00"}
 ---
 
-
-- free electrons have the wave functions of the form: $A_{k}e^{ikx}$, where $k \in (-\infty, \infty)$
-- the energies are given by:
+- free electrons have the wave functions of the form: ${} \psi = A_{k}e^{ikx} {}$, where $k \in (-\infty, \infty)$
+- the energies are given by:so 
 $$E_{k} = \frac{\hbar^{2}k^{2}}{2m_{e}}$$
-- linear combinations: $\phi_{k}^{+} = C_{k} \cos(kx)$ and $\phi_{k}^{-} = C_{k} \sin(kx)$
+- linear combinations: $\phi_{k}^{+} = C_{k} \cos(kx)$ and ${} \phi_{k}^{-} = D_{k} \sin(kx) {}$
 - these correspond to the same energy, $E_{k}$
 
 - a 1D lattice will have the separations of $a$, and its reciprocal lattice, $2\pi/a$
-- the first BZ: $-\pi/a \leq k \leq \pi/a$
+- in the k-space, the first BZ: $-\pi/a \leq k \leq \pi/a$
 - looking at the free electron wavefunctions' intensities with $k = \pm \pi/a$ (values at the edges of the BZ): $|\phi_{\pi/a}^{+}|^{2}$ and $|\phi_{\pi/a}^{-}|^{2}$
 
 ![PX262 - H19 - energy gaps.png|500](/img/user/pics/PX262%20-%20H19%20-%20energy%20gaps.png)
+
 - when potentials are placed on each of the lattice points, the energy degeneracy is broken, since $|\phi_{\pi/a}^{+}|^{2}$ is distributed more closely to the potentials than the $|\phi_{\pi/a}^{-}|^{2}$ solution
-- energy gaps at $k = \pm \pi/a$ are produced in general at these BZ boundaries
+- energy gaps at $k = \pm \pi/a$ are produced at the BZ boundaries
+- if the [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H3 - free electron model (1D)\|free electron model (1D)]] is perturbed by a weak crystalline potential, the electronic states change 
 
-- if the [[content/012/PX262 - quantum mechanics/term 2/H - many particles/PX262 - H3 - free electron model (1D)\|free electron model (1D)]] is perturbed by a weak crystalline potential, the electronic states change from 
+ 
 
-![PX262 - H19 - energy gaps-1.png|500](/img/user/pics/PX262%20-%20H19%20-%20energy%20gaps-1.png)
-
-- this can be plotted in the first BZ, with $k' = k - G_{n}$ ie. folding back, $G_{n} = -2\pi/a$ or $2\pi/a$
+- this can be plotted in the first BZ, with $k' = k - G_{n}$ ie. folding back, $G_{n} = -n\pi/a$ or ${} n\pi/a$
 
 ![PX262 - H19 - energy gaps-2.png|500](/img/user/pics/PX262%20-%20H19%20-%20energy%20gaps-2.png)
 
@@ -52,5 +51,4 @@ $$E_{k} = \frac{\hbar^{2}k^{2}}{2m_{e}}$$
 - the specific heat has no electronic contribution for $k_{B}T < \Delta$
 - the material is also transparent to light, with $\hbar \omega = {hc}/{\lambda} < \Delta$ and only photons with $\hbar \omega = {hc}/{\lambda} > \Delta$ will be blocked
 
-- a material is termed as an **insulator** i $\Delta > 2$ eV, and for $\Delta \ge \sim2$ eV, the material is a **semiconductor**
-- 
+- a material is termed as an **insulator** if $\Delta > 2$ eV, and for $\Delta \ge \sim2$ eV, the material is a **semiconductor**

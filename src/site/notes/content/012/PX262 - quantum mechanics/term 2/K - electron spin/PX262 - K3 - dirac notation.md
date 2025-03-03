@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-electron-spin/px-262-k3-dirac-notation/","noteIcon":"1","created":"2025-02-27T10:32:29.238+00:00","updated":"2025-02-27T12:49:30.051+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-electron-spin/px-262-k3-dirac-notation/","noteIcon":"1","created":"2025-02-27T10:32:29.238+00:00","updated":"2025-03-03T19:30:52.532+00:00"}
 ---
 
 - it is a very economical and powerful notation
@@ -56,3 +56,24 @@ H_{22}= \langle{\downarrow | \hat H | \downarrow}\rangle = E_{0} \\\\
 E_{0}c_{1} + A c_{2}(t) = i\hbar \frac{dc_{1}}{dt} \\
 A c_{1} + E_{0} c_{2}(t) = i\hbar \frac{dc_{2}}{dt}
 \end{gather}$$
+- it is useful to have a representation that diagonalizes the $H$-matrix
+- to do this, the eigenstates and eigenvalues of the hamiltonian need to be found
+$$\begin{gather}
+\hat H | n \rangle = E_{n} | n \rangle \\
+|\psi \rangle = \sum\limits_{n} c_{n}(t) | n \rangle \\
+\text{and, } c_{n} (t) = \langle{ n_{1} | \psi}\rangle \\\\
+|\psi\rangle = \sum\limits_{n}|n\rangle \langle{ n |\psi}\rangle \\
+\sum\limits_{n} \hat H | n \rangle \langle{ n | \psi}\rangle = i \hbar  \sum\limits | n \rangle \frac{d}{dt} \langle{ n |\psi}\rangle \\
+\sum\limits_{n} \hat H | n \rangle c_{n}(t) = i\hbar \sum\limits_{n} |n \rangle \frac{dc_{n}}{dt} \\
+\end{gather}$$
+- forming a matrix, $\langle n_{1} |:$
+$$\begin{gather}
+\sum\limits_{n} \langle{ n_{1} | \hat H | n}\rangle c_{n} (t) = i\hbar \sum\limits_{n} \langle{n_{1} | n}\rangle \frac{dc_{n}}{dt} \\
+\hat H | n \rangle = E_{n} | n \rangle \\\\
+\langle{n_{1} | \hat H | n}\rangle = E_{n} \langle{ n_{1} | n}\rangle = E_{n} \delta_{nn_{1}}  \\
+E_{n_{1}} c_{n_{1}} = i\hbar \frac{dc_{n_{1}}}{dt}  \\
+c_{n_{1}}(t) = c_{n_{1}}(0) \exp\left(- \frac{iE_{n_{1}}t}{\hbar}\right) \\
+|\psi(t) \rangle = \sum\limits_{n} c_{n}(0) | n \rangle  \exp\left(- \frac{iE_{n_{1}}t}{\hbar}\right)
+\end{gather}$$
+- with the initial $| \psi(0) \rangle$ state known, $|\psi(t)\rangle$ can be found
+
