@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h4-example-of-fourier-transform/","noteIcon":"1","created":"2025-02-04T18:06:38.830+00:00","updated":"2025-02-06T14:21:25.186+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h4-example-of-fourier-transform/","noteIcon":"1","created":"2025-02-04T18:06:38.830+00:00","updated":"2025-03-04T12:46:50.356+00:00"}
 ---
 
 - eg: $f(x) = \delta(x-y)$
@@ -12,14 +12,14 @@ $$f(x) = \frac{1}{2\pi} \int_{-\infty}^{\infty} e^{ik(x-y)} dk = \delta(x-y)$$
 $$\delta (x - y) = \frac{1}{2\pi} \int_{-\infty}^{\infty} e^{ik(x-y)}\,dk$$
 
 $$\begin{align*}
-\tilde f(x) &= \mathscr F(f(x)) \\
-f(x) &= \mathscr F^{-1}(\tilde f(x)) \\
-\therefore f(x) &= \mathscr F^{-1} (\mathscr F(f(x)))
+\tilde f(x) &= \mathcal F(f(x)) \\
+f(x) &= \mathcal F^{-1}(\tilde f(x)) \\
+\therefore f(x) &= \mathcal F^{-1} (\mathcal F(f(x)))
 \end{align*}$$
 - checking:
 $$\begin{align*}
 f(x) &= \frac{1}{2\pi} \int_{-\infty}^{\infty} \tilde f(k) e^{ikx}\, dk \\
-&= \underbrace{\frac{1}{2\pi} \int_{-\infty}^{\infty}e^{ikx}\, dk}_{\mathscr F^{-1}(\tilde f(k))} \; \underbrace{\int_{-\infty}^{\infty} f(x') e^{-ikx'} \,dx'}_{\mathscr F(f(x'))} \\
+&= \underbrace{\frac{1}{2\pi} \int_{-\infty}^{\infty}e^{ikx}\, dk}_{\mathcal F^{-1}(\tilde f(k))} \; \underbrace{\int_{-\infty}^{\infty} f(x') e^{-ikx'} \,dx'}_{\mathcal F(f(x'))} \\
 &=  \frac{1}{2\pi} \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} e^{ik(x-x')} f(x') \, dx'\,dk \\
 &= \int_{-\infty}^{\infty}  f(x') \delta(x-x')\,dx'\\
 &= f(x)
@@ -37,7 +37,7 @@ f(x) = \frac{a}{2\pi} \int_{-\infty}^{\infty} \tilde f(x) e^{ikx}\,dk
 - so, both the transforms have the same prefactor
 
 $$\begin{align*}
-\mathscr F(\delta(x-y)) &= e^{iky} \\ \mathscr F(\delta(x)) &= 1
+\mathcal F(\delta(x-y)) &= e^{iky} \\ \mathcal F(\delta(x)) &= 1
 \end{align*} $$
 
 - eg: $f(x) = 1 \; \forall x$

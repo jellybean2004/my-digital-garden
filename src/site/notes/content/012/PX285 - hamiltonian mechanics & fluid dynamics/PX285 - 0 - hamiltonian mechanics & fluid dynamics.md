@@ -85,7 +85,7 @@
 ### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/K - circulation and vorticity/K - circulation and vorticity\|K - circulation and vorticity]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/K - circulation and vorticity/PX285 - K1 - vorticity\|PX285 - K1 - vorticity]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/K - circulation and vorticity/PX285 - K2 - kelvin's circulation theorem\|PX285 - K2 - kelvin's circulation theorem]]
-### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/L - potential flows\|L - potential flows]]
+### [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/L - potential flows/L - potential flows\|L - potential flows]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/L - potential flows/PX285 - L1 - potential flows\|PX285 - L1 - potential flows]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/L - potential flows/PX285 - L2 - potential dipole\|PX285 - L2 - potential dipole]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/L - potential flows/PX285 - L3 - potential flows involving cylinders and aerofoils\|PX285 - L3 - potential flows involving cylinders and aerofoils]]

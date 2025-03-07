@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics/","noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-01T16:05:08.981+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics/","noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-06T10:09:45.906+00:00"}
 ---
 
 
@@ -94,4 +94,8 @@
 [[content/012/PX262 - quantum mechanics/term 2/J - semiconductors/PX262 - J1 - introduction to semiconductors\|PX262 - J1 - introduction to semiconductors]]
 [[content/012/PX262 - quantum mechanics/term 2/J - semiconductors/PX262 - J2 - n- and p-type semiconductors\|PX262 - J2 - n- and p-type semiconductors]]
 [[content/012/PX262 - quantum mechanics/term 2/J - semiconductors/PX262 - J3 - p-n junction\|PX262 - J3 - p-n junction]]
-### [[content/012/PX262 - quantum mechanics/term 2/K - electron spin/K - basic principles revisited\|K - basic principles revisited]]
+### [[content/012/PX262 - quantum mechanics/term 2/K - basic postualtes revisited/K - basic principles revisited\|K - basic principles revisited]]
+[[content/012/PX262 - quantum mechanics/term 2/K - basic postualtes revisited/PX262 - K1 - introduction to spin\|PX262 - K1 - introduction to spin]]
+[[content/012/PX262 - quantum mechanics/term 2/K - basic postualtes revisited/PX262 - K2 - recap\|PX262 - K2 - recap]]
+[[content/012/PX262 - quantum mechanics/term 2/K - basic postualtes revisited/PX262 - K3 - dirac notation\|PX262 - K3 - dirac notation]]
+### [[content/012/PX262 - quantum mechanics/L - relativity and quantum mechanics\|L - relativity and quantum mechanics]]
