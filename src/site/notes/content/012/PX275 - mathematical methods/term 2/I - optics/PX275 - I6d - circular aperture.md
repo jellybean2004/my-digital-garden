@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6d-circular-aperture/","noteIcon":"1","created":"2025-03-06T12:10:48.117+00:00","updated":"2025-03-06T12:42:06.723+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6d-circular-aperture/","noteIcon":"1","created":"2025-03-06T12:10:48.117+00:00","updated":"2025-03-09T12:56:29.294+00:00"}
 ---
 
 - considering a circular hole with radius, $R$
@@ -13,8 +13,7 @@ x_{1} = \rho \cos\phi\\
 x_{2} = \rho \cos \phi \\
 x_{3} = D \\\\
 \end{gather}$$
-- in the far0field remine:
-- 
+- in the far field regime:
   $$\vec k = k \frac{\vec x}{|\vec x|} = \frac{k}{D} \begin{pmatrix}\rho \cos\phi \\ \rho \sin\phi \\ D\end{pmatrix}$$
 - using the [[content/012/PX275 - mathematical methods/term 1/B - coordinate systems and integration/B2-4  - integration/PX275 - B3 - jacobian\|jacobian integrals]]:
 $$\begin{gather}

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i0-introduction-to-waves/","noteIcon":"1","created":"2025-02-18T12:39:31.536+00:00","updated":"2025-02-18T22:30:02.559+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i0-introduction-to-waves/","noteIcon":"1","created":"2025-02-18T12:39:31.536+00:00","updated":"2025-03-09T13:38:10.114+00:00"}
 ---
 
 - a stationary plane wave:
 $$e^{\pm ikx}$$
 	where, $k = 2\pi/\lambda$
-$$\exp(\pm i(kx \pm \omega t))$$
+$$\exp(\pm i(kx - \omega t))$$
 	where, $\omega = kx$
 
 - considering 1D plane waves:

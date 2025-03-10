@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6a-square-aperture/","noteIcon":"1","created":"2025-03-04T10:43:26.100+00:00","updated":"2025-03-04T12:22:36.527+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6a-square-aperture/","noteIcon":"1","created":"2025-03-04T10:43:26.100+00:00","updated":"2025-03-09T12:38:32.937+00:00"}
 ---
 
 - considering a square hole with sides, $2w$, centred at the origin
@@ -18,7 +18,7 @@ $$\begin{align*}
  &= 2w \,\text{sinc}\left(\frac{kx_{1}w}{D}\right) 2w \,\text{sinc}\left(\frac{kx_{2}w}{D}\right)
 \end{align*}$$
 	where, $\text{sinc }\theta = \cfrac{\sin\theta}{\theta}$
-- the observe intensity:
+- the observed intensity:
 $$\begin{gather}
 I \propto |u|^{2} \propto |\tilde a(\vec k)|^{2} \\\
 \therefore I(x_{1}, x_{2}) \propto \text{sinc}^{2}\left(\frac{kx_{1}w}{D}\right) \, \text{sinc}^{2}\left(\frac{kx_{2}w}
@@ -26,4 +26,3 @@ I \propto |u|^{2} \propto |\tilde a(\vec k)|^{2} \\\
 \end{gather}$$
 - zeroes when $kwx_{1}/D$ or $kwx_{2}/D = n\pi$
 - separation of fringes: $\Delta x_{1} = \Delta x_{2} = \pi D/kw$
-- 
