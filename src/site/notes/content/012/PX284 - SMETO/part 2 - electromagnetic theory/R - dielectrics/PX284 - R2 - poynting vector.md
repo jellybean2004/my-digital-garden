@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/r-dielectrics/px-284-r2-poynting-vector/","noteIcon":"1","created":"2025-03-06T15:40:16.206+00:00","updated":"2025-03-06T17:36:28.933+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/r-dielectrics/px-284-r2-poynting-vector/","noteIcon":"1","created":"2025-03-06T15:40:16.206+00:00","updated":"2025-03-10T10:07:47.698+00:00"}
 ---
 
 - the continuity equation:
@@ -46,4 +46,3 @@ $$\frac{\vec S}{c} = \frac{\vec E \times \vec H}{c}$$
 - $|\vec E| = V/L$, $|\vec H| = I/2\pi r$, so, the energy that enters the wire: 
 $$|\vec S| A = \frac{VIL2\pi r}{L2\pi r} = VI =E$$
 - this is equal to the energy dissipated in the wire
-- 

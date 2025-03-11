@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q3-maxwell-s-equations-in-matter/","noteIcon":"1","created":"2025-02-24T10:20:07.508+00:00","updated":"2025-02-27T13:00:31.511+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q3-maxwell-s-equations-in-matter/","noteIcon":"1","created":"2025-02-24T10:20:07.508+00:00","updated":"2025-03-10T12:39:22.577+00:00"}
 ---
 
 - the charge density can be separated into two components: free and bound
@@ -44,8 +44,7 @@ $$\begin{align*}
 \implies \vec\nabla \times \left(\frac{\vec B}{\mu_{0}} - \vec M \right) &= \vec J_{f} + \frac{\partial }{\partial t} (\varepsilon_{0} \vec E + \vec P) \\
 \vec H &= \frac{\vec{B}}{\mu_{0}} - \vec M 
 \end{align*}$$
-- $\vec H$ is called the **'magnetic field strength'**
-- $\vec B$ is called the **'magnetic flux density'**
+- $\vec H$ is called the **'magnetic field strength'**, and $\vec B$ is called the **'magnetic flux density'**
 $$\vec\nabla \times \vec H = \vec J_{f} + \frac{\partial \vec D}{\partial t}$$
 
 - the complete set of maxwell's equations in matter:

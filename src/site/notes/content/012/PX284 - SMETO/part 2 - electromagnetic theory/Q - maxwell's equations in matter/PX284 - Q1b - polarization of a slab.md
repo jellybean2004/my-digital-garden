@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q1b-polarization-of-a-slab/","noteIcon":"1","created":"2025-02-24T16:54:37.778+00:00","updated":"2025-02-24T17:11:16.538+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q1b-polarization-of-a-slab/","noteIcon":"1","created":"2025-02-24T16:54:37.778+00:00","updated":"2025-03-10T12:10:43.002+00:00"}
 ---
 
 - considering a dielectric medium between two parallel plate of opposite charges
@@ -29,4 +29,3 @@ $$\begin{gather}
 \vec P = \frac{\varepsilon_{0}\chi}{1+\alpha\chi} \vec E_{app} \\
 \vec E = \frac{1}{1+\alpha\chi} \vec E_{app}
 \end{gather}$$
-- 

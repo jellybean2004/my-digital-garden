@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/r-dielectrics/px-284-r1-waves-in-dielectrics/","noteIcon":"1","created":"2025-02-27T15:51:36.287+00:00","updated":"2025-03-10T08:13:16.634+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/r-dielectrics/px-284-r1-waves-in-dielectrics/","noteIcon":"1","created":"2025-02-27T15:51:36.287+00:00","updated":"2025-03-10T10:07:12.457+00:00"}
 ---
 
 - [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/Q - maxwell's equations in matter/PX284 - Q3 - maxwell's equations in matter\|maxwell's equations in matter]] with no sources, ie: $\rho_{f} - \vec J_{f} = 0$, for linear, isotropic materials
@@ -41,4 +41,3 @@ $$Z = \frac{E_{0}}{H_{0}} = v\mu_{0}\mu_{r} = \sqrt{\frac{\mu_{0}\mu_{r}}{ \vare
 
 - in materials with $\mu_{r}\simeq 1:$
 $$ Z \simeq \frac{Z_{0}}{\sqrt{\varepsilon_{r}}} \simeq \frac{Z_{0}}{n}$$
-- 

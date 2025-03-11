@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics/","noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-06T10:09:45.906+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics/","noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-10T11:48:14.405+00:00"}
 ---
-
 
 ## term 1
 **note on the source:** the notes are heavily based on A. I. M. Rae, *Quantum Mechanics*, ed. 2 (Taylor & Francis, London, 2008)
@@ -98,4 +97,7 @@
 [[content/012/PX262 - quantum mechanics/term 2/K - basic postualtes revisited/PX262 - K1 - introduction to spin\|PX262 - K1 - introduction to spin]]
 [[content/012/PX262 - quantum mechanics/term 2/K - basic postualtes revisited/PX262 - K2 - recap\|PX262 - K2 - recap]]
 [[content/012/PX262 - quantum mechanics/term 2/K - basic postualtes revisited/PX262 - K3 - dirac notation\|PX262 - K3 - dirac notation]]
-### [[content/012/PX262 - quantum mechanics/L - relativity and quantum mechanics\|L - relativity and quantum mechanics]]
+### [[content/012/PX262 - quantum mechanics/term 2/L - relativity and quantum mechanics/L - relativity and quantum mechanics\|L - relativity and quantum mechanics]]
+[[content/012/PX262 - quantum mechanics/term 2/L - relativity and quantum mechanics/PX262 - L1 - klein-gordon equation\|PX262 - L1 - klein-gordon equation]]
+[[content/012/PX262 - quantum mechanics/term 2/L - relativity and quantum mechanics/PX262 - L2 - dirac equation\|PX262 - L2 - dirac equation]]
+[[content/012/PX262 - quantum mechanics/term 2/L - relativity and quantum mechanics/PX262 - L3 - prediction of antiparticles\|PX262 - L3 - prediction of antiparticles]]

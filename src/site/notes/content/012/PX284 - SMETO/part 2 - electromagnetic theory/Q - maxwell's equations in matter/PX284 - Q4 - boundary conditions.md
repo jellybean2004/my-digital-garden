@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q4-boundary-conditions/","noteIcon":"1","created":"2025-02-27T15:11:21.337+00:00","updated":"2025-02-27T15:50:47.496+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q4-boundary-conditions/","noteIcon":"1","created":"2025-02-27T15:11:21.337+00:00","updated":"2025-03-10T13:06:27.385+00:00"}
 ---
 
-#fig 
+![PX284 - Q4 - boundary conditions.png|500](/img/user/pics/PX284%20-%20Q4%20-%20boundary%20conditions.png)
 
 - using faraday-lenz law and stokes' theorem:
 $$\begin{gather}
@@ -31,12 +31,9 @@ $$\begin{gather}
 $$\hat n \times (\vec H_{2}  - \vec H_{1}) = \vec j_{f} $$
 	where, $\vec j_{f}$ is the surface current density, with units A m$^{-1}$
 
-#fig 
-
 - when resistivity $\to 0$, ie. superconductors, $\vec j_f$ acts to expel magnetic fields, ie: $H_{2} = 0$
 
-
-#fig 
+![PX284 - Q4 - boundary conditions-1.png|500](/img/user/pics/PX284%20-%20Q4%20-%20boundary%20conditions-1.png)
 $\newcommand{\oiint}{\subset\!\supset \!\!\!\!\!\!\!\!\!\!\iint}$
 - considering a pill box on the surface
 $$\oiint_{S} \vec B \cdot d\vec S = (B_{1\perp} - B_{2\perp})A + O(h) = \iiint_{V} \vec\nabla\cdot\vec B \, dV = 0$$
@@ -57,8 +54,8 @@ $$\therefore D_{1\perp} - D_{2\perp} = \sigma_{f}$$
 - additionally, in conductors, the currents ($\vec J_{f}$) also need to be considered
 ## summarized
 $$\begin{gather}
-\hat n \times ((\vec E_{2} - \vec E_{1})) = 0 \\
-\hat n \cdot ((\vec D_{1} - \vec D_{2})) = \sigma_{f} \\
-\hat n \cdot ((\vec B_{1} - \vec B_{2})) = 0 \\
-\hat n \times ((\vec H_{2} - \vec H_{1})) = \vec j{f} 
+\hat n \times (\vec E_{2} - \vec E_{1}) = 0 \\
+\hat n \cdot (\vec D_{1} - \vec D_{2}) = \sigma_{f} \\
+\hat n \cdot (\vec B_{1} - \vec B_{2}) = 0 \\
+\hat n \times (\vec H_{2} - \vec H_{1}) = \vec j{f} 
 \end{gather}$$

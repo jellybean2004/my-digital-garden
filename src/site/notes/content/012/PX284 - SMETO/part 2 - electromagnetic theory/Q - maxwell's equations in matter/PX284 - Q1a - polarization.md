@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q1a-polarization/","noteIcon":"1","created":"2025-02-20T15:22:41.676+00:00","updated":"2025-02-24T16:54:21.240+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q1a-polarization/","noteIcon":"1","created":"2025-02-20T15:22:41.676+00:00","updated":"2025-03-10T12:04:16.790+00:00"}
 ---
 
 - considering an atom: a positively charged nucleus ($+q$) surrounded by a negatively charged cloud $(-q)$
@@ -46,4 +46,4 @@ $$\vec P \parallel \vec E \implies \vec P = \varepsilon_{0} \chi \vec E $$
 
 $$\vec E = \vec E_{applied} + \vec E_{P} = \vec E_{applied} - \chi \vec E$$
 $$\vec E = \frac{\vec E_{app}}{1+\chi} = \frac{\vec E_{app}}{\varepsilon_{r}}$$
-	where, $\varepsilon_{r}$ is called the relative permittivity
+	where, $\varepsilon_{r}$ is called the **relative permittivity**
