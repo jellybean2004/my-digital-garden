@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-14T07:04:21.100+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-14T08:50:24.607+00:00"}
 ---
 
 ## statistical mechanics
 ### [[content/012/PX284 - SMETO/part 1 - statistical mechanics/A - probability/A - probability\|A - probability]]
-[[content/012/PX284 - SMETO/part 1 - statistical mechanics/A - probability/PX283 - A1 - discrete probability distributions\|PX283 - A1 - discrete probability distributions]]
+[[content/012/PX284 - SMETO/part 1 - statistical mechanics/A - probability/PX284 - A1 - discrete probability distributions\|PX284 - A1 - discrete probability distributions]]
 [[content/012/PX284 - SMETO/part 1 - statistical mechanics/A - probability/PX284 - A2 - continuous probability distributions\|PX284 - A2 - continuous probability distributions]]
 [[content/012/PX284 - SMETO/part 1 - statistical mechanics/A - probability/PX284 - A3 - the bernoulli trial\|PX284 - A3 - the bernoulli trial]]
 [[content/012/PX284 - SMETO/part 1 - statistical mechanics/A - probability/PX284 - A4 - bayes' theorem\|PX284 - A4 - bayes' theorem]]

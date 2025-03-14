@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/l-formation-of-solar-system/px-282-l2-core-accretion/","noteIcon":"1","created":"2025-03-07T11:30:07.587+00:00","updated":"2025-03-07T18:25:35.067+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/l-formation-of-solar-system/px-282-l2-core-accretion/","noteIcon":"1","created":"2025-03-07T11:30:07.587+00:00","updated":"2025-03-14T08:45:33.913+00:00"}
 ---
 
 - firstly, the young sun and the protoplanetary disc is formed by gravitational collapse
-- ***sum micron sized dust particles*** are formed by condensation
+- ***sub-micron sized dust particles*** are formed by condensation
 	- **sublimation zone:** very close to the proto sun, where there are no solids
 	- where $T_{disc} \sim 1500$ K, there are calcium and aluminium rich minerals, as seen in meteorites
 	- further out, there are silicates (eg: chondrules in meteorites and terrestrials)

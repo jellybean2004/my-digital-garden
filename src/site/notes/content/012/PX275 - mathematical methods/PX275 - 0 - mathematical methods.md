@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-18T12:39:07.202+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-0-mathematical-methods/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-14T08:48:18.456+00:00"}
 ---
 
 <img src = 'https://i.redd.it/3jxjy5nfxq781.gif' class = 'banner'>
@@ -112,3 +112,15 @@
 [[content/012/PX275 - mathematical methods/term 2/H - fourier series and transforms/PX275 - H10 - FT and PDEs\|PX275 - H10 - FT and PDEs]]
 [[content/012/PX275 - mathematical methods/term 2/H - fourier series and transforms/PX275 - H11 - FT in data analysis\|PX275 - H11 - FT in data analysis]]
 ### [[content/012/PX275 - mathematical methods/term 2/I - optics/I - optics\|I - optics]]
+[[content/012/PX275 - mathematical methods/term 2/I - optics/PX275 - I0 - introduction to waves\|PX275 - I0 - introduction to waves]]
+[[content/012/PX275 - mathematical methods/term 2/I - optics/PX275 - I1 - diffraction and interference\|PX275 - I1 - diffraction and interference]]
+[[content/012/PX275 - mathematical methods/term 2/I - optics/PX275 - I2 - huygen's principle and point sources\|PX275 - I2 - huygen's principle and point sources]]
+[[content/012/PX275 - mathematical methods/term 2/I - optics/PX275 - I3 - point sources in 3D\|PX275 - I3 - point sources in 3D]]
+[[content/012/PX275 - mathematical methods/term 2/I - optics/PX275 - I4 - key geometry\|PX275 - I4 - key geometry]]
+[[content/012/PX275 - mathematical methods/term 2/I - optics/PX275 - I5 - different path lengths\|PX275 - I5 - different path lengths]]
+[[content/012/PX275 - mathematical methods/term 2/I - optics/PX275 - I6a - square aperture\|PX275 - I6a - square aperture]]
+[[content/012/PX275 - mathematical methods/term 2/I - optics/PX275 - I6b - rectangular aperture\|PX275 - I6b - rectangular aperture]]
+[[content/012/PX275 - mathematical methods/term 2/I - optics/PX275 - I6c - multiple slits\|PX275 - I6c - multiple slits]]
+[[content/012/PX275 - mathematical methods/term 2/I - optics/PX275 - I6d - circular aperture\|PX275 - I6d - circular aperture]]
+[[content/012/PX275 - mathematical methods/term 2/I - optics/PX275 - I7 - rayleigh criterion for resolution\|PX275 - I7 - rayleigh criterion for resolution]]
+[[content/012/PX275 - mathematical methods/term 2/I - optics/PX275 - I8 - optical elements in instruments\|PX275 - I8 - optical elements in instruments]]
