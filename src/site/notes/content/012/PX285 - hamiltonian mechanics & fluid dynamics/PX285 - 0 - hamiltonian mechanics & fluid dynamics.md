@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics-and-fluid-dynamics/","pinned":true,"noteIcon":"2","created":"2025-02-06T16:42:01.006+00:00","updated":"2025-03-01T15:20:06.651+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/px-285-0-hamiltonian-mechanics-and-fluid-dynamics/","pinned":true,"noteIcon":"2","created":"2025-02-06T16:42:01.006+00:00","updated":"2025-03-13T14:12:41.196+00:00"}
 ---
 
 
@@ -91,3 +91,9 @@
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/L - potential flows/PX285 - L3 - potential flows involving cylinders and aerofoils\|PX285 - L3 - potential flows involving cylinders and aerofoils]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/L - potential flows/PX285 - L4a - lift and circulation - magnus effect\|PX285 - L4a - lift and circulation - magnus effect]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/L - potential flows/PX285 - L4b - aerofoil\|PX285 - L4b - aerofoil]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/L - potential flows/PX285 - L5a - vortex lines\|PX285 - L5a - vortex lines]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/L - potential flows/PX285 - L5b - interacting vortex lines\|PX285 - L5b - interacting vortex lines]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/L - potential flows/PX285 - L6 - potential flow over a wing\|PX285 - L6 - potential flow over a wing]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/L - potential flows/PX285 - L7 - boundary layers\|PX285 - L7 - boundary layers]]
+[[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/L - potential flows/PX285 - L8 - aerofoil lift\|PX285 - L8 - aerofoil lift]]
+### [[M - \|M - ]]
