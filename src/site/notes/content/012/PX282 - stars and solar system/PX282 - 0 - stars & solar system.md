@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/px-282-0-stars-and-solar-system/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-07T11:08:14.405+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/px-282-0-stars-and-solar-system/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-16T11:28:45.261+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/d5/b0/80/d5b080e257c1e7403f9827a480042261.gif' class  = 'banner'>
@@ -121,3 +121,6 @@
 [[content/012/PX282 - stars and solar system/term 2 - solar system/K - giant planets/PX282 - K4 - atmosphere\|PX282 - K4 - atmosphere]]
 [[content/012/PX282 - stars and solar system/term 2 - solar system/K - giant planets/PX282 - K5 - moons\|PX282 - K5 - moons]]
 ### [[content/012/PX282 - stars and solar system/term 2 - solar system/L - formation of solar system/L - formation of solar system\|L - formation of solar system]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/L - formation of solar system/PX282 - L1 - nebular hypothesis\|PX282 - L1 - nebular hypothesis]]
+[[content/012/PX282 - stars and solar system/term 2 - solar system/L - formation of solar system/PX282 - L2 - core accretion\|PX282 - L2 - core accretion]]
+### [[content/012/PX282 - stars and solar system/M - habitability and extraterrestrial life\|M - habitability and extraterrestrial life]]
