@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e1a-star-formation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-05T11:04:28.076+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e1a-star-formation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-28T19:27:25.519+00:00"}
 ---
 
 ![Pasted image 20241121102048.png|500](/img/user/pics/Pasted%20image%2020241121102048.png)
@@ -9,10 +9,10 @@
 - from [[content/012/PX282 - stars and solar system/term 1 - stars/D - stellar structure and interiors/PX282 - D4 - virial theorem - energy in stars#^b7947e\|the virial theorem]]: 
 $$2U + \Omega = 0$$
 - if $2U > |\Omega|$, the cloud expands, and if $2U < |\Omega|$, the cloud collapses
-$$\Omega_{tot} = - \int_{0}^{R} \frac{GM_{r}(r)}{r} \rho \, 4\pi r^{3}\,dr$$
+$$\Omega_{tot} = - \int_{0}^{R} \frac{GM_{r}(r)}{r} \rho \, 4\pi r^{2}\,dr$$
 - for a constant $\rho$, 
 $$M_{r}= M \left(\frac{r}{R}\right)^{3}$$
-	- where, $M_{r}$ is the mass within the radius, $r$, and $M$ us the total mass if the cloud with radius, $R$, and density: 
+	where, $M_{r}$ is the mass within the radius, $r$, and $M$ is the total mass if the cloud with radius, $R$, and density: 
 	$$\rho = \frac{M}{\frac{4}{3}\pi R^{3}}$$
 $$\Omega_{tot} = - \frac{4\pi GM\rho}{R^{3}} \, \int_{0}^{R}  r^{4}\,dr \, $$
 $$\Omega = - \frac{3}{5} \frac{GM^{2}}{R}$$

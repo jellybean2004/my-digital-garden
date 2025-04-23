@@ -123,4 +123,4 @@
 ### [[content/012/PX282 - stars and solar system/term 2 - solar system/L - formation of solar system/L - formation of solar system\|L - formation of solar system]]
 [[content/012/PX282 - stars and solar system/term 2 - solar system/L - formation of solar system/PX282 - L1 - nebular hypothesis\|PX282 - L1 - nebular hypothesis]]
 [[content/012/PX282 - stars and solar system/term 2 - solar system/L - formation of solar system/PX282 - L2 - core accretion\|PX282 - L2 - core accretion]]
-### [[content/012/PX282 - stars and solar system/M - habitability and extraterrestrial life\|M - habitability and extraterrestrial life]]
+### [[content/012/PX282 - stars and solar system/term 2 - solar system/M - hamitability/M - habitability and extraterrestrial life\|M - habitability and extraterrestrial life]]

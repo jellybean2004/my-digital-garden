@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h1-complex-fourier-series/","noteIcon":"1","created":"2025-01-29T13:26:16.892+00:00","updated":"2025-01-29T13:39:48.856+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h1-complex-fourier-series/","noteIcon":"1","created":"2025-01-29T13:26:16.892+00:00","updated":"2025-03-21T08:10:34.733+00:00"}
 ---
 
 [[content/011/PX153 - mathematics for physicists/term 2/PX153 - J - fourier series/PX153 - J1 - introduction\|PX153 - J1 - introduction]]
@@ -25,7 +25,7 @@ $$f(x) = \sum\limits_{n=-\infty}^{\infty} C_{n}e^{ikx}$$
 $$\begin{gather}
 C_{0} = \frac{A_{0}}{2}  & n=0\\
 C_{n}= \frac{A_{n}-iB_{n}}{2} & n\geq 1 \\
-C_{-n} = \frac{A_{n}+iB_{n}}{2} & n \leq 1
+C_{-n} = \frac{A_{n}+iB_{n}}{2} & n \leq -1
 \end{gather}$$
 - this is the **complex fourier series**
 
@@ -33,7 +33,7 @@ C_{-n} = \frac{A_{n}+iB_{n}}{2} & n \leq 1
 - if $f(x)$ is real valued, ie: $f(x) = f^{*}(x):$
 $$\begin{gather}
 f(x) = \sum\limits_{n=-\infty}^{\infty} C_{n}e^{ikx} \\
-f(^{*}x) = \sum\limits_{n=-\infty}^{\infty} C_{n}^{*}e^{-ikx}
+f^{*}(x) = \sum\limits_{n=-\infty}^{\infty} C_{n}^{*}e^{-ikx}
 \end{gather}$$
 - this requires:
 $$\begin{gather}

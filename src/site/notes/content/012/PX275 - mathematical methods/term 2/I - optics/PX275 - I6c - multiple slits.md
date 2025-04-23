@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6c-multiple-slits/","noteIcon":"1","created":"2025-03-04T12:34:01.017+00:00","updated":"2025-03-06T12:06:41.167+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6c-multiple-slits/","noteIcon":"1","created":"2025-03-04T12:34:01.017+00:00","updated":"2025-03-27T19:41:13.191+00:00"}
 ---
 
 - considering the **young's double slit interference pattern**
@@ -16,8 +16,8 @@ $$\tilde a(\vec k) = \mathcal{F}(a(\vec y)) = \tilde a_{slit}(\vec k) \, \tilde 
 - it is known that:
 $$\tilde a_{slit}\propto \text{sinc}\,\left(\frac{kx_{1}w}{D}\right) \text{sinc}\,\left(\frac{kx_{2}H}{D}\right)$$
 $$\begin{align*}
-\tilde g(k) &= \int \exp(-i\vec k \cdot \vec y (\delta(\vec y + l \, \hat y_{1})+ \delta(\vec y - l \, \hat y_{1})))\,d\vec y \\ 
-&= \exp(i\vec k \cdot l\,\hat y_{1}) + \exp(-i\vec k \cdot l\,\hat y_{2}) \\ 
+\tilde g(k) &= \int \exp(-i\vec k \cdot \vec y) \bigg[ \delta(\vec y + l \, \hat y_{1})+ \delta(\vec y - l \, \hat y_{1})\bigg]\,d\vec y \\ 
+&= \exp(i\vec k \cdot l\,\hat y_{1}) + \exp(-i\vec k \cdot l\,\hat y_{1}) \\ 
 &= \exp(ik_{1}l) + \exp(-ik_{1}l) \\
 &= 2\cos(k_{1}l)
 \end{align*}$$

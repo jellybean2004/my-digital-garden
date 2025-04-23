@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/a-introduction/px-282-a0-hydrostatic-equilibrium/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-10T11:41:38.976+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/a-introduction/px-282-a0-hydrostatic-equilibrium/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-28T09:23:18.520+00:00"}
 ---
 
 - a key aspects of stars and planets
@@ -9,8 +9,7 @@
 - consider a small element within the shell having a mass, $M_{r}$ (a cylinder, with axis perpendicular to the surface, faces aligned along the surfaces of the shell)
 - gravitational force, 
 $$F_{G}= \frac{G\, M_{r}\, dm}{r^{2}} \tag{1}$$
-	- $dm = \rho(r)\, dr\,dA$
-		where, $\rho(r)$ is the density, $dA$ is the area of the cylinder's circular surface
+	where, $dm = \rho(r)\, dr\,dA$, $\rho(r)$ is the density, $dA$ is the area of the cylinder's circular surface
 - due to pressure: 
 $$F_{P} = \rho(r)\,dA-\rho(r+dr)\,dA = -dP\,dA \tag{2}$$
 - from equations $(1)$ and $(2)$, the **hydrostatic equilibrium equation**:

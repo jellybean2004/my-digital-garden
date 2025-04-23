@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/h-gases/px-284-h2-single-particle-partition-function/","noteIcon":"1","created":"2025-01-09T15:33:25.013+00:00","updated":"2025-01-09T16:03:43.602+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/h-gases/px-284-h2-single-particle-partition-function/","noteIcon":"1","created":"2025-01-09T15:33:25.013+00:00","updated":"2025-04-22T10:34:25.411+01:00"}
 ---
 
 - the sum is now written as an integral:
@@ -11,7 +11,8 @@ $$Z_{1} = \int_{0}^{\infty} e^{-\beta E(k)}g(k)\,dk$$
 - so,
 $$Z = \int_{0}^{\infty}\exp\left( -\beta \frac{\hbar^{2}k^{2}}{2m} \right) \frac{Vk^{2}}{2\pi^{2}} \,dk$$
 - using the standard integral:
-$$\int_{\infty}^{\infty} x^{2}e^{-\alpha x^{2}} dx = \frac{1}{2}\sqrt{\frac{\pi}{\alpha^{3}}}$$ $$\begin{align*}
+$$\int_{\infty}^{\infty} x^{2}e^{-\alpha x^{2}} dx = \frac{1}{2}\sqrt{\frac{\pi}{\alpha^{3}}}$$ 
+$$\begin{align*}
 Z &= V \left(\frac{mk_{B}T}{2\pi \hbar^{2}}\right)^{3/2} \\
 &= Vn_{Q} \\
 &= \frac{V}{\lambda_{th}^{3}}

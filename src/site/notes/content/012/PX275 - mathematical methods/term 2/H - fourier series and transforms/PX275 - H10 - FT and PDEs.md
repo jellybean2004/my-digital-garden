@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h10-ft-and-pd-es/","noteIcon":"1","created":"2025-02-13T12:24:10.594+00:00","updated":"2025-02-18T12:15:28.345+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h10-ft-and-pd-es/","noteIcon":"1","created":"2025-02-13T12:24:10.594+00:00","updated":"2025-03-27T12:17:19.493+00:00"}
 ---
 
 ## the wave equation
@@ -41,7 +41,7 @@ $$\tilde u(k,t) = \tilde A (k) e^{-Dk^{2}t}$$
 $$u = \frac{1}{2\pi} \int_{-\infty}^{\infty} e^{ikx} \tilde A(k) e^{-Dk^{2}t} ,dx$$
 
 - considering a special case of $\tilde A(k) = 1:$
-$$u = \frac{1}{2\pi} \int_{-\infty}^{\infty} e^{ikx} e^{-Dk^{2}t} ,dx$$
+$$u = \frac{1}{2\pi} \int_{-\infty}^{\infty} e^{ikx} e^{-Dk^{2}t} \,dx$$
 - this is the FT of a gaussian:
 $$\begin{gather} 
 f(x) = \sqrt{\frac{\alpha}{\pi}} e^{-\alpha x^{2}} \\

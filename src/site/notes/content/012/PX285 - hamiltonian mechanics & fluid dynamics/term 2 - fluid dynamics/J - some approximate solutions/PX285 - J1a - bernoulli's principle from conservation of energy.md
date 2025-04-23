@@ -1,15 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j1a-bernoulli-s-principle-from-conservation-of-energy/","noteIcon":"1","created":"2025-01-24T12:51:54.480+00:00","updated":"2025-02-01T13:26:04.949+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j1a-bernoulli-s-principle-from-conservation-of-energy/","noteIcon":"1","created":"2025-01-24T12:51:54.480+00:00","updated":"2025-04-16T07:52:46.388+01:00"}
 ---
 
 - considering a stream lined flow, with $A_{1}$ and $A_{2}$ as the cross-sectional areas of the flow tube
 
 ![PX285 - I3 - bernoulli's principle-1.png|500](/img/user/pics/PX285%20-%20I3%20-%20bernoulli's%20principle-1.png) 
 
-- the rate at which the fluid enters region 1: $$\rho_{1}A_{1}u_{1}$$
+- the rate at which the fluid enters region 1: 
+$$\rho_{1}A_{1}u_{1}$$
 - work is done on fluid by the pushing from behind (left to right in the sketch): 
 $$W = Fd = \frac{Fu}{t}$$
-- the rate at which work is done is: $$P_{1}A_{1}u_{1}$$
+- the rate at which work is done is: 
+$$P_{1}A_{1}u_{1}$$
 - the rate at which kinetic energy of the fluid enters region 1: 
 $$\frac{1}{2} \rho_{1}A_{1}u_{1} (u_{1})^{2}$$
 - and likewise, the gravitational potential energy: 

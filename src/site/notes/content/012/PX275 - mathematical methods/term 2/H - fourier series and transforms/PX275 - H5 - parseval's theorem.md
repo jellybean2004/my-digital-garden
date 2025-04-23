@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h5-parseval-s-theorem/","noteIcon":"1","created":"2025-02-06T14:21:47.936+00:00","updated":"2025-02-06T14:39:47.412+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h5-parseval-s-theorem/","noteIcon":"1","created":"2025-02-06T14:21:47.936+00:00","updated":"2025-04-11T11:23:38.396+01:00"}
 ---
 
 
 - considering the power/intensity:
-$$I_{total} = \int_{\infty}^{\infty} |u(x)|^{2} \, dx$$
+$$I_{total} = \int_{-\infty}^{\infty} |u(x)|^{2} \, dx$$
 	where, $|u|^{2} = uu^{*}$
 - using fourier transform:
 $$u(x) = \frac{1}{2\pi} \int_{-\infty}^{\infty} \tilde u(k)\, e^{ikx} \, dk$$

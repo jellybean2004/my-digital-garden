@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i3-point-sources-in-3-d/","noteIcon":"1","created":"2025-02-20T12:29:12.826+00:00","updated":"2025-03-09T11:32:31.072+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i3-point-sources-in-3-d/","noteIcon":"1","created":"2025-02-20T12:29:12.826+00:00","updated":"2025-03-27T12:54:31.022+00:00"}
 ---
 
 - the 3D wave equation:
@@ -25,7 +25,7 @@ $$\begin{gather}
 \implies \frac{\partial^{2} {v}}{\partial {r}^{2}} = \frac{1}{c^{2}}\frac{\partial^{2} {v}}{\partial {t}^{2}}
 \end{gather}$$
 - this is the 1D wave equation, but for $v$, the solutions for which is:
-$$v(r,t) = A\exp(ik(r-ct)) + B\exp(ik(r+ct)) = A'\exp(-ik(r-ct)) + B' \exp(-ik(r+ct))$$
+$$v(r,t) = A\exp(ik(r-ct)) + B\exp(ik(r+ct))$$
 - for sources of light, outward propagating solutions are needed
 - so, without loss of generality:
 $$ u(r,t) = \frac{A}{r} \exp(ik(r-ct ))$$
@@ -36,3 +36,4 @@ $$u(r,t) = R(r) T(t) = \frac{A}{r} \exp(ikr) \exp(-ikct)$$
 - for a stationary source, the time dependence is uniform
 - so the intensity patterns have a common time dependence
 - it is not possible to calculate the intensity patterns at given locations and for different shape apertures
+ 

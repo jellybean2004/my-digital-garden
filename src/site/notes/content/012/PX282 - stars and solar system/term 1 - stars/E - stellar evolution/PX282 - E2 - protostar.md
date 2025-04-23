@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e2-protostar/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:49:27.986+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e2-protostar/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-28T19:32:22.384+00:00"}
 ---
 
 ## collapse
@@ -16,5 +16,5 @@ $${}^{2}_{1} \text{H} + {}^{1}_{1} \text{H} \to {}^{3}_{2} \text{He} + \gamma$$
 - deuterium is easier to fuse as it does not require a proton decaying into a neutron
 - this forms a protostar
 - after the freefall collapse, the remaining pre-main-sequence lifetime involves the star adapting to thermal energy: 
-$$\tau_{kH} = \frac{GM^{2}}{2RL} \sim 10^{7}\,years$$
+$$\tau_{KH} = \frac{GM^{2}}{2RL} \sim 10^{7}\,years$$
 - although the core gets hotter, the outer regions have to lose heat to be able to collapse

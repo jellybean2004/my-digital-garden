@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c5-8-stellar-atmospheres/px-282-c5-definitions/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-22T10:19:40.139+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c5-8-stellar-atmospheres/px-282-c5-definitions/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-28T11:00:57.880+00:00"}
 ---
 
 - consider  ray of light:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-free-electron-model/px-262-h4-free-electron-model-3-d/","noteIcon":"1","created":"2025-01-13T11:11:53.829+00:00","updated":"2025-03-13T10:36:37.788+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-free-electron-model/px-262-h4-free-electron-model-3-d/","noteIcon":"1","created":"2025-01-13T11:11:53.829+00:00","updated":"2025-04-12T12:05:09.976+01:00"}
 ---
 
 - now, considering a box of dimensions: $L_{x} \times L_{y} \times L_{z}$
@@ -41,7 +41,7 @@ $$\Delta k_{x} \Delta k_{y} \Delta k_{z} = \frac{8\pi^{3}}{L_{x}L_{y}L_{z}} = 8\
 
 - occupied states lie in a sphere in the k-space
 - total number of electrons:
-$$N = 2 \times \frac{\text{Vol. of sphere}}{\text{Vol. per k point}} = 2 \times \frac{4}{3}\pi k_{F}^{3} \frac{V}{8\pi^{3}} = \frac{V}{3\pi^{3}} k_{F}^{3}$$
+$$N = 2 \times \frac{\text{Vol. of sphere}}{\text{Vol. per k point}} = 2 \times \frac{4}{3}\pi k_{F}^{3} \frac{V}{8\pi^{3}} = \frac{V}{3\pi^{2}} k_{F}^{3}$$
 	where, 2 is for each spin
 $$\implies k_{F} = \left(\frac{3\pi^{2}N}{V}\right)^{1/3} = (3\pi^{2}\rho_{e})^{1/3}$$
 	where, $\rho_{e}$ is the electron density
@@ -61,8 +61,8 @@ $$N(E) = \frac{Vk^{3}}{3\pi^{2}} = \frac{V}{3\pi^{2}} \left(\frac{2m_{e}E}{\hbar
 - the number of states between $E$ and $(\Delta E + dE):$
 $$n(E)\,dE = \frac{dN}{dE} \,dE = \frac{3}{2} \frac{V}{3\pi^{2}} \left(\frac{2m_{e}}{\hbar^{2}}\right)^{3/2}E^{1/2}\,dE$$
 ie. the density of states:
-$$n(E) = \frac{V}{2\pi^{2}} \frac{2m_{e}}{\hbar^{2}}^{3/2} E^{1/2}$$
-- let ${} \alpha = \cfrac{1}{2\pi^{2}} (\cfrac{2m_{e}}{\hbar^{2}})^{3/2} {}$
+$$n(E) = \frac{V}{2\pi^{2}} \left(\frac{2m_{e}}{\hbar^{2}}\right)^{3/2} E^{1/2}$$
+- let $\alpha = \cfrac{1}{2\pi^{2}} (\cfrac{2m_{e}}{\hbar^{2}}) ^{3/2}$
 $$N = \int_{0}^{E_{F}} n(E)\,dE = V \alpha E_{F}^{3/2} \frac{2}{3}$$
 - $n(E)$ can be used to compute some properties
 - the simplest is the total energy:
