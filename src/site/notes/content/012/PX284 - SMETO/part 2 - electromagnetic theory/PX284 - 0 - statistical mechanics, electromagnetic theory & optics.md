@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-14T08:50:24.607+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-05-03T10:53:35.306+01:00"}
 ---
 
 ## statistical mechanics
@@ -94,3 +94,10 @@
 [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/R - dielectrics/PX284 - R1 - waves in dielectrics\|PX284 - R1 - waves in dielectrics]]
 [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/R - dielectrics/PX284 - R2 - poynting vector\|PX284 - R2 - poynting vector]]
 ### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/S - EM waves at boundaries/S - EM waves at boundaries\|S - EM waves at boundaries]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/S - EM waves at boundaries/PX284 - S1 - snell's law\|PX284 - S1 - snell's law]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/S - EM waves at boundaries/PX284 - S2a - fresnel relations\|PX284 - S2a - fresnel relations]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/S - EM waves at boundaries/PX284 - S2b - brewster's angle\|PX284 - S2b - brewster's angle]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/S - EM waves at boundaries/PX284 - S2c - total internal reflection\|PX284 - S2c - total internal reflection]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/S - EM waves at boundaries/PX284 - S3a - conductors\|PX284 - S3a - conductors]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/S - EM waves at boundaries/PX284 - S3b - reflections on boundaries with metals\|PX284 - S3b - reflections on boundaries with metals]]
+### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/T - geometric optics/T - geometric optics\|T - geometric optics]]

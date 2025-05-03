@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g9-orthogonality-relations/","noteIcon":"1","created":"2025-01-23T10:38:25.675+00:00","updated":"2025-01-29T13:01:53.262+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g9-orthogonality-relations/","noteIcon":"1","created":"2025-01-23T10:38:25.675+00:00","updated":"2025-04-29T18:40:54.805+01:00"}
 ---
 
 $$\begin{align*}
@@ -63,7 +63,7 @@ $$\begin{gather}
 \frac{\partial u}{\partial t}(x,0) = \sum\limits_{n}\sin\left(\frac{n\pi x}{L}\right) D_{n} \frac{n\pi c}{L} = V_{0} \delta(x - x_{0}) \\
 \int_{0}^{L} \sum\limits_{n}\sin\left(\frac{n\pi x}{L}\right) \sin \left(\frac{m\pi x}{L}\right) D_{n} \frac{n\pi c}{L} \, dx=  \int_{0}^{L} V_{0} \delta(x - x_{0}) \sin \left(\frac{m\pi x}{L}\right) \, dx \\
 \sum\limits_{n} D_{n}  \frac{n\pi c}{L} \delta_{nm} \frac{L}{2} = V_{0} \sin\left(\frac{m\pi x_{0}}{L}\right) \\
-\therefore D_{n} = \frac{2V_{0}}{cm\pi}  \sin\left(\frac{m\pi x_{0}}{L}\right)
+\therefore D_{m} = \frac{2V_{0}}{cm\pi}  \sin\left(\frac{m\pi x_{0}}{L}\right)
 \end{gather}$$
 
 ![PX275 - G9 - orthogonality relations-2.png|250](/img/user/pics/PX275%20-%20G9%20-%20orthogonality%20relations-2.png) ![PX275 - G9 - orthogonality relations-3.png|250](/img/user/pics/PX275%20-%20G9%20-%20orthogonality%20relations-3.png) 

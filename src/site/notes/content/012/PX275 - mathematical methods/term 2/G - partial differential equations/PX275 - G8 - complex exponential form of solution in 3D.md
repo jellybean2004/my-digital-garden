@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g8-complex-exponential-form-of-solution-in-3-d/","noteIcon":"1","created":"2025-01-16T12:37:23.168+00:00","updated":"2025-01-29T10:37:24.637+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g8-complex-exponential-form-of-solution-in-3-d/","noteIcon":"1","created":"2025-01-16T12:37:23.168+00:00","updated":"2025-04-29T18:23:44.165+01:00"}
 ---
 
 ## 1D case
@@ -16,7 +16,7 @@ $$C\, e^{ikx}  = C(\cos kx  + i \sin kx) = |C| e^{i(kx + \phi)}$$
 - **note:** $\mathbf Re (|C|e^{i(kx+ \phi)}) = |C|\cos(kx + \phi)$
 
 - same applies to the time part:
-$$u(x,t) = Ce^{i(kx-\omega t)} = |C| e^{i(kx + \omega t + \phi)}$$
+$$u(x,t) = Ce^{i(kx-\omega t)} = |C| e^{i(kx - \omega t + \phi)}$$
 - physical solutions are represented by the real part
 
 - **note:** $Ce^{i(kx+\omega t)}$ also works!
