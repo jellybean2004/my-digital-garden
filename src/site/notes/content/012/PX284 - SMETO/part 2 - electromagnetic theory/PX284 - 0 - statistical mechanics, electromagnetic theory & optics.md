@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-05-03T10:53:35.306+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/px-284-0-statistical-mechanics-electromagnetic-theory-and-optics/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-05-09T14:09:37.382+01:00"}
 ---
 
 ## statistical mechanics
@@ -101,3 +101,13 @@
 [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/S - EM waves at boundaries/PX284 - S3a - conductors\|PX284 - S3a - conductors]]
 [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/S - EM waves at boundaries/PX284 - S3b - reflections on boundaries with metals\|PX284 - S3b - reflections on boundaries with metals]]
 ### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/T - geometric optics/T - geometric optics\|T - geometric optics]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/T - geometric optics/PX284 - T1 - wavefronts and rays\|PX284 - T1 - wavefronts and rays]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/T - geometric optics/PX284 - T2 - fermat's principle\|PX284 - T2 - fermat's principle]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/T - geometric optics/PX284 - T3a - imaging\|PX284 - T3a - imaging]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/T - geometric optics/PX284 - T3b - spherical surface using intersecting cords theorem\|PX284 - T3b - spherical surface using intersecting cords theorem]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/T - geometric optics/PX284 - T3c - spherical surface using trigonometric properties\|PX284 - T3c - spherical surface using trigonometric properties]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/T - geometric optics/PX284 - T4 - thin lens\|PX284 - T4 - thin lens]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/T - geometric optics/PX284 - T5 - principal rays\|PX284 - T5 - principal rays]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/T - geometric optics/PX284 - T6 - images\|PX284 - T6 - images]]
+[[content/012/PX284 - SMETO/part 2 - electromagnetic theory/T - geometric optics/PX284 - T7 - telescopes\|PX284 - T7 - telescopes]]
+### [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/U - wave optics/U - wave optics\|U - wave optics]]

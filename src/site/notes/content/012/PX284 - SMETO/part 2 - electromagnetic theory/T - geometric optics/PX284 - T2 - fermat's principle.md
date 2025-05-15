@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t2-fermat-s-principle/","noteIcon":"1","created":"2025-05-03T11:02:34.222+01:00","updated":"2025-05-03T14:22:50.715+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t2-fermat-s-principle/","noteIcon":"1","created":"2025-05-03T11:02:34.222+01:00","updated":"2025-05-03T14:23:34.343+01:00"}
 ---
 
 
@@ -8,7 +8,9 @@
 - considering light travelling from point $A$ to $B$
 
 >[!note] fermat's principle
-the path taken by the light ray is that which extremizes the time, ie. shortest optical path
+the path taken by the light ray is that which extremizes the optical path
+
+- more generally, light takes the path that minimizes the time, which neglects the other extrema
 
 - for a given path, the phase change from $A$ to $B$ is:
 $$\Delta\phi_{AB} = \int_{A}^{B} k\, dl = \int_{A}^{B} \frac{\omega}{v}\, dl = \int_{A}^{B} \frac{\omega}{c} n\,dl$$

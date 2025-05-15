@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j6-surfaces/","noteIcon":"1","created":"2025-01-31T16:23:21.305+00:00","updated":"2025-02-07T11:24:15.084+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j6-surfaces/","noteIcon":"1","created":"2025-01-31T16:23:21.305+00:00","updated":"2025-05-09T11:18:44.836+01:00"}
 ---
 
 ## moon
 
-![[Pasted image 20250207111621.png\|500]]
+![PX282 - J6 - surfaces.png|500](/img/user/pics/PX282%20-%20J6%20-%20surfaces.png)
 *image: NASA, lunar orbiter 4*
 
 - heavily cratered, implying an ancient surface
 - less cratered regions, **mare*** (lit. seas) are giant impact basins filled with lava flows until $3$ Gyr ago
 - this was measured with **radioisotope dating*** of rock samples
 - this allows the calibration of cratering history across the solar system
-- impacts also trace the thickness of lunar lithosphere
 - impacts also trace thickness of lunar lithosphere with time
 - lava flows are traced by **rilles***
 - the lunar surface is covered with soil called **regolith***, which is a fine powder from many impacts

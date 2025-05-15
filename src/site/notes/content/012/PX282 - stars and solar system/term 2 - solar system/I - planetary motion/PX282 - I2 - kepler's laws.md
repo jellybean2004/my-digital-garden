@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i2-kepler-s-laws/","noteIcon":"1","created":"2025-01-17T11:08:19.368+00:00","updated":"2025-01-17T11:31:52.999+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i2-kepler-s-laws/","noteIcon":"1","created":"2025-01-17T11:08:19.368+00:00","updated":"2025-05-08T14:18:53.367+01:00"}
 ---
 
 ## first law
@@ -15,7 +15,7 @@ $$r' + r = \text{constant} = 2a$$
 	where,
 		$r'$ and $r$ are the distances from the foci to a point on the perimeter,
 		 $a$ is the **semimajor axis**, which is the widest radius 
-		 also, $e$, the ellpticity/eccentricity is the ratio of the semimajor to the semiminor axes
+		 also, $e$, the ellpticity/eccentricity
 
 - considering a point, $Q$, on the perimeter:
 $$r^{2} = b^{2} + a^{2}e^{2} \implies b^{2}= a^{2}(1-e^{2})$$

@@ -1,27 +1,45 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/g-the-sun/px-282-g5-solar-activity-cycle/","noteIcon":"1","created":"2024-12-05T10:25:47.506+00:00","updated":"2025-01-10T11:22:32.176+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/g-the-sun/px-282-g5-solar-activity-cycle/","noteIcon":"1","created":"2024-12-05T10:25:47.506+00:00","updated":"2025-05-08T11:10:09.866+01:00"}
 ---
 
 ![Pasted image 20241205102548.png|500](/img/user/pics/Pasted%20image%2020241205102548.png)
 *image: hathaway NASA/ARC*
 
 - the solar magnetic activity varies in an 11 year cycle
-- approaching the maximum, the number of sunspots increases and they emerge closer to the equator
+- approaching the maximum, the number of sunspots increases
+- at the start of each cycle, sun spots are seen at high latitudes
+- later, they emerge closer to the equator
 - the x-ray emission also increases
+
+![Pasted image 20241205102835.png|500](/img/user/pics/Pasted%20image%2020241205102835.png)
+*images: carroll & ostile, an introduction to modern astrophysics, 2007*
+
 - the magnetic field cycles between toroidal and poloidal due to differential rotation
 - this causes the magnetic field to be reversed
 - this is called the **solar dynamo model**
 
-![Pasted image 20241205102835.png|500](/img/user/pics/Pasted%20image%2020241205102835.png)
 ![Pasted image 20241205102741.png|500](/img/user/pics/Pasted%20image%2020241205102741.png)
 *images: carroll & ostile, an introduction to modern astrophysics, 2007*
 
+- at the beginning, few sunspots with magnetic field close to a dipole
+- differential rotation drags the field lines from poloidal to toroidal
+- twisted magnetic flux loops emerge, giving sunspots
+- meridional flows drag them towards equator
+- opposite polarity toroidal components cancel
+- solar magnetic field reverts to dipole with opposite polarity
+
+![PX282 - G5 - solar activity cycle.png|500](/img/user/pics/PX282%20-%20G5%20-%20solar%20activity%20cycle.png)
+*images: carroll & ostile, an introduction to modern astrophysics, 2007*
+
+- the large-scale magnetic field (solid lines) is similar to a dipole (dashed lines)
 - coronal plasma can escape along 'open field lines' as a **solar wind**
 - this causes the **ion tail** of comets and can also erode planet atmospheres
+
 - at earth, solar winds with  velocities $\sim 500\,km\,s^{-1}$, and number densities $\sim 7\times10^6\,m^{-3}$ can be seen
 $$\frac{1}{2} m_{H}v_{H}^{2} \simeq \frac{3}{2} k_{B}T \implies T \approx \frac{m_{H}v_{H}^{2}}{3k_{B}} = 1.0\times10^{7}\,K$$
 - this is comparable to the coronal temperatures, but an additional energy source is needed to explain this temperature
 - it is believed that the winds are assisted by [**alfven waves**](https://en.wikipedia.org/wiki/Alfv%C3%A9n_wave) propagating along magnetic field lines excited by convection at the photosphere
+
 ![Pasted image 20241205104401.png|500](/img/user/pics/Pasted%20image%2020241205104401.png)
 *image: steven cranmer*
 ## mass loss rate

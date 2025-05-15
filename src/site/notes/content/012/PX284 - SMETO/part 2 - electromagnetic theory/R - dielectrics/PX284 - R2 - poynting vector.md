@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/r-dielectrics/px-284-r2-poynting-vector/","noteIcon":"1","created":"2025-03-06T15:40:16.206+00:00","updated":"2025-03-10T10:07:47.698+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/r-dielectrics/px-284-r2-poynting-vector/","noteIcon":"1","created":"2025-03-06T15:40:16.206+00:00","updated":"2025-05-07T17:46:15.711+01:00"}
 ---
 
 - the continuity equation:
@@ -42,7 +42,7 @@ $$\frac{\vec S}{c} = \frac{\vec E \times \vec H}{c}$$
 ## in a current carrying conductor
 - consider a cylindrical with a cross-sectional area, $A$, carrying a current in the same direction as $\vec E$
 - from the right hand rule, $\vec H$ loops around the wire
-- $\vec S = \vec E \times \vec E$, the pointing vector always points into the wire
+- $\vec S = \vec E \times \vec H$, the pointing vector always points into the wire
 - $|\vec E| = V/L$, $|\vec H| = I/2\pi r$, so, the energy that enters the wire: 
 $$|\vec S| A = \frac{VIL2\pi r}{L2\pi r} = VI =E$$
 - this is equal to the energy dissipated in the wire

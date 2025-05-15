@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i3-newtons-laws/","noteIcon":"1","created":"2025-01-17T11:32:26.304+00:00","updated":"2025-01-17T11:51:50.705+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i3-newtons-laws/","noteIcon":"1","created":"2025-01-17T11:32:26.304+00:00","updated":"2025-05-08T14:33:07.402+01:00"}
 ---
 
 - newton (1687) used [[content/012/PX282 - stars and solar system/term 2 - solar system/I - planetary motion/PX282 - I2 - kepler's laws\|kepler's laws]] to infer the **law of universal gravitation**
@@ -9,7 +9,7 @@ $$\begin{gather}
 P^{2} = kr^{3} \\
 P=2\pi \frac{r}{v} \\\\
 \implies 4\pi^{2} \frac{r^{2}}{v^{2}} = kr^{3}   \\
-\therefore a = \frac{v^{2}}{r} = \frac{4\pi^{2}}{k}
+\therefore v^{2} = \frac{4\pi^{2}}{kr}
 \end{gather}$$
 - using [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/C - calculus of variations/PX285 - C3 - newton's second law\|newton's second law]]:
 $$F = ma = \frac{mv^{2}}{r} = \frac{4\pi ^{2}m}{kr^{2}}$$
@@ -23,7 +23,7 @@ $$F = \frac{4\pi^{2}Mm}{k''r^{2}}$$
 $$\therefore F = \frac{GMm}{r^{2}}$$
 - newton was able to derive all three of kepler's laws using this law of universal gravitation (see [chapter 2, Carroll & Ostile, 2007])
 
-- the constant in kepler's third law, assuming ${} M\gg m: {}$
+- the constant in kepler's third law, assuming $M\gg m:$
 $$k = \frac{k''}{M} = \frac{4\pi^{2}}{GM} \implies P^{2}  = \frac{4\pi^{2}}{GM} a^{3}$$
 - this is called the **one body problem**
 

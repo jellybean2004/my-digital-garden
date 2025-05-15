@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/h-introduction-to-the-planets/px-282-h1-planets/","noteIcon":"1","created":"2025-01-10T11:24:07.050+00:00","updated":"2025-01-10T11:50:06.215+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/h-introduction-to-the-planets/px-282-h1-planets/","noteIcon":"1","created":"2025-01-10T11:24:07.050+00:00","updated":"2025-05-08T12:10:20.354+01:00"}
 ---
 
 ![PX282 - H1 - planets.png|500](/img/user/pics/PX282%20-%20H1%20-%20planets.png)
@@ -13,9 +13,9 @@
 ### gas giants
 - primarily H/He gas around a rocky/icy core 
 - rotate rapidly with strong magnetic field 
-- have a rich system of planets
+- have a rich system of moons
 ### ice giants
-- rocky/icy core surrounded y a thinner H/He envelope
+- rocky/icy core surrounded by a thinner H/He envelope
 - rotate rapidly with strong magnetic field 
 - have a rich system of planets
 ### others

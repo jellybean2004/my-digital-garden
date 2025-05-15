@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/p-em-waves/px-284-p2-energy-in-em-fields/","noteIcon":"1","created":"2025-02-17T10:36:15.302+00:00","updated":"2025-02-23T13:25:29.515+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/p-em-waves/px-284-p2-energy-in-em-fields/","noteIcon":"1","created":"2025-02-17T10:36:15.302+00:00","updated":"2025-05-07T17:45:08.970+01:00"}
 ---
 
 - for a conservation law, there must be a continuity equation:
@@ -23,5 +23,5 @@ $$\begin{align*}
 \implies - W &= \frac{\vec\nabla\cdot (\vec E \times\vec B)-\vec B \cdot (\vec\nabla \times\vec E)}{\mu_{0}} + \varepsilon_{0} \vec E \cdot \frac{\partial \vec E}{\partial t} \\
 &= \vec\nabla \cdot \frac{\vec E \times \vec B}{\mu_{0}} + \frac{1}{\mu_{0}}\vec B \cdot \frac{\partial \vec B}{\partial t} + \varepsilon_{0}\vec E \frac{\partial \vec E}{\partial t} \\
 &= \vec\nabla \cdot \underbrace{\frac{\vec E \times \vec B}{\mu_{0}}}_{P} + \frac{\partial }{\partial t} \underbrace{\left(\frac{B^{2}}{2\mu_{0}} + \varepsilon_{0} \frac{E^{2}}{2}\right)}_{u} \\
-\therefore - W &= \frac{\partial u}{\partial t} + \vec\nabla \vec P
+\therefore - W &= \frac{\partial u}{\partial t} + \vec\nabla \cdot \vec P
 \end{align*}$$

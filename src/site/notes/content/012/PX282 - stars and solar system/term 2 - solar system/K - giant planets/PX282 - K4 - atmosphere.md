@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/px-282-k4-atmosphere/","noteIcon":"1","created":"2025-02-28T11:05:09.060+00:00","updated":"2025-02-28T11:43:12.286+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/px-282-k4-atmosphere/","noteIcon":"1","created":"2025-02-28T11:05:09.060+00:00","updated":"2025-05-10T11:42:31.134+01:00"}
 ---
 
 - the composition is mainly the H and He envelope, enriched in CH$_4$, NH$_3$ (also H$_2$O)
@@ -45,7 +45,7 @@
 
 - colder with deeper NH$_3$ ice clouds, with more muted banding
 - the blue colour is from enhanced methane abundance, which strongly absorbs red optical light
-- high altitude while clouds from methane ice condensing at these low temperatures
+- high altitude white clouds from methane ice condensing at these low temperatures
 
 ![PX282 - K4 - atmosphere-4.png|500](/img/user/pics/PX282%20-%20K4%20-%20atmosphere-4.png)
 *image: fundamental planetary science*

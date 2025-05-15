@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c9-sources-of-opacity/px-282-c9d-free-free-absorption/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-22T14:56:15.978+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c9-sources-of-opacity/px-282-c9d-free-free-absorption/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-05-11T18:06:24.500+01:00"}
 ---
 
 - it follows *kramer's law*: 
@@ -23,8 +23,8 @@ $$\begin{gather}
 - from the [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - A - light/PX156 - A3c - boltzmann distribution\|boltzmann distribution]]: 
 $$v = \sqrt{\frac{2k_{B}T }{m}} \implies v\propto T^{1/2}$$
 - therefore, the number of systems able to absorb $\propto \rho T^{-1/2}$
-- the absorption coefficient for a single system $\propto \nu_\gamma^{-3}$
+- the absorption coefficient for a single system $\propto v_\gamma^{-3}$
 - compiling above relations:
-$$\kappa \propto \nu^{-3}\rho T^{-1/2}$$
+$$\kappa \propto v^{-3}\rho T^{-1/2}$$
 - most absorption happens at the peak of the planck function, $B(T):$
 $$\therefore \kappa \propto \rho T^{-7/2}$$

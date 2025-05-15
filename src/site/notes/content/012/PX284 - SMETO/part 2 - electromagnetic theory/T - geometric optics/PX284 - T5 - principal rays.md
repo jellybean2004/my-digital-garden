@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t5-principal-rays/","noteIcon":"1","created":"2025-05-03T13:59:48.867+01:00","updated":"2025-05-03T14:21:56.148+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t5-principal-rays/","noteIcon":"1","created":"2025-05-03T13:59:48.867+01:00","updated":"2025-05-07T11:08:59.829+01:00"}
 ---
 
 - useful to classify lenses and make diagrams
@@ -20,4 +20,5 @@
 	- **converging:** coming from a point source at focus
 	- **diverging**: coming from a source that would converge at the focus
 
-![PX284 - T5 - principal rays-2.png](/img/user/pics/PX284%20-%20T5%20-%20principal%20rays-2.png)
+![PX284 - T5 - principal rays-2.png|500](/img/user/pics/PX284%20-%20T5%20-%20principal%20rays-2.png)
+
