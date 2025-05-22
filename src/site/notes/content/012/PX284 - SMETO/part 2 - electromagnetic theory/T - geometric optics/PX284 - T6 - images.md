@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t6-images/","noteIcon":"1","created":"2025-05-07T11:15:36.647+01:00","updated":"2025-05-08T16:13:32.312+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t6-images/","noteIcon":"1","created":"2025-05-07T11:15:36.647+01:00","updated":"2025-05-20T17:38:10.856+01:00"}
 ---
 
 ## real image
@@ -34,8 +34,6 @@ $$\frac{\theta v}{\theta u} = \frac{v}{u} <0$$
 ![PX284 - T6 - images-2.png|500](/img/user/pics/PX284%20-%20T6%20-%20images-2.png)
 
 - for $d<d_{NP}$, eye cannot become stronger, so image behind retina
-
-#fig magnifying glass + retina
 
 - without magnifying glass:
 $$\theta_{min} = \frac{l}{d_{NP}}$$

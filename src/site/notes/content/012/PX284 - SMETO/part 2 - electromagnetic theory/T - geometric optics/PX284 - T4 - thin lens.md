@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t4-thin-lens/","noteIcon":"1","created":"2025-05-03T12:24:15.897+01:00","updated":"2025-05-03T14:14:14.822+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t4-thin-lens/","noteIcon":"1","created":"2025-05-03T12:24:15.897+01:00","updated":"2025-05-22T07:49:37.837+01:00"}
 ---
 
 
@@ -29,6 +29,6 @@ $$\begin{gather}
 - for light from infinity, $u \to \infty$, the light converges at the focus of the lens, at focal length $v = f$
 $$\frac{1}{f} = (n-1) \left(\frac{1}{R_{1}} - \frac{1}{R_{2}}\right)$$
 - this is called the **lens maker's equation**
-- if he focal length is known, the **thin lens equation**, which neglects the offset between the two surfaces:
+- if the focal length is known, the **thin lens equation**, which neglects the offset between the two surfaces:
 $$\frac{1}{u} + \frac{1}{v} = \frac{1}{f}$$
 - $1/f$ is called the '**power**' of the lens, measured in units of 'dioptres' $[\text{m}^{-1}]$

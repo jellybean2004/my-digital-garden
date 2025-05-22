@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c10-13-radiative-transfer/px-282-c12-temperature-structure/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-22T16:32:36.664+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c10-13-radiative-transfer/px-282-c12-temperature-structure/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-05-19T09:12:01.376+01:00"}
 ---
 
 - the [[content/012/PX282 - stars and solar system/term 1 - stars/C - stellar atmosphere/C10-13 -  radiative transfer/PX282 - C11 - radiation pressure\|radiation pressure]]: 
@@ -15,7 +15,7 @@ $$P_{rad}= \frac{4\pi}{3c}\langle{I}\rangle$$
 	- $P_{rad}$ decreases
 - the change in $P_{rad}$ can be related to the change in $F$
 - for the photon: $E=pc$ and $F = \frac{dE}{dt}$ 
-$$\frac{dp}{dt}= \frac{dF}{c} = Force$$
+$$\frac{dp}{dt}= \frac{dE}{c} = Force$$
 - the force, ie: the difference in $P_{rad}$, is: $Force = \frac{dP_{rad}}{dz}\,dz$: 
 $$\frac{dP_{rad}}{dz}dz = \frac{1}{c}dF$$
 
@@ -42,3 +42,10 @@ $$\therefore T^{4} = \frac{3}{4} T_{eff}^{4}\left(\tau + \frac{2}{3}\right)$$
 - **key points:**
 	- $T = T_{eff}$ when $\tau=\frac{2}{3}$
 	- the 'surface' that is seen is at $\tau \approx \frac{2}{3}$
+
+
+
+i watched the whole of game of thrones in 4 days
+i have climbed everest
+i have watched gilmore girls 6 times, start to finish
+
