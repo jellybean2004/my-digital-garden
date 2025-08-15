@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/a-small-angle-scattering/a-small-angle-scattering/","noteIcon":"1","created":"2025-08-15T07:03:29.902+01:00","updated":"2025-08-15T09:15:36.208+01:00"}
+{"dg-publish":true,"permalink":"/content/013/a-small-angle-scattering/a-small-angle-scattering/","noteIcon":"1","created":"2025-08-15T07:03:29.902+01:00","updated":"2025-08-15T10:07:33.090+01:00"}
 ---
 
 ## background
@@ -9,3 +9,5 @@ based on CJ Gommes, S Jakschb and S Frielinghausb (2021). *Small-angle scatterin
 [[content/013/A  - small angle scattering/A3 - form factor\|A3 - form factor]]
 [[content/013/A  - small angle scattering/A4 - structure factor\|A4 - structure factor]]
 
+## tools
+[[content/013/A  - small angle scattering/A5 - correlation function theory\|A5 - correlation function theory]]
