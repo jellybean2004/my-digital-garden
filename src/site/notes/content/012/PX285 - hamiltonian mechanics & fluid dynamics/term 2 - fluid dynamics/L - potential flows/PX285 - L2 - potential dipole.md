@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l2-potential-dipole/","noteIcon":"1","created":"2025-02-20T14:09:20.894+00:00","updated":"2025-02-22T14:11:59.676+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l2-potential-dipole/","noteIcon":"1","created":"2025-02-20T14:09:20.894+00:00","updated":"2025-06-09T10:31:20.962+01:00"}
 ---
 
 - let $\phi = a\cos\theta/r$ in cylindrical coordinates
@@ -87,7 +87,7 @@ $$\dot \phi + \frac{P_{atm}}{\rho} + gz + \frac{u^{2}}{z} = \text{constant}$$
 $$\dot \phi(t)+ gz(t)  + \frac{P_{atm}}{\rho}  = \text{constant} \implies \dot \phi(t)+ gz(t) = \text{constant}$$
 - let the constant be zero
 $$\begin{gather}
-\omega\phi_{0} \sin (kx -\omega t) (e^{kd}-e^{-kd}) + g\left[- \frac{k\phi_{0}}{\omega} \sin(kx - \omega t) (e^{kd} - e^{-kd})\right]= 0 \\
+\omega\phi_{0} \sin (kx -\omega t) (e^{kd}+e^{-kd}) + g\left[- \frac{k\phi_{0}}{\omega} \sin(kx - \omega t) (e^{kd} - e^{-kd})\right]= 0 \\
 \omega^{2} = gk  \frac{e^{kd}-e^{-kd}}{e^{kd}+e^{-kd}} = gk\tanh(kd)
 \end{gather}$$
 - this is the dispersion relation for surface waves

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/px-282-k2a-interiors-of-gas-giants/","noteIcon":"1","created":"2025-02-21T11:29:13.561+00:00","updated":"2025-02-21T16:32:30.590+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/px-282-k2a-interiors-of-gas-giants/","noteIcon":"1","created":"2025-02-21T11:29:13.561+00:00","updated":"2025-05-28T18:20:40.122+01:00"}
 ---
 
 - the radius vs mass can be calculated for a given composition by assuming hydrostatic equilibrium
@@ -37,7 +37,7 @@ $$\sin\left(\sqrt{\frac{2\pi G}{K}}r\right) = 0 \implies R = \sqrt{\frac{\pi K}{
 *image: ESO 2002*
 
 - for central density, $\rho_C$, integrating the mass conservation equation:
-$$M = \int_{0}^{R} 4\pi r^{2} \rho(r) \, dr = \frac{4\pi \rho(c)}{k} \int_{0}^{R} 4\sin kr\, dr$$
+$$M = \int_{0}^{R} 4\pi r^{2} \rho(r) \, dr = \frac{4\pi \rho_{c}}{k} \int_{0}^{R} r\sin kr\, dr$$
 - integrating by parts, and $kR = \pi:$
 $$\rho_{C} = \frac{\pi M}{4R^{3}}$$
 

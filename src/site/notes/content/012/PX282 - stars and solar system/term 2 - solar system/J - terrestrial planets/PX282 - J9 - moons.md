@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j9-moons/","noteIcon":"1","created":"2025-02-14T16:20:41.752+00:00","updated":"2025-02-14T16:45:33.273+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j9-moons/","noteIcon":"1","created":"2025-02-14T16:20:41.752+00:00","updated":"2025-05-27T09:31:25.884+01:00"}
 ---
 
 - **mercury and venus**: no moons
@@ -19,7 +19,7 @@
 
 - it is the limit to orbital separation, where the self gravity is smaller than the differential gravity from the planet
 $$dF_{G} = - \frac{2GMm}{r^{3}}\,dr$$
-$$\frac{GM_{m}m}{R_{m}^{2}} \leq \frac{2GM_{p}m}{a^{3}}$$
+$$\frac{GM_{m}m}{R_{m}^{2}} \leq \frac{2GM_{p}m}{a^{3}} R_m$$
 	where, 
 		$M_m$ is the mass of the moon, 
 		$M_p$ is the mass of the planet, 

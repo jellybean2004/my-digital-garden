@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/m-turbulence-and-drag/px-284-m1-turbulence/","noteIcon":"1","created":"2025-03-13T14:15:40.488+00:00","updated":"2025-03-14T08:33:47.179+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/m-turbulence-and-drag/px-284-m1-turbulence/","noteIcon":"1","created":"2025-03-13T14:15:40.488+00:00","updated":"2025-05-31T15:44:59.454+01:00"}
 ---
 
 ![PX284 - M1 -.png|500](/img/user/pics/PX284%20-%20M1%20-.png)
@@ -15,7 +15,7 @@
 	- $D:$ diameter of cylinder (and vortices)
 	- $u:$ flow speed upstream
 	- $P:$ time period of  vortex shedding
-- a dimensionless combination of these parameters can be formed, which is called the **'struhal number'**:
+- a dimensionless combination of these parameters can be formed, which is called the **'storuhal number'**:
 $$\text{St} = \frac{D}{Pu}$$
 - for a very broad range of applications (air, water, mercury, plasma), $\text{St} \approx 0.25$
 - this is a very robust feature of the oscillating vortex shedding phenomenon

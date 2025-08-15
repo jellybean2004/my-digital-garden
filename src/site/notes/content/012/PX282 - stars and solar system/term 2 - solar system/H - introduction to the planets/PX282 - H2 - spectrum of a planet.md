@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/h-introduction-to-the-planets/px-282-h2-spectrum-of-a-planet/","noteIcon":"1","created":"2025-01-10T11:27:46.125+00:00","updated":"2025-05-08T12:18:40.107+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/h-introduction-to-the-planets/px-282-h2-spectrum-of-a-planet/","noteIcon":"1","created":"2025-01-10T11:27:46.125+00:00","updated":"2025-06-06T09:42:56.102+01:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 - there are two components in the spectrum
 ## the reflected component
 - the luminosity:
-$$L_{reflect} = \frac{L_{\odot}}{2\pi a} A_{G} \pi R_{p}^{2}$$
+$$L_{reflect} = \frac{L_{\odot}}{4\pi a^2} A_{G} \pi R_{p}^{2}$$
 	where, 
 		$a$ is the orbital separation of the planet from the sun, so the fraction on the RHS is the solar flux at the planet
 		$A_G$ is the geometric ***albedo***, which depends on the viewing angle

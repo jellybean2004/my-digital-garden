@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/px-285-i5-initial-and-boundary-conditions/","noteIcon":"1","created":"2025-01-31T13:27:32.532+00:00","updated":"2025-01-31T14:52:17.632+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/px-285-i5-initial-and-boundary-conditions/","noteIcon":"1","created":"2025-01-31T13:27:32.532+00:00","updated":"2025-06-01T14:04:33.908+01:00"}
 ---
 
 - considering a rigid object in flow at the object's boundary, $u_{\perp} = 0$, locally normal to the boundary
@@ -52,4 +52,3 @@ $$\frac{\delta}{L_{0}}\approx \sqrt{\frac{\mu}{\rho_{0}u_{0}L_{0}}} = (Re)^{-1/2
 - for large reynolds number flows, thin layer near the boundary where viscosity **cannot** be ignored
 - this is called the **boundary layer**
 - outside this, $\mu = 0$ will be an accurate model
-- 

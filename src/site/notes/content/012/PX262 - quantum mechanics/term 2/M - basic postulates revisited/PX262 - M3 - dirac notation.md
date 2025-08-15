@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/m-basic-postulates-revisited/px-262-m3-dirac-notation/","noteIcon":"1","created":"2025-02-27T10:32:29.238+00:00","updated":"2025-03-06T10:09:03.021+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/m-basic-postulates-revisited/px-262-m3-dirac-notation/","noteIcon":"1","created":"2025-02-27T10:32:29.238+00:00","updated":"2025-06-12T18:11:20.285+01:00"}
 ---
 
 - it is a very economical and powerful notation
@@ -35,7 +35,7 @@ $$\hat H | \psi \rangle = i \hbar \frac{d}{dt} |\psi\rangle$$
 $$|\psi\rangle = \sum\limits_{a} |a\rangle \langle{a|\psi}\rangle$$
 $$\begin{gather}
 \sum\limits_{a} \hat H |a\rangle \langle{a|\psi}\rangle = i\hbar \sum\limits_{a} |a \rangle \frac{d}{dt} \langle{a|\psi}\rangle \\ 
-\sum\limits \langle{a_{1} | \hat H | a}\rangle \langle{a|\psi}\rangle = i\hbar \sum\limits_{a} \langle{a_{1}|a_{2}}\rangle \frac{d}{dt} \langle{a|\psi}\rangle
+\sum\limits \langle{a_{1} | \hat H | a}\rangle \langle{a|\psi}\rangle = i\hbar \sum\limits_{a} \langle{a_{1}|a}\rangle \frac{d}{dt} \langle{a|\psi}\rangle
 \end{gather}$$
 - ie. multiplied the schrodinger equation on the left by $\langle a_{1}|$
 $$\sum\limits_{a} H_{a,a} c_{a}(t) = i\hbar \frac{d}{dt}c_{a_{1}}(t)$$
@@ -46,7 +46,7 @@ H_{21} &\ddots & \\
 = i\hbar \frac{d}{dt} \begin{pmatrix}c_{1} \\ c_{2}\\ \vdots\end{pmatrix}$$
 - $H_{a,a}$'s have the form of a square matrix
 - to illustrate, considering the case of two base states forming a complete set, eg: spin
-$$|\psi\rangle = c_{1}|\uparrow + c_{2}|\downarrow\rangle$$
+$$|\psi\rangle = c_{1}|\uparrow \rangle+ c_{2}|\downarrow\rangle$$
 - eg:
 $$\begin{gather}
 \langle{\uparrow | \hat H | \uparrow}\rangle = E_{0} \\
