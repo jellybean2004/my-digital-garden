@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-08-13T05:54:54.121+01:00"}
+{"dg-publish":true,"permalink":"/content/the-green-house/","pinned":true,"tags":["gardenEntry"],"noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-08-15T09:20:51.893+01:00"}
 ---
 
 
@@ -16,9 +16,8 @@
 ---
 ## yearly notes 🌌
 
-### [[content/013/013 placement\|013 placement]]
-[[content/013/about\|about]]
-[[content/013/git\|git]]
+### [[content/013/013 placement\|013 placement]]🪴
+[[content/013/A  - small angle scattering/A - small angle scattering\|A - small angle scattering]]
 
 ---
 ### [[content/012/012 year 2\|012 year 2]] 🪴
@@ -27,7 +26,6 @@
 [[content/012/PX282 - stars and solar system/PX282 - 0 - stars & solar system\|PX282 - 0 - stars & solar system]]
 [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/PX284 - 0 - statistical mechanics, electromagnetic theory & optics\|PX284 - 0 - statistical mechanics, electromagnetic theory & optics]]
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/PX285 - 0 - hamiltonian mechanics & fluid dynamics\|PX285 - 0 - hamiltonian mechanics & fluid dynamics]]
-
 
 ---
 ### [[content/011/011 year 1\|011 year 1]] 🌱
