@@ -18,7 +18,7 @@
 
 ### [[content/013/013 placement\|013 placement]]🪴
 [[content/013/A  - small angle scattering/A - small angle scattering\|A - small angle scattering]]
-[[content/013/B - python\|B - python]]
+[[content/013/B  - python/B - python\|B - python]]
 
 ---
 ### [[content/012/012 year 2\|012 year 2]] 🪴
