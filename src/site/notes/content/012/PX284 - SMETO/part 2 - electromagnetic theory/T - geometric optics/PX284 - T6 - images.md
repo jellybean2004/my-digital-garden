@@ -16,7 +16,7 @@ $$\frac{v}{u}\simeq \frac{f}{u}$$
 - the image is inverted
 ## virtual image
 
-![[PX284 - T6 - images-1.png|500]]
+![PX284 - T6 - images-1.png|500](/img/user/pics/PX284%20-%20T6%20-%20images-1.png)
 
 - here, $u<f :$
 $$\frac{1}{v} = \frac{1}{f} - \frac{1}{u} <0$$

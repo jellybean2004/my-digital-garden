@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/013-placement/","pinned":true,"noteIcon":"3","created":"2025-08-13T05:54:11.472+01:00","updated":"2025-08-20T11:04:16.276+01:00"}
+{"dg-publish":true,"permalink":"/content/013/013-placement/","pinned":true,"noteIcon":"3","created":"2025-08-13T05:54:11.472+01:00","updated":"2025-08-21T09:13:02.444+01:00"}
 ---
 
 ## [[content/013/A  - small angle scattering/A - small angle scattering\|A - small angle scattering]]
@@ -14,3 +14,4 @@
 [[content/013/B  - python/B4 - methods\|B4 - methods]]
 [[content/013/B  - python/B5 - inheritance\|B5 - inheritance]]
 [[content/013/B  - python/B6 - operator overloading\|B6 - operator overloading]]
+[[content/013/B  - python/B7 - type hints\|B7 - type hints]]

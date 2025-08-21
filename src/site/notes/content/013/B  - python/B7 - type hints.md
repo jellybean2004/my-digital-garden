@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/b-python/b7-type-hints/","noteIcon":"1","created":"2025-08-20T15:12:08.039+01:00","updated":"2025-08-20T15:45:11.772+01:00"}
+{"dg-publish":true,"permalink":"/content/013/b-python/b7-type-hints/","noteIcon":"1","created":"2025-08-20T15:12:08.039+01:00","updated":"2025-08-21T09:20:18.849+01:00"}
 ---
 
 - python is not a '**strongly typed**' language
@@ -22,7 +22,6 @@ def func2(a: str, b: str) -> str:
 
 
 ```
-
 ## type aliases
 
 ```python
@@ -40,7 +39,6 @@ from typing import TypeAlias
 
 Vector: TypeAlias = list[float]
 ```
-
 ## new type
 
 ```python
@@ -56,6 +54,3 @@ output = random_id + random_id2
 
 - the static type checker treats the new type as a subclass of the original type
 - `int` operations can still be performed on `Id` but the result will be `int`
-
-
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/b-python/b5-inheritance/","noteIcon":"1","created":"2025-08-20T10:54:31.893+01:00","updated":"2025-08-20T10:59:40.343+01:00"}
+{"dg-publish":true,"permalink":"/content/013/b-python/b5-inheritance/","noteIcon":"1","created":"2025-08-20T10:54:31.893+01:00","updated":"2025-08-21T09:11:12.635+01:00"}
 ---
 
 ```python
@@ -10,7 +10,6 @@ class Wizard:
         self.name = name
 
     ...
-
 
 class Student(Wizard):
     def __init__(self, name, house):
@@ -26,7 +25,6 @@ class Professor(Wizard):
         self.subject = subject
 
     ...
-
 
 wizard = Wizard("Albus")
 student = Student("Harry", "Gryffindor")
