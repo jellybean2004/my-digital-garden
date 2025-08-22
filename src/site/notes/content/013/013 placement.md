@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/013-placement/","pinned":true,"noteIcon":"3","created":"2025-08-13T05:54:11.472+01:00","updated":"2025-08-22T10:00:31.273+01:00"}
+{"dg-publish":true,"permalink":"/content/013/013-placement/","pinned":true,"noteIcon":"3","created":"2025-08-13T05:54:11.472+01:00","updated":"2025-08-22T11:03:22.021+01:00"}
 ---
 
 ## [[content/013/A  - small angle scattering/A - small angle scattering\|A - small angle scattering]]
@@ -18,4 +18,6 @@
 ## [[content/013/C - error statistics/C - error statistics\|C - error statistics]]
 [[content/013/C - error statistics/C1 - method of least squares\|C1 - method of least squares]]
 [[content/013/C - error statistics/C2 - reduced-chi squared\|C2 - reduced-chi squared]]
-## [[content/013/D - git\|D - git]]
+## [[content/013/D - git/D - git\|D - git]]
+[[content/013/D - git/D1 - basics\|D1 - basics]]
+## [[content/013/E - GUI/E - GUI\|E - GUI]]
