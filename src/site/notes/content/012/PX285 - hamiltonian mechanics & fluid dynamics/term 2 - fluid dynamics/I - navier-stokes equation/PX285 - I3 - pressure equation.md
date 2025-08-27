@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/px-285-i3-pressure-equation/","noteIcon":"1","created":"2025-01-31T14:21:21.028+00:00","updated":"2025-01-31T14:21:55.593+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/px-285-i3-pressure-equation/","noteIcon":"1","created":"2025-08-27T13:15:24.235+01:00","updated":"2025-01-31T14:21:55.000+00:00"}
 ---
 
 - only adiabatic processes will be covered

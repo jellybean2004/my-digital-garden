@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-crystalline-solids/px-262-k4-electrons-in-crystalline-solids/","noteIcon":"1","created":"2025-02-10T16:28:11.110+00:00","updated":"2025-02-10T16:45:19.585+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-crystalline-solids/px-262-k4-electrons-in-crystalline-solids/","noteIcon":"1","created":"2025-08-27T13:15:23.562+01:00","updated":"2025-02-10T16:45:19.000+00:00"}
 ---
 
 - crystalline solids include metals, insulators and semiconductors

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/i-chemical-potential/px-284-i3-grand-canonical-ensemble/","noteIcon":"1","created":"2025-01-16T15:30:50.775+00:00","updated":"2025-01-16T15:50:03.862+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/i-chemical-potential/px-284-i3-grand-canonical-ensemble/","noteIcon":"1","created":"2025-08-27T13:15:24.680+01:00","updated":"2025-01-16T15:50:03.000+00:00"}
 ---
 
 [[content/012/PX284 - SMETO/part 1 - statistical mechanics/B - introduction/PX284 - B4 - ensembles\|PX284 - B4 - ensembles]]

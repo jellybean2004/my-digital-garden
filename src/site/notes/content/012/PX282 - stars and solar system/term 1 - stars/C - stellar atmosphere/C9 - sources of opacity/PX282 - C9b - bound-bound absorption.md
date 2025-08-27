@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c9-sources-of-opacity/px-282-c9b-bound-bound-absorption/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-06T18:15:15.444+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c9-sources-of-opacity/px-282-c9b-bound-bound-absorption/","noteIcon":"1","created":"2025-08-27T13:14:15.708+01:00","updated":"2025-01-06T18:15:15.000+00:00"}
 ---
 
 ## bound-bound absorption

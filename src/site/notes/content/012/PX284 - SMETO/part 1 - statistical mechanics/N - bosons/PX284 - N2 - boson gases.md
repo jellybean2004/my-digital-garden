@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/n-bosons/px-284-n2-boson-gases/","noteIcon":"1","created":"2025-02-06T15:22:47.225+00:00","updated":"2025-02-06T15:33:11.387+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/n-bosons/px-284-n2-boson-gases/","noteIcon":"1","created":"2025-08-27T13:15:24.968+01:00","updated":"2025-02-06T15:33:11.000+00:00"}
 ---
 
 ## photon gas

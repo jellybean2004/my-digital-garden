@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j4-venturi-pipe/","noteIcon":"1","created":"2025-02-01T14:15:44.585+00:00","updated":"2025-02-01T14:27:55.964+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j4-venturi-pipe/","noteIcon":"1","created":"2025-08-27T13:15:24.310+01:00","updated":"2025-02-01T14:27:55.000+00:00"}
 ---
 
 - considering a horizontal pipe of varying cross section

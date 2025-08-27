@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/j-atoms-and-molecules/px-262-j2-electronic-configurations/","noteIcon":"1","created":"2025-01-30T10:23:47.504+00:00","updated":"2025-01-30T10:29:50.108+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/j-atoms-and-molecules/px-262-j2-electronic-configurations/","noteIcon":"1","created":"2025-08-27T13:15:23.295+01:00","updated":"2025-01-30T10:29:50.000+00:00"}
 ---
 
 ## guideline for electronic configurations

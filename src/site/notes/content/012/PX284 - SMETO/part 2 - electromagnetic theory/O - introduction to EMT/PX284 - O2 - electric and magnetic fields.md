@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/o-introduction-to-emt/px-284-o2-electric-and-magnetic-fields/","noteIcon":"1","created":"2025-02-12T09:49:06.088+00:00","updated":"2025-02-13T15:26:26.879+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/o-introduction-to-emt/px-284-o2-electric-and-magnetic-fields/","noteIcon":"1","created":"2025-08-27T13:15:25.089+01:00","updated":"2025-02-13T15:26:26.000+00:00"}
 ---
 
 - electric ($\vec E(\vec r, t)$) and magnetic ($\vec B(\vec r, t)$) are vector fields that affect charged particles, given by the [[content/011/PX157 - electricity and magnetism/PX157 - C - magnetic fields/PX157 - C1a - the lorentz force\|lorentz force]]:

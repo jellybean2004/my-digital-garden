@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/u-wave-optics/px-284-u2-thin-film-interference/","noteIcon":"1","created":"2025-05-09T14:38:34.286+01:00","updated":"2025-05-15T14:11:22.314+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/u-wave-optics/px-284-u2-thin-film-interference/","noteIcon":"1","created":"2025-08-27T13:15:28.770+01:00","updated":"2025-05-15T14:11:22.000+01:00"}
 ---
 
 ![PX284 - U2 - thin film interference.png|500](/img/user/pics/PX284%20-%20U2%20-%20thin%20film%20interference.png)

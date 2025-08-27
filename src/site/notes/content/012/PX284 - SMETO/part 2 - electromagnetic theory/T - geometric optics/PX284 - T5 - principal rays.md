@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t5-principal-rays/","noteIcon":"1","created":"2025-05-03T13:59:48.867+01:00","updated":"2025-05-07T11:08:59.829+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t5-principal-rays/","noteIcon":"1","created":"2025-08-27T13:15:28.632+01:00","updated":"2025-05-07T11:08:59.000+01:00"}
 ---
 
 - useful to classify lenses and make diagrams

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/h-fourier-series-and-transforms/","noteIcon":"1","created":"2025-01-29T13:25:08.606+00:00","updated":"2025-02-18T12:18:38.890+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/h-fourier-series-and-transforms/","noteIcon":"1","created":"2025-08-27T13:15:23.729+01:00","updated":"2025-02-18T12:18:38.000+00:00"}
 ---
 
 [[content/012/PX275 - mathematical methods/term 2/H - fourier series and transforms/PX275 - H1 - complex fourier series\|PX275 - H1 - complex fourier series]]

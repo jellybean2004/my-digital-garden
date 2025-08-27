@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i1-models/","noteIcon":"1","created":"2025-01-10T16:39:18.920+00:00","updated":"2025-01-17T11:08:06.553+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i1-models/","noteIcon":"1","created":"2025-08-27T13:15:22.801+01:00","updated":"2025-01-17T11:08:06.000+00:00"}
 ---
 
 ## greeks

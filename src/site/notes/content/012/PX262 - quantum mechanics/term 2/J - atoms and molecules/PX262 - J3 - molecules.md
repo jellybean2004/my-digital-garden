@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/j-atoms-and-molecules/px-262-j3-molecules/","noteIcon":"1","created":"2025-01-30T10:30:05.368+00:00","updated":"2025-03-13T12:26:21.124+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/j-atoms-and-molecules/px-262-j3-molecules/","noteIcon":"1","created":"2025-08-27T13:15:23.304+01:00","updated":"2025-03-13T12:26:21.000+00:00"}
 ---
 
 - **approximation:** neglecting the kinetic energy of the nuclei and solving the electronic problem

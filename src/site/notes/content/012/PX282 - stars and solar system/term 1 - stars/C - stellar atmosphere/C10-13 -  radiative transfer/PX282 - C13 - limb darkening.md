@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c10-13-radiative-transfer/px-282-c13-limb-darkening/","noteIcon":"1","created":"2024-10-31T10:52:09.089+00:00","updated":"2024-12-22T17:05:39.766+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c10-13-radiative-transfer/px-282-c13-limb-darkening/","noteIcon":"1","created":"2025-08-27T13:14:15.726+01:00","updated":"2024-12-22T17:05:39.000+00:00"}
 ---
 
 ![limb darkening.png|500](/img/user/pics/limb%20darkening.png)

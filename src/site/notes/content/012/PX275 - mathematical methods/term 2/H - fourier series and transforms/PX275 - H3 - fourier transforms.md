@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h3-fourier-transforms/","noteIcon":"1","created":"2025-01-29T13:57:02.491+00:00","updated":"2025-04-11T11:18:38.881+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h3-fourier-transforms/","noteIcon":"1","created":"2025-08-27T13:15:23.754+01:00","updated":"2025-04-11T11:18:38.000+01:00"}
 ---
 
 - considering a function defined over $x \in [-\infty, \infty]$, but it is not periodic

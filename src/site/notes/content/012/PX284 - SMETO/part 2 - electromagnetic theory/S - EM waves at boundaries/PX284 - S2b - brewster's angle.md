@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/s-em-waves-at-boundaries/px-284-s2b-brewster-s-angle/","noteIcon":"1","created":"2025-03-14T06:27:43.843+00:00","updated":"2025-03-14T06:32:57.077+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/s-em-waves-at-boundaries/px-284-s2b-brewster-s-angle/","noteIcon":"1","created":"2025-08-27T13:15:28.831+01:00","updated":"2025-03-14T06:32:57.000+00:00"}
 ---
 
 - considering a boundary with $n_{2}>n_{1}$

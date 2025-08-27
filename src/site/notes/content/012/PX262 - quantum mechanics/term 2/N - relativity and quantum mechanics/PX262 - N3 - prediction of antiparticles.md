@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/n-relativity-and-quantum-mechanics/px-262-n3-prediction-of-antiparticles/","noteIcon":"1","created":"2025-03-10T11:46:33.704+00:00","updated":"2025-03-10T11:46:39.013+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/n-relativity-and-quantum-mechanics/px-262-n3-prediction-of-antiparticles/","noteIcon":"1","created":"2025-08-27T13:15:28.529+01:00","updated":"2025-03-10T11:46:39.000+00:00"}
 ---
 
 - the dirac equation describes spin-$\hbar/2$ fermions like electrons, protons, neutrons, etc.

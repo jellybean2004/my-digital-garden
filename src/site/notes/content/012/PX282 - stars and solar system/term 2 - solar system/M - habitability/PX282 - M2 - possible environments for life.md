@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/m-habitability/px-282-m2-possible-environments-for-life/","noteIcon":"1","created":"2025-03-16T11:50:50.423+00:00","updated":"2025-03-16T11:58:07.996+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/m-habitability/px-282-m2-possible-environments-for-life/","noteIcon":"1","created":"2025-08-27T13:15:28.513+01:00","updated":"2025-03-16T11:58:07.000+00:00"}
 ---
 
 ## mars

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c3a-the-biot-savart-law/","noteIcon":"1","created":"2024-10-01T18:27:10.182+01:00","updated":"2024-11-26T20:09:24.880+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c3a-the-biot-savart-law/","noteIcon":"1","created":"2025-08-27T13:14:04.767+01:00","updated":"2024-11-26T20:09:24.000+00:00"}
 ---
 
 ## the law

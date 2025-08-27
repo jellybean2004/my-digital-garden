@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/k-circulation-and-vorticity/px-285-k2-kelvin-s-circulation-theorem/","noteIcon":"1","created":"2025-02-13T14:28:19.073+00:00","updated":"2025-02-14T15:06:47.936+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/k-circulation-and-vorticity/px-285-k2-kelvin-s-circulation-theorem/","noteIcon":"1","created":"2025-08-27T13:15:24.366+01:00","updated":"2025-02-14T15:06:47.000+00:00"}
 ---
 
 >[!info] kelvin's circulation theorem

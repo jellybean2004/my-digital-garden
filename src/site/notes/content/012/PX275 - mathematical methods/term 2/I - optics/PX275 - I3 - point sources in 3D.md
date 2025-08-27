@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i3-point-sources-in-3-d/","noteIcon":"1","created":"2025-02-20T12:29:12.826+00:00","updated":"2025-03-27T12:54:31.022+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i3-point-sources-in-3-d/","noteIcon":"1","created":"2025-08-27T13:15:23.959+01:00","updated":"2025-03-27T12:54:31.000+00:00"}
 ---
 
 - the 3D wave equation:

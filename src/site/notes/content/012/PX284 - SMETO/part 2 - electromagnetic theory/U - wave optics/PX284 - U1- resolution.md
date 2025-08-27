@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/u-wave-optics/px-284-u1-resolution/","noteIcon":"1","created":"2025-05-09T14:10:47.120+01:00","updated":"2025-05-09T14:36:37.736+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/u-wave-optics/px-284-u1-resolution/","noteIcon":"1","created":"2025-08-27T13:15:28.761+01:00","updated":"2025-05-09T14:36:37.000+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/013-placement/","pinned":true,"noteIcon":"3","created":"2025-08-13T05:54:11.472+01:00","updated":"2025-08-22T11:03:22.021+01:00"}
+{"dg-publish":true,"permalink":"/content/013/013-placement/","pinned":true,"noteIcon":"3","created":"2025-08-27T13:15:28.287+01:00","updated":"2025-08-27T14:35:09.992+01:00"}
 ---
 
 ## [[content/013/A  - small angle scattering/A - small angle scattering\|A - small angle scattering]]
@@ -21,3 +21,10 @@
 ## [[content/013/D - git/D - git\|D - git]]
 [[content/013/D - git/D1 - basics\|D1 - basics]]
 ## [[content/013/E - GUI/E - GUI\|E - GUI]]
+[[content/013/E - GUI/E1 - getting started with PyQT\|E1 - getting started with PyQT]]
+[[content/013/E - GUI/E2 - signals, slots and events\|E2 - signals, slots and events]]
+[[content/013/E - GUI/E3 - widgets\|E3 - widgets]]
+[[content/013/E - GUI/E4 - layouts\|E4 - layouts]]
+[[content/013/E - GUI/E5 - toolbars and menus - QAction\|E5 - toolbars and menus - QAction]]
+[[content/013/E - GUI/E6 - dialogs and alerts\|E6 - dialogs and alerts]]
+[[content/013/E - GUI/E7 - multiwindow\|E7 - multiwindow]]

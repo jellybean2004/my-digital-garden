@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/o-introduction-to-emt/px-284-o1-required-maths/","noteIcon":"1","created":"2025-02-11T09:49:52.120+00:00","updated":"2025-02-17T10:22:14.317+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/o-introduction-to-emt/px-284-o1-required-maths/","noteIcon":"1","created":"2025-08-27T13:15:25.072+01:00","updated":"2025-02-17T10:22:14.000+00:00"}
 ---
 
 ## vector calculus

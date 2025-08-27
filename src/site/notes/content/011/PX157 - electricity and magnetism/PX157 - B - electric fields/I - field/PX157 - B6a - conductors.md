@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/i-field/px-157-b6a-conductors/","noteIcon":"1","created":"2024-10-01T18:27:10.079+01:00","updated":"2024-11-26T20:07:36.035+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/i-field/px-157-b6a-conductors/","noteIcon":"1","created":"2025-08-27T13:14:04.812+01:00","updated":"2024-11-26T20:07:36.000+00:00"}
 ---
 
 - static situation: in a conductor, $\vec E = 0$

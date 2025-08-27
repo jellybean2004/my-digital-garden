@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f1-isolated-system-or-microcanonical-ensemble/","noteIcon":"1","created":"2024-11-29T18:43:20.801+00:00","updated":"2025-01-03T12:55:54.569+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f1-isolated-system-or-microcanonical-ensemble/","noteIcon":"1","created":"2025-08-27T13:14:32.651+01:00","updated":"2025-01-03T12:55:54.000+00:00"}
 ---
 
 - from [[content/012/PX284 - SMETO/part 1 - statistical mechanics/C - entropy and temperature/PX284 - C5 - general definition of entropy\|gibb's formula]]:

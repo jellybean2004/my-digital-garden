@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/k-phonons/px-284-k1-einstein-model/","noteIcon":"1","created":"2025-01-23T15:15:39.086+00:00","updated":"2025-01-23T15:33:15.683+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/k-phonons/px-284-k1-einstein-model/","noteIcon":"1","created":"2025-08-27T13:15:24.781+01:00","updated":"2025-01-23T15:33:15.000+00:00"}
 ---
 
 - considering lattice vibrations in a crystalline solid, eg: sound waves

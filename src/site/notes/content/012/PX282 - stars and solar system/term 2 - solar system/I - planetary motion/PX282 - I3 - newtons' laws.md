@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i3-newtons-laws/","noteIcon":"1","created":"2025-01-17T11:32:26.304+00:00","updated":"2025-05-08T14:33:07.402+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i3-newtons-laws/","noteIcon":"1","created":"2025-08-27T13:15:22.817+01:00","updated":"2025-05-08T14:33:07.000+01:00"}
 ---
 
 - newton (1687) used [[content/012/PX282 - stars and solar system/term 2 - solar system/I - planetary motion/PX282 - I2 - kepler's laws\|kepler's laws]] to infer the **law of universal gravitation**

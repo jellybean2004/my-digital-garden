@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/a-introduction/px-282-a4-parallax-and-parsecs/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T16:50:45.109+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/a-introduction/px-282-a4-parallax-and-parsecs/","noteIcon":"1","created":"2025-08-27T13:14:08.442+01:00","updated":"2024-12-06T16:50:45.000+00:00"}
 ---
 
 ## parallax

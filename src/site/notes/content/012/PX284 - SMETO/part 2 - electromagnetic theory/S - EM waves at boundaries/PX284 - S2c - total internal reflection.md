@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/s-em-waves-at-boundaries/px-284-s2c-total-internal-reflection/","noteIcon":"1","created":"2025-03-13T15:36:51.936+00:00","updated":"2025-03-14T06:56:36.853+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/s-em-waves-at-boundaries/px-284-s2c-total-internal-reflection/","noteIcon":"1","created":"2025-08-27T13:15:28.787+01:00","updated":"2025-03-14T06:56:36.000+00:00"}
 ---
 
 - considering $n_{1} > n_{2}$

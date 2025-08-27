@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/a-small-angle-scattering/a-small-angle-scattering/","noteIcon":"1","created":"2025-08-15T07:03:29.902+01:00","updated":"2025-08-15T10:07:33.090+01:00"}
+{"dg-publish":true,"permalink":"/content/013/a-small-angle-scattering/a-small-angle-scattering/","noteIcon":"1","created":"2025-08-27T13:15:28.298+01:00","updated":"2025-08-15T10:07:33.000+01:00"}
 ---
 
 ## background

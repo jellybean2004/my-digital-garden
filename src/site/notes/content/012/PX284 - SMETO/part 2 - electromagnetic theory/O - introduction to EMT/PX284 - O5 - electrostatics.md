@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/o-introduction-to-emt/px-284-o5-electrostatics/","noteIcon":"1","created":"2025-02-13T17:23:35.787+00:00","updated":"2025-02-13T17:27:32.228+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/o-introduction-to-emt/px-284-o5-electrostatics/","noteIcon":"1","created":"2025-08-27T13:15:25.115+01:00","updated":"2025-02-13T17:27:32.000+00:00"}
 ---
 
 $$\vec\nabla \times \vec E = 0 $$

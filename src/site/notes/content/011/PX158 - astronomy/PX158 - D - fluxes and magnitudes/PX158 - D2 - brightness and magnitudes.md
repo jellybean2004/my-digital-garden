@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-d-fluxes-and-magnitudes/px-158-d2-brightness-and-magnitudes/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:13:34.118+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-d-fluxes-and-magnitudes/px-158-d2-brightness-and-magnitudes/","noteIcon":"1","created":"2025-08-27T13:14:04.986+01:00","updated":"2024-11-26T23:13:34.000+00:00"}
 ---
 
 ## apparent magnitude (m)

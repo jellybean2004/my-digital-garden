@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/c-the-basic-postulates/px-262-c6b-compatibility-of-operators/","noteIcon":"1","created":"2024-12-15T15:04:30.774+00:00","updated":"2024-12-15T15:04:38.454+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/c-the-basic-postulates/px-262-c6b-compatibility-of-operators/","noteIcon":"1","created":"2025-08-27T13:14:32.584+01:00","updated":"2024-12-15T15:04:38.000+00:00"}
 ---
 
 - if two operators commute, they are called *compatible operators*

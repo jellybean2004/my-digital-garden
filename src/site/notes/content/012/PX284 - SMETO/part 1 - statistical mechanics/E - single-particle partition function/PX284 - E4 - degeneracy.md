@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/px-284-e4-degeneracy/","noteIcon":"1","created":"2024-11-29T17:37:55.071+00:00","updated":"2024-12-23T22:58:34.331+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/px-284-e4-degeneracy/","noteIcon":"1","created":"2025-08-27T13:14:32.680+01:00","updated":"2024-12-23T22:58:34.000+00:00"}
 ---
 
 [[content/012/PX262 - quantum mechanics/term 1/C - the basic postulates/PX262 - C9a - degeneracy\|PX262 - C9a - degeneracy]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/b-python/b11-filter/","noteIcon":"1","created":"2025-08-21T09:44:36.528+01:00","updated":"2025-08-21T09:52:51.811+01:00"}
+{"dg-publish":true,"permalink":"/content/013/b-python/b11-filter/","noteIcon":"1","created":"2025-08-27T13:15:28.377+01:00","updated":"2025-08-21T09:52:51.000+01:00"}
 ---
 
 ```python

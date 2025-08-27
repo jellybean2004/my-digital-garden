@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q4-boundary-conditions/","noteIcon":"1","created":"2025-02-27T15:11:21.337+00:00","updated":"2025-03-10T13:06:27.385+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q4-boundary-conditions/","noteIcon":"1","created":"2025-08-27T13:15:25.240+01:00","updated":"2025-03-10T13:06:27.000+00:00"}
 ---
 
 ![PX284 - Q4 - boundary conditions.png|500](/img/user/pics/PX284%20-%20Q4%20-%20boundary%20conditions.png)

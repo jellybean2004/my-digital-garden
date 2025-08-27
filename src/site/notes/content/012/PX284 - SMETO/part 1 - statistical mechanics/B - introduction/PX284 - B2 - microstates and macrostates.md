@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/b-introduction/px-284-b2-microstates-and-macrostates/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T20:35:29.640+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/b-introduction/px-284-b2-microstates-and-macrostates/","noteIcon":"1","created":"2025-08-27T13:14:15.550+01:00","updated":"2024-12-23T20:35:29.000+00:00"}
 ---
 
 ## microstate

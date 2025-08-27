@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l1-potential-flows/","noteIcon":"1","created":"2025-02-14T12:06:40.234+00:00","updated":"2025-03-01T12:17:27.642+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l1-potential-flows/","noteIcon":"1","created":"2025-08-27T13:15:24.449+01:00","updated":"2025-03-01T12:17:27.000+00:00"}
 ---
 
 - considering a flow that is irrotational, ie: $\vec\nabla \times \vec u = 0$, and incompressible, ie: $\vec\nabla\cdot\vec u = 0$

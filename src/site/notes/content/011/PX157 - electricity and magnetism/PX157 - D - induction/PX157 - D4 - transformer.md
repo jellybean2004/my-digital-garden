@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-d4-transformer/","noteIcon":"1","created":"2024-10-01T18:27:10.256+01:00","updated":"2024-11-26T20:11:00.940+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-d4-transformer/","noteIcon":"1","created":"2025-08-27T13:14:00.377+01:00","updated":"2024-11-26T20:11:00.000+00:00"}
 ---
 
 ![Pasted image 20240322164345.png](/img/user/pics/Pasted%20image%2020240322164345.png)

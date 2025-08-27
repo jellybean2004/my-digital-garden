@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/a-recap/px-262-a2-compton-scattering/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-18T19:47:35.402+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/a-recap/px-262-a2-compton-scattering/","noteIcon":"1","created":"2025-08-27T13:14:08.475+01:00","updated":"2024-12-18T19:47:35.000+00:00"}
 ---
 
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - A - light/PX156 - A5 - the compton effect\|compton effect]]

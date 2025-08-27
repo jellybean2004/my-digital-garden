@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/l-semiconductors/px-262-l3-p-n-junction/","noteIcon":"1","created":"2025-02-20T10:25:56.633+00:00","updated":"2025-02-25T11:23:31.730+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/l-semiconductors/px-262-l3-p-n-junction/","noteIcon":"1","created":"2025-08-27T13:15:23.221+01:00","updated":"2025-02-25T11:23:31.000+00:00"}
 ---
 
 - it occurs at the boundary of one region doped with p-type impurities and another with n-type impurities

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t2-fermat-s-principle/","noteIcon":"1","created":"2025-05-03T11:02:34.222+01:00","updated":"2025-05-03T14:23:34.343+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t2-fermat-s-principle/","noteIcon":"1","created":"2025-08-27T13:15:28.601+01:00","updated":"2025-05-03T14:23:34.000+01:00"}
 ---
 
 

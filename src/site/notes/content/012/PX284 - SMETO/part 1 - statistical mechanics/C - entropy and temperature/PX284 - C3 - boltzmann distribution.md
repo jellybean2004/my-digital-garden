@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/c-entropy-and-temperature/px-284-c3-boltzmann-distribution/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T21:22:58.375+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/c-entropy-and-temperature/px-284-c3-boltzmann-distribution/","noteIcon":"1","created":"2025-08-27T13:14:15.566+01:00","updated":"2024-12-23T21:22:58.000+00:00"}
 ---
 
 - considering a system with an energy, $E_{i}$

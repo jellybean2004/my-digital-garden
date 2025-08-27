@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e2-protostar/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-28T19:32:22.384+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e2-protostar/","noteIcon":"1","created":"2025-08-27T13:14:15.653+01:00","updated":"2025-03-28T19:32:22.000+00:00"}
 ---
 
 ## collapse

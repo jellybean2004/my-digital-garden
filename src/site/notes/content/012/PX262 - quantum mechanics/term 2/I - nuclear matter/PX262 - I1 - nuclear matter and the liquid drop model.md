@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-nuclear-matter/px-262-i1-nuclear-matter-and-the-liquid-drop-model/","noteIcon":"1","created":"2025-01-20T11:11:54.737+00:00","updated":"2025-03-13T12:01:18.667+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-nuclear-matter/px-262-i1-nuclear-matter-and-the-liquid-drop-model/","noteIcon":"1","created":"2025-08-27T13:15:23.157+01:00","updated":"2025-03-13T12:01:18.000+00:00"}
 ---
 
 - in realistic models of metals and other materials, the properties are determined by the electrons interacting with each other an the nuclei, where the nuclei are assumed to be stable (or slowly moving) point charges

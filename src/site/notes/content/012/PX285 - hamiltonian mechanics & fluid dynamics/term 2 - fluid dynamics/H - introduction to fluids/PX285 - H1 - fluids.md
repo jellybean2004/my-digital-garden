@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h1-fluids/","noteIcon":"1","created":"2025-01-09T14:14:03.983+00:00","updated":"2025-02-01T16:04:04.376+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h1-fluids/","noteIcon":"1","created":"2025-08-27T13:15:24.105+01:00","updated":"2025-02-01T16:04:04.000+00:00"}
 ---
 
 ## definition

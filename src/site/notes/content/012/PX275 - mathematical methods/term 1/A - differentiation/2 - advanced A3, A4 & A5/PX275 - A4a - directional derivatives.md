@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a4a-directional-derivatives/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:10.318+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a4a-directional-derivatives/","noteIcon":"1","created":"2025-08-27T13:14:16.082+01:00","updated":"2024-11-26T10:04:10.000+00:00"}
 ---
 
 - the grad function: 

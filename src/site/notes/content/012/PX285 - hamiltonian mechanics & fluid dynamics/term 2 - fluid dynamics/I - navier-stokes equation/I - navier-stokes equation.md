@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/i-navier-stokes-equation/","noteIcon":"1","created":"2025-01-23T14:26:03.540+00:00","updated":"2025-02-06T16:49:19.030+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/i-navier-stokes-equation/","noteIcon":"1","created":"2025-08-27T13:15:24.194+01:00","updated":"2025-02-06T16:49:19.000+00:00"}
 ---
 
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/I - navier-stokes equation/PX285 - I1 - conservation of mass\|PX285 - I1 - conservation of mass]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/i-chemical-potential/px-284-i1-definition/","noteIcon":"1","created":"2025-01-16T15:12:37.800+00:00","updated":"2025-01-16T15:17:34.652+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/i-chemical-potential/px-284-i1-definition/","noteIcon":"1","created":"2025-08-27T13:15:24.695+01:00","updated":"2025-01-16T15:17:34.000+00:00"}
 ---
 
 - the chemical potential, $\mu$, is defined as  the change in energy on adding a particle to the system

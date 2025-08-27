@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/c-entropy-and-temperature/px-284-c2-temperature/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T21:14:21.444+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/c-entropy-and-temperature/px-284-c2-temperature/","noteIcon":"1","created":"2025-08-27T13:14:15.564+01:00","updated":"2024-12-23T21:14:21.000+00:00"}
 ---
 
 ## the statistical definition

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h4-newton-s-law-of-viscosity/","noteIcon":"1","created":"2025-01-10T12:10:11.897+00:00","updated":"2025-01-10T12:36:22.906+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h4-newton-s-law-of-viscosity/","noteIcon":"1","created":"2025-08-27T13:15:24.130+01:00","updated":"2025-01-10T12:36:22.000+00:00"}
 ---
 
 - considering a flow between two parallel plates, where the upper plate is moving at a constant velocity, $\vec u$, and the bottom plate is stationary

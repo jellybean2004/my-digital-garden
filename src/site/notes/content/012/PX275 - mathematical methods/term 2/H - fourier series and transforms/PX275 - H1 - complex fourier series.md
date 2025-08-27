@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h1-complex-fourier-series/","noteIcon":"1","created":"2025-01-29T13:26:16.892+00:00","updated":"2025-03-21T08:10:34.733+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h1-complex-fourier-series/","noteIcon":"1","created":"2025-08-27T13:15:23.739+01:00","updated":"2025-03-21T08:10:34.000+00:00"}
 ---
 
 [[content/011/PX153 - mathematics for physicists/term 2/PX153 - J - fourier series/PX153 - J1 - introduction\|PX153 - J1 - introduction]]

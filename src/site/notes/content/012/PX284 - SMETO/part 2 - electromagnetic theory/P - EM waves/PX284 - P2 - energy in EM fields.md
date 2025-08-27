@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/p-em-waves/px-284-p2-energy-in-em-fields/","noteIcon":"1","created":"2025-02-17T10:36:15.302+00:00","updated":"2025-05-07T17:45:08.970+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/p-em-waves/px-284-p2-energy-in-em-fields/","noteIcon":"1","created":"2025-08-27T13:15:25.166+01:00","updated":"2025-05-07T17:45:08.000+01:00"}
 ---
 
 - for a conservation law, there must be a continuity equation:

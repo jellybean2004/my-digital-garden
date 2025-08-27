@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/b-introduction/b-introduction/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-06T18:15:11.075+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/b-introduction/b-introduction/","noteIcon":"1","created":"2025-08-27T13:14:15.754+01:00","updated":"2025-01-06T18:15:11.000+00:00"}
 ---
 
 [[content/012/PX262 - quantum mechanics/term 1/B - introduction/PX262 - B1 - schrödinger equation\|PX262 - B1 - the schrödinger equation]]

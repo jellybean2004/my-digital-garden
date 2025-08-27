@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/m-basic-postulates-revisited/px-262-m3-dirac-notation/","noteIcon":"1","created":"2025-02-27T10:32:29.238+00:00","updated":"2025-06-12T18:11:20.285+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/m-basic-postulates-revisited/px-262-m3-dirac-notation/","noteIcon":"1","created":"2025-08-27T13:15:23.266+01:00","updated":"2025-06-12T18:11:20.000+01:00"}
 ---
 
 - it is a very economical and powerful notation

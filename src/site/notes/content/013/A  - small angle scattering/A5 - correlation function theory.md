@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/a-small-angle-scattering/a5-correlation-function-theory/","noteIcon":"1","created":"2025-08-15T10:07:34.278+01:00","updated":"2025-08-15T10:47:31.387+01:00"}
+{"dg-publish":true,"permalink":"/content/013/a-small-angle-scattering/a5-correlation-function-theory/","noteIcon":"1","created":"2025-08-27T13:15:28.320+01:00","updated":"2025-08-15T10:47:31.000+01:00"}
 ---
 
 ## introduction

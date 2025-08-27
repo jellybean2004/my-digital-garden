@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-f-blackbody-and-colours/px-158-f1-black-body-radiation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:13:28.510+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-f-blackbody-and-colours/px-158-f1-black-body-radiation/","noteIcon":"1","created":"2025-08-27T13:14:05.004+01:00","updated":"2024-11-26T20:13:28.000+00:00"}
 ---
 
 ## planck's law

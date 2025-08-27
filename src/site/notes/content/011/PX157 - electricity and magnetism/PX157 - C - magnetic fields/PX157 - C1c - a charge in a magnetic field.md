@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c1c-a-charge-in-a-magnetic-field/","noteIcon":"1","created":"2024-10-01T18:27:10.177+01:00","updated":"2024-11-26T20:09:17.502+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c1c-a-charge-in-a-magnetic-field/","noteIcon":"1","created":"2025-08-27T13:14:04.779+01:00","updated":"2024-11-26T20:09:17.000+00:00"}
 ---
 
 ## the motion of a charge in a magnetic field

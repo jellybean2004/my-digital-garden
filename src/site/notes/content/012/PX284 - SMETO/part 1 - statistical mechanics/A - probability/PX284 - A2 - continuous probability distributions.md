@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/a-probability/px-284-a2-continuous-probability-distributions/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:01:16.189+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/a-probability/px-284-a2-continuous-probability-distributions/","noteIcon":"1","created":"2025-08-27T13:14:15.536+01:00","updated":"2024-11-26T13:01:16.000+00:00"}
 ---
 
 - suppose  is a continuous random variable with a probability, , of having a value between  and 

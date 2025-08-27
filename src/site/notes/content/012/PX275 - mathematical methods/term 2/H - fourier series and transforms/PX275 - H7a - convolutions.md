@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h7a-convolutions/","noteIcon":"1","created":"2025-02-06T17:38:21.978+00:00","updated":"2025-02-12T15:46:24.337+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h7a-convolutions/","noteIcon":"1","created":"2025-08-27T13:15:23.788+01:00","updated":"2025-02-12T15:46:24.000+00:00"}
 ---
 
 - the convolution of two functions, $f$ and $g$, is defined as:

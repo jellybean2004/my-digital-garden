@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/iii-properties/px-157-b11-field-energy/","noteIcon":"1","created":"2024-10-01T18:27:10.117+01:00","updated":"2024-11-26T20:08:46.049+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/iii-properties/px-157-b11-field-energy/","noteIcon":"1","created":"2025-08-27T13:14:04.796+01:00","updated":"2024-11-26T20:08:46.000+00:00"}
 ---
 
 ## total potential energy

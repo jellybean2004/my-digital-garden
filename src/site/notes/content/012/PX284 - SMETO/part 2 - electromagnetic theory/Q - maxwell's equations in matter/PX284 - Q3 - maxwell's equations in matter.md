@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q3-maxwell-s-equations-in-matter/","noteIcon":"1","created":"2025-02-24T10:20:07.508+00:00","updated":"2025-03-10T12:39:22.577+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q3-maxwell-s-equations-in-matter/","noteIcon":"1","created":"2025-08-27T13:15:25.213+01:00","updated":"2025-03-10T12:39:22.000+00:00"}
 ---
 
 - the charge density can be separated into two components: free and bound

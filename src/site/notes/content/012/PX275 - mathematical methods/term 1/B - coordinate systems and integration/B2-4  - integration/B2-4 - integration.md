@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/b-coordinate-systems-and-integration/b2-4-integration/b2-4-integration/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-07T19:11:14.914+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/b-coordinate-systems-and-integration/b2-4-integration/b2-4-integration/","noteIcon":"1","created":"2025-08-27T13:14:16.067+01:00","updated":"2025-01-07T19:11:14.000+00:00"}
 ---
 
 ## integration

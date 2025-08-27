@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/c-entropy-and-temperature/px-284-c1c-isothermal-expansion/","noteIcon":"1","created":"2024-12-23T20:45:13.128+00:00","updated":"2024-12-23T20:54:59.304+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/c-entropy-and-temperature/px-284-c1c-isothermal-expansion/","noteIcon":"1","created":"2025-08-27T13:15:24.993+01:00","updated":"2024-12-23T20:54:59.000+00:00"}
 ---
 
 - considering two systems of equal volume, $V_0$,  are connected with a pipe with a tap

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j1b-bernoulli-s-principle-from-navier-stokes-equation/","noteIcon":"1","created":"2025-02-01T12:17:33.452+00:00","updated":"2025-04-16T08:05:09.088+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j1b-bernoulli-s-principle-from-navier-stokes-equation/","noteIcon":"1","created":"2025-08-27T13:15:24.294+01:00","updated":"2025-04-16T08:05:09.000+01:00"}
 ---
 
 - the [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/I - navier-stokes equation/PX285 - I4 - core equations\|navier-stokes equation]] for an incompressible, steady and inviscid flow:

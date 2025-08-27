@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/px-284-e1a-functions-of-state/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T22:32:28.781+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/px-284-e1a-functions-of-state/","noteIcon":"1","created":"2025-08-27T13:14:15.588+01:00","updated":"2024-12-23T22:32:28.000+00:00"}
 ---
 
 - the partition function can be directly related to many measurable quantities:

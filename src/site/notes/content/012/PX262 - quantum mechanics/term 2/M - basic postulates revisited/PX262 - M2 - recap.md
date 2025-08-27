@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/m-basic-postulates-revisited/px-262-m2-recap/","noteIcon":"1","created":"2025-02-27T10:07:40.242+00:00","updated":"2025-02-27T10:32:02.078+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/m-basic-postulates-revisited/px-262-m2-recap/","noteIcon":"1","created":"2025-08-27T13:15:23.260+01:00","updated":"2025-02-27T10:32:02.000+00:00"}
 ---
 
 - the wavefunction, $\psi(x,t)$, contains all the information about the system

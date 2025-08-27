@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c5-8-stellar-atmospheres/px-282-c7-mean-free-path/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-22T12:55:13.576+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c5-8-stellar-atmospheres/px-282-c7-mean-free-path/","noteIcon":"1","created":"2025-08-27T13:14:15.675+01:00","updated":"2024-12-22T12:55:13.000+00:00"}
 ---
 
 - the [[content/012/PX282 - stars and solar system/term 1 - stars/C - stellar atmosphere/C5-8 - stellar atmospheres/PX282 - C6b - intensity after absorption\|intensity after absorption]] is given by:

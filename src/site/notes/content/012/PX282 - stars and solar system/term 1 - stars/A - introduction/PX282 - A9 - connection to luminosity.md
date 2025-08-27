@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/a-introduction/px-282-a9-connection-to-luminosity/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:33:55.184+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/a-introduction/px-282-a9-connection-to-luminosity/","noteIcon":"1","created":"2025-08-27T13:14:15.742+01:00","updated":"2024-11-26T09:33:55.000+00:00"}
 ---
 
 - luminosity is the total energy emitted: 

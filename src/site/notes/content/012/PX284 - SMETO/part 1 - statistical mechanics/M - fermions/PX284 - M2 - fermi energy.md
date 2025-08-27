@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/m-fermions/px-284-m2-fermi-energy/","noteIcon":"1","created":"2025-01-30T15:21:37.069+00:00","updated":"2025-02-03T19:34:15.593+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/m-fermions/px-284-m2-fermi-energy/","noteIcon":"1","created":"2025-08-27T13:15:24.866+01:00","updated":"2025-02-03T19:34:15.000+00:00"}
 ---
 
 - putting $N$ electrons into a metal one by one

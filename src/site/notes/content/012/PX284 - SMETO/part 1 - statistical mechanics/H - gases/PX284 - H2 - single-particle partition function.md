@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/h-gases/px-284-h2-single-particle-partition-function/","noteIcon":"1","created":"2025-01-09T15:33:25.013+00:00","updated":"2025-04-22T10:34:25.411+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/h-gases/px-284-h2-single-particle-partition-function/","noteIcon":"1","created":"2025-08-27T13:15:24.633+01:00","updated":"2025-04-22T10:34:25.000+01:00"}
 ---
 
 - the sum is now written as an integral:

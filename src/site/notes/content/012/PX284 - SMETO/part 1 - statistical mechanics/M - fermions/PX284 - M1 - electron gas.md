@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/m-fermions/px-284-m1-electron-gas/","noteIcon":"1","created":"2025-01-30T15:16:13.387+00:00","updated":"2025-02-03T19:31:30.303+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/m-fermions/px-284-m1-electron-gas/","noteIcon":"1","created":"2025-08-27T13:15:24.858+01:00","updated":"2025-02-03T19:31:30.000+00:00"}
 ---
 
 - considering electrons in a metal as a quantum gas in a box

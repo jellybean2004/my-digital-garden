@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-d3c-magnetic-field-energy/","noteIcon":"1","created":"2024-10-01T18:27:10.243+01:00","updated":"2024-11-26T20:10:52.810+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-d-induction/px-157-d3c-magnetic-field-energy/","noteIcon":"1","created":"2025-08-27T13:14:00.353+01:00","updated":"2024-11-26T20:10:52.000+00:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l5a-vortex-lines/","noteIcon":"1","created":"2025-03-07T13:30:52.407+00:00","updated":"2025-03-07T13:40:15.876+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l5a-vortex-lines/","noteIcon":"1","created":"2025-08-27T13:15:28.569+01:00","updated":"2025-03-07T13:40:15.000+00:00"}
 ---
 
 - the flow around a vortex:

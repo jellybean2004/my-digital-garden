@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j2-hydrostatic-limit-and-archimedes-principle/","noteIcon":"1","created":"2025-02-01T13:36:21.989+00:00","updated":"2025-02-01T13:52:24.037+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j2-hydrostatic-limit-and-archimedes-principle/","noteIcon":"1","created":"2025-08-27T13:15:24.302+01:00","updated":"2025-02-01T13:52:24.000+00:00"}
 ---
 
 

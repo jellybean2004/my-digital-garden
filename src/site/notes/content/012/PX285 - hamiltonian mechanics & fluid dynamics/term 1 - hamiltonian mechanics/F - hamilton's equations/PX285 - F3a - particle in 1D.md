@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/f-hamilton-s-equations/px-285-f3a-particle-in-1-d/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-12T13:38:50.721+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/f-hamilton-s-equations/px-285-f3a-particle-in-1-d/","noteIcon":"1","created":"2025-08-27T13:14:16.169+01:00","updated":"2024-12-12T13:38:50.000+00:00"}
 ---
 
 - considering a particle moving freely in $d=1$ dimension

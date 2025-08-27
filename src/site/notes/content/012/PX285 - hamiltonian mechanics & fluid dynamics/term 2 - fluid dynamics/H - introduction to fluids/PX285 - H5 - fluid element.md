@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h5-fluid-element/","noteIcon":"1","created":"2025-01-10T12:36:43.533+00:00","updated":"2025-01-10T12:51:54.815+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h5-fluid-element/","noteIcon":"1","created":"2025-08-27T13:15:24.140+01:00","updated":"2025-01-10T12:51:54.000+00:00"}
 ---
 
 - a fluid element is a parcel of a fluid, which can be visualised by some shape, eg: a cube

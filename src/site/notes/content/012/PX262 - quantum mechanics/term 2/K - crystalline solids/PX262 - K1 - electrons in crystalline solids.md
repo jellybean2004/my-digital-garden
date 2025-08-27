@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-crystalline-solids/px-262-k1-electrons-in-crystalline-solids/","noteIcon":"1","created":"2025-02-06T10:07:40.612+00:00","updated":"2025-03-13T12:43:30.653+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-crystalline-solids/px-262-k1-electrons-in-crystalline-solids/","noteIcon":"1","created":"2025-08-27T13:15:23.538+01:00","updated":"2025-03-13T12:43:30.000+00:00"}
 ---
 
 - in many solid materials, the nuclei are arranged into ordered structures, ie. **crystal lattices**

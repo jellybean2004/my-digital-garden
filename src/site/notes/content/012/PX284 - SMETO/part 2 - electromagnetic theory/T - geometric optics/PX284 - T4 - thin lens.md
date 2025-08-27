@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t4-thin-lens/","noteIcon":"1","created":"2025-05-03T12:24:15.897+01:00","updated":"2025-05-22T07:49:37.837+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t4-thin-lens/","noteIcon":"1","created":"2025-08-27T13:15:28.623+01:00","updated":"2025-05-22T07:49:37.000+01:00"}
 ---
 
 

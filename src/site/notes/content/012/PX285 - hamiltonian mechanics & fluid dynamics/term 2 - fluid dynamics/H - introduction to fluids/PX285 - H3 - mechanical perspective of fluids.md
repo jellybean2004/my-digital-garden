@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h3-mechanical-perspective-of-fluids/","noteIcon":"1","created":"2025-01-09T14:42:19.537+00:00","updated":"2025-02-27T12:59:22.256+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h3-mechanical-perspective-of-fluids/","noteIcon":"1","created":"2025-08-27T13:15:24.122+01:00","updated":"2025-02-27T12:59:22.000+00:00"}
 ---
 
 - fluid is a substance which **cannot resist shear force without motion**, and **does not return to its initial state** when stress is removed

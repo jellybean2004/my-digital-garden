@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c4d-magnetic-field-on-a-long-cylindrical-wire-with-a-hole/","noteIcon":"1","created":"2024-10-01T18:27:10.206+01:00","updated":"2024-11-26T20:09:43.413+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-c-magnetic-fields/px-157-c4d-magnetic-field-on-a-long-cylindrical-wire-with-a-hole/","noteIcon":"1","created":"2025-08-27T13:14:00.225+01:00","updated":"2024-11-26T20:09:43.000+00:00"}
 ---
 
 ![Pasted image 20240219183500.png](/img/user/pics/Pasted%20image%2020240219183500.png)

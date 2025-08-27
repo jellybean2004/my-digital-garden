@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/l-potential-flows/","noteIcon":"1","created":"2025-03-01T14:35:50.179+00:00","updated":"2025-03-07T14:38:07.013+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/l-potential-flows/","noteIcon":"1","created":"2025-08-27T13:15:24.504+01:00","updated":"2025-03-07T14:38:07.000+00:00"}
 ---
 
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/L - potential flows/PX285 - L1 - potential flows\|PX285 - L1 - potential flows]]

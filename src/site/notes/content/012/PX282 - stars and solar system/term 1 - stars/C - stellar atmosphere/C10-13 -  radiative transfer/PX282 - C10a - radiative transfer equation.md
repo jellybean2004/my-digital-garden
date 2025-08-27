@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c10-13-radiative-transfer/px-282-c10a-radiative-transfer-equation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-22T15:32:21.574+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c10-13-radiative-transfer/px-282-c10a-radiative-transfer-equation/","noteIcon":"1","created":"2025-08-27T13:14:15.736+01:00","updated":"2024-12-22T15:32:21.000+00:00"}
 ---
 
 - combining all the sources of opacity:

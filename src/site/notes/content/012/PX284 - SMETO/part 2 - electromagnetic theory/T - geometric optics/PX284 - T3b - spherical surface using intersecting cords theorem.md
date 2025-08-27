@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t3b-spherical-surface-using-intersecting-cords-theorem/","noteIcon":"1","created":"2025-05-03T12:18:23.153+01:00","updated":"2025-05-03T12:18:39.730+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t3b-spherical-surface-using-intersecting-cords-theorem/","noteIcon":"1","created":"2025-08-27T13:15:28.610+01:00","updated":"2025-05-03T12:18:39.000+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/b-coordinate-systems-and-integration/b2-4-integration/px-275-b3-jacobian/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-05T13:32:34.378+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/b-coordinate-systems-and-integration/b2-4-integration/px-275-b3-jacobian/","noteIcon":"1","created":"2025-08-27T13:14:16.052+01:00","updated":"2025-02-05T13:32:34.000+00:00"}
 ---
 
 - the change of variables have been made geometrically, but this can be done in a more generalized way via a method using a construct called a *jacobian*

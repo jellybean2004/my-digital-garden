@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/l-exchange-symmetry/px-284-l3-distribution-functions/","noteIcon":"1","created":"2025-01-27T10:34:01.282+00:00","updated":"2025-02-17T13:01:59.909+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/l-exchange-symmetry/px-284-l3-distribution-functions/","noteIcon":"1","created":"2025-08-27T13:15:24.830+01:00","updated":"2025-02-17T13:01:59.000+00:00"}
 ---
 
 - considering a many-particle system with a single state at energy, $E$

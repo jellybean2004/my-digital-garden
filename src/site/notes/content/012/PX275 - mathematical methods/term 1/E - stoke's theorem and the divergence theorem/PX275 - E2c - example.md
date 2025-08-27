@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e2c-example/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-09T13:45:17.388+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e2c-example/","noteIcon":"1","created":"2025-08-27T13:14:16.014+01:00","updated":"2025-02-09T13:45:17.000+00:00"}
 ---
 
 - to determine the electric field outside a charged hollow sphere

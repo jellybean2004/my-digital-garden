@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l5b-interacting-vortex-lines/","noteIcon":"1","created":"2025-03-06T14:13:04.038+00:00","updated":"2025-03-07T14:00:29.269+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l5b-interacting-vortex-lines/","noteIcon":"1","created":"2025-08-27T13:15:24.515+01:00","updated":"2025-03-07T14:00:29.000+00:00"}
 ---
 
 ## opposite directions

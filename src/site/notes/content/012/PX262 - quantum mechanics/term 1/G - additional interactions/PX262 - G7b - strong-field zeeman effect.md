@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g7b-strong-field-zeeman-effect/","noteIcon":"1","created":"2024-11-26T11:23:13.505+00:00","updated":"2024-12-21T14:30:20.562+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g7b-strong-field-zeeman-effect/","noteIcon":"1","created":"2025-08-27T13:14:26.301+01:00","updated":"2024-12-21T14:30:20.000+00:00"}
 ---
 
 - the interaction energy operator:

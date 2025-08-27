@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/b-python/b2-raise/","noteIcon":"1","created":"2025-08-20T10:21:43.639+01:00","updated":"2025-08-20T15:49:47.355+01:00"}
+{"dg-publish":true,"permalink":"/content/013/b-python/b2-raise/","noteIcon":"1","created":"2025-08-27T13:15:28.338+01:00","updated":"2025-08-20T15:49:47.000+01:00"}
 ---
 
 ```python

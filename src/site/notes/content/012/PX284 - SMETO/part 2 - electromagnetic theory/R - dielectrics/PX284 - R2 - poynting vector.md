@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/r-dielectrics/px-284-r2-poynting-vector/","noteIcon":"1","created":"2025-03-06T15:40:16.206+00:00","updated":"2025-05-07T17:46:15.711+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/r-dielectrics/px-284-r2-poynting-vector/","noteIcon":"1","created":"2025-08-27T13:15:25.280+01:00","updated":"2025-05-07T17:46:15.000+01:00"}
 ---
 
 - the continuity equation:

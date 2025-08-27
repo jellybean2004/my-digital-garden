@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/n-relativity-and-quantum-mechanics/px-262-n1-klein-gordon-equation/","noteIcon":"1","created":"2025-03-06T10:10:11.529+00:00","updated":"2025-03-10T11:46:51.163+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/n-relativity-and-quantum-mechanics/px-262-n1-klein-gordon-equation/","noteIcon":"1","created":"2025-08-27T13:15:23.442+01:00","updated":"2025-03-10T11:46:51.000+00:00"}
 ---
 
 - looking at the schrodinger equation for a free particle:

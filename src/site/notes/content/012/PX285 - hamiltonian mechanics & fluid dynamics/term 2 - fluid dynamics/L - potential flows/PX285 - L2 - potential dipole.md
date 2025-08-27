@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l2-potential-dipole/","noteIcon":"1","created":"2025-02-20T14:09:20.894+00:00","updated":"2025-06-09T10:31:20.962+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l2-potential-dipole/","noteIcon":"1","created":"2025-08-27T13:15:24.457+01:00","updated":"2025-06-09T10:31:20.000+01:00"}
 ---
 
 - let $\phi = a\cos\theta/r$ in cylindrical coordinates

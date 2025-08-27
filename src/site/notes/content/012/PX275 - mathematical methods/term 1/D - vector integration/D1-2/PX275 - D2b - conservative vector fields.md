@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d1-2/px-275-d2b-conservative-vector-fields/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-08T14:58:43.281+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d1-2/px-275-d2b-conservative-vector-fields/","noteIcon":"1","created":"2025-08-27T13:14:15.983+01:00","updated":"2025-02-08T14:58:43.000+00:00"}
 ---
 
 ## conditions

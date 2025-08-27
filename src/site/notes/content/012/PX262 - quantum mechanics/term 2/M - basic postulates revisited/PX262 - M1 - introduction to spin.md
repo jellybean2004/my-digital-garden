@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/m-basic-postulates-revisited/px-262-m1-introduction-to-spin/","noteIcon":"1","created":"2025-02-24T11:28:59.760+00:00","updated":"2025-02-25T12:05:34.903+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/m-basic-postulates-revisited/px-262-m1-introduction-to-spin/","noteIcon":"1","created":"2025-08-27T13:15:23.250+01:00","updated":"2025-02-25T12:05:34.000+00:00"}
 ---
 
 - experimental evidence points to an electron possessing an intrinsic spin

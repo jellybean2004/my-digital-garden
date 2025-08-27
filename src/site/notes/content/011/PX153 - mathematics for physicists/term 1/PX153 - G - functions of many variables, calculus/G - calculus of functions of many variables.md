@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-g-functions-of-many-variables-calculus/g-calculus-of-functions-of-many-variables/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:37:33.356+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-g-functions-of-many-variables-calculus/g-calculus-of-functions-of-many-variables/","noteIcon":"1","created":"2025-08-27T13:14:05.055+01:00","updated":"2024-11-26T19:37:33.000+00:00"}
 ---
 
 [[content/011/PX153 - mathematics for physicists/term 1/PX153 - G - functions of many variables, calculus/PX153 - G1 - partital differentiation\|PX153 - G1 - partital differentiation]]

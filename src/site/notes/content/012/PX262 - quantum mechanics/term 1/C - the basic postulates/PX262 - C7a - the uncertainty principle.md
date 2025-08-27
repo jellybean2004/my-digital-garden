@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/c-the-basic-postulates/px-262-c7a-the-uncertainty-principle/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-07T18:04:27.656+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/c-the-basic-postulates/px-262-c7a-the-uncertainty-principle/","noteIcon":"1","created":"2025-08-27T13:14:15.845+01:00","updated":"2024-12-07T18:04:27.000+00:00"}
 ---
 
 ## derivation

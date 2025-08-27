@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/j-fourier-series/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:15:53.286+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-j-fourier-series/j-fourier-series/","noteIcon":"1","created":"2025-08-27T13:14:05.120+01:00","updated":"2024-12-03T17:15:53.000+00:00"}
 ---
 
 [[content/011/PX153 - mathematics for physicists/term 2/PX153 - J - fourier series/PX153 - J1 - introduction\|PX153 - J1 - introduction]]

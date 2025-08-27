@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/px-285-i1-conservation-of-mass/","noteIcon":"1","created":"2025-01-23T14:07:52.564+00:00","updated":"2025-01-31T13:44:08.533+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/px-285-i1-conservation-of-mass/","noteIcon":"1","created":"2025-08-27T13:15:24.187+01:00","updated":"2025-01-31T13:44:08.000+00:00"}
 ---
 
 - considering a small volume, $V$, of a fluid, bounded by a surface, $S$, with a total area, $A$

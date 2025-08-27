@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/px-284-e5b-combining-partition-functions/","noteIcon":"1","created":"2024-11-29T17:53:29.459+00:00","updated":"2024-12-23T22:59:36.591+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/px-284-e5b-combining-partition-functions/","noteIcon":"1","created":"2025-08-27T13:14:32.680+01:00","updated":"2024-12-23T22:59:36.000+00:00"}
 ---
 
 - if the  energy depends on two independent and distinct contributions:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/e-gui/e2-signals-slots-and-events/","noteIcon":"1","created":"2025-08-22T11:51:40.372+01:00","updated":"2025-08-27T09:37:09.868+01:00"}
+{"dg-publish":true,"permalink":"/content/013/e-gui/e2-signals-slots-and-events/","noteIcon":"1","created":"2025-08-27T13:15:28.438+01:00","updated":"2025-08-27T09:37:09.000+01:00"}
 ---
 
 ## signals and slots

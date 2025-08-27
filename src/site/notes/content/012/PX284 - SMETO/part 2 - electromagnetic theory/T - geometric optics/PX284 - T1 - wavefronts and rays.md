@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t1-wavefronts-and-rays/","noteIcon":"1","created":"2025-05-03T10:54:09.945+01:00","updated":"2025-05-03T12:15:55.894+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t1-wavefronts-and-rays/","noteIcon":"1","created":"2025-08-27T13:15:28.597+01:00","updated":"2025-05-03T12:15:55.000+01:00"}
 ---
 
 

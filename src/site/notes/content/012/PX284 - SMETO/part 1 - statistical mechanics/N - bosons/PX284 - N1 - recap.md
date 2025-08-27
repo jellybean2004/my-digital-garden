@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/n-bosons/px-284-n1-recap/","noteIcon":"1","created":"2025-02-06T15:17:50.595+00:00","updated":"2025-02-06T16:55:52.291+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/n-bosons/px-284-n1-recap/","noteIcon":"1","created":"2025-08-27T13:15:24.956+01:00","updated":"2025-02-06T16:55:52.000+00:00"}
 ---
 
 - the distribution function:

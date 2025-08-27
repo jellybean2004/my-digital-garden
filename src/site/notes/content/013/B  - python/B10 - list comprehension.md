@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/b-python/b10-list-comprehension/","noteIcon":"1","created":"2025-08-21T09:37:53.986+01:00","updated":"2025-08-21T09:44:17.705+01:00"}
+{"dg-publish":true,"permalink":"/content/013/b-python/b10-list-comprehension/","noteIcon":"1","created":"2025-08-27T13:15:28.372+01:00","updated":"2025-08-21T09:44:17.000+01:00"}
 ---
 
 ```python

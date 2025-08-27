@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/b-python/b4-methods/","noteIcon":"1","created":"2025-08-20T10:45:49.060+01:00","updated":"2025-08-20T10:54:14.692+01:00"}
+{"dg-publish":true,"permalink":"/content/013/b-python/b4-methods/","noteIcon":"1","created":"2025-08-27T13:15:28.347+01:00","updated":"2025-08-20T10:54:14.000+01:00"}
 ---
 
 ```python

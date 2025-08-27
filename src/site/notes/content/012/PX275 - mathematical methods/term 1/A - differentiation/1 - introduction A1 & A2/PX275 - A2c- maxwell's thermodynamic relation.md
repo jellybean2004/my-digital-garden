@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/1-introduction-a1-and-a2/px-275-a2c-maxwell-s-thermodynamic-relation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:03:57.821+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/1-introduction-a1-and-a2/px-275-a2c-maxwell-s-thermodynamic-relation/","noteIcon":"1","created":"2025-08-27T13:14:08.515+01:00","updated":"2024-11-26T10:03:57.000+00:00"}
 ---
 
 $$\begin{align} 

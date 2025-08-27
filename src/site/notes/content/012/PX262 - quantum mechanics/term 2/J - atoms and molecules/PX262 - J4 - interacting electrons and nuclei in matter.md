@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/j-atoms-and-molecules/px-262-j4-interacting-electrons-and-nuclei-in-matter/","noteIcon":"1","created":"2025-02-03T11:21:35.835+00:00","updated":"2025-03-13T12:30:36.631+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/j-atoms-and-molecules/px-262-j4-interacting-electrons-and-nuclei-in-matter/","noteIcon":"1","created":"2025-08-27T13:15:23.312+01:00","updated":"2025-03-13T12:30:36.000+00:00"}
 ---
 
 - the total energy is the sum of the kinetic energies of electrons and nuclei, and the interactions between electrons and nuclei, all pairs of electrons, and all pairs of nuclei

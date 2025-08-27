@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/1-introduction-a1-and-a2/px-275-a2a-inexact-differentials/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T21:05:22.139+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/1-introduction-a1-and-a2/px-275-a2a-inexact-differentials/","noteIcon":"1","created":"2025-08-27T13:14:08.511+01:00","updated":"2024-12-23T21:05:22.000+00:00"}
 ---
 
 - consider the change in the internal energy of a system, ie: [[content/011/PX154 - physics foundations/PX154 - D - the first law of thermodynamic/D - the first law of thermodynamics\|D - the first law of thermodynamics]]:

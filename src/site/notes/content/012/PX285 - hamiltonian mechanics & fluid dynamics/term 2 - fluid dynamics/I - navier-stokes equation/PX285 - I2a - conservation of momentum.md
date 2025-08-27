@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/px-285-i2a-conservation-of-momentum/","noteIcon":"1","created":"2025-01-31T13:44:21.284+00:00","updated":"2025-01-31T14:21:04.257+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/px-285-i2a-conservation-of-momentum/","noteIcon":"1","created":"2025-08-27T13:15:24.220+01:00","updated":"2025-01-31T14:21:04.000+00:00"}
 ---
 
 - considering a *lagrangian* fluid element of volume, $V$, that moves at the fluid velocity, ${} \vec u {}$

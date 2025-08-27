@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/l-semiconductors/px-262-l1-introduction-to-semiconductors/","noteIcon":"1","created":"2025-02-17T11:14:53.392+00:00","updated":"2025-02-17T13:02:59.762+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/l-semiconductors/px-262-l1-introduction-to-semiconductors/","noteIcon":"1","created":"2025-08-27T13:15:23.206+01:00","updated":"2025-02-17T13:02:59.000+00:00"}
 ---
 
 - exploring why some materials show such a drastic bias to the direction of emf

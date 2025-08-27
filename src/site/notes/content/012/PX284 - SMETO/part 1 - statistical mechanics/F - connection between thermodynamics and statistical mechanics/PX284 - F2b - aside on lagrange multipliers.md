@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f2b-aside-on-lagrange-multipliers/","noteIcon":"1","created":"2024-12-05T15:25:20.046+00:00","updated":"2025-01-03T13:14:08.257+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f2b-aside-on-lagrange-multipliers/","noteIcon":"1","created":"2025-08-27T13:14:32.657+01:00","updated":"2025-01-03T13:14:08.000+00:00"}
 ---
 
 [[content/012/PX275 - mathematical methods/term 1/A - differentiation/2 - advanced A3, A4 & A5/PX275 - A5 - lagrange multipliers\|PX275 - A5 - lagrange multipliers]]

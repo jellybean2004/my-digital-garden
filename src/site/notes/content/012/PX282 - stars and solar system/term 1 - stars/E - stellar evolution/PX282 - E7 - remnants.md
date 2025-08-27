@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e7-remnants/","noteIcon":"1","created":"2024-11-26T10:47:16.799+00:00","updated":"2024-11-26T10:53:02.225+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e7-remnants/","noteIcon":"1","created":"2025-08-27T13:14:26.291+01:00","updated":"2024-11-26T10:53:02.000+00:00"}
 ---
 
 - a mass of remnant material is left

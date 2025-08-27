@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c10-13-radiative-transfer/px-282-c10b-understanding-the-radiative-transfer-equation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-05-18T18:33:24.119+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c10-13-radiative-transfer/px-282-c10b-understanding-the-radiative-transfer-equation/","noteIcon":"1","created":"2025-08-27T13:14:15.732+01:00","updated":"2025-05-18T18:33:24.000+01:00"}
 ---
 
 - the radiative transfer equation (RTE): 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/r-dielectrics/px-284-r1-waves-in-dielectrics/","noteIcon":"1","created":"2025-02-27T15:51:36.287+00:00","updated":"2025-03-10T10:07:12.457+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/r-dielectrics/px-284-r1-waves-in-dielectrics/","noteIcon":"1","created":"2025-08-27T13:15:25.274+01:00","updated":"2025-03-10T10:07:12.000+00:00"}
 ---
 
 - [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/Q - maxwell's equations in matter/PX284 - Q3 - maxwell's equations in matter\|maxwell's equations in matter]] with no sources, ie: $\rho_{f} - \vec J_{f} = 0$, for linear, isotropic materials

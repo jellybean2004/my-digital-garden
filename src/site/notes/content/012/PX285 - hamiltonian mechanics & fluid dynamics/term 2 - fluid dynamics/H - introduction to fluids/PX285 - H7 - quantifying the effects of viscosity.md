@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h7-quantifying-the-effects-of-viscosity/","noteIcon":"1","created":"2025-01-17T12:34:59.151+00:00","updated":"2025-01-23T14:06:27.607+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h7-quantifying-the-effects-of-viscosity/","noteIcon":"1","created":"2025-08-27T13:15:24.171+01:00","updated":"2025-01-23T14:06:27.000+00:00"}
 ---
 
 - the stress:

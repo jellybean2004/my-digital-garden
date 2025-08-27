@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/m-habitability/px-282-m1-requirements-for-life/","noteIcon":"1","created":"2025-03-16T11:29:01.635+00:00","updated":"2025-03-16T11:50:35.815+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/m-habitability/px-282-m1-requirements-for-life/","noteIcon":"1","created":"2025-08-27T13:15:28.506+01:00","updated":"2025-03-16T11:50:35.000+00:00"}
 ---
 
 - the definitions of life are notoriously difficult and controversial, but its requirements are better understood through the study of ***extremophiles***, mainly bacteria

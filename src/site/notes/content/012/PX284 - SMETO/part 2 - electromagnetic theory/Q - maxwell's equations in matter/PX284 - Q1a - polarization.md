@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q1a-polarization/","noteIcon":"1","created":"2025-02-20T15:22:41.676+00:00","updated":"2025-03-10T12:04:16.790+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/q-maxwell-s-equations-in-matter/px-284-q1a-polarization/","noteIcon":"1","created":"2025-08-27T13:15:25.196+01:00","updated":"2025-03-10T12:04:16.000+00:00"}
 ---
 
 - considering an atom: a positively charged nucleus ($+q$) surrounded by a negatively charged cloud $(-q)$

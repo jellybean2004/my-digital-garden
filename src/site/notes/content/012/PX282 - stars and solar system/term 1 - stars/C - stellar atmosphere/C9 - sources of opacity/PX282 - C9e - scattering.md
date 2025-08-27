@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c9-sources-of-opacity/px-282-c9e-scattering/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-22T15:03:01.611+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c9-sources-of-opacity/px-282-c9e-scattering/","noteIcon":"1","created":"2025-08-27T13:14:15.715+01:00","updated":"2024-12-22T15:03:01.000+00:00"}
 ---
 
 ## rayliegh scattering

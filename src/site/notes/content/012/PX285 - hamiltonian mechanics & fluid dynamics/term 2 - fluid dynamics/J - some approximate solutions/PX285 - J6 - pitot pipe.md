@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j6-pitot-pipe/","noteIcon":"1","created":"2025-01-31T12:31:25.825+00:00","updated":"2025-02-01T15:45:15.821+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j6-pitot-pipe/","noteIcon":"1","created":"2025-08-27T13:15:24.271+01:00","updated":"2025-02-01T15:45:15.000+00:00"}
 ---
 
 ![PX285 - J6 - pitot pipe.png|500](/img/user/pics/PX285%20-%20J6%20-%20pitot%20pipe.png)

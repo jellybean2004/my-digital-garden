@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-c-angles-and-parallax/px-158-c2-proper-motion/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:13:09.002+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-c-angles-and-parallax/px-158-c2-proper-motion/","noteIcon":"1","created":"2025-08-27T13:14:04.952+01:00","updated":"2024-11-26T20:13:09.000+00:00"}
 ---
 
 - in 1718, edmund halley noticed that some 'fixed' stars showed movement

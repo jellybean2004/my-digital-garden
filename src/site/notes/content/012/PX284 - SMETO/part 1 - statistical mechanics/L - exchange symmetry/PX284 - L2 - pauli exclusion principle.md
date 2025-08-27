@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/l-exchange-symmetry/px-284-l2-pauli-exclusion-principle/","noteIcon":"1","created":"2025-01-27T10:25:45.524+00:00","updated":"2025-01-27T10:31:38.103+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/l-exchange-symmetry/px-284-l2-pauli-exclusion-principle/","noteIcon":"1","created":"2025-08-27T13:15:24.823+01:00","updated":"2025-01-27T10:31:38.000+00:00"}
 ---
 
 

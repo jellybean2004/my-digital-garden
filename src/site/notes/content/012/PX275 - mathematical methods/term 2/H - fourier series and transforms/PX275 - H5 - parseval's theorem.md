@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h5-parseval-s-theorem/","noteIcon":"1","created":"2025-02-06T14:21:47.936+00:00","updated":"2025-04-11T11:23:38.396+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h5-parseval-s-theorem/","noteIcon":"1","created":"2025-08-27T13:15:23.771+01:00","updated":"2025-04-11T11:23:38.000+01:00"}
 ---
 
 

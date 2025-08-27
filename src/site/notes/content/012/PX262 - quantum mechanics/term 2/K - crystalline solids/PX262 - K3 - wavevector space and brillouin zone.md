@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-crystalline-solids/px-262-k3-wavevector-space-and-brillouin-zone/","noteIcon":"1","created":"2025-02-10T16:21:03.035+00:00","updated":"2025-03-13T12:35:58.559+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-crystalline-solids/px-262-k3-wavevector-space-and-brillouin-zone/","noteIcon":"1","created":"2025-08-27T13:15:23.553+01:00","updated":"2025-03-13T12:35:58.000+00:00"}
 ---
 
 - the [[content/012/PX262 - quantum mechanics/term 2/K - crystalline solids/PX262 - K1 - electrons in crystalline solids#wigner-seitz cell\|wigner-seitz unit cell]] for the reciprocal space is called the **brillouin zone (BZ)**

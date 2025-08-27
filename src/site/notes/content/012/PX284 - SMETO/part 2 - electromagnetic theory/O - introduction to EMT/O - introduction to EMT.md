@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/o-introduction-to-emt/o-introduction-to-emt/","noteIcon":"1","created":"2025-02-11T09:46:09.022+00:00","updated":"2025-02-13T17:27:51.079+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/o-introduction-to-emt/o-introduction-to-emt/","noteIcon":"1","created":"2025-08-27T13:15:25.064+01:00","updated":"2025-02-13T17:27:51.000+00:00"}
 ---
 
 [[content/012/PX284 - SMETO/part 2 - electromagnetic theory/O - introduction to EMT/PX284 - O1 - required maths\|PX284 - O1 - required maths]]

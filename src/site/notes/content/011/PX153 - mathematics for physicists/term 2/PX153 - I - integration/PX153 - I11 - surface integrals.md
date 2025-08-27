@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i11-surface-integrals/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:38:19.126+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/px-153-i11-surface-integrals/","noteIcon":"1","created":"2025-08-27T13:14:05.100+01:00","updated":"2024-11-26T19:38:19.000+00:00"}
 ---
 
 $$\iint_{S} \phi\,dS \; or \; \iint_{S} \vec a \cdot d\vec S \; or \; \iint_{S} \vec a \times d\vec S \; or \; \iint_{S} a\, d\vec S$$

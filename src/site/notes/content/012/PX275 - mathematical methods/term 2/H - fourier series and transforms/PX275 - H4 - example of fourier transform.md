@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h4-example-of-fourier-transform/","noteIcon":"1","created":"2025-02-04T18:06:38.830+00:00","updated":"2025-03-04T12:46:50.356+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h4-example-of-fourier-transform/","noteIcon":"1","created":"2025-08-27T13:15:23.763+01:00","updated":"2025-03-04T12:46:50.000+00:00"}
 ---
 
 - eg: $f(x) = \delta(x-y)$

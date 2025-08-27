@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/b-python/b8-argparse/","noteIcon":"1","created":"2025-08-21T09:21:07.595+01:00","updated":"2025-08-21T09:26:23.547+01:00"}
+{"dg-publish":true,"permalink":"/content/013/b-python/b8-argparse/","noteIcon":"1","created":"2025-08-27T13:15:28.362+01:00","updated":"2025-08-21T09:26:23.000+01:00"}
 ---
 
 ```python

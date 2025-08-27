@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-a-coulomb-s-law/px-157-a2-coulomb-s-law/","noteIcon":"1","created":"2024-10-01T18:27:10.044+01:00","updated":"2024-11-26T20:07:05.090+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-a-coulomb-s-law/px-157-a2-coulomb-s-law/","noteIcon":"1","created":"2025-08-27T13:14:04.758+01:00","updated":"2024-11-26T20:07:05.000+00:00"}
 ---
 
 - coulomb's law states that the force a charge, $q_{1}$, at a location, $\vec r_{1}$, exerts a force on charge, $q_{2}$, at a location, $\vec r_{2}$, that is given by: 

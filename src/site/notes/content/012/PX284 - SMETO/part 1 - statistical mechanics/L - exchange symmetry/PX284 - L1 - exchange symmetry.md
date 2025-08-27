@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/l-exchange-symmetry/px-284-l1-exchange-symmetry/","noteIcon":"1","created":"2025-01-27T10:17:45.346+00:00","updated":"2025-01-27T10:24:38.349+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/l-exchange-symmetry/px-284-l1-exchange-symmetry/","noteIcon":"1","created":"2025-08-27T13:15:24.813+01:00","updated":"2025-01-27T10:24:38.000+00:00"}
 ---
 
 

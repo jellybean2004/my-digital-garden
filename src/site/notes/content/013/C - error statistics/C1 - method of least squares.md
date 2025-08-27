@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/c-error-statistics/c1-method-of-least-squares/","noteIcon":"1","created":"2025-08-21T10:05:44.525+01:00","updated":"2025-08-21T10:42:20.893+01:00"}
+{"dg-publish":true,"permalink":"/content/013/c-error-statistics/c1-method-of-least-squares/","noteIcon":"1","created":"2025-08-27T13:15:28.392+01:00","updated":"2025-08-21T10:42:20.000+01:00"}
 ---
 
 ![least squares.png|500](/img/user/pics/least%20squares.png)

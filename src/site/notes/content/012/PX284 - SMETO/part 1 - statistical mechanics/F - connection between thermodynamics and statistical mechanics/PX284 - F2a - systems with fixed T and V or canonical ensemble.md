@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f2a-systems-with-fixed-t-and-v-or-canonical-ensemble/","noteIcon":"1","created":"2024-12-05T15:14:47.782+00:00","updated":"2025-01-03T13:10:26.901+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/f-connection-between-thermodynamics-and-statistical-mechanics/px-284-f2a-systems-with-fixed-t-and-v-or-canonical-ensemble/","noteIcon":"1","created":"2025-08-27T13:14:32.657+01:00","updated":"2025-01-03T13:10:26.000+00:00"}
 ---
 
 - in thermodynamics, the hemholtz free energy:

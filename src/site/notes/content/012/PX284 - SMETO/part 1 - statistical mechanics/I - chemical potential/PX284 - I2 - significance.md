@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/i-chemical-potential/px-284-i2-significance/","noteIcon":"1","created":"2025-01-16T15:17:51.903+00:00","updated":"2025-01-16T15:30:18.255+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/i-chemical-potential/px-284-i2-significance/","noteIcon":"1","created":"2025-08-27T13:15:24.689+01:00","updated":"2025-01-16T15:30:18.000+00:00"}
 ---
 
 - considering two systems that can exchange particles, with temperatures and numbers of particles: left $(T_{1}, N_{1})$ and right $(T_{2}, N_{2})$

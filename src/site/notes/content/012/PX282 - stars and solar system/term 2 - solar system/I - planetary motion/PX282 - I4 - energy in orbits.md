@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i4-energy-in-orbits/","noteIcon":"1","created":"2025-01-17T11:52:07.065+00:00","updated":"2025-01-17T16:23:57.755+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i4-energy-in-orbits/","noteIcon":"1","created":"2025-08-27T13:15:22.824+01:00","updated":"2025-01-17T16:23:57.000+00:00"}
 ---
 
 - from [[content/012/PX282 - stars and solar system/term 2 - solar system/I - planetary motion/PX282 - I2 - kepler's laws\|kepler's second law]], it is known that the planet sweeps out an equal area in equal time intervals

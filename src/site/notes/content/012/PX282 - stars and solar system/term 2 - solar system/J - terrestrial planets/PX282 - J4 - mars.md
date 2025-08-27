@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j4-mars/","noteIcon":"1","created":"2025-01-24T16:55:11.508+00:00","updated":"2025-01-31T11:07:30.523+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j4-mars/","noteIcon":"1","created":"2025-08-27T13:15:22.948+01:00","updated":"2025-01-31T11:07:30.000+00:00"}
 ---
 
 - low mass and density 

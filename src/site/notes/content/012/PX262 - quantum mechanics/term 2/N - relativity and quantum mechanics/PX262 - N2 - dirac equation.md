@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/n-relativity-and-quantum-mechanics/px-262-n2-dirac-equation/","noteIcon":"1","created":"2025-03-10T11:47:17.092+00:00","updated":"2025-03-10T11:47:24.399+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/n-relativity-and-quantum-mechanics/px-262-n2-dirac-equation/","noteIcon":"1","created":"2025-08-27T13:15:28.533+01:00","updated":"2025-03-10T11:47:24.000+00:00"}
 ---
 
 - the klein-gordon equation contains a second order time derivative, as opposed to the schrödinger has just a first order time derivative

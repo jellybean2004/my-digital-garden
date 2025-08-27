@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l7-boundary-layers/","noteIcon":"1","created":"2025-03-07T14:23:26.218+00:00","updated":"2025-03-07T14:37:40.944+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l7-boundary-layers/","noteIcon":"1","created":"2025-08-27T13:15:28.575+01:00","updated":"2025-03-07T14:37:40.000+00:00"}
 ---
 
 - when reynold's number, $Re$, is large, the boundary layers are thin:

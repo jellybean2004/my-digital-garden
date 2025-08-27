@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/px-284-e1c-helmholtz-free-energy/","noteIcon":"1","created":"2024-12-23T22:08:24.981+00:00","updated":"2024-12-23T22:16:49.978+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/px-284-e1c-helmholtz-free-energy/","noteIcon":"1","created":"2025-08-27T13:15:25.027+01:00","updated":"2024-12-23T22:16:49.000+00:00"}
 ---
 
 - the hemholtz free energy is given by:

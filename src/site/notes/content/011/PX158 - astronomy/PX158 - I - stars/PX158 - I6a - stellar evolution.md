@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i6a-stellar-evolution/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:14:17.780+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-i-stars/px-158-i6a-stellar-evolution/","noteIcon":"1","created":"2025-08-27T13:14:00.450+01:00","updated":"2024-11-26T20:14:17.000+00:00"}
 ---
 
 - all thermally supported stars must have a finite lifetime since they lose heat. they must be using up 'fuel'

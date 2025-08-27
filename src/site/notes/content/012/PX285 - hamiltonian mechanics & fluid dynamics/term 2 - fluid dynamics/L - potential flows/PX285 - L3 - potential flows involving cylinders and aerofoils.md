@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l3-potential-flows-involving-cylinders-and-aerofoils/","noteIcon":"1","created":"2025-02-27T14:08:09.784+00:00","updated":"2025-03-07T13:18:24.043+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l3-potential-flows-involving-cylinders-and-aerofoils/","noteIcon":"1","created":"2025-08-27T13:15:24.465+01:00","updated":"2025-03-07T13:18:24.000+00:00"}
 ---
 
 - neglecting vorticity, and considering an irrotational and incompressible flow, with potential given by: $\nabla^{2} \phi = 0$

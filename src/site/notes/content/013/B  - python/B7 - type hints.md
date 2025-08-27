@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/b-python/b7-type-hints/","noteIcon":"1","created":"2025-08-20T15:12:08.039+01:00","updated":"2025-08-21T09:20:18.849+01:00"}
+{"dg-publish":true,"permalink":"/content/013/b-python/b7-type-hints/","noteIcon":"1","created":"2025-08-27T13:15:28.356+01:00","updated":"2025-08-21T09:20:18.000+01:00"}
 ---
 
 - python is not a '**strongly typed**' language

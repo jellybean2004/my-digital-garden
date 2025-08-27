@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h2-calculating-coefficients/","noteIcon":"1","created":"2025-01-29T13:40:23.624+00:00","updated":"2025-04-11T11:14:39.242+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h2-calculating-coefficients/","noteIcon":"1","created":"2025-08-27T13:15:23.747+01:00","updated":"2025-04-11T11:14:39.000+01:00"}
 ---
 
 - orthogonality relation:

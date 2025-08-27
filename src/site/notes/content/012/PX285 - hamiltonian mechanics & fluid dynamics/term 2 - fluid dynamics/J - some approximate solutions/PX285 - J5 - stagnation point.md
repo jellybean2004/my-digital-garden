@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j5-stagnation-point/","noteIcon":"1","created":"2025-02-01T14:53:12.401+00:00","updated":"2025-02-01T14:53:16.398+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j5-stagnation-point/","noteIcon":"1","created":"2025-08-27T13:15:24.318+01:00","updated":"2025-02-01T14:53:16.000+00:00"}
 ---
 
 - to measure a flow speed over a flat surface

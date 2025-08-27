@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g8-photon-emission-from-atoms/","noteIcon":"1","created":"2024-12-02T11:14:08.946+00:00","updated":"2024-12-23T10:57:59.825+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g8-photon-emission-from-atoms/","noteIcon":"1","created":"2025-08-27T13:14:32.595+01:00","updated":"2024-12-23T10:57:59.000+00:00"}
 ---
 
 - light emitted from atoms can be understood as emissions from electron deexcitation

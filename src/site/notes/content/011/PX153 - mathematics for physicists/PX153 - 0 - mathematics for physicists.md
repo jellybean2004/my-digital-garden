@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/px-153-0-mathematics-for-physicists/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-12T16:47:30.860+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/px-153-0-mathematics-for-physicists/","pinned":true,"noteIcon":"2","created":"2025-08-27T13:14:08.629+01:00","updated":"2025-02-12T16:47:30.000+00:00"}
 ---
 
 ## term 1

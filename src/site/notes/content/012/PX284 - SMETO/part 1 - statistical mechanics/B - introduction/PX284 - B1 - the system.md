@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/b-introduction/px-284-b1-the-system/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-06T18:15:16.578+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/b-introduction/px-284-b1-the-system/","noteIcon":"1","created":"2025-08-27T13:14:15.549+01:00","updated":"2025-01-06T18:15:16.000+00:00"}
 ---
 
 - statistical mechanics is concerned with understanding and predicting the properties of a '*system*'

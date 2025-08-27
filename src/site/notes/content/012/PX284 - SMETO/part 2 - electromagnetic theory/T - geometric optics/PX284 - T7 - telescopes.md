@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t7-telescopes/","noteIcon":"1","created":"2025-05-08T16:14:22.405+01:00","updated":"2025-05-09T10:56:39.033+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t7-telescopes/","noteIcon":"1","created":"2025-08-27T13:15:28.657+01:00","updated":"2025-05-09T10:56:39.000+01:00"}
 ---
 
 - light comes from infinity, ie. light rays are parallel

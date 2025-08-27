@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g1-particle-with-angular-momentum-in-magnetic-field/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-19T17:50:41.360+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g1-particle-with-angular-momentum-in-magnetic-field/","noteIcon":"1","created":"2025-08-27T13:14:15.903+01:00","updated":"2024-12-19T17:50:41.000+00:00"}
 ---
 
 - considering the classical motion of an electron on a circular path with a radius, $r$, and angular velocity, $\omega$

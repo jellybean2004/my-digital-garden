@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l4b-aerofoil/","noteIcon":"1","created":"2025-02-28T12:28:15.876+00:00","updated":"2025-03-07T13:28:30.035+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l4b-aerofoil/","noteIcon":"1","created":"2025-08-27T13:15:24.485+01:00","updated":"2025-03-07T13:28:30.000+00:00"}
 ---
 
 ![PX285 - L6 - airfoils.png](/img/user/pics/PX285%20-%20L6%20-%20airfoils.png)

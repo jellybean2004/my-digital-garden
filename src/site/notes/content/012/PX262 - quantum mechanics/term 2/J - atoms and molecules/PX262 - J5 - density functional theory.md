@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/j-atoms-and-molecules/px-262-j5-density-functional-theory/","noteIcon":"1","created":"2025-02-03T11:44:37.444+00:00","updated":"2025-02-03T11:51:22.870+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/j-atoms-and-molecules/px-262-j5-density-functional-theory/","noteIcon":"1","created":"2025-08-27T13:15:23.322+01:00","updated":"2025-02-03T11:51:22.000+00:00"}
 ---
 
 - **density functional theory** (DFT) takes the complex many electron problem of the material and the external influence from the (static) nuclei, and focuses all the effort into dealing with the electron charge density ($\rho_e$), ie. the probability of finding an electron at position, $\vec r_1$ (multiplied by $e$)

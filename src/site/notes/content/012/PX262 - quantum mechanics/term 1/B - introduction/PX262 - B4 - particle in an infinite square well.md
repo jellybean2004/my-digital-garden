@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/b-introduction/px-262-b4-particle-in-an-infinite-square-well/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-08T16:54:57.502+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/b-introduction/px-262-b4-particle-in-an-infinite-square-well/","noteIcon":"1","created":"2025-08-27T13:14:15.794+01:00","updated":"2024-12-08T16:54:57.000+00:00"}
 ---
 
 ![Pasted image 20241207182131.png|500](/img/user/pics/Pasted%20image%2020241207182131.png)

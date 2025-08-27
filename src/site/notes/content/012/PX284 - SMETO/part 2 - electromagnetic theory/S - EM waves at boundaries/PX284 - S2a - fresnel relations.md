@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/s-em-waves-at-boundaries/px-284-s2a-fresnel-relations/","noteIcon":"1","created":"2025-03-13T19:30:55.818+00:00","updated":"2025-03-14T06:27:14.561+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/s-em-waves-at-boundaries/px-284-s2a-fresnel-relations/","noteIcon":"1","created":"2025-08-27T13:15:28.818+01:00","updated":"2025-03-14T06:27:14.000+00:00"}
 ---
 
 - **fresnel conditions**:

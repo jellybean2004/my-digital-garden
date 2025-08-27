@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/c-the-basic-postulates/px-262-c4b-postulate-4/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-07T15:50:56.040+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/c-the-basic-postulates/px-262-c4b-postulate-4/","noteIcon":"1","created":"2025-08-27T13:14:15.834+01:00","updated":"2024-12-07T15:50:56.000+00:00"}
 ---
 
 > [!quote] postulate 4

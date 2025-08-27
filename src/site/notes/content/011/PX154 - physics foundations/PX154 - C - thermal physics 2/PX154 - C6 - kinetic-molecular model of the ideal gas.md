@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c6-kinetic-molecular-model-of-the-ideal-gas/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:14:08.277+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-c-thermal-physics-2/px-154-c6-kinetic-molecular-model-of-the-ideal-gas/","noteIcon":"1","created":"2025-08-27T13:14:08.623+01:00","updated":"2024-11-26T23:14:08.000+00:00"}
 ---
 
 - links the *[[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C1 - ideal gas equation of state#^b45b14\|ideal gas equation]]* to the motion of the gas molecules

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/px-285-i2b-advective-derivative/","noteIcon":"1","created":"2025-01-31T13:45:17.110+00:00","updated":"2025-01-31T14:02:26.461+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/px-285-i2b-advective-derivative/","noteIcon":"1","created":"2025-08-27T13:15:24.228+01:00","updated":"2025-01-31T14:02:26.000+00:00"}
 ---
 
 - in fluid mechanics, capital $D$ is used to denote total derivatives:

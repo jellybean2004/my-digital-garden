@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-free-electron-model/px-262-h5-metals-in-a-magnetic-field/","noteIcon":"1","created":"2025-01-16T10:28:05.662+00:00","updated":"2025-03-13T11:46:02.509+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-free-electron-model/px-262-h5-metals-in-a-magnetic-field/","noteIcon":"1","created":"2025-08-27T13:15:23.515+01:00","updated":"2025-03-13T11:46:02.000+00:00"}
 ---
 
 - in a magnetic field, the energy of electrons depends on the state:

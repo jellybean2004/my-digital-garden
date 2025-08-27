@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/g-normal-modes-and-small-oscillations/px-285-g3-derivation-from-examples/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-05T12:57:45.269+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/g-normal-modes-and-small-oscillations/px-285-g3-derivation-from-examples/","noteIcon":"1","created":"2025-08-27T13:14:16.185+01:00","updated":"2025-01-05T12:57:45.000+00:00"}
 ---
 
 - **note:** from lecture

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g6b-spin-orbit-coupling/","noteIcon":"1","created":"2024-12-21T12:57:33.499+00:00","updated":"2024-12-21T13:22:32.588+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g6b-spin-orbit-coupling/","noteIcon":"1","created":"2025-08-27T13:15:23.115+01:00","updated":"2024-12-21T13:22:32.000+00:00"}
 ---
 
 - in the reference frame of an electron orbiting a nucleus, the nucleus is 'seen' to be orbiting it

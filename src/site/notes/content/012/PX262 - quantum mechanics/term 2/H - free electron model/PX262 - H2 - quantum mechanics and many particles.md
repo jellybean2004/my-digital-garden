@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-free-electron-model/px-262-h2-quantum-mechanics-and-many-particles/","noteIcon":"1","created":"2025-01-06T19:08:47.143+00:00","updated":"2025-01-29T14:57:21.876+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-free-electron-model/px-262-h2-quantum-mechanics-and-many-particles/","noteIcon":"1","created":"2025-08-27T13:15:23.486+01:00","updated":"2025-01-29T14:57:21.000+00:00"}
 ---
 
 - in classical mechanics, for several particles $(N)$, the kinetic and the potential energies are given by:

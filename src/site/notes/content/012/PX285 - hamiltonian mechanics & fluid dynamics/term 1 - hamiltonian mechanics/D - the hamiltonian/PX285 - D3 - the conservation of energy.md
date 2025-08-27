@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/d-the-hamiltonian/px-285-d3-the-conservation-of-energy/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:00:05.284+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/d-the-hamiltonian/px-285-d3-the-conservation-of-energy/","noteIcon":"1","created":"2025-08-27T13:14:16.143+01:00","updated":"2024-11-26T13:00:05.000+00:00"}
 ---
 
 - taking $L(x,\dot x)$, the hamiltonian is defined as: 

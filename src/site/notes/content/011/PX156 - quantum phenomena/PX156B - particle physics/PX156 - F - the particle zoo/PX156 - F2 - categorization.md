@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-f-the-particle-zoo/px-156-f2-categorization/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:02:48.002+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-f-the-particle-zoo/px-156-f2-categorization/","noteIcon":"1","created":"2025-08-27T13:14:00.735+01:00","updated":"2024-11-26T20:02:48.000+00:00"}
 ---
 
 ![Pasted image 20240427183636.png](/img/user/pics/Pasted%20image%2020240427183636.png)

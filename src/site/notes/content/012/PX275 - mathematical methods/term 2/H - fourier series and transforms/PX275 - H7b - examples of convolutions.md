@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h7b-examples-of-convolutions/","noteIcon":"1","created":"2025-02-12T15:46:44.469+00:00","updated":"2025-02-12T16:06:22.228+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h7b-examples-of-convolutions/","noteIcon":"1","created":"2025-08-27T13:15:23.797+01:00","updated":"2025-02-12T16:06:22.000+00:00"}
 ---
 
 ## convolution with a $\delta$ function

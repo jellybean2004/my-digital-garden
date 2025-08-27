@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c5-8-stellar-atmospheres/px-282-c6b-intensity-after-absorption/","noteIcon":"1","created":"2024-12-22T10:26:10.909+00:00","updated":"2024-12-22T10:27:12.617+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c5-8-stellar-atmospheres/px-282-c6b-intensity-after-absorption/","noteIcon":"1","created":"2025-08-27T13:15:22.733+01:00","updated":"2024-12-22T10:27:12.000+00:00"}
 ---
 
 the [[content/012/PX282 - stars and solar system/term 1 - stars/C - stellar atmosphere/C5-8 - stellar atmospheres/PX282 - C6a - radiation-matter interactions#absorption\|absorption equation]]: 

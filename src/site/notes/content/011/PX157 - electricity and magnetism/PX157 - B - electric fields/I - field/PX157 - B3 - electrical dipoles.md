@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/i-field/px-157-b3-electrical-dipoles/","noteIcon":"1","created":"2024-10-01T18:27:10.060+01:00","updated":"2024-11-26T20:07:16.710+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-b-electric-fields/i-field/px-157-b3-electrical-dipoles/","noteIcon":"1","created":"2025-08-27T13:14:04.815+01:00","updated":"2024-11-26T20:07:16.000+00:00"}
 ---
 
 ![Pasted image 20240115132703.png](/img/user/pics/Pasted%20image%2020240115132703.png)

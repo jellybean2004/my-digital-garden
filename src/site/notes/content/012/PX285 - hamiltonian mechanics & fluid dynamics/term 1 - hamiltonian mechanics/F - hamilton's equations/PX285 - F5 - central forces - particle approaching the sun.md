@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/f-hamilton-s-equations/px-285-f5-central-forces-particle-approaching-the-sun/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-05T10:09:18.113+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/f-hamilton-s-equations/px-285-f5-central-forces-particle-approaching-the-sun/","noteIcon":"1","created":"2025-08-27T13:14:16.176+01:00","updated":"2025-01-05T10:09:18.000+00:00"}
 ---
 
 ## determining the lagrangian

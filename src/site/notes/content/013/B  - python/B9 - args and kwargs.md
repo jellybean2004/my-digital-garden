@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/b-python/b9-args-and-kwargs/","noteIcon":"1","created":"2025-08-21T09:27:48.812+01:00","updated":"2025-08-21T09:33:53.818+01:00"}
+{"dg-publish":true,"permalink":"/content/013/b-python/b9-args-and-kwargs/","noteIcon":"1","created":"2025-08-27T13:15:28.368+01:00","updated":"2025-08-21T09:33:53.000+01:00"}
 ---
 
 - `args` are positional arguments

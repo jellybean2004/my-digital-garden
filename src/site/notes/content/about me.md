@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/about-me/","pinned":true,"noteIcon":"2","created":"2025-02-12T16:08:30.067+00:00","updated":"2025-02-15T12:56:40.019+00:00"}
+{"dg-publish":true,"permalink":"/content/about-me/","pinned":true,"noteIcon":"2","created":"2025-08-27T13:15:22.592+01:00","updated":"2025-02-15T12:56:40.000+00:00"}
 ---
 
 # hello!

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/l-semiconductors/px-262-l2-n-and-p-type-semiconductors/","noteIcon":"1","created":"2025-02-17T11:33:09.125+00:00","updated":"2025-02-25T10:58:55.853+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/l-semiconductors/px-262-l2-n-and-p-type-semiconductors/","noteIcon":"1","created":"2025-08-27T13:15:23.196+01:00","updated":"2025-02-25T10:58:55.000+00:00"}
 ---
 
 - these include semiconductors, such as Si and Ge, doped with a very low concentration of impurities (1 part in $10^5$) such as P, As or B, Ga, which have either one more or one less valence electron per atom

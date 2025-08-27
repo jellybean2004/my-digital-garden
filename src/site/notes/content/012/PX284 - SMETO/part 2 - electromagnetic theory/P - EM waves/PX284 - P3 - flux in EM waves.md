@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/p-em-waves/px-284-p3-flux-in-em-waves/","noteIcon":"1","created":"2025-02-20T15:10:08.414+00:00","updated":"2025-02-23T13:45:09.755+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/p-em-waves/px-284-p3-flux-in-em-waves/","noteIcon":"1","created":"2025-08-27T13:15:25.176+01:00","updated":"2025-02-23T13:45:09.000+00:00"}
 ---
 
 $$- W = \frac{\partial u}{\partial t} + \vec\nabla \cdot \vec P$$

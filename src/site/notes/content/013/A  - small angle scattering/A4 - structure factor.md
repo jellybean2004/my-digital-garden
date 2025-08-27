@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/a-small-angle-scattering/a4-structure-factor/","noteIcon":"1","created":"2025-08-15T08:50:20.552+01:00","updated":"2025-08-15T09:12:51.102+01:00"}
+{"dg-publish":true,"permalink":"/content/013/a-small-angle-scattering/a4-structure-factor/","noteIcon":"1","created":"2025-08-27T13:15:28.317+01:00","updated":"2025-08-15T09:12:51.000+01:00"}
 ---
 
 ![A4 - structure factor.png](/img/user/pics/A4%20-%20structure%20factor.png)

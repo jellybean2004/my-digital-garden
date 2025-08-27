@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/h-gases/px-284-h3-distinguishability/","noteIcon":"1","created":"2025-01-13T10:13:18.783+00:00","updated":"2025-01-13T10:31:16.405+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/h-gases/px-284-h3-distinguishability/","noteIcon":"1","created":"2025-08-27T13:15:24.658+01:00","updated":"2025-01-13T10:31:16.000+00:00"}
 ---
 
 - considering a single particle in  a two-state system

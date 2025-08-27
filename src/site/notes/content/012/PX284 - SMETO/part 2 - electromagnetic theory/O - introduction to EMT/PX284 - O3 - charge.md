@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/o-introduction-to-emt/px-284-o3-charge/","noteIcon":"1","created":"2025-02-13T15:26:44.312+00:00","updated":"2025-02-13T15:30:13.124+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/o-introduction-to-emt/px-284-o3-charge/","noteIcon":"1","created":"2025-08-27T13:15:25.099+01:00","updated":"2025-02-13T15:30:13.000+00:00"}
 ---
 
 ## current density
