@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/e-gui/e2-signals-slots-and-events/","noteIcon":"1","created":"2025-08-22T11:51:40.372+01:00","updated":"2025-08-22T16:20:38.590+01:00"}
+{"dg-publish":true,"permalink":"/content/013/e-gui/e2-signals-slots-and-events/","noteIcon":"1","created":"2025-08-22T11:51:40.372+01:00","updated":"2025-08-27T09:37:09.868+01:00"}
 ---
 
 ## signals and slots
@@ -128,10 +128,12 @@ app.exec()
 
 - the event handlers for mouse events:
 
-| event handler         | event type moved      |
-| --------------------- | --------------------- |
-| `mouseMoveEvent`      | mouse moved           |
-| mousePressEvent       | mouse button pressed  |
-| mouseReleaseEvent     | mouse button released |
-| mouseDoubleClickEvent | double click detected |
-- 
+| event handler           | event type moved      |
+| ----------------------- | --------------------- |
+| `mouseMoveEvent`        | mouse moved           |
+| `mousePressEvent`       | mouse button pressed  |
+| `mouseReleaseEvent`     | mouse button released |
+| `mouseDoubleClickEvent` | double click detected |
+- these are only registered when a mouse button is pressed
+- `setMouseTracking(True)` changes this behaviour
+- all mouse events are tracked with the `QMouseEvent` object
