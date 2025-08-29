@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j9-moons/","noteIcon":"1","created":"2025-02-14T16:20:41.752+00:00","updated":"2025-05-27T09:31:25.884+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j9-moons/","noteIcon":"1","created":"2025-08-27T13:15:23.015+01:00","updated":"2025-05-27T09:31:25.000+01:00"}
 ---
 
 - **mercury and venus**: no moons

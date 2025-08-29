@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/l-formation-of-solar-system/px-282-l2-core-accretion/","noteIcon":"1","created":"2025-03-07T11:30:07.587+00:00","updated":"2025-03-16T11:27:27.182+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/l-formation-of-solar-system/px-282-l2-core-accretion/","noteIcon":"1","created":"2025-08-27T13:15:28.490+01:00","updated":"2025-03-16T11:27:27.000+00:00"}
 ---
 
 - firstly, the young sun and the protoplanetary disc is formed by gravitational collapse

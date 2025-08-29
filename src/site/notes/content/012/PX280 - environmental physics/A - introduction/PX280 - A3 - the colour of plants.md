@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/a-introduction/px-280-a3-the-colour-of-plants/","noteIcon":"1","created":"2025-01-06T12:25:21.725+00:00","updated":"2025-01-06T18:15:21.204+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/a-introduction/px-280-a3-the-colour-of-plants/","noteIcon":"1","created":"2025-08-27T13:15:22.724+01:00","updated":"2025-01-06T18:15:21.000+00:00"}
 ---
 
 - photosynthesis in plants/algae:

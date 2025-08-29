@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i7-rayleigh-criterion-for-resolution/","noteIcon":"1","created":"2025-03-06T12:44:22.539+00:00","updated":"2025-03-11T12:20:17.067+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i7-rayleigh-criterion-for-resolution/","noteIcon":"1","created":"2025-08-27T13:15:24.063+01:00","updated":"2025-03-11T12:20:17.000+00:00"}
 ---
 
 - to find the first dark fringe for an airy pattern

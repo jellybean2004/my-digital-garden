@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t6-images/","noteIcon":"1","created":"2025-05-07T11:15:36.647+01:00","updated":"2025-05-20T17:38:10.856+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/t-geometric-optics/px-284-t6-images/","noteIcon":"1","created":"2025-08-27T13:15:28.642+01:00","updated":"2025-05-20T17:38:10.000+01:00"}
 ---
 
 ## real image

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g3-matrix-representation/","noteIcon":"1","created":"2024-11-25T11:21:45.798+00:00","updated":"2024-12-19T18:52:10.889+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g3-matrix-representation/","noteIcon":"1","created":"2025-08-27T13:14:15.907+01:00","updated":"2024-12-19T18:52:10.000+00:00"}
 ---
 
 - taking a dynamical variable, $\hat Q$, with an eigenstate, $\psi$, with eigenvalue, $q:$

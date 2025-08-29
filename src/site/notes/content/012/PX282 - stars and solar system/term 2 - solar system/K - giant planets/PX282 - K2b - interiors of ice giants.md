@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/px-282-k2b-interiors-of-ice-giants/","noteIcon":"1","created":"2025-02-21T16:33:07.377+00:00","updated":"2025-02-21T16:48:42.921+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/px-282-k2b-interiors-of-ice-giants/","noteIcon":"1","created":"2025-08-27T13:15:23.069+01:00","updated":"2025-02-21T16:48:42.000+00:00"}
 ---
 
 - the masses of uranus and neptune are dominated by 'ices' in fluid form. eg: H$_{2}$O, NH$_{3}$, CH$_{4}$, CO$_{2}$, CO

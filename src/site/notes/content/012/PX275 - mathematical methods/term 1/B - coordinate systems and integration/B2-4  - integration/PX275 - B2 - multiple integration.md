@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/b-coordinate-systems-and-integration/b2-4-integration/px-275-b2-multiple-integration/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:04:44.659+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/b-coordinate-systems-and-integration/b2-4-integration/px-275-b2-multiple-integration/","noteIcon":"1","created":"2025-08-27T13:14:16.045+01:00","updated":"2024-11-26T10:04:44.000+00:00"}
 ---
 
 ![Pasted image 20241017125026.png](/img/user/pics/Pasted%20image%2020241017125026.png)

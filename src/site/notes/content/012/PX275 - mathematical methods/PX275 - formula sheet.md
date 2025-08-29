@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-formula-sheet/","noteIcon":"1","created":"2024-11-26T21:29:24.782+00:00","updated":"2024-11-26T22:26:40.585+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/px-275-formula-sheet/","noteIcon":"1","created":"2025-08-27T13:14:26.308+01:00","updated":"2024-11-26T22:26:40.000+00:00"}
 ---
 
 ## A

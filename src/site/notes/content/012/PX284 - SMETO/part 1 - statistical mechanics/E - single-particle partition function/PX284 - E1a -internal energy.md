@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/px-284-e1a-internal-energy/","noteIcon":"1","created":"2024-12-23T21:55:45.679+00:00","updated":"2024-12-23T22:04:28.851+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/px-284-e1a-internal-energy/","noteIcon":"1","created":"2025-08-27T13:15:25.010+01:00","updated":"2024-12-23T22:04:28.000+00:00"}
 ---
 
 - the internal energy is the total expected energy:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/px-285-i4-core-equations/","noteIcon":"1","created":"2025-01-24T12:09:51.045+00:00","updated":"2025-01-31T14:25:47.046+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/i-navier-stokes-equation/px-285-i4-core-equations/","noteIcon":"1","created":"2025-08-27T13:15:24.203+01:00","updated":"2025-01-31T14:25:47.000+00:00"}
 ---
 
 

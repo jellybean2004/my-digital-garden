@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/review-before-exam/","noteIcon":"1","created":"2024-10-01T18:50:56.368+01:00","updated":"2024-11-26T20:15:01.883+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/review-before-exam/","noteIcon":"1","created":"2025-08-27T13:14:00.503+01:00","updated":"2024-11-26T20:15:01.000+00:00"}
 ---
 
 [[content/011/PX158 - astronomy/PX158 - F - blackbody and colours/PX158 - F3 - colours\|PX158 - F3 - colours]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/a-introduction/px-282-a6-magnitudes-band-passes-colours/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-06T16:46:52.154+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/a-introduction/px-282-a6-magnitudes-band-passes-colours/","noteIcon":"1","created":"2025-08-27T13:14:08.446+01:00","updated":"2024-12-06T16:46:52.000+00:00"}
 ---
 
 - see: [[content/011/PX158 - astronomy/PX158 - D - fluxes and magnitudes/PX158 - D2 - brightness and magnitudes\|PX158 - D2 - brightness and magnitudes]]

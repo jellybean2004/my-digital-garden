@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/f-tensors-and-summation-conventions/px-275-f2-summation-conventions/","noteIcon":"1","created":"2024-12-02T12:51:13.147+00:00","updated":"2024-12-02T18:56:21.974+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/f-tensors-and-summation-conventions/px-275-f2-summation-conventions/","noteIcon":"1","created":"2025-08-27T13:14:32.612+01:00","updated":"2024-12-02T18:56:21.000+00:00"}
 ---
 
 - taking a vector $\vec a:$

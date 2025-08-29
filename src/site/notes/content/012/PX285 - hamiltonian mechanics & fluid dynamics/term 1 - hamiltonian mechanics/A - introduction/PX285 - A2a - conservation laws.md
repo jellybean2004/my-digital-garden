@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/a-introduction/px-285-a2a-conservation-laws/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T13:00:52.722+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/a-introduction/px-285-a2a-conservation-laws/","noteIcon":"1","created":"2025-08-27T13:14:08.536+01:00","updated":"2024-11-26T13:00:52.000+00:00"}
 ---
 
 ## momentum

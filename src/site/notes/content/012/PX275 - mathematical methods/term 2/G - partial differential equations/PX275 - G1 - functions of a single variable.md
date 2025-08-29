@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g1-functions-of-a-single-variable/","noteIcon":"1","created":"2025-01-07T19:11:23.770+00:00","updated":"2025-01-07T19:31:39.229+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g1-functions-of-a-single-variable/","noteIcon":"1","created":"2025-08-27T13:15:23.634+01:00","updated":"2025-01-07T19:31:39.000+00:00"}
 ---
 
 ## derivative

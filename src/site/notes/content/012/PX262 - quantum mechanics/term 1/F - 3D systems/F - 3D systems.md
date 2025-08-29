@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/f-3-d-systems/f-3-d-systems/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-06T18:15:13.006+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/f-3-d-systems/f-3-d-systems/","noteIcon":"1","created":"2025-08-27T13:14:15.875+01:00","updated":"2025-01-06T18:15:13.000+00:00"}
 ---
 
 [[content/012/PX262 - quantum mechanics/term 1/F - 3D systems/PX262 - F1 - the schrödinger equation in 3D\|PX262 - F1 - the schrödinger equation in 3D]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g5-multielectron-atoms/","noteIcon":"1","created":"2024-11-25T11:41:02.445+00:00","updated":"2024-12-23T10:50:50.322+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g5-multielectron-atoms/","noteIcon":"1","created":"2025-08-27T13:14:15.911+01:00","updated":"2024-12-23T10:50:50.000+00:00"}
 ---
 
 - for two electrons, the hamiltonian has a form:

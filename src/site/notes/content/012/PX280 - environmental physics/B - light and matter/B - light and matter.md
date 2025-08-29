@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/b-light-and-matter/b-light-and-matter/","noteIcon":"1","created":"2025-01-09T11:05:05.683+00:00","updated":"2025-01-16T11:07:36.289+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/b-light-and-matter/b-light-and-matter/","noteIcon":"1","created":"2025-08-27T13:15:22.640+01:00","updated":"2025-01-16T11:07:36.000+00:00"}
 ---
 
 [[content/012/PX280 - environmental physics/B - light and matter/PX280 - B1 - overview\|PX280 - B1 - overview]]

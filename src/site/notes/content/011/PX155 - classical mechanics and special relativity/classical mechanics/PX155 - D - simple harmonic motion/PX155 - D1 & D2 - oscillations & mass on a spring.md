@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d1-and-d2-oscillations-and-mass-on-a-spring/","noteIcon":"1","created":"2024-10-01T18:27:09.633+01:00","updated":"2024-11-26T19:55:39.269+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d1-and-d2-oscillations-and-mass-on-a-spring/","noteIcon":"1","created":"2025-08-27T13:14:08.810+01:00","updated":"2024-11-26T19:55:39.000+00:00"}
 ---
 
 ---

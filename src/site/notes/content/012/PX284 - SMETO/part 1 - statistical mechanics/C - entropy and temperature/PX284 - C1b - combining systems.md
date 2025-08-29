@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/c-entropy-and-temperature/px-284-c1b-combining-systems/","noteIcon":"1","created":"2024-12-23T20:44:00.012+00:00","updated":"2024-12-23T20:45:12.926+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/c-entropy-and-temperature/px-284-c1b-combining-systems/","noteIcon":"1","created":"2025-08-27T13:15:24.985+01:00","updated":"2024-12-23T20:45:12.000+00:00"}
 ---
 
 - **in thermodynamics**, considering two systems with entropies, $S_{1}$ and $S_{2}$, the total entropy is: 

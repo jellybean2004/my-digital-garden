@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-b-systems-of-particles-accelerations/px-155-b1-systems-of-particles-i/","noteIcon":"1","created":"2024-10-01T18:27:09.490+01:00","updated":"2024-11-26T19:55:10.809+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-b-systems-of-particles-accelerations/px-155-b1-systems-of-particles-i/","noteIcon":"1","created":"2025-08-27T13:14:08.799+01:00","updated":"2024-11-26T19:55:10.000+00:00"}
 ---
 
 - consider an object/body as $N$ particles at positions $\vec r_i$ relative to some origin $O$

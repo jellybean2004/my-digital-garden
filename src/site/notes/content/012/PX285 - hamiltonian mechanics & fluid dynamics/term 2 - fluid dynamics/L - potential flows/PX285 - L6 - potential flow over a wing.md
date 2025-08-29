@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l6-potential-flow-over-a-wing/","noteIcon":"1","created":"2025-03-06T14:35:10.624+00:00","updated":"2025-03-07T14:22:53.142+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l6-potential-flow-over-a-wing/","noteIcon":"1","created":"2025-08-27T13:15:24.529+01:00","updated":"2025-03-07T14:22:53.000+00:00"}
 ---
 
 ![PX285 - L6 - potential flow over a wing.png|500](/img/user/pics/PX285%20-%20L6%20-%20potential%20flow%20over%20a%20wing.png)

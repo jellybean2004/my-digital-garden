@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/px-284-e5c-spin-half-paramagnet/","noteIcon":"1","created":"2025-01-03T12:12:02.597+00:00","updated":"2025-01-03T12:31:00.043+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/px-284-e5c-spin-half-paramagnet/","noteIcon":"1","created":"2025-08-27T13:15:25.043+01:00","updated":"2025-01-03T12:31:00.000+00:00"}
 ---
 
 - a single spin$-1/2$ particle in a magnetic field is a two-state system

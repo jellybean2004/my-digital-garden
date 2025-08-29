@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/a-small-angle-scattering/a2-structural-significance/","noteIcon":"1","created":"2025-08-15T07:29:02.509+01:00","updated":"2025-08-15T09:12:30.661+01:00"}
+{"dg-publish":true,"permalink":"/content/013/a-small-angle-scattering/a2-structural-significance/","noteIcon":"1","created":"2025-08-27T13:15:28.310+01:00","updated":"2025-08-15T09:12:30.000+01:00"}
 ---
 
 - intensities are plotted against the scattering wavevector, $q:$

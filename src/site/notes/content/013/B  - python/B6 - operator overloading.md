@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/b-python/b6-operator-overloading/","noteIcon":"1","created":"2025-08-20T11:00:43.606+01:00","updated":"2025-08-20T11:03:46.556+01:00"}
+{"dg-publish":true,"permalink":"/content/013/b-python/b6-operator-overloading/","noteIcon":"1","created":"2025-08-27T13:15:28.353+01:00","updated":"2025-08-20T11:03:46.000+01:00"}
 ---
 
 ```python

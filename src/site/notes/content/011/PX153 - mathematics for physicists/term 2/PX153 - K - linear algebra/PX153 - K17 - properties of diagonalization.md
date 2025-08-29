@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k17-properties-of-diagonalization/","noteIcon":"1","created":"2024-10-01T18:27:09.405+01:00","updated":"2024-11-26T19:40:45.171+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k17-properties-of-diagonalization/","noteIcon":"1","created":"2025-08-27T13:14:00.608+01:00","updated":"2024-11-26T19:40:45.000+00:00"}
 ---
 
 - $(i):$

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-crystalline-solids/k-crystalline-solids/","noteIcon":"1","created":"2025-03-13T12:39:11.745+00:00","updated":"2025-03-13T12:39:39.540+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-crystalline-solids/k-crystalline-solids/","noteIcon":"1","created":"2025-08-27T13:15:28.518+01:00","updated":"2025-03-13T12:39:39.000+00:00"}
 ---
 
 [[content/012/PX262 - quantum mechanics/term 2/K - crystalline solids/PX262 - K1 - electrons in crystalline solids\|PX262 - K1 - electrons in crystalline solids]]

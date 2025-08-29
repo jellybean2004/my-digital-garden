@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/b-light-and-matter/px-280-b3-solar-emission-spectrum/","noteIcon":"1","created":"2025-01-13T12:05:21.565+00:00","updated":"2025-01-13T12:21:08.982+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/b-light-and-matter/px-280-b3-solar-emission-spectrum/","noteIcon":"1","created":"2025-08-27T13:15:22.675+01:00","updated":"2025-01-13T12:21:08.000+00:00"}
 ---
 
 - the solar irradiance curve at the top of the atmosphere can be modelled by a blackbody distribution ($T = 5800$K)

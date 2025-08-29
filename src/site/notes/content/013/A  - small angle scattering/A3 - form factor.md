@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/a-small-angle-scattering/a3-form-factor/","noteIcon":"1","created":"2025-08-15T07:51:16.989+01:00","updated":"2025-08-15T09:12:39.489+01:00"}
+{"dg-publish":true,"permalink":"/content/013/a-small-angle-scattering/a3-form-factor/","noteIcon":"1","created":"2025-08-27T13:15:28.314+01:00","updated":"2025-08-15T09:12:39.000+01:00"}
 ---
 
 - assuming a homogenous particles (uniform electron density)

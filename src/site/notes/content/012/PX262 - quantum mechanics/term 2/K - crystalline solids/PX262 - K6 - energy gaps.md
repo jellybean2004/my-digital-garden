@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-crystalline-solids/px-262-k6-energy-gaps/","noteIcon":"1","created":"2025-02-13T10:07:46.655+00:00","updated":"2025-03-13T12:36:23.048+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-crystalline-solids/px-262-k6-energy-gaps/","noteIcon":"1","created":"2025-08-27T13:15:23.573+01:00","updated":"2025-03-13T12:36:23.000+00:00"}
 ---
 
 - free electrons have the wave functions of the form: $\psi = A_{k}e^{ikx}$, where $k \in (-\infty, \infty)$

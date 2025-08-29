@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/p-em-waves/px-284-p1-introduction-to-em-waves/","noteIcon":"1","created":"2025-02-13T17:28:35.091+00:00","updated":"2025-02-23T13:23:57.731+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/p-em-waves/px-284-p1-introduction-to-em-waves/","noteIcon":"1","created":"2025-08-27T13:15:25.156+01:00","updated":"2025-02-23T13:23:57.000+00:00"}
 ---
 
 - starting from maxwell's equations with no sources, and vector identities:

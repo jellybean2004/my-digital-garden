@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g11a-schroedinger-equation/","noteIcon":"1","created":"2025-01-29T12:14:17.297+00:00","updated":"2025-02-27T12:58:33.480+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g11a-schroedinger-equation/","noteIcon":"1","created":"2025-08-27T13:15:23.700+01:00","updated":"2025-02-27T12:58:33.000+00:00"}
 ---
 
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - C - quantum mechanics/PX156 - C1 - the schrodinger equation\|PX156 - C1 - the schrodinger equation]]

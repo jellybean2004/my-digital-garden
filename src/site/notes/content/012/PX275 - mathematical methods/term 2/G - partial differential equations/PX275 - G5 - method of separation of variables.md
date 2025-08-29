@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g5-method-of-separation-of-variables/","noteIcon":"1","created":"2025-01-09T12:50:46.338+00:00","updated":"2025-01-29T10:04:41.399+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g5-method-of-separation-of-variables/","noteIcon":"1","created":"2025-08-27T13:15:23.657+01:00","updated":"2025-01-29T10:04:41.000+00:00"}
 ---
 
 - assuming that solutions can be found of the form $u(x,t) = X(x) \, Y(t)$

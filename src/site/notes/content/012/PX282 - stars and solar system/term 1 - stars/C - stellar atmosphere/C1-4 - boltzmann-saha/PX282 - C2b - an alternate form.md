@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c1-4-boltzmann-saha/px-282-c2b-an-alternate-form/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-28T18:02:10.790+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/c-stellar-atmosphere/c1-4-boltzmann-saha/px-282-c2b-an-alternate-form/","noteIcon":"1","created":"2025-08-27T13:14:15.694+01:00","updated":"2024-11-28T18:02:10.000+00:00"}
 ---
 
 - [[content/012/PX282 - stars and solar system/term 1 - stars/C - stellar atmosphere/C1-4 - boltzmann-saha/PX282 - C2a - the boltzmann equation\|the boltzmann equation]] can be written in an alternate form to get $\frac{N_{A}}{N}$ 

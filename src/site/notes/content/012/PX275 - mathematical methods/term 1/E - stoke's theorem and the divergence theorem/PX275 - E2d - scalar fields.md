@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e2d-scalar-fields/","noteIcon":"1","created":"2024-11-28T12:13:33.338+00:00","updated":"2024-11-28T12:29:59.010+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e2d-scalar-fields/","noteIcon":"1","created":"2025-08-27T13:14:32.619+01:00","updated":"2024-11-28T12:29:59.000+00:00"}
 ---
 
 - the [[content/012/PX275 - mathematical methods/term 1/E - stoke's theorem and the divergence theorem/PX275 - E2a - divergence theorem\|divergence theorem]] can also be used with scalar fields using a maths trick

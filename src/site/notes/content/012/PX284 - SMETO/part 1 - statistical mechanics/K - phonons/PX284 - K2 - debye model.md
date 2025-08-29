@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/k-phonons/px-284-k2-debye-model/","noteIcon":"1","created":"2025-01-23T15:33:31.697+00:00","updated":"2025-01-27T10:54:51.267+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/k-phonons/px-284-k2-debye-model/","noteIcon":"1","created":"2025-08-27T13:15:24.790+01:00","updated":"2025-01-27T10:54:51.000+00:00"}
 ---
 
 ## assumptions

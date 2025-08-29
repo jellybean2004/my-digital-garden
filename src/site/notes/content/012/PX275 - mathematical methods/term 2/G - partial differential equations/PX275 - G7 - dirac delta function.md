@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g7-dirac-delta-function/","noteIcon":"1","created":"2025-01-16T12:07:36.046+00:00","updated":"2025-01-29T13:01:10.923+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g7-dirac-delta-function/","noteIcon":"1","created":"2025-08-27T13:15:23.669+01:00","updated":"2025-01-29T13:01:10.000+00:00"}
 ---
 
 [[content/012/PX275 - mathematical methods/term 1/E - stoke's theorem and the divergence theorem/PX275 - E2b - dirac delta\|PX275 - E2b - dirac delta]]

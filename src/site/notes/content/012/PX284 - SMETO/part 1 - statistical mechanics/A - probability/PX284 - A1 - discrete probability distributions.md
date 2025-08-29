@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/a-probability/px-284-a1-discrete-probability-distributions/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-14T08:50:34.596+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/a-probability/px-284-a1-discrete-probability-distributions/","noteIcon":"1","created":"2025-08-27T13:14:15.533+01:00","updated":"2025-03-14T08:50:34.000+00:00"}
 ---
 
 - suppose $x$ is a **discrete random variable** with values, $x_{i}$, and probabilities of taking the values, $P_{i}$

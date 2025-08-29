@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-a-foundations-of-classical-mechanics/px-155-a5-static-and-dynamic-friction/","noteIcon":"1","created":"2024-10-01T18:27:09.475+01:00","updated":"2024-11-26T19:53:58.948+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-a-foundations-of-classical-mechanics/px-155-a5-static-and-dynamic-friction/","noteIcon":"1","created":"2025-08-27T13:14:05.222+01:00","updated":"2024-11-26T19:53:58.000+00:00"}
 ---
 
 - **contact forces**: on macroscopic scale : a combination of *normal reaction* and *frictional* force

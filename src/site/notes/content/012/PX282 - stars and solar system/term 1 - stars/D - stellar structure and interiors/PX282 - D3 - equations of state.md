@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/d-stellar-structure-and-interiors/px-282-d3-equations-of-state/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-06T18:15:15.884+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/d-stellar-structure-and-interiors/px-282-d3-equations-of-state/","noteIcon":"1","created":"2025-08-27T13:14:15.636+01:00","updated":"2025-01-06T18:15:15.000+00:00"}
 ---
 
 - they relate pressure, density, and temperature 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/m-turbulence-and-drag/px-284-m1-turbulence/","noteIcon":"1","created":"2025-03-13T14:15:40.488+00:00","updated":"2025-05-31T15:44:59.454+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/m-turbulence-and-drag/px-284-m1-turbulence/","noteIcon":"1","created":"2025-08-27T13:15:28.557+01:00","updated":"2025-05-31T15:44:59.000+01:00"}
 ---
 
 ![PX284 - M1 -.png|500](/img/user/pics/PX284%20-%20M1%20-.png)

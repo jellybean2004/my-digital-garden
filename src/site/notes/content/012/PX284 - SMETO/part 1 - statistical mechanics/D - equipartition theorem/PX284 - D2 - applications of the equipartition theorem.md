@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/d-equipartition-theorem/px-284-d2-applications-of-the-equipartition-theorem/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T21:54:30.838+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/d-equipartition-theorem/px-284-d2-applications-of-the-equipartition-theorem/","noteIcon":"1","created":"2025-08-27T13:14:15.579+01:00","updated":"2024-12-23T21:54:30.000+00:00"}
 ---
 
 ## translational motion of a monatomic gas

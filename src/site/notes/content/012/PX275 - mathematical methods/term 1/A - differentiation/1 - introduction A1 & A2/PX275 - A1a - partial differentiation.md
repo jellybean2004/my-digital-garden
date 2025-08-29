@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/1-introduction-a1-and-a2/px-275-a1a-partial-differentiation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:03:46.292+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/1-introduction-a1-and-a2/px-275-a1a-partial-differentiation/","noteIcon":"1","created":"2025-08-27T13:14:08.504+01:00","updated":"2024-11-26T10:03:46.000+00:00"}
 ---
 
 - for a function, $f(x,y)$, partial differentials can be defined as $\left(\frac{\partial f}{\partial x}\right)_{y}$; $\left(\frac{\partial f}{\partial y}\right)_{x}$

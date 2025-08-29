@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/a-introduction/px-282-a3-luminosity-and-flux/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T09:33:16.798+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/a-introduction/px-282-a3-luminosity-and-flux/","noteIcon":"1","created":"2025-08-27T13:14:08.438+01:00","updated":"2024-11-26T09:33:16.000+00:00"}
 ---
 
 - see [[content/011/PX158 - astronomy/PX158 - D - fluxes and magnitudes/PX158 - D1 - luminosity and flux\|PX158 - D1 - luminosity and flux]]

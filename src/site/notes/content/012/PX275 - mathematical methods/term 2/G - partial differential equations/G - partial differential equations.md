@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/g-partial-differential-equations/","noteIcon":"1","created":"2025-01-07T12:41:23.905+00:00","updated":"2025-01-29T12:56:31.349+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/g-partial-differential-equations/","noteIcon":"1","created":"2025-08-27T13:15:23.615+01:00","updated":"2025-01-29T12:56:31.000+00:00"}
 ---
 
 [[content/012/PX275 - mathematical methods/term 2/G - partial differential equations/PX275 - G1 - functions of a single variable\|PX275 - G1 - functions of a single variable]]

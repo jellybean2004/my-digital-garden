@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/i-chemical-potential/px-284-i4-conservation-laws/","noteIcon":"1","created":"2025-01-16T15:50:28.754+00:00","updated":"2025-01-16T15:53:40.838+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/i-chemical-potential/px-284-i4-conservation-laws/","noteIcon":"1","created":"2025-08-27T13:15:24.672+01:00","updated":"2025-01-16T15:53:40.000+00:00"}
 ---
 
 - particle conservation laws put constraints on the value of $\mu$

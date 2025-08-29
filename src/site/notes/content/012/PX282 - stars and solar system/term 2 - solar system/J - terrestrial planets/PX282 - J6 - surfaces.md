@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j6-surfaces/","noteIcon":"1","created":"2025-01-31T16:23:21.305+00:00","updated":"2025-05-09T11:18:44.836+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j6-surfaces/","noteIcon":"1","created":"2025-08-27T13:15:22.965+01:00","updated":"2025-05-09T11:18:44.000+01:00"}
 ---
 
 ## moon

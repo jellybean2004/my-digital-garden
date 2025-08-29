@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/d-equipartition-theorem/d-equipartition-theorem/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T21:45:25.238+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/d-equipartition-theorem/d-equipartition-theorem/","noteIcon":"1","created":"2025-08-27T13:14:15.574+01:00","updated":"2024-12-23T21:45:25.000+00:00"}
 ---
 
 [[content/012/PX284 - SMETO/part 1 - statistical mechanics/D - equipartition theorem/PX284 - D1 - equipartition theorem\|PX284 - D1 - equipartition theorem]]

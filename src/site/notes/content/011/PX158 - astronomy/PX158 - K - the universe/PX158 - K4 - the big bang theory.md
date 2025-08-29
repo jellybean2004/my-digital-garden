@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-k-the-universe/px-158-k4-the-big-bang-theory/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:14:53.364+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-158-astronomy/px-158-k-the-universe/px-158-k4-the-big-bang-theory/","noteIcon":"1","created":"2025-08-27T13:14:00.498+01:00","updated":"2024-11-26T20:14:53.000+00:00"}
 ---
 
 - this is an expansion of the space-time itself, not an explosion

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/a-introduction/px-280-a1-simplest-climate-model/","noteIcon":"1","created":"2025-01-06T12:06:04.394+00:00","updated":"2025-01-06T12:20:18.528+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/a-introduction/px-280-a1-simplest-climate-model/","noteIcon":"1","created":"2025-08-27T13:15:22.707+01:00","updated":"2025-01-06T12:20:18.000+00:00"}
 ---
 
 - based on conservation of energy: energy in = energy out

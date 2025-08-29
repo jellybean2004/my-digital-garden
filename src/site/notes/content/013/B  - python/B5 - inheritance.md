@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/b-python/b5-inheritance/","noteIcon":"1","created":"2025-08-20T10:54:31.893+01:00","updated":"2025-08-21T09:11:12.635+01:00"}
+{"dg-publish":true,"permalink":"/content/013/b-python/b5-inheritance/","noteIcon":"1","created":"2025-08-27T13:15:28.351+01:00","updated":"2025-08-21T09:11:12.000+01:00"}
 ---
 
 ```python

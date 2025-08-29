@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/px-282-k5-moons/","noteIcon":"1","created":"2025-02-28T11:43:43.361+00:00","updated":"2025-02-28T16:52:31.800+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/px-282-k5-moons/","noteIcon":"1","created":"2025-08-27T13:15:23.080+01:00","updated":"2025-02-28T16:52:31.000+00:00"}
 ---
 
 ## jupiter

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/px-154-f2-the-wave-equation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T23:14:48.754+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-f-waves/px-154-f2-the-wave-equation/","noteIcon":"1","created":"2025-08-27T13:14:08.556+01:00","updated":"2024-11-26T23:14:48.000+00:00"}
 ---
 
 - a fundamental equation, ubiquitous in physics

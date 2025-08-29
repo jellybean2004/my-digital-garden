@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/j-some-approximate-solutions/","noteIcon":"1","created":"2025-01-31T16:14:44.381+00:00","updated":"2025-06-01T14:05:09.505+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/j-some-approximate-solutions/","noteIcon":"1","created":"2025-08-27T13:15:24.283+01:00","updated":"2025-06-01T14:05:09.000+01:00"}
 ---
 
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/J - some approximate solutions/PX285 - J1a - bernoulli's principle from conservation of energy\|PX285 - J1a - bernoulli's principle from conservation of energy]]

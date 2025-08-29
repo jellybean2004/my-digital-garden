@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i8-optical-elements-in-instruments/","noteIcon":"1","created":"2025-03-11T12:20:46.643+00:00","updated":"2025-03-11T12:42:08.040+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i8-optical-elements-in-instruments/","noteIcon":"1","created":"2025-08-27T13:15:28.538+01:00","updated":"2025-03-11T12:42:08.000+00:00"}
 ---
 
 - considering an optical bench, which involves a number of optical elements past aperture, before detection

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j7a-atmospheres/","noteIcon":"1","created":"2025-02-07T11:24:30.610+00:00","updated":"2025-02-07T16:17:34.675+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j7a-atmospheres/","noteIcon":"1","created":"2025-08-27T13:15:22.973+01:00","updated":"2025-02-07T16:17:34.000+00:00"}
 ---
 
 ## earth

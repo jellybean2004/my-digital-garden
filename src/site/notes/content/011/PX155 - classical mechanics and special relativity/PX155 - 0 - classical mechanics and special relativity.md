@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/px-155-0-classical-mechanics-and-special-relativity/","pinned":true,"noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-12T16:49:03.511+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/px-155-0-classical-mechanics-and-special-relativity/","pinned":true,"noteIcon":"2","created":"2025-08-27T13:14:08.770+01:00","updated":"2025-02-12T16:49:03.000+00:00"}
 ---
 
 <img src = 'https://i.pinimg.com/originals/37/42/94/3742942e1d424f91234de1b1b8d71b40.gif' class = 'banner'>

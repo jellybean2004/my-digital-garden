@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/g-normal-modes-and-small-oscillations/px-285-g9-triatomic-molecule/","noteIcon":"1","created":"2024-12-05T19:21:44.356+00:00","updated":"2024-12-06T13:02:15.185+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/g-normal-modes-and-small-oscillations/px-285-g9-triatomic-molecule/","noteIcon":"1","created":"2025-08-27T13:14:32.641+01:00","updated":"2024-12-06T13:02:15.000+00:00"}
 ---
 
 ## the euler-lagrange equation and modes

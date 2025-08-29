@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/013-placement/","pinned":true,"noteIcon":"3","created":"2025-08-27T13:15:28.287+01:00","updated":"2025-08-27T14:35:09.992+01:00"}
+{"dg-publish":true,"permalink":"/content/013/013-placement/","pinned":true,"noteIcon":"3","created":"2025-08-27T13:15:28.287+01:00","updated":"2025-08-29T11:16:39.025+01:00"}
 ---
 
 ## [[content/013/A  - small angle scattering/A - small angle scattering\|A - small angle scattering]]
@@ -19,8 +19,13 @@
 [[content/013/C - error statistics/C1 - method of least squares\|C1 - method of least squares]]
 [[content/013/C - error statistics/C2 - reduced-chi squared\|C2 - reduced-chi squared]]
 ## [[content/013/D - git/D - git\|D - git]]
-[[content/013/D - git/D1 - basics\|D1 - basics]]
-## [[content/013/E - GUI/E - GUI\|E - GUI]]
+[[content/013/D - git/D1 - commits\|D1 - commits]]
+[[content/013/D - git/D2 -branching and merging\|D2 -branching and merging]]
+[[content/013/D - git/D3 - rebasing\|D3 - rebasing]]
+[[content/013/D - git/D4 - relative refs\|D4 - relative refs]]
+[[content/013/D - git/D5 - cherry-picking and interactive rebasing\|D5 - cherry-picking and interactive rebasing]]
+[[content/013/D - git/D6 - tag and describe\|D6 - tag and describe]]
+## [[content/013/E - GUI/E - PyQt\|E - PyQt]]
 [[content/013/E - GUI/E1 - getting started with PyQT\|E1 - getting started with PyQT]]
 [[content/013/E - GUI/E2 - signals, slots and events\|E2 - signals, slots and events]]
 [[content/013/E - GUI/E3 - widgets\|E3 - widgets]]

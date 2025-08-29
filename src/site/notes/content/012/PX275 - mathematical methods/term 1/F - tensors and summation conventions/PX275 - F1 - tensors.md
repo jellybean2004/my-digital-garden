@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/f-tensors-and-summation-conventions/px-275-f1-tensors/","noteIcon":"1","created":"2024-12-02T12:09:35.780+00:00","updated":"2024-12-02T18:52:07.064+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/f-tensors-and-summation-conventions/px-275-f1-tensors/","noteIcon":"1","created":"2025-08-27T13:14:32.610+01:00","updated":"2024-12-02T18:52:07.000+00:00"}
 ---
 
 - considering the angular momentum of a simple system:

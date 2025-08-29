@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6d-circular-aperture/","noteIcon":"1","created":"2025-03-06T12:10:48.117+00:00","updated":"2025-03-09T12:56:29.294+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6d-circular-aperture/","noteIcon":"1","created":"2025-08-27T13:15:24.051+01:00","updated":"2025-03-09T12:56:29.000+00:00"}
 ---
 
 - considering a circular hole with radius, $R$

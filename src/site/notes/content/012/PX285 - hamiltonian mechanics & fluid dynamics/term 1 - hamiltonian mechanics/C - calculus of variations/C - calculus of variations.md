@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/c-calculus-of-variations/c-calculus-of-variations/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-06T16:58:52.984+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/c-calculus-of-variations/c-calculus-of-variations/","noteIcon":"1","created":"2025-08-27T13:14:16.128+01:00","updated":"2025-02-06T16:58:52.000+00:00"}
 ---
 
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/C - calculus of variations/PX285 - C1 - the euler-lagrange equation\|PX285 - C1 - the euler-lagrange equation]]

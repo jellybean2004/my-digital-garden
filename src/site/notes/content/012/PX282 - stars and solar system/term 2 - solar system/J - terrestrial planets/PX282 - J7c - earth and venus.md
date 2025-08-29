@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j7c-earth-and-venus/","noteIcon":"1","created":"2025-02-07T16:45:31.267+00:00","updated":"2025-02-07T16:45:38.351+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j7c-earth-and-venus/","noteIcon":"1","created":"2025-08-27T13:15:22.989+01:00","updated":"2025-02-07T16:45:38.000+00:00"}
 ---
 
 >[!question] why are venus' and earth's atmospheres so different?

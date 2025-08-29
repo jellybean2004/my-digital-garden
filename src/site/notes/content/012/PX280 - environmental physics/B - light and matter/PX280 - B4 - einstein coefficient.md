@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/b-light-and-matter/px-280-b4-einstein-coefficient/","noteIcon":"1","created":"2025-01-13T12:21:26.780+00:00","updated":"2025-01-13T13:52:10.357+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/b-light-and-matter/px-280-b4-einstein-coefficient/","noteIcon":"1","created":"2025-08-27T13:15:22.667+01:00","updated":"2025-01-13T13:52:10.000+00:00"}
 ---
 
 - see [section 2.2.1] of reference textbook for derivation

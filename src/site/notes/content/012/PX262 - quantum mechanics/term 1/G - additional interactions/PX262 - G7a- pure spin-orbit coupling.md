@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g7a-pure-spin-orbit-coupling/","noteIcon":"1","created":"2024-11-26T11:31:26.405+00:00","updated":"2024-12-21T14:23:31.271+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g7a-pure-spin-orbit-coupling/","noteIcon":"1","created":"2025-08-27T13:14:26.301+01:00","updated":"2024-12-21T14:23:31.000+00:00"}
 ---
 
 - setting the external magnetic field to zero:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/k-circulation-and-vorticity/px-285-k1-vorticity/","noteIcon":"1","created":"2025-02-13T14:16:13.843+00:00","updated":"2025-02-13T14:28:00.181+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/k-circulation-and-vorticity/px-285-k1-vorticity/","noteIcon":"1","created":"2025-08-27T13:15:24.356+01:00","updated":"2025-02-13T14:28:00.000+00:00"}
 ---
 
 ## definition

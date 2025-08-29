@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/m-fermions/px-284-m3-degeneracy-pressure/","noteIcon":"1","created":"2025-02-03T12:27:18.435+00:00","updated":"2025-02-03T19:37:16.733+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/m-fermions/px-284-m3-degeneracy-pressure/","noteIcon":"1","created":"2025-08-27T13:15:24.875+01:00","updated":"2025-02-03T19:37:16.000+00:00"}
 ---
 
 - pressure due to the electron gas at $T=0$

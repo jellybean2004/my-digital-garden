@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-b-systems-of-particles-accelerations/b-systems-of-particles-and-acceleration/","noteIcon":"1","created":"2024-10-01T18:27:09.486+01:00","updated":"2024-11-26T19:55:09.148+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-b-systems-of-particles-accelerations/b-systems-of-particles-and-acceleration/","noteIcon":"1","created":"2025-08-27T13:14:05.239+01:00","updated":"2024-11-26T19:55:09.000+00:00"}
 ---
 
 [[content/011/PX155 - classical mechanics and special relativity/classical mechanics/PX155 - B - systems of particles, accelerations/PX155 - B1 - systems of particles I\|PX155 - B1 - systems of particles I]]

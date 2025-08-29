@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e1b-examples/","noteIcon":"1","created":"2024-11-28T12:29:28.396+00:00","updated":"2024-11-28T12:56:49.077+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/e-stoke-s-theorem-and-the-divergence-theorem/px-275-e1b-examples/","noteIcon":"1","created":"2025-08-27T13:14:32.624+01:00","updated":"2024-11-28T12:56:49.000+00:00"}
 ---
 
 ## a maths example

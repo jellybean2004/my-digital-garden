@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g10-plane-waves/","noteIcon":"1","created":"2025-01-29T12:07:43.228+00:00","updated":"2025-01-30T14:03:57.443+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g10-plane-waves/","noteIcon":"1","created":"2025-08-27T13:15:23.693+01:00","updated":"2025-01-30T14:03:57.000+00:00"}
 ---
 
 

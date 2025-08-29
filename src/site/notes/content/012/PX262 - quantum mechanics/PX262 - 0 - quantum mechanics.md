@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics/","noteIcon":"2","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-13T12:39:06.612+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/px-262-0-quantum-mechanics/","noteIcon":"2","created":"2025-08-27T13:14:08.454+01:00","updated":"2025-03-13T12:39:06.000+00:00"}
 ---
 
 ## term 1

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-free-electron-model/px-262-h3-free-electron-model-1-d/","noteIcon":"1","created":"2025-01-09T17:19:33.338+00:00","updated":"2025-03-13T10:50:16.561+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-free-electron-model/px-262-h3-free-electron-model-1-d/","noteIcon":"1","created":"2025-08-27T13:15:23.499+01:00","updated":"2025-03-13T10:50:16.000+00:00"}
 ---
 
 - loosely bound valence electrons $(\sim 10^{24})$ in a metal are modelled as non-interacting fermions in a potential form a uniform, positively charged background, so the system charge is neutral

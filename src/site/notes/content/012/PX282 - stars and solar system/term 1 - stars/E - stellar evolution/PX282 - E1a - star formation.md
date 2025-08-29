@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e1a-star-formation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-03-28T19:27:25.519+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e1a-star-formation/","noteIcon":"1","created":"2025-08-27T13:14:15.651+01:00","updated":"2025-03-28T19:27:25.000+00:00"}
 ---
 
 ![Pasted image 20241121102048.png|500](/img/user/pics/Pasted%20image%2020241121102048.png)

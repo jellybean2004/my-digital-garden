@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a5-lagrange-multipliers/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-02-05T12:29:43.021+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/a-differentiation/2-advanced-a3-a4-and-a5/px-275-a5-lagrange-multipliers/","noteIcon":"1","created":"2025-08-27T13:14:16.087+01:00","updated":"2025-02-05T12:29:43.000+00:00"}
 ---
 
 -  typically, given a function, $f(x,y)$, a maxima or a minima can be found via the partial derivatives, ie: 

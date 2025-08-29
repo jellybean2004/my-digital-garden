@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/g-the-sun/px-282-g4-solar-atmosphere/","noteIcon":"1","created":"2024-12-05T10:07:55.492+00:00","updated":"2025-05-08T10:59:39.182+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/g-the-sun/px-282-g4-solar-atmosphere/","noteIcon":"1","created":"2025-08-27T13:14:32.572+01:00","updated":"2025-05-08T10:59:39.000+01:00"}
 ---
 
 

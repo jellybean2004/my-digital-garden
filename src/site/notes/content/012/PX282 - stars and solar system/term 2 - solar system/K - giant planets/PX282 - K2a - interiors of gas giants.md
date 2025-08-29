@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/px-282-k2a-interiors-of-gas-giants/","noteIcon":"1","created":"2025-02-21T11:29:13.561+00:00","updated":"2025-05-28T18:20:40.122+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/px-282-k2a-interiors-of-gas-giants/","noteIcon":"1","created":"2025-08-27T13:15:23.051+01:00","updated":"2025-05-28T18:20:40.000+01:00"}
 ---
 
 - the radius vs mass can be calculated for a given composition by assuming hydrostatic equilibrium

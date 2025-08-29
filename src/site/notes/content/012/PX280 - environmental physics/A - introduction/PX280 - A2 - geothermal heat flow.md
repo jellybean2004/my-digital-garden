@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/a-introduction/px-280-a2-geothermal-heat-flow/","noteIcon":"1","created":"2025-01-06T12:20:33.363+00:00","updated":"2025-01-06T12:24:55.686+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/a-introduction/px-280-a2-geothermal-heat-flow/","noteIcon":"1","created":"2025-08-27T13:15:22.716+01:00","updated":"2025-01-06T12:24:55.000+00:00"}
 ---
 
 the heat flow from the earth's interior due to radioactive decay and plate tectonics:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/o-introduction-to-emt/px-284-ox-maxwell-s-equations-in-free-space/","noteIcon":"1","created":"2025-02-11T10:05:30.774+00:00","updated":"2025-02-11T10:14:24.310+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/o-introduction-to-emt/px-284-ox-maxwell-s-equations-in-free-space/","noteIcon":"1","created":"2025-08-27T13:15:25.081+01:00","updated":"2025-02-11T10:14:24.000+00:00"}
 ---
 
 - **gauss'** law:

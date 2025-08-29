@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j7d-atmospheric-escape/","noteIcon":"1","created":"2025-02-07T16:46:07.577+00:00","updated":"2025-06-06T17:42:13.043+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j7d-atmospheric-escape/","noteIcon":"1","created":"2025-08-27T13:15:22.998+01:00","updated":"2025-06-06T17:42:13.000+01:00"}
 ---
 
 - this happens when the upper end of the [[content/011/PX154 - physics foundations/PX154 - C - thermal physics 2/PX154 - C7 - maxwell-boltzmann distribution\|maxwell-boltzmann distribution]] extends above the escape velocity of the planet

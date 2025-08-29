@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h6c-example-in-a-cylinder/","noteIcon":"1","created":"2025-01-16T14:53:08.375+00:00","updated":"2025-01-17T12:34:26.456+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h6c-example-in-a-cylinder/","noteIcon":"1","created":"2025-08-27T13:15:24.158+01:00","updated":"2025-01-17T12:34:26.000+00:00"}
 ---
 
 ![PX285 - H6c - example in a cylinder.png|500](/img/user/pics/PX285%20-%20H6c%20-%20example%20in%20a%20cylinder.png)

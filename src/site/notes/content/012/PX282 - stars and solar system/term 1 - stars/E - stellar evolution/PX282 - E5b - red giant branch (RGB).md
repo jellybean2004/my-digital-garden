@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e5b-red-giant-branch-rgb/","noteIcon":"1","created":"2024-11-26T10:14:13.774+00:00","updated":"2024-11-26T10:20:33.856+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e5b-red-giant-branch-rgb/","noteIcon":"1","created":"2025-08-27T13:14:26.274+01:00","updated":"2024-11-26T10:20:33.000+00:00"}
 ---
 
 - core contracts from increased mass and the envelope expands, so gravitational potential energy is being dumped into the envelope

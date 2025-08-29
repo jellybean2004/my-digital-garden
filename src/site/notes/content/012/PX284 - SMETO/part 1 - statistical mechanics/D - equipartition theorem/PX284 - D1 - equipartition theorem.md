@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/d-equipartition-theorem/px-284-d1-equipartition-theorem/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-23T21:41:53.457+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/d-equipartition-theorem/px-284-d1-equipartition-theorem/","noteIcon":"1","created":"2025-08-27T13:14:15.577+01:00","updated":"2024-12-23T21:41:53.000+00:00"}
 ---
 
 - suppose, $E(x) = \alpha x^{2}$, where $\alpha$ is a constant, $E$ is in the **classical limit**, and $x \in [-\infty, + \infty]$

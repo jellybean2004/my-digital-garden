@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g6a-interactions-of-moments/","noteIcon":"1","created":"2024-11-26T11:07:58.725+00:00","updated":"2024-12-23T10:27:54.140+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g6a-interactions-of-moments/","noteIcon":"1","created":"2025-08-27T13:14:26.291+01:00","updated":"2024-12-23T10:27:54.000+00:00"}
 ---
 
 - from [[content/012/PX262 - quantum mechanics/term 1/G - additional interactions/PX262 - G1 - particle with angular momentum in magnetic field\|here]], an electron with an orbital momentum, $\vec l$ has a magnetic moment:

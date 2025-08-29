@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/c-error-statistics/c2-reduced-chi-squared/","noteIcon":"1","created":"2025-08-21T10:21:20.269+01:00","updated":"2025-08-21T10:34:43.398+01:00"}
+{"dg-publish":true,"permalink":"/content/013/c-error-statistics/c2-reduced-chi-squared/","noteIcon":"1","created":"2025-08-27T13:15:28.398+01:00","updated":"2025-08-21T10:34:43.000+01:00"}
 ---
 
 - models are fitted by minimising the $\chi^{2}$ statistic

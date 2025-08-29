@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/u-wave-optics/px-284-u3-fabry-perot-interferometry/","noteIcon":"1","created":"2025-05-15T14:05:54.807+01:00","updated":"2025-05-15T14:17:15.047+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/u-wave-optics/px-284-u3-fabry-perot-interferometry/","noteIcon":"1","created":"2025-08-27T13:15:28.777+01:00","updated":"2025-05-15T14:17:15.000+01:00"}
 ---
 
 

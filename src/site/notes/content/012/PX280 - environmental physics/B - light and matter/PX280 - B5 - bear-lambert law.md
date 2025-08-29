@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/b-light-and-matter/px-280-b5-bear-lambert-law/","noteIcon":"1","created":"2025-01-16T11:07:37.553+00:00","updated":"2025-01-16T11:38:06.329+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-280-environmental-physics/b-light-and-matter/px-280-b5-bear-lambert-law/","noteIcon":"1","created":"2025-08-27T13:15:22.684+01:00","updated":"2025-01-16T11:38:06.000+00:00"}
 ---
 
 ![PX280 - B5 - bear-lambert law.png|500](/img/user/pics/PX280%20-%20B5%20-%20bear-lambert%20law.png)

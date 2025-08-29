@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/g-normal-modes-and-small-oscillations/px-285-g5-non-diagonal-inertia-matrix/","noteIcon":"1","created":"2024-11-28T18:39:30.659+00:00","updated":"2025-01-05T13:19:06.217+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/g-normal-modes-and-small-oscillations/px-285-g5-non-diagonal-inertia-matrix/","noteIcon":"1","created":"2025-08-27T13:14:32.629+01:00","updated":"2025-01-05T13:19:06.000+00:00"}
 ---
 
 ![Pasted image 20241129063120.png|500](/img/user/pics/Pasted%20image%2020241129063120.png)

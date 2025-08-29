@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g6-boundary-and-initial-conditions/","noteIcon":"1","created":"2025-01-15T17:40:16.042+00:00","updated":"2025-01-29T10:13:40.117+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g6-boundary-and-initial-conditions/","noteIcon":"1","created":"2025-08-27T13:15:23.663+01:00","updated":"2025-01-29T10:13:40.000+00:00"}
 ---
 
 ## initial conditions

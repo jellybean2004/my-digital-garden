@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-e-the-second-law-of-thermodynamics/e-the-second-law-of-thermodynamics/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:51:04.960+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-e-the-second-law-of-thermodynamics/e-the-second-law-of-thermodynamics/","noteIcon":"1","created":"2025-08-27T13:14:04.699+01:00","updated":"2024-11-26T19:51:04.000+00:00"}
 ---
 
 [[content/011/PX154 - physics foundations/PX154 - E - the second law of thermodynamics/PX154 - E1 - work done along different paths in the pV diagram\|PX154 - E1 - work done along different paths in the pV diagram]]

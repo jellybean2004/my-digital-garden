@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/m-fermions/px-284-m4-heat-capacity/","noteIcon":"1","created":"2025-02-03T12:28:06.408+00:00","updated":"2025-02-03T19:46:17.643+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/m-fermions/px-284-m4-heat-capacity/","noteIcon":"1","created":"2025-08-27T13:15:24.884+01:00","updated":"2025-02-03T19:46:17.000+00:00"}
 ---
 
 - the only accessible empty energy states are those close to $E_F$

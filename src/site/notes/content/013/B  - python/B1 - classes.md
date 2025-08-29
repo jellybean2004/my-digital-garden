@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/b-python/b1-classes/","noteIcon":"1","created":"2025-08-20T09:55:52.970+01:00","updated":"2025-08-20T15:49:29.655+01:00"}
+{"dg-publish":true,"permalink":"/content/013/b-python/b1-classes/","noteIcon":"1","created":"2025-08-27T13:15:28.334+01:00","updated":"2025-08-20T15:49:29.000+01:00"}
 ---
 
 - a **class** is a mould for data where custom data types can be defined and named

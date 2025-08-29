@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/review-before-exam/","noteIcon":"1","created":"2024-10-01T18:50:56.259+01:00","updated":"2024-11-26T20:11:42.430+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/review-before-exam/","noteIcon":"1","created":"2025-08-27T13:14:00.336+01:00","updated":"2024-11-26T20:11:42.000+00:00"}
 ---
 
 $\vec F_{12}$ means force due to 1 on 2

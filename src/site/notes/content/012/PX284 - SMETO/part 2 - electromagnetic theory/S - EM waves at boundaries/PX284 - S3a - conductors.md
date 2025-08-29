@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/s-em-waves-at-boundaries/px-284-s3a-conductors/","noteIcon":"1","created":"2025-03-13T17:07:25.512+00:00","updated":"2025-03-14T07:05:19.548+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/s-em-waves-at-boundaries/px-284-s3a-conductors/","noteIcon":"1","created":"2025-08-27T13:15:28.797+01:00","updated":"2025-03-14T07:05:19.000+00:00"}
 ---
 
 - no free charge, but there may be free current:

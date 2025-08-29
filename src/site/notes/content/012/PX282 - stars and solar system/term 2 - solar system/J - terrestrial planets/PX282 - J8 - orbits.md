@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j8-orbits/","noteIcon":"1","created":"2025-02-14T11:32:52.259+00:00","updated":"2025-02-14T16:43:04.655+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j8-orbits/","noteIcon":"1","created":"2025-08-27T13:15:23.006+01:00","updated":"2025-02-14T16:43:04.000+00:00"}
 ---
 
 - planets show ***secular resonances***, which are oscillations in eccentricity and inclination

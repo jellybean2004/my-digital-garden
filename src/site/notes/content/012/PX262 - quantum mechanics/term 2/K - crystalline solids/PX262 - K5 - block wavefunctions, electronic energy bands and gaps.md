@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-crystalline-solids/px-262-k5-block-wavefunctions-electronic-energy-bands-and-gaps/","noteIcon":"1","created":"2025-02-10T16:32:33.010+00:00","updated":"2025-02-10T16:45:46.565+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/k-crystalline-solids/px-262-k5-block-wavefunctions-electronic-energy-bands-and-gaps/","noteIcon":"1","created":"2025-08-27T13:15:23.567+01:00","updated":"2025-02-10T16:45:46.000+00:00"}
 ---
 
 - considering a 1D lattice

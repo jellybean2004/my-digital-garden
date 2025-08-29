@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j7-surface-waves/","noteIcon":"1","created":"2025-01-31T12:46:38.942+00:00","updated":"2025-02-01T16:03:24.101+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j7-surface-waves/","noteIcon":"1","created":"2025-08-27T13:15:24.277+01:00","updated":"2025-02-01T16:03:24.000+00:00"}
 ---
 
 ![PX285 - I3d - surface waves.png|500](/img/user/pics/PX285%20-%20I3d%20-%20surface%20waves.png)

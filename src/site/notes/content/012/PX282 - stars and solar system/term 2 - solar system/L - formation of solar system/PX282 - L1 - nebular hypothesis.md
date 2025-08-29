@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/l-formation-of-solar-system/px-282-l1-nebular-hypothesis/","noteIcon":"1","created":"2025-03-07T11:09:32.715+00:00","updated":"2025-03-16T10:26:31.705+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/l-formation-of-solar-system/px-282-l1-nebular-hypothesis/","noteIcon":"1","created":"2025-08-27T13:15:28.485+01:00","updated":"2025-03-16T10:26:31.000+00:00"}
 ---
 
 ![PX282 - L1 - nebular hypothesis.png|500](/img/user/pics/PX282%20-%20L1%20-%20nebular%20hypothesis.png)

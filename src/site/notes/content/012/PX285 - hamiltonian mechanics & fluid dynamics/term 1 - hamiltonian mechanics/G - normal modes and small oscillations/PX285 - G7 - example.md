@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/g-normal-modes-and-small-oscillations/px-285-g7-example/","noteIcon":"1","created":"2024-11-29T19:02:39.967+00:00","updated":"2024-11-29T19:53:28.214+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/g-normal-modes-and-small-oscillations/px-285-g7-example/","noteIcon":"1","created":"2025-08-27T13:14:32.634+01:00","updated":"2024-11-29T19:53:28.000+00:00"}
 ---
 
 ![Pasted image 20241129195231.png|500](/img/user/pics/Pasted%20image%2020241129195231.png) 

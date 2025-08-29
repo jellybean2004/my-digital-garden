@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/s-em-waves-at-boundaries/px-284-s1-snell-s-law/","noteIcon":"1","created":"2025-03-06T17:39:05.793+00:00","updated":"2025-03-13T19:30:33.516+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-2-electromagnetic-theory/s-em-waves-at-boundaries/px-284-s1-snell-s-law/","noteIcon":"1","created":"2025-08-27T13:15:25.305+01:00","updated":"2025-03-13T19:30:33.000+00:00"}
 ---
 
 ![PX284 - S1 -.png|500](/img/user/pics/PX284%20-%20S1%20-.png)

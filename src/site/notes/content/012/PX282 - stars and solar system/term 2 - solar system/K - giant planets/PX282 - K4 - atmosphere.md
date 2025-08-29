@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/px-282-k4-atmosphere/","noteIcon":"1","created":"2025-02-28T11:05:09.060+00:00","updated":"2025-05-10T11:42:31.134+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/px-282-k4-atmosphere/","noteIcon":"1","created":"2025-08-27T13:15:23.076+01:00","updated":"2025-05-10T11:42:31.000+01:00"}
 ---
 
 - the composition is mainly the H and He envelope, enriched in CH$_4$, NH$_3$ (also H$_2$O)

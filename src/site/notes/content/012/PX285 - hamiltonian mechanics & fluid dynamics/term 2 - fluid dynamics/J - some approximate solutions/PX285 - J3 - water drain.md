@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j3-water-drain/","noteIcon":"1","created":"2025-01-31T12:30:57.597+00:00","updated":"2025-02-01T14:11:08.361+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j3-water-drain/","noteIcon":"1","created":"2025-08-27T13:15:24.260+01:00","updated":"2025-02-01T14:11:08.000+00:00"}
 ---
 
 - considering water draining from a tank through a pipe at its base

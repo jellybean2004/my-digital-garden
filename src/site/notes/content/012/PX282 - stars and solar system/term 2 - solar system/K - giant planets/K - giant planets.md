@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/k-giant-planets/","noteIcon":"1","created":"2025-02-14T16:48:00.684+00:00","updated":"2025-02-28T11:43:31.502+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/k-giant-planets/k-giant-planets/","noteIcon":"1","created":"2025-08-27T13:15:23.044+01:00","updated":"2025-02-28T11:43:31.000+00:00"}
 ---
 
 [[content/012/PX282 - stars and solar system/term 2 - solar system/K - giant planets/PX282 - K1 - composition\|PX282 - K1 - composition]]

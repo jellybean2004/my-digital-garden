@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-nuclear-matter/px-262-i3-liquid-drop-model-of-nucleus/","noteIcon":"1","created":"2025-01-20T11:52:23.578+00:00","updated":"2025-01-23T17:39:28.763+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/i-nuclear-matter/px-262-i3-liquid-drop-model-of-nucleus/","noteIcon":"1","created":"2025-08-27T13:15:23.174+01:00","updated":"2025-01-23T17:39:28.000+00:00"}
 ---
 
 - based on observation that all nuclei have the same density

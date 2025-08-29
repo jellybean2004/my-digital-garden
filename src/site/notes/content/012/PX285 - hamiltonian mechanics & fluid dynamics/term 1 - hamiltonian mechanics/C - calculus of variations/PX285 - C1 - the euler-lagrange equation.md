@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/c-calculus-of-variations/px-285-c1-the-euler-lagrange-equation/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-09T10:55:41.309+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/c-calculus-of-variations/px-285-c1-the-euler-lagrange-equation/","noteIcon":"1","created":"2025-08-27T13:14:16.110+01:00","updated":"2024-12-09T10:55:41.000+00:00"}
 ---
 
 - *calculus of variations* is a technique to find the function that extremizes the integral provided that the end points are fixed

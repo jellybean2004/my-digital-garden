@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-h-waves-at-boundaries/px-154-h3-standing-waves-and-normal-modes/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:52:43.389+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-h-waves-at-boundaries/px-154-h3-standing-waves-and-normal-modes/","noteIcon":"1","created":"2025-08-27T13:14:04.707+01:00","updated":"2024-11-26T19:52:43.000+00:00"}
 ---
 
 ## introduction 

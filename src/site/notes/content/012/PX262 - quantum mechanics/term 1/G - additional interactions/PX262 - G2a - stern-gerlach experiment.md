@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g2a-stern-gerlach-experiment/","noteIcon":"1","created":"2024-11-25T11:06:53.658+00:00","updated":"2024-12-21T11:31:25.864+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/g-additional-interactions/px-262-g2a-stern-gerlach-experiment/","noteIcon":"1","created":"2025-08-27T13:14:15.905+01:00","updated":"2024-12-21T11:31:25.000+00:00"}
 ---
 
 ![stern-gerlach experiment-1.png|500](/img/user/pics/stern-gerlach%20experiment-1.png)
