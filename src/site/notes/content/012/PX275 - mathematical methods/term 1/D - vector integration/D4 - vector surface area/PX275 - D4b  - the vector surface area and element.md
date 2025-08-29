@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d4-vector-surface-area/px-275-d4b-the-vector-surface-area-and-element/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T10:06:01.499+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d4-vector-surface-area/px-275-d4b-the-vector-surface-area-and-element/","noteIcon":"1","created":"2025-08-27T13:14:15.993+01:00","updated":"2024-11-26T10:06:01.000+00:00"}
 ---
 
 ![Pasted image 20241118122016.png](/img/user/pics/Pasted%20image%2020241118122016.png)

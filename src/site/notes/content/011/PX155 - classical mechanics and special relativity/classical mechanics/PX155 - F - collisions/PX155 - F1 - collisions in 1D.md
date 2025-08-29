@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-f-collisions/px-155-f1-collisions-in-1-d/","noteIcon":"1","created":"2024-10-01T18:27:09.731+01:00","updated":"2024-11-26T19:57:31.605+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-f-collisions/px-155-f1-collisions-in-1-d/","noteIcon":"1","created":"2025-08-27T13:14:08.788+01:00","updated":"2024-11-26T19:57:31.000+00:00"}
 ---
 
 ## conservation of momentum and reference frames

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k12-eigenvectors-and-eigenvalues/","noteIcon":"1","created":"2024-10-01T18:27:09.390+01:00","updated":"2024-11-26T19:40:31.839+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-k-linear-algebra/px-153-k12-eigenvectors-and-eigenvalues/","noteIcon":"1","created":"2025-08-27T13:14:00.594+01:00","updated":"2024-11-26T19:40:31.000+00:00"}
 ---
 
 - if $A\,\vec x = \lambda\,\vec xA\,\vec x = \lambda\,\vec x$, $\vec x$ is the *eigenvector* of $A$, and $\lambda$ is its *eigenvalue*

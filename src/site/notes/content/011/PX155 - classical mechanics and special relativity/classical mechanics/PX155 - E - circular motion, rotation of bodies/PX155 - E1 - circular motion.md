@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/px-155-e1-circular-motion/","noteIcon":"1","created":"2024-10-01T18:27:09.678+01:00","updated":"2024-11-26T19:56:19.517+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-e-circular-motion-rotation-of-bodies/px-155-e1-circular-motion/","noteIcon":"1","created":"2025-08-27T13:14:08.829+01:00","updated":"2024-11-26T19:56:19.000+00:00"}
 ---
 
 - start with a point mass moving in a circle at a constant speed

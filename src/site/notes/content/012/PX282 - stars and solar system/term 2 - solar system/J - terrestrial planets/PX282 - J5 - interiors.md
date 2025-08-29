@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j5-interiors/","noteIcon":"1","created":"2025-01-31T11:09:23.933+00:00","updated":"2025-01-31T16:22:50.512+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j5-interiors/","noteIcon":"1","created":"2025-08-27T13:15:22.957+01:00","updated":"2025-01-31T16:22:50.000+00:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i6b-three-body-problem-ii/","noteIcon":"1","created":"2025-01-24T11:28:55.475+00:00","updated":"2025-01-24T16:27:34.676+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i6b-three-body-problem-ii/","noteIcon":"1","created":"2025-08-27T13:15:22.849+01:00","updated":"2025-01-24T16:27:34.000+00:00"}
 ---
 
 - considering that one mass dominates (eg. the sun), and the others are considered as ***perturbations*** (eg. planets)

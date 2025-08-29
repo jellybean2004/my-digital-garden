@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d3-green-s-theorem/px-275-d3g-the-physical-significance-of-green-s-theorem-in-the-plane/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-07T19:11:15.713+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-1/d-vector-integration/d3-green-s-theorem/px-275-d3g-the-physical-significance-of-green-s-theorem-in-the-plane/","noteIcon":"1","created":"2025-08-27T13:14:15.971+01:00","updated":"2025-01-07T19:11:15.000+00:00"}
 ---
 
 - [[content/012/PX275 - mathematical methods/term 1/D - vector integration/D3 - green's theorem/PX275 - D3a - green's theorem in the plane\|green's theorem in the plane]]: 

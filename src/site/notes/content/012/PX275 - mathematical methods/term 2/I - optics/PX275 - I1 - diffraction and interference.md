@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i1-diffraction-and-interference/","noteIcon":"1","created":"2025-02-20T12:06:47.009+00:00","updated":"2025-02-20T12:14:52.246+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i1-diffraction-and-interference/","noteIcon":"1","created":"2025-08-27T13:15:23.990+01:00","updated":"2025-02-20T12:14:52.000+00:00"}
 ---
 
 - considering a plane wave approaching an obstructor with an aperture

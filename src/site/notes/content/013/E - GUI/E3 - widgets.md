@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/e-gui/e3-widgets/","noteIcon":"1","created":"2025-08-27T09:37:25.803+01:00","updated":"2025-08-27T09:50:06.474+01:00"}
+{"dg-publish":true,"permalink":"/content/013/e-gui/e3-widgets/","noteIcon":"1","created":"2025-08-27T13:15:28.444+01:00","updated":"2025-08-27T09:50:06.000+01:00"}
 ---
 
 >[!info] widget

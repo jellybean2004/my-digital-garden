@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/e-gui/e1-getting-started-with-py-qt/","noteIcon":"1","created":"2025-08-22T11:03:36.805+01:00","updated":"2025-08-22T11:51:17.626+01:00"}
+{"dg-publish":true,"permalink":"/content/013/e-gui/e1-getting-started-with-py-qt/","noteIcon":"1","created":"2025-08-27T13:15:28.431+01:00","updated":"2025-08-22T11:51:17.000+01:00"}
 ---
 
 ### event loop

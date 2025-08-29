@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6b-rectangular-aperture/","noteIcon":"1","created":"2025-03-04T12:24:14.269+00:00","updated":"2025-03-04T12:33:04.419+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6b-rectangular-aperture/","noteIcon":"1","created":"2025-08-27T13:15:24.030+01:00","updated":"2025-03-04T12:33:04.000+00:00"}
 ---
 
 - considering a rectangular hole of width, $2w$, and height, $2H$, centered at the origin

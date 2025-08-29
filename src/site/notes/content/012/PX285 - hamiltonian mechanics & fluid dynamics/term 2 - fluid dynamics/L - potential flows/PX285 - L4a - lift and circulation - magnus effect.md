@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l4a-lift-and-circulation-magnus-effect/","noteIcon":"1","created":"2025-02-27T14:45:31.935+00:00","updated":"2025-03-07T13:26:07.592+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/l-potential-flows/px-285-l4a-lift-and-circulation-magnus-effect/","noteIcon":"1","created":"2025-08-27T13:15:24.475+01:00","updated":"2025-03-07T13:26:07.000+00:00"}
 ---
 
 ![PX285 - K5b - potential flow with rotating cylinder.png|500](/img/user/pics/PX285%20-%20K5b%20-%20potential%20flow%20with%20rotating%20cylinder.png)

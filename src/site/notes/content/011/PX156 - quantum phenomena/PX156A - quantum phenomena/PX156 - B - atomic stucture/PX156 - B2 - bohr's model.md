@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-b-atomic-stucture/px-156-b2-bohr-s-model/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:09:22.894+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-b-atomic-stucture/px-156-b2-bohr-s-model/","noteIcon":"1","created":"2025-08-27T13:14:00.841+01:00","updated":"2024-12-03T17:09:22.000+00:00"}
 ---
 
 - electrons orbit around the nucleus

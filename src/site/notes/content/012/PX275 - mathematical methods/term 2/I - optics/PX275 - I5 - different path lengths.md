@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i5-different-path-lengths/","noteIcon":"1","created":"2025-02-25T12:42:07.893+00:00","updated":"2025-04-29T17:42:18.092+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i5-different-path-lengths/","noteIcon":"1","created":"2025-08-27T13:15:24.010+01:00","updated":"2025-04-29T17:42:18.000+01:00"}
 ---
 
 - different path lengths lead to phase differences

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i5-two-body-problem/","noteIcon":"1","created":"2025-01-17T16:24:15.624+00:00","updated":"2025-01-24T11:09:25.771+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i5-two-body-problem/","noteIcon":"1","created":"2025-08-27T13:15:22.832+01:00","updated":"2025-01-24T11:09:25.000+00:00"}
 ---
 
 - for the **one body problem** (where mass of one object dominates), considering the sun in the origin, and planet at a position given by $\vec r$

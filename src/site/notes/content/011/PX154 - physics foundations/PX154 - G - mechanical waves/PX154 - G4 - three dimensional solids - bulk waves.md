@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-g-mechanical-waves/px-154-g4-three-dimensional-solids-bulk-waves/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-17T21:56:23.054+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-154-physics-foundations/px-154-g-mechanical-waves/px-154-g4-three-dimensional-solids-bulk-waves/","noteIcon":"1","created":"2025-08-27T13:14:04.737+01:00","updated":"2024-12-17T21:56:23.000+00:00"}
 ---
 
 - in solids, we need to consider both compressional (longitudinal) waves, and shear (transverse) waves

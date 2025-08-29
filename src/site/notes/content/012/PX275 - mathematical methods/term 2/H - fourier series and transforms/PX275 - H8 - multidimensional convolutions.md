@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h8-multidimensional-convolutions/","noteIcon":"1","created":"2025-02-12T15:50:55.129+00:00","updated":"2025-02-12T16:04:25.565+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h8-multidimensional-convolutions/","noteIcon":"1","created":"2025-08-27T13:15:23.803+01:00","updated":"2025-02-12T16:04:25.000+00:00"}
 ---
 
 - in 2D:

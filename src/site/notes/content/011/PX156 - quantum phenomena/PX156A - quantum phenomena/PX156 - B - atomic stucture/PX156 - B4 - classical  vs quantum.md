@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-b-atomic-stucture/px-156-b4-classical-vs-quantum/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:21:34.089+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-b-atomic-stucture/px-156-b4-classical-vs-quantum/","noteIcon":"1","created":"2025-08-27T13:14:00.838+01:00","updated":"2024-12-03T17:21:34.000+00:00"}
 ---
 
 ## classical approach

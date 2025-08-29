@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/h-introduction-to-the-planets/px-282-h2-spectrum-of-a-planet/","noteIcon":"1","created":"2025-01-10T11:27:46.125+00:00","updated":"2025-06-06T09:42:56.102+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/h-introduction-to-the-planets/px-282-h2-spectrum-of-a-planet/","noteIcon":"1","created":"2025-08-27T13:15:22.773+01:00","updated":"2025-06-06T09:42:56.000+01:00"}
 ---
 
 

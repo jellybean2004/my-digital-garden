@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e6-higher-mass-stars/","noteIcon":"1","created":"2024-11-26T10:30:43.658+00:00","updated":"2024-12-22T17:10:12.779+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-1-stars/e-stellar-evolution/px-282-e6-higher-mass-stars/","noteIcon":"1","created":"2025-08-27T13:14:26.290+01:00","updated":"2024-12-22T17:10:12.000+00:00"}
 ---
 
 - they evolve similarly to low-mass stars, up to [[content/012/PX282 - stars and solar system/term 1 - stars/E - stellar evolution/PX282 - E5e - asymptotic giant branch (AGB)\|AGB]], but they burn faster with no [[content/012/PX282 - stars and solar system/term 1 - stars/E - stellar evolution/PX282 - E5c - helium flash\|helium flash]]

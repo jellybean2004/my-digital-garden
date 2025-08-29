@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6c-multiple-slits/","noteIcon":"1","created":"2025-03-04T12:34:01.017+00:00","updated":"2025-03-27T19:41:13.191+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6c-multiple-slits/","noteIcon":"1","created":"2025-08-27T13:15:24.040+01:00","updated":"2025-03-27T19:41:13.000+00:00"}
 ---
 
 - considering the **young's double slit interference pattern**

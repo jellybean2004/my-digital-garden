@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h6b-example-of-a-flow/","noteIcon":"1","created":"2025-01-16T14:52:04.743+00:00","updated":"2025-01-17T14:21:41.730+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h6b-example-of-a-flow/","noteIcon":"1","created":"2025-08-27T13:15:24.165+01:00","updated":"2025-01-17T14:21:41.000+00:00"}
 ---
 
 - considering a flow between two parallel plates at $a$ and $-a$

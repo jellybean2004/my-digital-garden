@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-e-ac-circuits/px-157-e5-ac-power/","noteIcon":"1","created":"2024-10-01T18:27:10.295+01:00","updated":"2024-11-26T20:11:34.146+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-157-electricity-and-magnetism/px-157-e-ac-circuits/px-157-e5-ac-power/","noteIcon":"1","created":"2025-08-27T13:14:00.191+01:00","updated":"2024-11-26T20:11:34.000+00:00"}
 ---
 
 - power in circuits with inductors and capacitors

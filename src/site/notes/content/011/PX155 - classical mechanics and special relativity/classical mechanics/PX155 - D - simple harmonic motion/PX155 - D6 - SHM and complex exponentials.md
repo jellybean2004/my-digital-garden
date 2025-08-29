@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d6-shm-and-complex-exponentials/","noteIcon":"1","created":"2024-10-01T18:27:09.660+01:00","updated":"2024-11-26T19:55:55.165+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d6-shm-and-complex-exponentials/","noteIcon":"1","created":"2025-08-27T13:14:08.814+01:00","updated":"2024-11-26T19:55:55.000+00:00"}
 ---
 
 using [[content/011/PX153 - mathematics for physicists/term 1/PX153 - B - complex numbers/PX153 - B2 - polar representation#euler's formula\|euler's formula]]

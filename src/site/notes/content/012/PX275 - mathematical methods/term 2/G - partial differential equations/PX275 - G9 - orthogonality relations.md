@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g9-orthogonality-relations/","noteIcon":"1","created":"2025-01-23T10:38:25.675+00:00","updated":"2025-04-29T18:40:54.805+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/g-partial-differential-equations/px-275-g9-orthogonality-relations/","noteIcon":"1","created":"2025-08-27T13:15:23.685+01:00","updated":"2025-04-29T18:40:54.000+01:00"}
 ---
 
 $$\begin{align*}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i0-introduction-to-waves/","noteIcon":"1","created":"2025-02-18T12:39:31.536+00:00","updated":"2025-03-09T13:38:10.114+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i0-introduction-to-waves/","noteIcon":"1","created":"2025-08-27T13:15:23.863+01:00","updated":"2025-03-09T13:38:10.000+00:00"}
 ---
 
 - a stationary plane wave:

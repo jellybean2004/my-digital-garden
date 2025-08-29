@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/g-normal-modes-and-small-oscillations/g-normal-modes-and-small-oscillations/","noteIcon":"1","created":"2024-11-26T12:24:21.569+00:00","updated":"2024-12-06T11:10:30.272+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-1-hamiltonian-mechanics/g-normal-modes-and-small-oscillations/g-normal-modes-and-small-oscillations/","noteIcon":"1","created":"2025-08-27T13:14:26.308+01:00","updated":"2024-12-06T11:10:30.000+00:00"}
 ---
 
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 1 - hamiltonian mechanics/G - normal modes and small oscillations/PX285 - G1 - inertia tensor\|PX285 - G1 - inertia tensor]]

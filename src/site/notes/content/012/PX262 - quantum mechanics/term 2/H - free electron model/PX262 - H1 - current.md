@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-free-electron-model/px-262-h1-current/","noteIcon":"1","created":"2025-01-06T18:16:36.405+00:00","updated":"2025-02-07T15:23:17.633+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-2/h-free-electron-model/px-262-h1-current/","noteIcon":"1","created":"2025-08-27T13:15:23.479+01:00","updated":"2025-02-07T15:23:17.000+00:00"}
 ---
 
 - current can be analogised with conservation of mass in a fluid

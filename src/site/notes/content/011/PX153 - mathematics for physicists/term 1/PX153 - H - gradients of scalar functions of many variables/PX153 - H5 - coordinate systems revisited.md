@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-h-gradients-of-scalar-functions-of-many-variables/px-153-h5-coordinate-systems-revisited/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:37:53.394+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-1/px-153-h-gradients-of-scalar-functions-of-many-variables/px-153-h5-coordinate-systems-revisited/","noteIcon":"1","created":"2025-08-27T13:14:00.536+01:00","updated":"2024-11-26T19:37:53.000+00:00"}
 ---
 
 - extension for *[[content/011/PX153 - mathematics for physicists/term 1/PX153 - A - vectors/PX153 - A5 - coordinate systems#circular polar coordinates\|circular polar coordinates]]*

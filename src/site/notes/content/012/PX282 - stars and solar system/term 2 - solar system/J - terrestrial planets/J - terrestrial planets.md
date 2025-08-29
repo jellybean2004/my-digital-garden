@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/j-terrestrial-planets/","noteIcon":"1","created":"2025-01-24T16:03:15.971+00:00","updated":"2025-02-14T16:20:42.406+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/j-terrestrial-planets/","noteIcon":"1","created":"2025-08-27T13:15:22.876+01:00","updated":"2025-02-14T16:20:42.000+00:00"}
 ---
 
 [[content/012/PX282 - stars and solar system/term 2 - solar system/J - terrestrial planets/PX282 - J1 - mercury\|PX282 - J1 - mercury]]

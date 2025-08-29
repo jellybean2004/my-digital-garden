@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/i-integration/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T19:38:00.755+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-153-mathematics-for-physicists/term-2/px-153-i-integration/i-integration/","noteIcon":"1","created":"2025-08-27T13:14:05.102+01:00","updated":"2024-11-26T19:38:00.000+00:00"}
 ---
 
 [[content/011/PX153 - mathematics for physicists/term 2/PX153 - I - integration/PX153 - I1 - introduction\|PX153 - I1 - introduction]]

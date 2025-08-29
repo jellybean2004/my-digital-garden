@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i2-huygen-s-principle-and-point-sources/","noteIcon":"1","created":"2025-02-20T12:15:15.118+00:00","updated":"2025-03-09T11:23:30.684+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i2-huygen-s-principle-and-point-sources/","noteIcon":"1","created":"2025-08-27T13:15:23.980+01:00","updated":"2025-03-09T11:23:30.000+00:00"}
 ---
 
 - this is the interference due to differing path lengths from multiple coherent sources

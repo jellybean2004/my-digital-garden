@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h6a-stream-line/","noteIcon":"1","created":"2025-01-10T12:52:24.907+00:00","updated":"2025-01-16T14:51:47.442+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/px-285-h6a-stream-line/","noteIcon":"1","created":"2025-08-27T13:15:24.152+01:00","updated":"2025-01-16T14:51:47.000+00:00"}
 ---
 
 - a **stream line** is a curve, generally in 3D, which at a fixed time at each location is tangential to the fluid velocity, $\vec u$

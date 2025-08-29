@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j1a-bernoulli-s-principle-from-conservation-of-energy/","noteIcon":"1","created":"2025-01-24T12:51:54.480+00:00","updated":"2025-04-16T07:52:46.388+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/j-some-approximate-solutions/px-285-j1a-bernoulli-s-principle-from-conservation-of-energy/","noteIcon":"1","created":"2025-08-27T13:15:24.253+01:00","updated":"2025-04-16T07:52:46.000+01:00"}
 ---
 
 - considering a stream lined flow, with $A_{1}$ and $A_{2}$ as the cross-sectional areas of the flow tube

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-g-foundations-of-special-relativity/px-155-g4-relativity-of-simultaneity/","noteIcon":"1","created":"2024-10-01T18:27:09.754+01:00","updated":"2024-11-26T19:58:03.372+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-g-foundations-of-special-relativity/px-155-g4-relativity-of-simultaneity/","noteIcon":"1","created":"2025-08-27T13:14:00.899+01:00","updated":"2024-11-26T19:58:03.000+00:00"}
 ---
 
 - 3 observers, all at rest in frame $S'$. $B$ sends light pulses to $A$ and $C$ at the same time. $E_{A}$, and $E_{B}$ represent events of the light pulses reaching $A$, and $B$ respectively

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/h-introduction-to-fluids/","noteIcon":"1","created":"2025-01-09T14:08:51.315+00:00","updated":"2025-01-23T15:10:13.993+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-285-hamiltonian-mechanics-and-fluid-dynamics/term-2-fluid-dynamics/h-introduction-to-fluids/h-introduction-to-fluids/","noteIcon":"1","created":"2025-08-27T13:15:24.097+01:00","updated":"2025-01-23T15:10:13.000+00:00"}
 ---
 
 [[content/012/PX285 - hamiltonian mechanics & fluid dynamics/term 2 - fluid dynamics/H - introduction to fluids/PX285 - H1 - fluids\|PX285 - H1 - fluids]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-d-time-independent-schrodinger-equation/px-156-d7-alpha-decay-of-nuclei/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:02:28.612+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-d-time-independent-schrodinger-equation/px-156-d7-alpha-decay-of-nuclei/","noteIcon":"1","created":"2025-08-27T13:14:08.868+01:00","updated":"2024-11-26T20:02:28.000+00:00"}
 ---
 
 ## geiger-nuttall law

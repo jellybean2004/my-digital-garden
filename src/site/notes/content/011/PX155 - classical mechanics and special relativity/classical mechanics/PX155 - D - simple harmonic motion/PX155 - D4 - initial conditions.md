@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d4-initial-conditions/","noteIcon":"1","created":"2024-10-01T18:27:09.653+01:00","updated":"2024-11-26T19:55:52.486+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/classical-mechanics/px-155-d-simple-harmonic-motion/px-155-d4-initial-conditions/","noteIcon":"1","created":"2025-08-27T13:14:08.804+01:00","updated":"2024-11-26T19:55:52.000+00:00"}
 ---
 
 - in $A\cos{(\omega t)+ B\sin{(\omega t)}}$

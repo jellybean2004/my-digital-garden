@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-b-atomic-stucture/b-atomic-structure/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-12-03T17:09:15.850+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-a-quantum-phenomena/px-156-b-atomic-stucture/b-atomic-structure/","noteIcon":"1","created":"2025-08-27T13:14:08.863+01:00","updated":"2024-12-03T17:09:15.000+00:00"}
 ---
 
 [[content/011/PX156 - quantum phenomena/PX156A - quantum phenomena/PX156 - B - atomic stucture/PX156 - B1 - atoms and atomic spectra\|PX156 - B1 - atoms and atomic spectra]]

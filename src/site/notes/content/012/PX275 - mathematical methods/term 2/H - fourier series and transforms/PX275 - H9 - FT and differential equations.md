@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h9-ft-and-differential-equations/","noteIcon":"1","created":"2025-02-13T12:04:28.053+00:00","updated":"2025-02-13T12:23:40.027+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/h-fourier-series-and-transforms/px-275-h9-ft-and-differential-equations/","noteIcon":"1","created":"2025-08-27T13:15:23.812+01:00","updated":"2025-02-13T12:23:40.000+00:00"}
 ---
 
 -  considering a function, $f(x)$, and its (partial) derivatives

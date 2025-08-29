@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-h-the-lorentz-transformations/px-155-h4-relativistic-doppler-effect-seeing-vs-observing/","noteIcon":"1","created":"2024-10-01T18:27:09.774+01:00","updated":"2024-11-26T19:58:38.170+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-h-the-lorentz-transformations/px-155-h4-relativistic-doppler-effect-seeing-vs-observing/","noteIcon":"1","created":"2025-08-27T13:14:05.278+01:00","updated":"2024-11-26T19:58:38.000+00:00"}
 ---
 
 - let $\Delta t_{0}$ be the proper time interval between each pulse from a light source

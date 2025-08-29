@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-j-particle-decays-and-relativistic-kinematics/px-156-j5-natural-sources-of-particles/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2024-11-26T20:06:07.814+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-156-quantum-phenomena/px-156-b-particle-physics/px-156-j-particle-decays-and-relativistic-kinematics/px-156-j5-natural-sources-of-particles/","noteIcon":"1","created":"2025-08-27T13:14:00.752+01:00","updated":"2024-11-26T20:06:07.000+00:00"}
 ---
 
 ## natural radioactivity

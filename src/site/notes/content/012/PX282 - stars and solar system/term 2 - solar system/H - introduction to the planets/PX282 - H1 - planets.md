@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/h-introduction-to-the-planets/px-282-h1-planets/","noteIcon":"1","created":"2025-01-10T11:24:07.050+00:00","updated":"2025-05-08T12:10:20.354+01:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/h-introduction-to-the-planets/px-282-h1-planets/","noteIcon":"1","created":"2025-08-27T13:15:22.765+01:00","updated":"2025-05-08T12:10:20.000+01:00"}
 ---
 
 ![PX282 - H1 - planets.png|500](/img/user/pics/PX282%20-%20H1%20-%20planets.png)

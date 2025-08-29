@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6a-square-aperture/","noteIcon":"1","created":"2025-03-04T10:43:26.100+00:00","updated":"2025-03-09T12:38:32.937+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i6a-square-aperture/","noteIcon":"1","created":"2025-08-27T13:15:24.019+01:00","updated":"2025-03-09T12:38:32.000+00:00"}
 ---
 
 - considering a square hole with sides, $2w$, centred at the origin

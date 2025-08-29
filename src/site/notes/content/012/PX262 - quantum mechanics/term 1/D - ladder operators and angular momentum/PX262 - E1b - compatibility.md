@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/d-ladder-operators-and-angular-momentum/px-262-e1b-compatibility/","noteIcon":"1","created":"2024-12-15T14:38:06.257+00:00","updated":"2024-12-15T15:09:09.733+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-262-quantum-mechanics/term-1/d-ladder-operators-and-angular-momentum/px-262-e1b-compatibility/","noteIcon":"1","created":"2025-08-27T13:14:32.589+01:00","updated":"2024-12-15T15:09:09.000+00:00"}
 ---
 
 - compatibility of the angular momentum operator with the position operator: 

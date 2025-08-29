@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i4-key-geometry/","noteIcon":"1","created":"2025-02-25T12:07:00.164+00:00","updated":"2025-02-27T13:03:42.791+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-275-mathematical-methods/term-2/i-optics/px-275-i4-key-geometry/","noteIcon":"1","created":"2025-08-27T13:15:24.001+01:00","updated":"2025-02-27T13:03:42.000+00:00"}
 ---
 
 ![PX275 - I4 - key geometry.png|500](/img/user/pics/PX275%20-%20I4%20-%20key%20geometry.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/013/e-gui/e4-layouts/","noteIcon":"1","created":"2025-08-27T09:52:16.251+01:00","updated":"2025-08-27T10:35:47.021+01:00"}
+{"dg-publish":true,"permalink":"/content/013/e-gui/e4-layouts/","noteIcon":"1","created":"2025-08-27T13:15:28.448+01:00","updated":"2025-08-27T10:35:47.000+01:00"}
 ---
 
 - the four basic layout types:

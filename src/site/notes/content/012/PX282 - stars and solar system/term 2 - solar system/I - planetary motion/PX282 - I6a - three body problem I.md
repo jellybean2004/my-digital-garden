@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i6a-three-body-problem-i/","noteIcon":"1","created":"2025-01-17T16:34:19.939+00:00","updated":"2025-01-24T11:28:16.734+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/px-282-i6a-three-body-problem-i/","noteIcon":"1","created":"2025-08-27T13:15:22.840+01:00","updated":"2025-01-24T11:28:16.000+00:00"}
 ---
 
 - considering the motion of three bodies

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/i-planetary-motion/","noteIcon":"1","created":"2025-01-10T16:38:52.202+00:00","updated":"2025-01-24T16:27:50.261+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/i-planetary-motion/i-planetary-motion/","noteIcon":"1","created":"2025-08-27T13:15:22.794+01:00","updated":"2025-01-24T16:27:50.000+00:00"}
 ---
 
 [[content/012/PX282 - stars and solar system/term 2 - solar system/I - planetary motion/PX282 - I1 - models\|PX282 - I1 - models]]

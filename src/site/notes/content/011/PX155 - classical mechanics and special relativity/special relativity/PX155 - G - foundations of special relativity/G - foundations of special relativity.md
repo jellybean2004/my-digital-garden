@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-g-foundations-of-special-relativity/g-foundations-of-special-relativity/","noteIcon":"1","created":"2024-10-01T18:27:09.741+01:00","updated":"2024-11-26T19:57:56.392+00:00"}
+{"dg-publish":true,"permalink":"/content/011/px-155-classical-mechanics-and-special-relativity/special-relativity/px-155-g-foundations-of-special-relativity/g-foundations-of-special-relativity/","noteIcon":"1","created":"2025-08-27T13:14:05.324+01:00","updated":"2024-11-26T19:57:56.000+00:00"}
 ---
 
 [[content/011/PX155 - classical mechanics and special relativity/special relativity/PX155 - G - foundations of special relativity/PX155 - G1 - gallilean transforms\|PX155 - G1 - gallilean transforms]]

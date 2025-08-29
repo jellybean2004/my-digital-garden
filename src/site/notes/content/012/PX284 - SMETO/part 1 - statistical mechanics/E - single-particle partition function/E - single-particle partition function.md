@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/e-single-particle-partition-function/","noteIcon":"1","created":"2024-11-25T10:50:32.000+00:00","updated":"2025-01-03T12:12:55.979+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-284-smeto/part-1-statistical-mechanics/e-single-particle-partition-function/e-single-particle-partition-function/","noteIcon":"1","created":"2025-08-27T13:14:15.583+01:00","updated":"2025-01-03T12:12:55.000+00:00"}
 ---
 
 [[content/012/PX284 - SMETO/part 1 - statistical mechanics/E - single-particle partition function/PX284 - E0 - solving problems in statistical mechanics\|PX284 - E0 - solving problems in statistical mechanics]]

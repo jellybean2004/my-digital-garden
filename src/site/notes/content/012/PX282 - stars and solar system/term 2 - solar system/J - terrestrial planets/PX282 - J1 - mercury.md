@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j1-mercury/","noteIcon":"1","created":"2025-01-24T16:03:36.444+00:00","updated":"2025-01-24T16:41:35.136+00:00"}
+{"dg-publish":true,"permalink":"/content/012/px-282-stars-and-solar-system/term-2-solar-system/j-terrestrial-planets/px-282-j1-mercury/","noteIcon":"1","created":"2025-08-27T13:15:22.922+01:00","updated":"2025-01-24T16:41:35.000+00:00"}
 ---
 
 - heavy cratering, implying a geologically inactive ancient surface ($4.5$ Gyr)
